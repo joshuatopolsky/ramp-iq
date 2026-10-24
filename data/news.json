@@ -1,113 +1,76 @@
 {
- "excl": [
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  },
-  {
-   "d": "2026-10-06",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
-   "src": "Ramp Leading Indicators",
-   "t": "Faxing into the future: top industries paying for fax services",
-   "tp": "Companies & deals",
-   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
-  }
- ],
+ "updatedAt": "2026-10-24T17:55",
  "items": [
   {
    "d": "2026-10-24",
-   "t": "Volkswagen plans new Audi plant in Georgia, handing Trump a win",
-   "s": "Volkswagen is preparing to build an Audi factory in Georgia, giving the brand US production as tariffs push automakers to localize manufacturing.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/economy/policy/articles/volkswagen-plans-audi-plant-georgia-195240219.html",
-   "tp": "Companies & deals",
    "m": [
     "MACRO",
     "VNDR"
-   ]
+   ],
+   "s": "Volkswagen is preparing to build an Audi factory in Georgia, giving the brand US production as tariffs push automakers to localize manufacturing.",
+   "src": "Bloomberg",
+   "t": "Volkswagen plans new Audi plant in Georgia, handing Trump a win",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/economy/policy/articles/volkswagen-plans-audi-plant-georgia-195240219.html"
   },
   {
    "d": "2026-10-24",
-   "t": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
-   "s": "A prominent AI skeptic argues GPU shortages are manufactured by Nvidia's pricing strategy rather than real demand limits, adding to doubts behind this week's tech selloff.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "A prominent AI skeptic argues GPU shortages are manufactured by Nvidia's pricing strategy rather than real demand limits, adding to doubts behind this week's tech selloff.",
+   "src": "Yahoo Finance",
+   "t": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html"
   },
   {
    "d": "2026-10-24",
-   "t": "SpaceX's telecom ambitions will be hard-won, CEOs and analysts say",
-   "s": "Telecom executives and analysts say SpaceX faces years of spectrum, regulatory and infrastructure hurdles before it can seriously challenge wireless carriers.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/article/its-not-something-that-gets-done-overnight-spacexs-telecom-ambitions-will-be-hard-won-ceos-and-analysts-say-120348084.html",
-   "tp": "Companies & deals",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "Telecom executives and analysts say SpaceX faces years of spectrum, regulatory and infrastructure hurdles before it can seriously challenge wireless carriers.",
+   "src": "Yahoo Finance",
+   "t": "SpaceX's telecom ambitions will be hard-won, CEOs and analysts say",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/article/its-not-something-that-gets-done-overnight-spacexs-telecom-ambitions-will-be-hard-won-ceos-and-analysts-say-120348084.html"
   },
   {
    "d": "2026-10-24",
-   "t": "Government on alert over potential Poundland crisis",
-   "s": "UK officials are monitoring the discount chain's finances amid fears of store closures and job losses as weak consumer spending squeezes retailers.",
-   "src": "The Telegraph",
-   "u": "https://finance.yahoo.com/small-business/articles/government-alert-over-potential-poundland-114036200.html",
-   "tp": "Companies & deals",
    "m": [
     "MACRO",
     "BENCH"
-   ]
+   ],
+   "s": "UK officials are monitoring the discount chain's finances amid fears of store closures and job losses as weak consumer spending squeezes retailers.",
+   "src": "The Telegraph",
+   "t": "Government on alert over potential Poundland crisis",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/small-business/articles/government-alert-over-potential-poundland-114036200.html"
   },
   {
    "d": "2026-10-24",
-   "t": "Hong Kong's biggest bank puts a stablecoin in 3 million wallets",
-   "s": "HSBC has rolled a stablecoin out to millions of retail customers in Hong Kong, one of the largest bank-led pushes of digital dollars into mainstream payments.",
-   "src": "Decrypt",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-biggest-bank-puts-130102515.html",
-   "tp": "Companies & deals",
    "m": [
     "SPEND",
     "VNDR"
-   ]
+   ],
+   "s": "HSBC has rolled a stablecoin out to millions of retail customers in Hong Kong, one of the largest bank-led pushes of digital dollars into mainstream payments.",
+   "src": "Decrypt",
+   "t": "Hong Kong's biggest bank puts a stablecoin in 3 million wallets",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-biggest-bank-puts-130102515.html"
   },
   {
    "d": "2026-10-24",
-   "t": "How two critical PHP web bugs almost broke the internet",
-   "s": "A pair of severe flaws in PHP, which runs much of the web, forced a scramble to patch servers and highlighted how AI tools are speeding up the discovery of exploitable bugs.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "A pair of severe flaws in PHP, which runs much of the web, forced a scramble to patch servers and highlighted how AI tools are speeding up the discovery of exploitable bugs.",
+   "src": "TechCrunch",
+   "t": "How two critical PHP web bugs almost broke the internet",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
   },
   {
    "d": "2026-10-24",
@@ -278,39 +241,50 @@
    "u": "https://finance.yahoo.com/markets/article/americans-have-never-had-more-of-their-money-in-stocks--not-even-in-the-dot-com-bubble-chart-of-the-day-120127109.html"
   },
   {
-   "d": "2026-10-23",
-   "t": "Agent cloud startup Daytona hits $1B valuation",
-   "s": "Daytona, which provides cloud sandboxes for running AI agents, reached unicorn status with backing from FirstMark and a roster of prominent angel investors.",
+   "d": "2026-10-24",
+   "t": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.",
+   "s": "A study forcing AI models to name a candidate in nearly 500 midterm races found Grok backed Republicans 92% of the time and OpenAI's model backed Democrats 97% of the time.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+   "u": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
    "tp": "AI & tech",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-23",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Daytona, which provides cloud sandboxes for running AI agents, reached unicorn status with backing from FirstMark and a roster of prominent angel investors.",
+   "src": "TechCrunch",
+   "t": "Agent cloud startup Daytona hits $1B valuation",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
   },
   {
    "d": "2026-10-23",
-   "t": "Quest Diagnostics confirms patients' personal and health data was compromised in breach",
-   "s": "The lab-testing giant said attackers accessed patient personal and medical information, the latest in a string of major cyber incidents this week.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-   "tp": "AI & tech",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "The lab-testing giant said attackers accessed patient personal and medical information, the latest in a string of major cyber incidents this week.",
+   "src": "TechCrunch",
+   "t": "Quest Diagnostics confirms patients' personal and health data was compromised in breach",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
   },
   {
    "d": "2026-10-23",
-   "t": "First Russian diesel tanker under Trump-Putin deal heads to New York",
-   "s": "A tanker carrying Russian diesel is bound for New York under the new US-Russia fuel arrangement, the first such shipment since 2023 as the Iran war strains supplies.",
-   "src": "AP",
-   "u": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "A tanker carrying Russian diesel is bound for New York under the new US-Russia fuel arrangement, the first such shipment since 2023 as the Iran war strains supplies.",
+   "src": "AP",
+   "t": "First Russian diesel tanker under Trump-Putin deal heads to New York",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
   },
   {
    "d": "2026-10-23",
@@ -433,6 +407,65 @@
    "u": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
   },
   {
+   "d": "2026-10-23",
+   "t": "Betting operators and prediction markets spent record amounts on campaign donations and lobbying",
+   "s": "Sportsbooks have poured more than $80 million into races through a PAC, while prediction-market firms Kalshi and Polymarket are also stepping up political and lobbying spending.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/23/2026/betting-operators-and-prediction-markets-spent-record-amounts-on-campaign-donations-and-lobbying",
+   "tp": "Companies & deals",
+   "m": [
+    "SPEND",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "t": "US Treasurys gained in investors' flight to safety",
+   "s": "Treasuries rallied as doubts over AI profitability and infrastructure spending spread, with an HSBC survey finding most investors expect AI capex to slow meaningfully within a year.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/23/2026/us-treasury-bond-yields-gained-in-investors-flight-to-safety",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "t": "SpaceX-Tesla merger could face antitrust scrutiny",
+   "s": "A former Justice Department official says a Musk-floated Tesla-SpaceX combination could draw antitrust review over fears rivals would be shut out of SpaceX technology like Starlink.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/23/2026/spacex-tesla-merger-could-face-antitrust-scrutiny",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Carta and NewView partner to get more startups to let employees sell shares early",
+   "s": "The two firms are teaming up to simplify tender offers, which have tripled for late-stage startups over three years but remain rare, with just 44 executed in their data in the first half of 2026.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+   "tp": "Companies & deals",
+   "m": [
+    "TNE",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "t": "What some of Anthropic's backers are worth before its IPO",
+   "s": "An Anthropic IPO at up to $2 trillion could hand early investors like Iconiq, Menlo and Spark Capital multibillion-dollar gains on stakes already valued far above their cost.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
    "d": "2026-10-22",
    "m": [
     "AI",
@@ -539,5 +572,42 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-24T16:55"
+ "excl": [
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  },
+  {
+   "d": "2026-10-06",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ],
+   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
+   "src": "Ramp Leading Indicators",
+   "t": "Faxing into the future: top industries paying for fax services",
+   "tp": "Companies & deals",
+   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
+  }
+ ]
 }
