@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-24T17:55",
+ "excl": [
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  },
+  {
+   "d": "2026-10-06",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ],
+   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
+   "src": "Ramp Leading Indicators",
+   "t": "Faxing into the future: top industries paying for fax services",
+   "tp": "Companies & deals",
+   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
+  }
+ ],
  "items": [
+  {
+   "d": "2026-10-24",
+   "t": "Half of workers are 'revenge quitting' and walking out on their jobs without notice",
+   "s": "A new report finds about half of workers have quit abruptly without notice, and most of them were long-tenured, loyal employees.",
+   "src": "Fortune",
+   "u": "https://fortune.com/article/half-of-workers-are-revenge-quitting-and-walking-out-on-their-jobs-without-notice/",
+   "tp": "Labor",
+   "m": [
+    "BENCH",
+    "MACRO"
+   ]
+  },
   {
    "d": "2026-10-24",
    "m": [
@@ -175,18 +224,6 @@
   {
    "d": "2026-10-24",
    "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "An economist argues the AI boom's financing, visible in data-center debt and rising credit-default-swap activity, rests on a shaky premise as markets wobble.",
-   "src": "Fortune",
-   "t": "A top economist flags a 'core economic flaw' in the AI bull case as stock and bond trades unravel",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
     "VNDR"
    ],
    "s": "Instacart held early talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
@@ -242,14 +279,14 @@
   },
   {
    "d": "2026-10-24",
-   "t": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.",
-   "s": "A study forcing AI models to name a candidate in nearly 500 midterm races found Grok backed Republicans 92% of the time and OpenAI's model backed Democrats 97% of the time.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-   "tp": "AI & tech",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "A study forcing AI models to name a candidate in nearly 500 midterm races found Grok backed Republicans 92% of the time and OpenAI's model backed Democrats 97% of the time.",
+   "src": "TechCrunch",
+   "t": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
   },
   {
    "d": "2026-10-23",
@@ -408,22 +445,81 @@
   },
   {
    "d": "2026-10-23",
-   "t": "Betting operators and prediction markets spent record amounts on campaign donations and lobbying",
-   "s": "Sportsbooks have poured more than $80 million into races through a PAC, while prediction-market firms Kalshi and Polymarket are also stepping up political and lobbying spending.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/23/2026/betting-operators-and-prediction-markets-spent-record-amounts-on-campaign-donations-and-lobbying",
-   "tp": "Companies & deals",
    "m": [
     "SPEND",
+    "MACRO"
+   ],
+   "s": "Sportsbooks have poured more than $80 million into races through a PAC, while prediction-market firms Kalshi and Polymarket are also stepping up political and lobbying spending.",
+   "src": "Semafor",
+   "t": "Betting operators and prediction markets spent record amounts on campaign donations and lobbying",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/23/2026/betting-operators-and-prediction-markets-spent-record-amounts-on-campaign-donations-and-lobbying"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Treasuries rallied as doubts over AI profitability and infrastructure spending spread, with an HSBC survey finding most investors expect AI capex to slow meaningfully within a year.",
+   "src": "Semafor",
+   "t": "US Treasurys gained in investors' flight to safety",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/23/2026/us-treasury-bond-yields-gained-in-investors-flight-to-safety"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "VNDR"
+   ],
+   "s": "A former Justice Department official says a Musk-floated Tesla-SpaceX combination could draw antitrust review over fears rivals would be shut out of SpaceX technology like Starlink.",
+   "src": "Semafor",
+   "t": "SpaceX-Tesla merger could face antitrust scrutiny",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/23/2026/spacex-tesla-merger-could-face-antitrust-scrutiny"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "TNE",
+    "BENCH"
+   ],
+   "s": "The two firms are teaming up to simplify tender offers, which have tripled for late-stage startups over three years but remain rare, with just 44 executed in their data in the first half of 2026.",
+   "src": "TechCrunch",
+   "t": "Carta and NewView partner to get more startups to let employees sell shares early",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "An Anthropic IPO at up to $2 trillion could hand early investors like Iconiq, Menlo and Spark Capital multibillion-dollar gains on stakes already valued far above their cost.",
+   "src": "TechCrunch",
+   "t": "What some of Anthropic's backers are worth before its IPO",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Meta's new class of nonvoting stock lets Zuckerberg fund AI without losing control",
+   "s": "Meta is creating nonvoting shares it can sell to raise money for its AI buildout while keeping Mark Zuckerberg's voting control intact.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/22/2026/metas-new-class-of-nonvoting-stock-lets-zuckerberg-fund-ai-without-losing-control",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
     "MACRO"
    ]
   },
   {
-   "d": "2026-10-23",
-   "t": "US Treasurys gained in investors' flight to safety",
-   "s": "Treasuries rallied as doubts over AI profitability and infrastructure spending spread, with an HSBC survey finding most investors expect AI capex to slow meaningfully within a year.",
+   "d": "2026-10-22",
+   "t": "SpaceX $40 billion debt deal gets pricey as AI fears spread",
+   "s": "Investor jitters over AI spending are pushing up the borrowing cost of SpaceX's planned $40 billion debt raise.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/23/2026/us-treasury-bond-yields-gained-in-investors-flight-to-safety",
+   "u": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
    "tp": "Markets",
    "m": [
     "MACRO",
@@ -431,38 +527,15 @@
    ]
   },
   {
-   "d": "2026-10-23",
-   "t": "SpaceX-Tesla merger could face antitrust scrutiny",
-   "s": "A former Justice Department official says a Musk-floated Tesla-SpaceX combination could draw antitrust review over fears rivals would be shut out of SpaceX technology like Starlink.",
+   "d": "2026-10-22",
+   "t": "US Treasury Secretary Bessent dismisses AI bubble fears",
+   "s": "Treasury Secretary Scott Bessent pushed back on worries that AI investment has become a bubble amid a volatile week for tech stocks.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/23/2026/spacex-tesla-merger-could-face-antitrust-scrutiny",
-   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/22/2026/us-treasury-secretary-bessent-dismisses-ai-bubble-fears",
+   "tp": "Economy",
    "m": [
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-23",
-   "t": "Carta and NewView partner to get more startups to let employees sell shares early",
-   "s": "The two firms are teaming up to simplify tender offers, which have tripled for late-stage startups over three years but remain rare, with just 44 executed in their data in the first half of 2026.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-   "tp": "Companies & deals",
-   "m": [
-    "TNE",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-23",
-   "t": "What some of Anthropic's backers are worth before its IPO",
-   "s": "An Anthropic IPO at up to $2 trillion could hand early investors like Iconiq, Menlo and Spark Capital multibillion-dollar gains on stakes already valued far above their cost.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
+    "MACRO",
+    "AI"
    ]
   },
   {
@@ -572,42 +645,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "excl": [
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  },
-  {
-   "d": "2026-10-06",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
-   "src": "Ramp Leading Indicators",
-   "t": "Faxing into the future: top industries paying for fax services",
-   "tp": "Companies & deals",
-   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
-  }
- ]
+ "updatedAt": "2026-10-24T18:50"
 }
