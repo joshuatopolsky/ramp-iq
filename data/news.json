@@ -1,1 +1,437 @@
-{"excl": [{"d": "2026-10-20", "m": ["AI", "MACRO"], "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.", "src": "Ramp Leading Indicators", "t": "Tesla's big test", "tp": "Markets", "u": "https://ramp.com/leading-indicators/teslas-big-test"}, {"d": "2026-10-13", "m": ["AI", "VNDR"], "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.", "src": "Ramp Leading Indicators", "t": "AI's pricing power problem", "tp": "AI & tech", "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"}, {"d": "2026-10-06", "m": ["SPEND", "VNDR"], "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.", "src": "Ramp Leading Indicators", "t": "Faxing into the future: top industries paying for fax services", "tp": "Companies & deals", "u": "https://ramp.com/leading-indicators/faxing-into-the-future"}], "items": [{"d": "2026-10-24", "m": ["MACRO"], "s": "Unrest spread beyond France as Italy deployed 500 more soldiers to Milan after looting that led to 45 arrests, while protests were called in at least seven more cities, including a Madrid pensions march ahead of Spain's snap election.", "src": "Fortune", "t": "It's not just France \u2014 Protesters are marching across Europe as part of the newly formed 'Oct. 17 Movement'", "tp": "Economy", "u": "https://fortune.com/2026/10/24/europe-protests-oct-17-movement-france-spain-italy-albania-portugal/"}, {"d": "2026-10-24", "m": ["MACRO"], "s": "Moody's held France at Aa3 with a negative outlook but warned that political gridlock leaves public debt, now a record 119% of GDP, on track for 122% next year, with the 2027 deficit likely only trimmed to about 5.2%.", "src": "Fortune", "t": "France's latest debt warning describes a country where governance is breaking down \u2014 and even doing too little, too late is barely possible", "tp": "Economy", "u": "https://fortune.com/2026/10/24/france-debt-crisis-warning-moodys-governance-budget-deficit-presidential-election-politics/"}, {"d": "2026-10-24", "m": ["TNE"], "s": "An AP report says nearly every U.S. transit system still needs a human operator, but D.C. Metro's roughly $1 billion Red Line upgrade could run trains with no one in the cab by 2033, and Los Angeles is studying a fully automated line.", "src": "Fortune", "t": "The U.S. lags far behind on using driverless trains, but new projects could open the floodgates", "tp": "AI & tech", "u": "https://fortune.com/2026/10/24/transit-innovation-driverless-trains-subways-monorail-people-movers/"}, {"d": "2026-10-24", "m": ["VNDR"], "s": "NASA says a roughly two-week, four-astronaut Artemis III docking test next summer will pair Orion with Blue Origin's lander before SpaceX's Starship, with the first crewed landing still slated for 2028.", "src": "Fortune", "t": "Elon Musk's SpaceX and Jeff Bezos' Blue Origin will face off in orbit next year, NASA confirms", "tp": "Companies & deals", "u": "https://fortune.com/2026/10/24/elon-musk-spacex-jeff-bezos-blue-origin-lunar-landers-earth-orbit-docking-nasa-artemis-moon-progam/"}, {"d": "2026-10-24", "m": ["SPEND", "MACRO"], "s": "NielsenIQ data show Halloween candy sales down 6.7% year over year in the month to Oct. 17, with only small bags growing as $4.29 gas (up nearly 40%) and candy prices up 44% in five years squeeze shoppers.", "src": "Fortune", "t": "America skimps on Halloween as high fuel prices force shoppers to buy small bags of candy and abandon large sizes", "tp": "Economy", "u": "https://fortune.com/2026/10/24/halloween-candy-sales-slump-small-bags-high-fuel-prices-inflation-iran-war-cocoa/"}, {"d": "2026-10-24", "m": ["MACRO"], "s": "A Nationwide survey finds 72% of Gen Z investors adjusted retirement portfolios ahead of the Nov. 3 midterms versus 17% of boomers, while advisers point to average S&P 500 gains of about 15% in the year after midterms since 1950.", "src": "Fortune", "t": "Gen Z is treating the midterms like a market event. Boomers are treating them like weather", "tp": "Markets", "u": "https://fortune.com/2026/10/24/gen-z-baby-boomers-midterms-investing-patterns/"}, {"d": "2026-10-24", "m": ["AI"], "s": "AI voice-cloning scams are spreading as a three-second clip can yield an 85% voice match, with an estimated 15 million U.S. adults losing about $68 billion to scams in 2025 and 12% of reported scams involving AI or deepfakes.", "src": "Fortune", "t": "Scammers used AI to clone her daughter's voice and fake a kidnapping. A voice expert says every family now needs a safe word", "tp": "AI & tech", "u": "https://fortune.com/2026/10/24/ai-voice-cloning-scam-fake-kidnapping-safe-word/"}, {"d": "2026-10-24", "m": ["AI"], "s": "Therapists who named 'sudden wealth syndrome' in the dot-com era say the AI boom is recreating it, with an estimated 10,000 people at labs like Anthropic, OpenAI and Nvidia amassing $20 million-plus fortunes in five years and at least 86 AI billionaires now worth a combined $2.9 trillion.", "src": "Fortune", "t": "'Sudden wealth syndrome 2.0': Therapists say AI's new multimillionaires feel guilty, isolated and cut off from everyone else", "tp": "AI & tech", "u": "https://fortune.com/2026/10/24/ai-sudden-wealth-syndrome-therapists-billionaires-isolation/"}, {"d": "2026-10-23", "m": ["MACRO", "VNDR"], "s": "Shortly after the open the Dow was down about 1% and the S&P 500 0.4% as AI stocks extended Thursday's rout, while AT&T, Verizon and T-Mobile fell 3% to 4.7% on a report that SpaceX is exploring a nationwide wireless carrier.", "src": "Reuters", "t": "Wall St dips after AI-led selloff; SpaceX worries hit telecoms", "tp": "Markets", "u": "https://www.marketscreener.com/news/wall-st-dips-after-ai-led-selloff-spacex-worries-hit-telecoms-ce785cdfda8aff2d"}, {"d": "2026-10-23", "m": ["MACRO", "AI"], "s": "Stocks closed lower Friday as AI-spending worries and U.S. crude topping $100 weighed: the Dow fell about 653 points (1.2%) to 52,215, the S&P 500 slid 0.5% and the Nasdaq 0.2%, leaving both down for a second straight week.", "src": "Yahoo Finance", "t": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise", "tp": "Markets", "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"}, {"d": "2026-10-23", "m": ["SPEND"], "s": "Omnicom says its Interpublic integration is largely done and it remains on track for $900 million in cost savings this year, posting 7.2% organic Q3 growth to $6 billion as it won Coca-Cola's North American media but lost PepsiCo to Publicis.", "src": "Marketing Dive", "t": "Omnicom-IPG deal \u2018substantially completed\u2019 as group wins Coke\u2019s NA media", "tp": "Companies & deals", "u": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/"}, {"d": "2026-10-23", "m": ["TNE", "MACRO"], "s": "Brent climbed about 1.5% to near $115 a barrel, its highest since early May and headed for a third straight weekly gain, as Middle East attacks, a tanker spill off the UAE and a Libyan pipeline shutdown stoked supply fears; WTI rose to about $101.", "src": "Reuters", "t": "Brent crude hits more than five-month high on Houthi-Saudi attacks, UAE oil spill", "tp": "Energy & trade", "u": "https://virginiabusiness.com/brent-crude-five-month-high-middle-east-tensions-uae-spill/"}, {"d": "2026-10-23", "m": ["MACRO", "VNDR", "AI"], "s": "After the Nasdaq's worst day since June, investors face reports from Alphabet, Microsoft and Amazon plus a Fed meeting next week, with hyperscaler capex near $800 billion this year, Q3 S&P 500 earnings tracking up over 32%, and futures pricing about an 80% chance of a December rate hike.", "src": "Reuters", "t": "Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally", "tp": "Markets", "u": "https://www.aol.com/articles/earnings-flood-fed-meeting-pose-100557000.html"}, {"d": "2026-10-23", "m": ["AI", "BENCH"], "s": "CEO Stephen Squeri told analysts after third-quarter results that AmEx will eliminate about 5% of its global staff, booking a roughly $336 million restructuring charge, and shares fell nearly 3% in early trading.", "src": "CNBC", "t": "American Express is cutting 5% of its workforce to 'prepare for AI'", "tp": "Labor", "u": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"}, {"d": "2026-10-23", "m": ["BENCH"], "s": "Volvo Cars stock fell close to 30% after the Geely-controlled automaker swung to a 5.7 billion kronor quarterly loss on a 23% revenue drop, blaming U.S. tariffs and Chinese competition, and announced about 2,500 job cuts and a 5 billion kronor savings plan.", "src": "AFP", "t": "Volvo Cars shares plunge on losses, job cuts", "tp": "Companies & deals", "u": "https://finance.yahoo.com/markets/stocks/articles/volvo-cars-shares-plunge-losses-084848555.html"}, {"d": "2026-10-23", "m": ["TNE", "MACRO"], "s": "Brent rose another 0.9% to about $114.73 a barrel on Friday after a 4% jump Thursday, with Gulf-to-Asia crude shipping now over five times pre-war costs and the U.S. 10-year yield back below 5%.", "src": "Euronews", "t": "Oil tops $114 as European shares fall and Kering tumbles", "tp": "Energy & trade", "u": "https://www.euronews.com/2026/10/23/oil-prices-climb-above-113-as-ai-sell-off-rattles-stocks-and-investors-buy-bonds"}, {"d": "2026-10-23", "m": ["MACRO", "AI", "VNDR"], "s": "Global markets were mixed Friday after a Nasdaq drop of 2.6% led by Nvidia (-4.4%), Meta (-7%) and CoreWeave (-10%), while the 10-year Treasury yield fell to about 4.97% from 5.13% and European indexes opened lower.", "src": "AP", "t": "World shares are mixed after Wall Street's AI-related losses, while oil prices jump", "tp": "Markets", "u": "https://clickondetroit.com/business/2026/10/23/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump"}, {"d": "2026-10-22", "m": ["AI", "BENCH"], "s": "Barclays is shedding about 5,000 jobs, roughly 5% of staff, crediting AI efficiencies: 1,000 roles are already gone and 4,000 more go by year-end, mostly in UK retail banking, as Q3 pre-tax profit rose 12% but missed estimates.", "src": "Fast Company", "t": "Barclays layoffs today: Bank attributes 5,000 job cuts to AI", "tp": "Labor", "u": "https://www.fastcompany.com/91628263/barclays-layoffs-today-bank-slashes-5-of-workforce-attributing-5000-job-cuts-to-ai"}, {"d": "2026-10-22", "m": ["MACRO", "AI", "VNDR"], "s": "The Nasdaq closed down 2.6% at 26,008.86, its worst day since early June, and the S&P 500 fell 1.2% while the Dow ended flat, as chip stocks sank 6.7% on AI-spending doubts after Meta fell 7% and Houthi strikes pushed oil to a five-month high.", "src": "Reuters", "t": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff", "tp": "Markets", "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"}, {"d": "2026-10-22", "m": ["MACRO", "AI", "TNE"], "s": "The Nasdaq closed down 2.6% at 26,008 and the S&P 500 fell 1.2% while the Dow ended flat, as Meta dropped 7% on its $135B-$145B capex outlook, Tesla slid 3.1%, P&G jumped 5.6%, and WTI crude rose 3% to about $100.", "src": "Kiplinger", "t": "Nasdaq Sinks 694 Points as Meta Stock Slumps After Earnings: Stock Market Today", "tp": "Markets", "u": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-694-points-as-meta-stock-slumps-stock-market-today"}, {"d": "2026-10-22", "m": ["SPEND"], "s": "Elon Musk has reportedly put roughly $1 billion into Skydance, the media company formed by Paramount Skydance's $110 billion takeover of Warner Bros. Discovery, as part of a wider equity raise.", "src": "Reuters", "t": "Elon Musk invests about $1B in Skydance, CNBC reports", "tp": "Companies & deals", "u": "https://virginiabusiness.com/elon-musk-invests-about-1b-in-skydance-cnbc-reports/"}, {"d": "2026-10-22", "m": ["BENCH"], "s": "Chemical maker Dow posted operating earnings of 71 cents a share versus a year-earlier loss, with sales up 13% and net income rising to $525 million as price increases and cost cuts outran higher raw-material and logistics costs.", "src": "Quartz", "t": "Dow beat earnings expectations as profit jumped on higher prices, cost cuts", "tp": "Companies & deals", "u": "https://qz.com/dow-earnings-beat-higher-prices-cost-cuts-102226"}, {"d": "2026-10-22", "m": ["MACRO", "TNE", "AI"], "s": "U.S. stocks slid Thursday with the Nasdaq down more than 2% as Meta fell about 8% on AI-spending worries, chip stocks sank and Brent crude topped $111 on Middle East tensions.", "src": "Yahoo Finance", "t": "Stock market today: Dow, S&P 500, Nasdaq tumble as tech stocks sink, Meta plummets 8%", "tp": "Markets", "u": "https://finance.yahoo.com/markets/article/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"}, {"d": "2026-10-22", "m": ["MACRO"], "s": "First-time unemployment filings dipped to 194,000 in the week ended Oct. 17, beating the 200,000 forecast, though continuing claims ticked up.", "src": "Bloomberg", "t": "US Initial Jobless Claims Fall to Three-Month Low of 194,000", "tp": "Labor", "u": "https://www.bloomberg.com/news/articles/2026-10-22/us-initial-jobless-claims-fall-to-three-month-low"}, {"d": "2026-10-22", "m": ["TNE"], "s": "American now expects a 2026 adjusted loss of $1.00 to $1.60 a share after a $269 million third-quarter loss, even as revenue rose 19% to $16.3 billion on higher fares; shares fell 3.5% premarket.", "src": "Reuters", "t": "American Airlines forecasts 2026 loss as fuel costs outpace fare gains", "tp": "Companies & deals", "u": "https://www.investing.com/news/stock-market-news/american-airlines-forecasts-2026-loss-as-fuel-costs-outpace-fare-gains-4965492"}, {"d": "2026-10-22", "m": ["MACRO"], "s": "Thursday's session turned lower, led by the Nasdaq, as investors balked at Big Tech AI capex plans after Meta and Tesla results while oil prices climbed on Middle East risk.", "src": "CNBC", "t": "Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates", "tp": "Markets", "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"}], "updatedAt": "2026-10-24T15:52"}
+{
+ "excl": [
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  },
+  {
+   "d": "2026-10-06",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ],
+   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
+   "src": "Ramp Leading Indicators",
+   "t": "Faxing into the future: top industries paying for fax services",
+   "tp": "Companies & deals",
+   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
+  }
+ ],
+ "items": [
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Unrest spread beyond France as Italy deployed 500 more soldiers to Milan after looting that led to 45 arrests, while protests were called in at least seven more cities, including a Madrid pensions march ahead of Spain's snap election.",
+   "src": "Fortune",
+   "t": "It's not just France — Protesters are marching across Europe as part of the newly formed 'Oct. 17 Movement'",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/24/europe-protests-oct-17-movement-france-spain-italy-albania-portugal/"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Moody's held France at Aa3 with a negative outlook but warned that political gridlock leaves public debt, now a record 119% of GDP, on track for 122% next year, with the 2027 deficit likely only trimmed to about 5.2%.",
+   "src": "Fortune",
+   "t": "France's latest debt warning describes a country where governance is breaking down — and even doing too little, too late is barely possible",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/24/france-debt-crisis-warning-moodys-governance-budget-deficit-presidential-election-politics/"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "TNE"
+   ],
+   "s": "An AP report says nearly every U.S. transit system still needs a human operator, but D.C. Metro's roughly $1 billion Red Line upgrade could run trains with no one in the cab by 2033, and Los Angeles is studying a fully automated line.",
+   "src": "Fortune",
+   "t": "The U.S. lags far behind on using driverless trains, but new projects could open the floodgates",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/24/transit-innovation-driverless-trains-subways-monorail-people-movers/"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "VNDR"
+   ],
+   "s": "NASA says a roughly two-week, four-astronaut Artemis III docking test next summer will pair Orion with Blue Origin's lander before SpaceX's Starship, with the first crewed landing still slated for 2028.",
+   "src": "Fortune",
+   "t": "Elon Musk's SpaceX and Jeff Bezos' Blue Origin will face off in orbit next year, NASA confirms",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/24/elon-musk-spacex-jeff-bezos-blue-origin-lunar-landers-earth-orbit-docking-nasa-artemis-moon-progam/"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "SPEND",
+    "MACRO"
+   ],
+   "s": "NielsenIQ data show Halloween candy sales down 6.7% year over year in the month to Oct. 17, with only small bags growing as $4.29 gas (up nearly 40%) and candy prices up 44% in five years squeeze shoppers.",
+   "src": "Fortune",
+   "t": "America skimps on Halloween as high fuel prices force shoppers to buy small bags of candy and abandon large sizes",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/24/halloween-candy-sales-slump-small-bags-high-fuel-prices-inflation-iran-war-cocoa/"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO"
+   ],
+   "s": "A Nationwide survey finds 72% of Gen Z investors adjusted retirement portfolios ahead of the Nov. 3 midterms versus 17% of boomers, while advisers point to average S&P 500 gains of about 15% in the year after midterms since 1950.",
+   "src": "Fortune",
+   "t": "Gen Z is treating the midterms like a market event. Boomers are treating them like weather",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/10/24/gen-z-baby-boomers-midterms-investing-patterns/"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "AI"
+   ],
+   "s": "AI voice-cloning scams are spreading as a three-second clip can yield an 85% voice match, with an estimated 15 million U.S. adults losing about $68 billion to scams in 2025 and 12% of reported scams involving AI or deepfakes.",
+   "src": "Fortune",
+   "t": "Scammers used AI to clone her daughter's voice and fake a kidnapping. A voice expert says every family now needs a safe word",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/24/ai-voice-cloning-scam-fake-kidnapping-safe-word/"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "AI"
+   ],
+   "s": "Therapists who named 'sudden wealth syndrome' in the dot-com era say the AI boom is recreating it, with an estimated 10,000 people at labs like Anthropic, OpenAI and Nvidia amassing $20 million-plus fortunes in five years and at least 86 AI billionaires now worth a combined $2.9 trillion.",
+   "src": "Fortune",
+   "t": "'Sudden wealth syndrome 2.0': Therapists say AI's new multimillionaires feel guilty, isolated and cut off from everyone else",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/24/ai-sudden-wealth-syndrome-therapists-billionaires-isolation/"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Jamie Dimon poaches Warren Buffett protégé Todd Combs to run a $10 billion JPMorgan fund",
+   "s": "JPMorgan has hired longtime Berkshire Hathaway investment manager Todd Combs to lead a new $10 billion investment fund.",
+   "src": "Fortune",
+   "u": "https://fortune.com/article/jamie-dimon-poached-warren-buffett-protege-todd-combs-at-least-hes-going-to-you-finance-banks-ceo/",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "A top economist flags a 'core economic flaw' in the AI bull case as stock and bond trades unravel",
+   "s": "An economist argues the AI boom's financing, visible in data-center debt and rising credit-default-swap activity, rests on a shaky premise as markets wobble.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+   "s": "Instacart held early talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Block's new voice model sounds eerily human",
+   "s": "Block has released a voice AI model whose speech is strikingly natural, extending the payments company's push into AI.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Metals traders reap bonanza with another year of record profits",
+   "s": "Commodity trading houses are heading for another record year in metals as volatile prices and supply disruptions widen trading margins.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/metals-traders-reap-bonanza-another-144505872.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
+   "s": "Borrowing costs for German homebuyers have hit a 17-year high as the Iran war and oil spike push up inflation expectations and bond yields.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/real-estate/articles/german-mortgage-rates-climb-highest-090404128.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Americans have never had more of their money in stocks — not even in the dot-com bubble",
+   "s": "US households' equity allocation as a share of financial assets has reached a record, topping the 2000 peak.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/americans-have-never-had-more-of-their-money-in-stocks--not-even-in-the-dot-com-bubble-chart-of-the-day-120127109.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "Shortly after the open the Dow was down about 1% and the S&P 500 0.4% as AI stocks extended Thursday's rout, while AT&T, Verizon and T-Mobile fell 3% to 4.7% on a report that SpaceX is exploring a nationwide wireless carrier.",
+   "src": "Reuters",
+   "t": "Wall St dips after AI-led selloff; SpaceX worries hit telecoms",
+   "tp": "Markets",
+   "u": "https://www.marketscreener.com/news/wall-st-dips-after-ai-led-selloff-spacex-worries-hit-telecoms-ce785cdfda8aff2d"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Stocks closed lower Friday as AI-spending worries and U.S. crude topping $100 weighed: the Dow fell about 653 points (1.2%) to 52,215, the S&P 500 slid 0.5% and the Nasdaq 0.2%, leaving both down for a second straight week.",
+   "src": "Yahoo Finance",
+   "t": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "SPEND"
+   ],
+   "s": "Omnicom says its Interpublic integration is largely done and it remains on track for $900 million in cost savings this year, posting 7.2% organic Q3 growth to $6 billion as it won Coca-Cola's North American media but lost PepsiCo to Publicis.",
+   "src": "Marketing Dive",
+   "t": "Omnicom-IPG deal ‘substantially completed’ as group wins Coke’s NA media",
+   "tp": "Companies & deals",
+   "u": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "TNE",
+    "MACRO"
+   ],
+   "s": "Brent climbed about 1.5% to near $115 a barrel, its highest since early May and headed for a third straight weekly gain, as Middle East attacks, a tanker spill off the UAE and a Libyan pipeline shutdown stoked supply fears; WTI rose to about $101.",
+   "src": "Reuters",
+   "t": "Brent crude hits more than five-month high on Houthi-Saudi attacks, UAE oil spill",
+   "tp": "Energy & trade",
+   "u": "https://virginiabusiness.com/brent-crude-five-month-high-middle-east-tensions-uae-spill/"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "MACRO",
+    "VNDR",
+    "AI"
+   ],
+   "s": "After the Nasdaq's worst day since June, investors face reports from Alphabet, Microsoft and Amazon plus a Fed meeting next week, with hyperscaler capex near $800 billion this year, Q3 S&P 500 earnings tracking up over 32%, and futures pricing about an 80% chance of a December rate hike.",
+   "src": "Reuters",
+   "t": "Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally",
+   "tp": "Markets",
+   "u": "https://www.aol.com/articles/earnings-flood-fed-meeting-pose-100557000.html"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "CEO Stephen Squeri told analysts after third-quarter results that AmEx will eliminate about 5% of its global staff, booking a roughly $336 million restructuring charge, and shares fell nearly 3% in early trading.",
+   "src": "CNBC",
+   "t": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+   "tp": "Labor",
+   "u": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Volvo Cars stock fell close to 30% after the Geely-controlled automaker swung to a 5.7 billion kronor quarterly loss on a 23% revenue drop, blaming U.S. tariffs and Chinese competition, and announced about 2,500 job cuts and a 5 billion kronor savings plan.",
+   "src": "AFP",
+   "t": "Volvo Cars shares plunge on losses, job cuts",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/volvo-cars-shares-plunge-losses-084848555.html"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "TNE",
+    "MACRO"
+   ],
+   "s": "Brent rose another 0.9% to about $114.73 a barrel on Friday after a 4% jump Thursday, with Gulf-to-Asia crude shipping now over five times pre-war costs and the U.S. 10-year yield back below 5%.",
+   "src": "Euronews",
+   "t": "Oil tops $114 as European shares fall and Kering tumbles",
+   "tp": "Energy & trade",
+   "u": "https://www.euronews.com/2026/10/23/oil-prices-climb-above-113-as-ai-sell-off-rattles-stocks-and-investors-buy-bonds"
+  },
+  {
+   "d": "2026-10-23",
+   "m": [
+    "MACRO",
+    "AI",
+    "VNDR"
+   ],
+   "s": "Global markets were mixed Friday after a Nasdaq drop of 2.6% led by Nvidia (-4.4%), Meta (-7%) and CoreWeave (-10%), while the 10-year Treasury yield fell to about 4.97% from 5.13% and European indexes opened lower.",
+   "src": "AP",
+   "t": "World shares are mixed after Wall Street's AI-related losses, while oil prices jump",
+   "tp": "Markets",
+   "u": "https://clickondetroit.com/business/2026/10/23/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "OpenAI says it will no longer train its AI models on the live internet, citing significant risks",
+   "s": "OpenAI is stopping training on freshly scraped web content, saying the open internet now poses too many risks to model quality and safety.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "Barclays is shedding about 5,000 jobs, roughly 5% of staff, crediting AI efficiencies: 1,000 roles are already gone and 4,000 more go by year-end, mostly in UK retail banking, as Q3 pre-tax profit rose 12% but missed estimates.",
+   "src": "Fast Company",
+   "t": "Barclays layoffs today: Bank attributes 5,000 job cuts to AI",
+   "tp": "Labor",
+   "u": "https://www.fastcompany.com/91628263/barclays-layoffs-today-bank-slashes-5-of-workforce-attributing-5000-job-cuts-to-ai"
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "MACRO",
+    "AI",
+    "VNDR"
+   ],
+   "s": "The Nasdaq closed down 2.6% at 26,008.86, its worst day since early June, and the S&P 500 fell 1.2% while the Dow ended flat, as chip stocks sank 6.7% on AI-spending doubts after Meta fell 7% and Houthi strikes pushed oil to a five-month high.",
+   "src": "Reuters",
+   "t": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "MACRO",
+    "AI",
+    "TNE"
+   ],
+   "s": "The Nasdaq closed down 2.6% at 26,008 and the S&P 500 fell 1.2% while the Dow ended flat, as Meta dropped 7% on its $135B-$145B capex outlook, Tesla slid 3.1%, P&G jumped 5.6%, and WTI crude rose 3% to about $100.",
+   "src": "Kiplinger",
+   "t": "Nasdaq Sinks 694 Points as Meta Stock Slumps After Earnings: Stock Market Today",
+   "tp": "Markets",
+   "u": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-694-points-as-meta-stock-slumps-stock-market-today"
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "SPEND"
+   ],
+   "s": "Elon Musk has reportedly put roughly $1 billion into Skydance, the media company formed by Paramount Skydance's $110 billion takeover of Warner Bros. Discovery, as part of a wider equity raise.",
+   "src": "Reuters",
+   "t": "Elon Musk invests about $1B in Skydance, CNBC reports",
+   "tp": "Companies & deals",
+   "u": "https://virginiabusiness.com/elon-musk-invests-about-1b-in-skydance-cnbc-reports/"
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Chemical maker Dow posted operating earnings of 71 cents a share versus a year-earlier loss, with sales up 13% and net income rising to $525 million as price increases and cost cuts outran higher raw-material and logistics costs.",
+   "src": "Quartz",
+   "t": "Dow beat earnings expectations as profit jumped on higher prices, cost cuts",
+   "tp": "Companies & deals",
+   "u": "https://qz.com/dow-earnings-beat-higher-prices-cost-cuts-102226"
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "MACRO",
+    "TNE",
+    "AI"
+   ],
+   "s": "U.S. stocks slid Thursday with the Nasdaq down more than 2% as Meta fell about 8% on AI-spending worries, chip stocks sank and Brent crude topped $111 on Middle East tensions.",
+   "src": "Yahoo Finance",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq tumble as tech stocks sink, Meta plummets 8%",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/article/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "MACRO"
+   ],
+   "s": "First-time unemployment filings dipped to 194,000 in the week ended Oct. 17, beating the 200,000 forecast, though continuing claims ticked up.",
+   "src": "Bloomberg",
+   "t": "US Initial Jobless Claims Fall to Three-Month Low of 194,000",
+   "tp": "Labor",
+   "u": "https://www.bloomberg.com/news/articles/2026-10-22/us-initial-jobless-claims-fall-to-three-month-low"
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "TNE"
+   ],
+   "s": "American now expects a 2026 adjusted loss of $1.00 to $1.60 a share after a $269 million third-quarter loss, even as revenue rose 19% to $16.3 billion on higher fares; shares fell 3.5% premarket.",
+   "src": "Reuters",
+   "t": "American Airlines forecasts 2026 loss as fuel costs outpace fare gains",
+   "tp": "Companies & deals",
+   "u": "https://www.investing.com/news/stock-market-news/american-airlines-forecasts-2026-loss-as-fuel-costs-outpace-fare-gains-4965492"
+  },
+  {
+   "d": "2026-10-22",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Thursday's session turned lower, led by the Nasdaq, as investors balked at Big Tech AI capex plans after Meta and Tesla results while oil prices climbed on Middle East risk.",
+   "src": "CNBC",
+   "t": "Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates",
+   "tp": "Markets",
+   "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+  }
+ ],
+ "updatedAt": "2026-10-24T16:19"
+}
