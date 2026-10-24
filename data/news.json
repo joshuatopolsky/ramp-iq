@@ -40,15 +40,62 @@
  "items": [
   {
    "d": "2026-10-24",
-   "t": "Half of workers are 'revenge quitting' and walking out on their jobs without notice",
-   "s": "A new report finds about half of workers have quit abruptly without notice, and most of them were long-tenured, loyal employees.",
+   "t": "Fed set to lead G7 trio in hawkish rate pause: Eco Week Ahead",
+   "s": "The Fed, ECB and Bank of Japan are all expected to hold rates next week, with the Fed keeping a hawkish tone as markets bet on a December hike.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-set-lead-g7-trio-200000137.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Fuel oil becomes Asia's next cost shock",
+   "s": "Singapore high-sulphur fuel oil now costs more than crude as lost Middle East and Russian supply and steep freight rates squeeze Asia's shipping-fuel market.",
+   "src": "Oilprice.com",
+   "u": "https://finance.yahoo.com/energy/articles/fuel-oil-becomes-asia-next-210000466.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Quebec's maple syrup reserves are nearly drained after U.S. buyers stockpiled ahead of tariffs",
+   "s": "American hoarding before tariffs has left Quebec's strategic maple syrup reserve close to empty.",
    "src": "Fortune",
-   "u": "https://fortune.com/article/half-of-workers-are-revenge-quitting-and-walking-out-on-their-jobs-without-notice/",
-   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/",
+   "tp": "Supply chain",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel",
+   "s": "A top economist argues the AI investment thesis has a fundamental weakness as data-center financing strains show up in credit markets.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-24",
    "m": [
     "BENCH",
     "MACRO"
-   ]
+   ],
+   "s": "A new report finds about half of workers have quit abruptly without notice, and most of them were long-tenured, loyal employees.",
+   "src": "Fortune",
+   "t": "Half of workers are 'revenge quitting' and walking out on their jobs without notice",
+   "tp": "Labor",
+   "u": "https://fortune.com/article/half-of-workers-are-revenge-quitting-and-walking-out-on-their-jobs-without-notice/"
   },
   {
    "d": "2026-10-24",
@@ -202,28 +249,6 @@
   {
    "d": "2026-10-24",
    "m": [
-    "AI"
-   ],
-   "s": "Therapists who named 'sudden wealth syndrome' in the dot-com era say the AI boom is recreating it, with an estimated 10,000 people at labs like Anthropic, OpenAI and Nvidia amassing $20 million-plus fortunes in five years and at least 86 AI billionaires now worth a combined $2.9 trillion.",
-   "src": "Fortune",
-   "t": "'Sudden wealth syndrome 2.0': Therapists say AI's new multimillionaires feel guilty, isolated and cut off from everyone else",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/24/ai-sudden-wealth-syndrome-therapists-billionaires-isolation/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO"
-   ],
-   "s": "JPMorgan has hired longtime Berkshire Hathaway investment manager Todd Combs to lead a new $10 billion investment fund.",
-   "src": "Fortune",
-   "t": "Jamie Dimon poaches Warren Buffett protégé Todd Combs to run a $10 billion JPMorgan fund",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/article/jamie-dimon-poached-warren-buffett-protege-todd-combs-at-least-hes-going-to-you-finance-banks-ceo/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
     "VNDR"
    ],
    "s": "Instacart held early talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
@@ -287,6 +312,42 @@
    "t": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "US designates helium as a critical material, citing its importance for semiconductors",
+   "s": "The designation opens more federal financing to helium producers and brings closer monitoring of a gas essential to chipmaking.",
+   "src": "AP",
+   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html",
+   "tp": "Supply chain",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets",
+   "s": "Google, Meta and others are offering communities bigger incentives and more transparency as local opposition to data centers grows.",
+   "src": "AP",
+   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Trump exempts some Canadian imports from his 50% tariffs",
+   "s": "Plywood, packing crates and some machinery from Canada will be exempt from the 50% tariffs starting Oct. 30, a move seen as helping Maine Sen. Susan Collins.",
+   "src": "AP",
+   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
   },
   {
    "d": "2026-10-23",
@@ -504,39 +565,39 @@
   },
   {
    "d": "2026-10-22",
-   "t": "Meta's new class of nonvoting stock lets Zuckerberg fund AI without losing control",
-   "s": "Meta is creating nonvoting shares it can sell to raise money for its AI buildout while keeping Mark Zuckerberg's voting control intact.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/22/2026/metas-new-class-of-nonvoting-stock-lets-zuckerberg-fund-ai-without-losing-control",
-   "tp": "Companies & deals",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Meta is creating nonvoting shares it can sell to raise money for its AI buildout while keeping Mark Zuckerberg's voting control intact.",
+   "src": "Semafor",
+   "t": "Meta's new class of nonvoting stock lets Zuckerberg fund AI without losing control",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/22/2026/metas-new-class-of-nonvoting-stock-lets-zuckerberg-fund-ai-without-losing-control"
   },
   {
    "d": "2026-10-22",
-   "t": "SpaceX $40 billion debt deal gets pricey as AI fears spread",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
    "s": "Investor jitters over AI spending are pushing up the borrowing cost of SpaceX's planned $40 billion debt raise.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
+   "t": "SpaceX $40 billion debt deal gets pricey as AI fears spread",
    "tp": "Markets",
-   "m": [
-    "MACRO",
-    "AI"
-   ]
+   "u": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread"
   },
   {
    "d": "2026-10-22",
-   "t": "US Treasury Secretary Bessent dismisses AI bubble fears",
-   "s": "Treasury Secretary Scott Bessent pushed back on worries that AI investment has become a bubble amid a volatile week for tech stocks.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/22/2026/us-treasury-secretary-bessent-dismisses-ai-bubble-fears",
-   "tp": "Economy",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "Treasury Secretary Scott Bessent pushed back on worries that AI investment has become a bubble amid a volatile week for tech stocks.",
+   "src": "Semafor",
+   "t": "US Treasury Secretary Bessent dismisses AI bubble fears",
+   "tp": "Economy",
+   "u": "https://www.semafor.com/article/10/22/2026/us-treasury-secretary-bessent-dismisses-ai-bubble-fears"
   },
   {
    "d": "2026-10-22",
@@ -645,5 +706,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-24T18:50"
+ "updatedAt": "2026-10-24T19:51"
 }
