@@ -40,6 +40,77 @@
  "items": [
   {
    "d": "2026-10-24",
+   "t": "Volkswagen plans new Audi plant in Georgia, handing Trump a win",
+   "s": "Volkswagen is preparing to build an Audi factory in Georgia, giving the brand US production as tariffs push automakers to localize manufacturing.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/economy/policy/articles/volkswagen-plans-audi-plant-georgia-195240219.html",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
+   "s": "A prominent AI skeptic argues GPU shortages are manufactured by Nvidia's pricing strategy rather than real demand limits, adding to doubts behind this week's tech selloff.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "SpaceX's telecom ambitions will be hard-won, CEOs and analysts say",
+   "s": "Telecom executives and analysts say SpaceX faces years of spectrum, regulatory and infrastructure hurdles before it can seriously challenge wireless carriers.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/stocks/article/its-not-something-that-gets-done-overnight-spacexs-telecom-ambitions-will-be-hard-won-ceos-and-analysts-say-120348084.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Government on alert over potential Poundland crisis",
+   "s": "UK officials are monitoring the discount chain's finances amid fears of store closures and job losses as weak consumer spending squeezes retailers.",
+   "src": "The Telegraph",
+   "u": "https://finance.yahoo.com/small-business/articles/government-alert-over-potential-poundland-114036200.html",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Hong Kong's biggest bank puts a stablecoin in 3 million wallets",
+   "s": "HSBC has rolled a stablecoin out to millions of retail customers in Hong Kong, one of the largest bank-led pushes of digital dollars into mainstream payments.",
+   "src": "Decrypt",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-biggest-bank-puts-130102515.html",
+   "tp": "Companies & deals",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "How two critical PHP web bugs almost broke the internet",
+   "s": "A pair of severe flaws in PHP, which runs much of the web, forced a scramble to patch servers and highlighted how AI tools are speeding up the discovery of exploitable bugs.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
    "m": [
     "MACRO"
    ],
@@ -129,44 +200,89 @@
   },
   {
    "d": "2026-10-24",
-   "t": "Jamie Dimon poaches Warren Buffett protégé Todd Combs to run a $10 billion JPMorgan fund",
-   "s": "JPMorgan has hired longtime Berkshire Hathaway investment manager Todd Combs to lead a new $10 billion investment fund.",
-   "src": "Fortune",
-   "u": "https://fortune.com/article/jamie-dimon-poached-warren-buffett-protege-todd-combs-at-least-hes-going-to-you-finance-banks-ceo/",
-   "tp": "Companies & deals",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "JPMorgan has hired longtime Berkshire Hathaway investment manager Todd Combs to lead a new $10 billion investment fund.",
+   "src": "Fortune",
+   "t": "Jamie Dimon poaches Warren Buffett protégé Todd Combs to run a $10 billion JPMorgan fund",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/article/jamie-dimon-poached-warren-buffett-protege-todd-combs-at-least-hes-going-to-you-finance-banks-ceo/"
   },
   {
    "d": "2026-10-24",
-   "t": "A top economist flags a 'core economic flaw' in the AI bull case as stock and bond trades unravel",
-   "s": "An economist argues the AI boom's financing, visible in data-center debt and rising credit-default-swap activity, rests on a shaky premise as markets wobble.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
-   "tp": "Markets",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "An economist argues the AI boom's financing, visible in data-center debt and rising credit-default-swap activity, rests on a shaky premise as markets wobble.",
+   "src": "Fortune",
+   "t": "A top economist flags a 'core economic flaw' in the AI bull case as stock and bond trades unravel",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/"
   },
   {
    "d": "2026-10-24",
-   "t": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-   "s": "Instacart held early talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-   "tp": "Companies & deals",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "Instacart held early talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
+   "src": "TechCrunch",
+   "t": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
   },
   {
    "d": "2026-10-24",
-   "t": "Block's new voice model sounds eerily human",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
    "s": "Block has released a voice AI model whose speech is strikingly natural, extending the payments company's push into AI.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "t": "Block's new voice model sounds eerily human",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Commodity trading houses are heading for another record year in metals as volatile prices and supply disruptions widen trading margins.",
+   "src": "Bloomberg",
+   "t": "Metals traders reap bonanza with another year of record profits",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/metals-traders-reap-bonanza-another-144505872.html"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Borrowing costs for German homebuyers have hit a 17-year high as the Iran war and oil spike push up inflation expectations and bond yields.",
+   "src": "Euronews",
+   "t": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/real-estate/articles/german-mortgage-rates-climb-highest-090404128.html"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO"
+   ],
+   "s": "US households' equity allocation as a share of financial assets has reached a record, topping the 2000 peak.",
+   "src": "Yahoo Finance",
+   "t": "Americans have never had more of their money in stocks — not even in the dot-com bubble",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/article/americans-have-never-had-more-of-their-money-in-stocks--not-even-in-the-dot-com-bubble-chart-of-the-day-120127109.html"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "Agent cloud startup Daytona hits $1B valuation",
+   "s": "Daytona, which provides cloud sandboxes for running AI agents, reached unicorn status with backing from FirstMark and a roster of prominent angel investors.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -174,36 +290,26 @@
    ]
   },
   {
-   "d": "2026-10-24",
-   "t": "Metals traders reap bonanza with another year of record profits",
-   "s": "Commodity trading houses are heading for another record year in metals as volatile prices and supply disruptions widen trading margins.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/metals-traders-reap-bonanza-another-144505872.html",
+   "d": "2026-10-23",
+   "t": "Quest Diagnostics confirms patients' personal and health data was compromised in breach",
+   "s": "The lab-testing giant said attackers accessed patient personal and medical information, the latest in a string of major cyber incidents this week.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+   "tp": "AI & tech",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "t": "First Russian diesel tanker under Trump-Putin deal heads to New York",
+   "s": "A tanker carrying Russian diesel is bound for New York under the new US-Russia fuel arrangement, the first such shipment since 2023 as the Iran war strains supplies.",
+   "src": "AP",
+   "u": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/",
    "tp": "Energy & trade",
    "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-24",
-   "t": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
-   "s": "Borrowing costs for German homebuyers have hit a 17-year high as the Iran war and oil spike push up inflation expectations and bond yields.",
-   "src": "Euronews",
-   "u": "https://finance.yahoo.com/real-estate/articles/german-mortgage-rates-climb-highest-090404128.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Americans have never had more of their money in stocks — not even in the dot-com bubble",
-   "s": "US households' equity allocation as a share of financial assets has reached a record, topping the 2000 peak.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/americans-have-never-had-more-of-their-money-in-stocks--not-even-in-the-dot-com-bubble-chart-of-the-day-120127109.html",
-   "tp": "Markets",
-   "m": [
-    "MACRO"
+    "MACRO",
+    "TNE"
    ]
   },
   {
@@ -316,15 +422,15 @@
   },
   {
    "d": "2026-10-23",
-   "t": "OpenAI says it will no longer train its AI models on the live internet, citing significant risks",
-   "s": "OpenAI is stopping training on freshly scraped web content, saying the open internet now poses too many risks to model quality and safety.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "OpenAI is stopping training on freshly scraped web content, saying the open internet now poses too many risks to model quality and safety.",
+   "src": "TechCrunch",
+   "t": "OpenAI says it will no longer train its AI models on the live internet, citing significant risks",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
   },
   {
    "d": "2026-10-22",
@@ -433,5 +539,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-24T16:19"
+ "updatedAt": "2026-10-24T16:55"
 }
