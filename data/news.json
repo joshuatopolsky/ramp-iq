@@ -40,38 +40,49 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "Issa brothers' petrol station empire targeted in £6bn Canadian swoop",
-   "s": "A Canadian bidder is weighing a roughly £6 billion move for the forecourt business built by Britain's Issa brothers, a sign of continued cross-border consolidation in fuel retail.",
-   "src": "The Telegraph",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/issa-brothers-petrol-station-empire-192027638.html",
-   "tp": "Companies & deals",
+   "t": "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
+   "s": "Three months after Elon Musk promised a feature-length AI version of The Odyssey, xAI's Grok put out a seven-minute opening that critics found visually passable but short on artistry.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "tp": "AI & tech",
    "m": [
-    "BENCH"
+    "AI"
    ]
   },
   {
    "d": "2026-10-25",
-   "t": "Britain's renewable energy boom is hitting a grid bottleneck",
-   "s": "UK wind and solar build-out is outpacing grid connections, leaving projects stuck in queues and pushing up system costs for power users.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/britains-renewable-energy-boom-hitting-190000848.html",
-   "tp": "Energy & trade",
+   "m": [
+    "BENCH"
+   ],
+   "s": "A Canadian bidder is weighing a roughly £6 billion move for the forecourt business built by Britain's Issa brothers, a sign of continued cross-border consolidation in fuel retail.",
+   "src": "The Telegraph",
+   "t": "Issa brothers' petrol station empire targeted in £6bn Canadian swoop",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/issa-brothers-petrol-station-empire-192027638.html"
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "MACRO",
     "SPEND"
-   ]
+   ],
+   "s": "UK wind and solar build-out is outpacing grid connections, leaving projects stuck in queues and pushing up system costs for power users.",
+   "src": "Oilprice.com",
+   "t": "Britain's renewable energy boom is hitting a grid bottleneck",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/britains-renewable-energy-boom-hitting-190000848.html"
   },
   {
    "d": "2026-10-25",
-   "t": "How Pepsi lost the cola wars and the KFC account",
-   "s": "PepsiCo's soda business has slipped further behind Coca-Cola, with the loss of KFC's fountain contract underscoring pressure on CEO Ramon Laguarta.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/pepsico-lost-cola-wars-kfc-coke-ceo-ramon-laguarta/",
-   "tp": "Companies & deals",
    "m": [
     "VNDR",
     "BENCH"
-   ]
+   ],
+   "s": "PepsiCo's soda business has slipped further behind Coca-Cola, with the loss of KFC's fountain contract underscoring pressure on CEO Ramon Laguarta.",
+   "src": "Fortune",
+   "t": "How Pepsi lost the cola wars and the KFC account",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/25/pepsico-lost-cola-wars-kfc-coke-ceo-ramon-laguarta/"
   },
   {
    "d": "2026-10-25",
@@ -712,18 +723,6 @@
   {
    "d": "2026-10-23",
    "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Ahead of Anthropic's expected public offering, early investors are sitting on reported paper gains worth many times their original stakes.",
-   "src": "TechCrunch",
-   "t": "What some of Anthropic's backers are worth before its IPO",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
     "MACRO",
     "AI"
    ],
@@ -973,5 +972,5 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
   }
  ],
- "updatedAt": "2026-10-25T16:55"
+ "updatedAt": "2026-10-25T17:51"
 }
