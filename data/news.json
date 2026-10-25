@@ -40,50 +40,98 @@
  "items": [
   {
    "d": "2026-10-24",
-   "t": "Fed set to lead G7 trio in hawkish rate pause: Eco Week Ahead",
-   "s": "The Fed, ECB and Bank of Japan are all expected to hold rates next week, with the Fed keeping a hawkish tone as markets bet on a December hike.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-set-lead-g7-trio-200000137.html",
-   "tp": "Economy",
+   "t": "Truckload contract rate increases riding steady above 10%",
+   "s": "Contract truckload rates are still running more than 10% above year-ago levels, a sign shippers face persistently higher freight costs heading into 2027 bid season.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/truckload-contract-rate-increases-riding-003000701.html",
+   "tp": "Supply chain",
    "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-24",
-   "t": "Fuel oil becomes Asia's next cost shock",
-   "s": "Singapore high-sulphur fuel oil now costs more than crude as lost Middle East and Russian supply and steep freight rates squeeze Asia's shipping-fuel market.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/fuel-oil-becomes-asia-next-210000466.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
+    "VNDR",
     "SPEND"
    ]
   },
   {
    "d": "2026-10-24",
-   "t": "Quebec's maple syrup reserves are nearly drained after U.S. buyers stockpiled ahead of tariffs",
-   "s": "American hoarding before tariffs has left Quebec's strategic maple syrup reserve close to empty.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/",
-   "tp": "Supply chain",
+   "t": "Record tanker rates cripple U.S. crude oil flows to Asia",
+   "s": "Soaring charter costs for supertankers have made shipping American crude to Asian buyers uneconomic, cutting export flows.",
+   "src": "Oilprice.com",
+   "u": "https://finance.yahoo.com/energy/articles/record-tanker-rates-cripple-u-230000714.html",
+   "tp": "Energy & trade",
    "m": [
     "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Will AI expose the rickety infrastructure of the internet?",
+   "s": "After a run of critical web vulnerabilities, TechCrunch examines whether AI-driven bug hunting and traffic will strain aging internet software that businesses depend on.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
     "VNDR"
    ]
   },
   {
    "d": "2026-10-24",
-   "t": "Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel",
-   "s": "A top economist argues the AI investment thesis has a fundamental weakness as data-center financing strains show up in credit markets.",
+   "t": "The AI graveyard: a running list of projects and startups that didn't make it",
+   "s": "A tally of AI products and startups that have shut down, highlighting the shakeout as funding concentrates in a few leaders.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The Fed, ECB and Bank of Japan are all expected to hold rates next week, with the Fed keeping a hawkish tone as markets bet on a December hike.",
+   "src": "Bloomberg",
+   "t": "Fed set to lead G7 trio in hawkish rate pause: Eco Week Ahead",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-set-lead-g7-trio-200000137.html"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "s": "Singapore high-sulphur fuel oil now costs more than crude as lost Middle East and Russian supply and steep freight rates squeeze Asia's shipping-fuel market.",
+   "src": "Oilprice.com",
+   "t": "Fuel oil becomes Asia's next cost shock",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/fuel-oil-becomes-asia-next-210000466.html"
+  },
+  {
+   "d": "2026-10-24",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "American hoarding before tariffs has left Quebec's strategic maple syrup reserve close to empty.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
-   "tp": "Markets",
+   "t": "Quebec's maple syrup reserves are nearly drained after U.S. buyers stockpiled ahead of tariffs",
+   "tp": "Supply chain",
+   "u": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/"
+  },
+  {
+   "d": "2026-10-24",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "A top economist argues the AI investment thesis has a fundamental weakness as data-center financing strains show up in credit markets.",
+   "src": "Fortune",
+   "t": "Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/"
   },
   {
    "d": "2026-10-24",
@@ -315,39 +363,39 @@
   },
   {
    "d": "2026-10-23",
-   "t": "US designates helium as a critical material, citing its importance for semiconductors",
-   "s": "The designation opens more federal financing to helium producers and brings closer monitoring of a gas essential to chipmaking.",
-   "src": "AP",
-   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html",
-   "tp": "Supply chain",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "The designation opens more federal financing to helium producers and brings closer monitoring of a gas essential to chipmaking.",
+   "src": "AP",
+   "t": "US designates helium as a critical material, citing its importance for semiconductors",
+   "tp": "Supply chain",
+   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html"
   },
   {
    "d": "2026-10-23",
-   "t": "Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets",
-   "s": "Google, Meta and others are offering communities bigger incentives and more transparency as local opposition to data centers grows.",
-   "src": "AP",
-   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Google, Meta and others are offering communities bigger incentives and more transparency as local opposition to data centers grows.",
+   "src": "AP",
+   "t": "Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets",
+   "tp": "AI & tech",
+   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html"
   },
   {
    "d": "2026-10-23",
-   "t": "Trump exempts some Canadian imports from his 50% tariffs",
-   "s": "Plywood, packing crates and some machinery from Canada will be exempt from the 50% tariffs starting Oct. 30, a move seen as helping Maine Sen. Susan Collins.",
-   "src": "AP",
-   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "SPEND"
-   ]
+   ],
+   "s": "Plywood, packing crates and some machinery from Canada will be exempt from the 50% tariffs starting Oct. 30, a move seen as helping Maine Sen. Susan Collins.",
+   "src": "AP",
+   "t": "Trump exempts some Canadian imports from his 50% tariffs",
+   "tp": "Energy & trade",
+   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html"
   },
   {
    "d": "2026-10-23",
@@ -552,18 +600,6 @@
    "u": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/"
   },
   {
-   "d": "2026-10-23",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "An Anthropic IPO at up to $2 trillion could hand early investors like Iconiq, Menlo and Spark Capital multibillion-dollar gains on stakes already valued far above their cost.",
-   "src": "TechCrunch",
-   "t": "What some of Anthropic's backers are worth before its IPO",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/"
-  },
-  {
    "d": "2026-10-22",
    "m": [
     "AI",
@@ -706,5 +742,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-24T19:51"
+ "updatedAt": "2026-10-24T20:55"
 }
