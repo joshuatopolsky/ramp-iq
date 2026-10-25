@@ -40,61 +40,84 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "Airbnb CEO Brian Chesky says 'pure people managers' and workers who resist change won't survive the AI era",
-   "s": "Chesky argues that AI will squeeze out managers who only manage people, and employees who won't adapt, as companies flatten and rework their teams.",
-   "src": "Fortune",
-   "u": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/",
-   "tp": "Labor",
+   "t": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
+   "s": "Analysts are digesting SpaceX's first earnings disclosures and sizing up what a probable combination with Tesla would mean for investors in both companies.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html",
+   "tp": "Companies & deals",
    "m": [
-    "AI",
+    "MACRO",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-25",
-   "t": "AI spending fears threaten to swamp Big Tech's strong earnings",
-   "s": "Investors going into this week's megacap tech reports care more about ballooning AI capex plans than about the strong profits they are expected to show.",
+   "t": "Zero-day option traders are betting against big S&P 500 swings",
+   "s": "Traders in same-day S&P 500 options are positioning for calm, wagering the index avoids large moves despite a volatile week of AI and oil headlines.",
    "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-spending-fears-threaten-swamp-130000182.html",
+   "u": "https://finance.yahoo.com/markets/options/articles/zero-day-option-traders-betting-140000009.html",
    "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "Chesky argues that AI will squeeze out managers who only manage people, and employees who won't adapt, as companies flatten and rework their teams.",
+   "src": "Fortune",
+   "t": "Airbnb CEO Brian Chesky says 'pure people managers' and workers who resist change won't survive the AI era",
+   "tp": "Labor",
+   "u": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/"
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Investors going into this week's megacap tech reports care more about ballooning AI capex plans than about the strong profits they are expected to show.",
+   "src": "Bloomberg",
+   "t": "AI spending fears threaten to swamp Big Tech's strong earnings",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-spending-fears-threaten-swamp-130000182.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Warsh tells traders to watch the data. They still follow the Fed",
-   "s": "Fed Chair Kevin Warsh tells markets to watch the economic data, but traders still look to Fed communications to set rate expectations ahead of this week's meeting.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/economy/policy/articles/warsh-tells-traders-watch-data-150000451.html",
-   "tp": "Economy",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Fed Chair Kevin Warsh tells markets to watch the economic data, but traders still look to Fed communications to set rate expectations ahead of this week's meeting.",
+   "src": "Bloomberg",
+   "t": "Warsh tells traders to watch the data. They still follow the Fed",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/warsh-tells-traders-watch-data-150000451.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Trump says decision time nears on Iran: deal or 'finish it off'",
-   "s": "Trump said he will soon choose between a deal with Iran and further military action, a decision with big stakes for oil markets.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/economy/policy/articles/trump-says-decision-time-nears-145705688.html",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "Trump said he will soon choose between a deal with Iran and further military action, a decision with big stakes for oil markets.",
+   "src": "Bloomberg",
+   "t": "Trump says decision time nears on Iran: deal or 'finish it off'",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-says-decision-time-nears-145705688.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Wells Fargo, Cisco, Intuit among six more companies objecting to tokenized stocks",
-   "s": "More big companies have filed objections to unauthorized tokenized versions of their shares trading on crypto platforms.",
-   "src": "Decrypt",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/wells-fargo-cisco-intuit-among-160103409.html",
-   "tp": "Markets",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "More big companies have filed objections to unauthorized tokenized versions of their shares trading on crypto platforms.",
+   "src": "Decrypt",
+   "t": "Wells Fargo, Cisco, Intuit among six more companies objecting to tokenized stocks",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/wells-fargo-cisco-intuit-among-160103409.html"
   },
   {
    "d": "2026-10-25",
@@ -952,29 +975,7 @@
    "t": "Nasdaq Sinks 694 Points as Meta Stock Slumps After Earnings: Stock Market Today",
    "tp": "Markets",
    "u": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-694-points-as-meta-stock-slumps-stock-market-today"
-  },
-  {
-   "d": "2026-10-22",
-   "m": [
-    "SPEND"
-   ],
-   "s": "Elon Musk has reportedly put roughly $1 billion into Skydance, the media company formed by Paramount Skydance's $110 billion takeover of Warner Bros. Discovery, as part of a wider equity raise.",
-   "src": "Reuters",
-   "t": "Elon Musk invests about $1B in Skydance, CNBC reports",
-   "tp": "Companies & deals",
-   "u": "https://virginiabusiness.com/elon-musk-invests-about-1b-in-skydance-cnbc-reports/"
-  },
-  {
-   "d": "2026-10-22",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Chemical maker Dow posted operating earnings of 71 cents a share versus a year-earlier loss, with sales up 13% and net income rising to $525 million as price increases and cost cuts outran higher raw-material and logistics costs.",
-   "src": "Quartz",
-   "t": "Dow beat earnings expectations as profit jumped on higher prices, cost cuts",
-   "tp": "Companies & deals",
-   "u": "https://qz.com/dow-earnings-beat-higher-prices-cost-cuts-102226"
   }
  ],
- "updatedAt": "2026-10-25T12:51"
+ "updatedAt": "2026-10-25T13:55"
 }
