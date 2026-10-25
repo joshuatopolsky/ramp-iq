@@ -40,26 +40,38 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
-   "s": "Analysts are digesting SpaceX's first earnings disclosures and sizing up what a probable combination with Tesla would mean for investors in both companies.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html",
-   "tp": "Companies & deals",
+   "t": "TechCrunch Mobility: Blue-green is the color of autonomy",
+   "s": "TechCrunch's weekly mobility roundup looks at the latest moves in autonomous driving and the companies racing to commercialize robotaxis and self-driving freight.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+   "tp": "AI & tech",
    "m": [
-    "MACRO",
-    "BENCH"
+    "AI",
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-25",
-   "t": "Zero-day option traders are betting against big S&P 500 swings",
-   "s": "Traders in same-day S&P 500 options are positioning for calm, wagering the index avoids large moves despite a volatile week of AI and oil headlines.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/markets/options/articles/zero-day-option-traders-betting-140000009.html",
-   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ],
+   "s": "Analysts are digesting SpaceX's first earnings disclosures and sizing up what a probable combination with Tesla would mean for investors in both companies.",
+   "src": "Yahoo Finance",
+   "t": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html"
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Traders in same-day S&P 500 options are positioning for calm, wagering the index avoids large moves despite a volatile week of AI and oil headlines.",
+   "src": "Bloomberg",
+   "t": "Zero-day option traders are betting against big S&P 500 swings",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/options/articles/zero-day-option-traders-betting-140000009.html"
   },
   {
    "d": "2026-10-25",
@@ -679,18 +691,6 @@
   {
    "d": "2026-10-23",
    "m": [
-    "SPEND",
-    "BENCH"
-   ],
-   "s": "Carta and NewView Capital are teaming up on a program aimed at making secondary sales by startup employees routine before an IPO.",
-   "src": "TechCrunch",
-   "t": "Carta and NewView partner to get more startups to let employees sell shares early",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
     "MACRO",
     "AI"
    ],
@@ -977,5 +977,5 @@
    "u": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-694-points-as-meta-stock-slumps-stock-market-today"
   }
  ],
- "updatedAt": "2026-10-25T13:55"
+ "updatedAt": "2026-10-25T14:50"
 }
