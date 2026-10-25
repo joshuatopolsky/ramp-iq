@@ -1,16 +1,64 @@
 {
- "updatedAt": "2026-10-24T21:51",
+ "excl": [
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  },
+  {
+   "d": "2026-10-06",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ],
+   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
+   "src": "Ramp Leading Indicators",
+   "t": "Faxing into the future: top industries paying for fax services",
+   "tp": "Companies & deals",
+   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
+  }
+ ],
  "items": [
   {
+   "d": "2026-10-25",
+   "t": "Markets Next Week: Crude oil at $117, broader market selloff and Q2 earnings in focus",
+   "s": "Indian stocks snapped a two-week winning streak as the Nifty50 fell 2.4% in a holiday-shortened week, pressured by high oil prices and foreign investor selling.",
+   "src": "Business Today",
+   "u": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-crude-oil-at-117-broader-market-selloff-and-q2-earnings-in-focus-563444-2026-10-25",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
    "d": "2026-10-24",
-   "t": "Jamie Dimon poached Warren Buffett protégé Todd Combs for a $10 billion fund",
-   "s": "JPMorgan hired Berkshire Hathaway investment manager Todd Combs to run a new $10 billion investment vehicle, and Buffett responded to the departure.",
-   "src": "Fortune",
-   "u": "https://fortune.com/article/jamie-dimon-poached-warren-buffett-protege-todd-combs-at-least-hes-going-to-you-finance-banks-ceo/",
-   "tp": "Companies & deals",
    "m": [
     "BENCH"
-   ]
+   ],
+   "s": "JPMorgan hired Berkshire Hathaway investment manager Todd Combs to run a new $10 billion investment vehicle, and Buffett responded to the departure.",
+   "src": "Fortune",
+   "t": "Jamie Dimon poached Warren Buffett protégé Todd Combs for a $10 billion fund",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/article/jamie-dimon-poached-warren-buffett-protege-todd-combs-at-least-hes-going-to-you-finance-banks-ceo/"
   },
   {
    "d": "2026-10-24",
@@ -564,26 +612,26 @@
   },
   {
    "d": "2026-10-22",
-   "t": "Mattel gives friendly investor a board seat to head off proxy fight",
-   "s": "Mattel signed a cooperation agreement with EdgePoint, which gives it a board seat, after Southeastern Asset Management prepared a boardroom challenge pushing for a sale.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/22/2026/mattel-gives-friendly-investor-a-board-seat-to-head-off-proxy-fight",
-   "tp": "Companies & deals",
    "m": [
     "BENCH"
-   ]
+   ],
+   "s": "Mattel signed a cooperation agreement with EdgePoint, which gives it a board seat, after Southeastern Asset Management prepared a boardroom challenge pushing for a sale.",
+   "src": "Semafor",
+   "t": "Mattel gives friendly investor a board seat to head off proxy fight",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/22/2026/mattel-gives-friendly-investor-a-board-seat-to-head-off-proxy-fight"
   },
   {
    "d": "2026-10-22",
-   "t": "Brian Chesky's new blueprint for Airbnb — and Silicon Valley",
-   "s": "Airbnb's CEO is positioning the company to profit from loneliness that he argues AI is making worse.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/22/2026/brian-cheskys-new-blueprint-for-airbnb-and-silicon-valley",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "TNE"
-   ]
+   ],
+   "s": "Airbnb's CEO is positioning the company to profit from loneliness that he argues AI is making worse.",
+   "src": "Semafor",
+   "t": "Brian Chesky's new blueprint for Airbnb — and Silicon Valley",
+   "tp": "AI & tech",
+   "u": "https://www.semafor.com/article/10/22/2026/brian-cheskys-new-blueprint-for-airbnb-and-silicon-valley"
   },
   {
    "d": "2026-10-22",
@@ -728,42 +776,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "excl": [
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  },
-  {
-   "d": "2026-10-06",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
-   "src": "Ramp Leading Indicators",
-   "t": "Faxing into the future: top industries paying for fax services",
-   "tp": "Companies & deals",
-   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
-  }
- ]
+ "updatedAt": "2026-10-25T04:51"
 }
