@@ -40,62 +40,62 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "As vote nears, Trump's AI gamble fuels economic uncertainty",
-   "s": "With the midterms close, the administration's heavy bet on AI-driven growth is leaving voters and businesses unsure where the economy is headed.",
-   "src": "LA Times",
-   "u": "https://finance.yahoo.com/economy/articles/vote-nears-trumps-ai-gamble-100000283.html",
-   "tp": "Economy",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "With the midterms close, the administration's heavy bet on AI-driven growth is leaving voters and businesses unsure where the economy is headed.",
+   "src": "LA Times",
+   "t": "As vote nears, Trump's AI gamble fuels economic uncertainty",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/articles/vote-nears-trumps-ai-gamble-100000283.html"
   },
   {
    "d": "2026-10-25",
-   "t": "SpaceX, Meta, and other hyperscalers are dropping clues you should not ignore",
-   "s": "Recent signals from the biggest AI infrastructure spenders hint at where capex and the AI trade are heading.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/spacex-meta-and-other-hyperscalers-are-dropping-clues-you-should-not-ignore-100000992.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Recent signals from the biggest AI infrastructure spenders hint at where capex and the AI trade are heading.",
+   "src": "Yahoo Finance",
+   "t": "SpaceX, Meta, and other hyperscalers are dropping clues you should not ignore",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/markets/article/spacex-meta-and-other-hyperscalers-are-dropping-clues-you-should-not-ignore-100000992.html"
   },
   {
    "d": "2026-10-25",
-   "t": "'I need a job to save my life': Inside the desperate hunt for work in America",
-   "s": "Job seekers describe a market where openings are scarce and searches drag on for months.",
-   "src": "USA TODAY",
-   "u": "https://finance.yahoo.com/economy/articles/job-save-life-inside-desperate-090124580.html",
-   "tp": "Labor",
    "m": [
     "MACRO",
     "BENCH"
-   ]
+   ],
+   "s": "Job seekers describe a market where openings are scarce and searches drag on for months.",
+   "src": "USA TODAY",
+   "t": "'I need a job to save my life': Inside the desperate hunt for work in America",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/economy/articles/job-save-life-inside-desperate-090124580.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
-   "s": "Central banks are moving in opposite directions on gold, with some trimming holdings while others keep adding.",
-   "src": "Euronews",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-market-central-banks-russia-065833456.html",
-   "tp": "Markets",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Central banks are moving in opposite directions on gold, with some trimming holdings while others keep adding.",
+   "src": "Euronews",
+   "t": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-market-central-banks-russia-065833456.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Americans keep spending despite calling the economy bad",
-   "s": "A commentary argues that resilient consumer spending contradicts gloomy sentiment, so midterm polling is a poor economic forecast.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/midterm-elections-polling-consumer-sentiment/",
-   "tp": "Economy",
    "m": [
     "MACRO",
     "SPEND"
-   ]
+   ],
+   "s": "A commentary argues that resilient consumer spending contradicts gloomy sentiment, so midterm polling is a poor economic forecast.",
+   "src": "Fortune",
+   "t": "Americans keep spending despite calling the economy bad",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/25/midterm-elections-polling-consumer-sentiment/"
   },
   {
    "d": "2026-10-25",
@@ -132,16 +132,75 @@
    "u": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-crude-oil-at-117-broader-market-selloff-and-q2-earnings-in-focus-563444-2026-10-25"
   },
   {
-   "d": "2026-10-24",
-   "t": "Halloween candy sales are down. Here's what's driving it",
-   "s": "Higher cocoa and sugar costs and squeezed household budgets are pulling down Halloween candy purchases this year.",
-   "src": "USA TODAY",
-   "u": "https://finance.yahoo.com/economy/articles/halloween-candy-sales-down-heres-173931968.html",
+   "d": "2026-10-25",
+   "t": "Trump announces Audi will build $4 billion US factory in Georgia",
+   "s": "Volkswagen's Audi will spend about $4 billion on a Georgia plant, the brand's first US factory, after a tariff deal with the White House.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/trump-set-announce-plan-audi-213133434.html",
    "tp": "Companies & deals",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "The family dispute threatening to upend Ray-Ban's global empire",
+   "s": "A succession fight among the Del Vecchio heirs is unsettling the ownership of EssilorLuxottica, the eyewear giant behind Ray-Ban.",
+   "src": "The Telegraph",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/family-dispute-threatening-upend-ray-100000703.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Babcock in push to build warships for US navy",
+   "s": "British defense contractor Babcock is pursuing US Navy shipbuilding work as Washington looks to allies to ease its naval construction backlog.",
+   "src": "The Telegraph",
+   "u": "https://finance.yahoo.com/economy/policy/articles/babcock-push-build-warships-us-090000195.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
+   "s": "Cross-border avocado shipments from Mexico now feed an estimated $641 million a year into US trucking and warehousing businesses.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/economy/articles/borderlands-mexico-avocado-imports-generate-110000094.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "How Pepsi fell behind in the cola wars—and then lost KFC",
+   "s": "PepsiCo's soda business has lost ground to Coca-Cola, and the loss of the KFC fountain account adds a fresh blow.",
+   "src": "Fortune",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pepsi-fell-behind-cola-wars-070000297.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-24",
    "m": [
     "SPEND",
     "MACRO"
-   ]
+   ],
+   "s": "Higher cocoa and sugar costs and squeezed household budgets are pulling down Halloween candy purchases this year.",
+   "src": "USA TODAY",
+   "t": "Halloween candy sales are down. Here's what's driving it",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/economy/articles/halloween-candy-sales-down-heres-173931968.html"
   },
   {
    "d": "2026-10-24",
@@ -264,18 +323,6 @@
   {
    "d": "2026-10-24",
    "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Volkswagen is preparing to build an Audi factory in Georgia, giving the brand US production as tariffs push automakers to localize manufacturing.",
-   "src": "Bloomberg",
-   "t": "Volkswagen plans new Audi plant in Georgia, handing Trump a win",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/economy/policy/articles/volkswagen-plans-audi-plant-georgia-195240219.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
     "AI",
     "VNDR"
    ],
@@ -353,17 +400,6 @@
    "t": "France's latest debt warning describes a country where governance is breaking down — and even doing too little, too late is barely possible",
    "tp": "Economy",
    "u": "https://fortune.com/2026/10/24/france-debt-crisis-warning-moodys-governance-budget-deficit-presidential-election-politics/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "TNE"
-   ],
-   "s": "An AP report says nearly every U.S. transit system still needs a human operator, but D.C. Metro's roughly $1 billion Red Line upgrade could run trains with no one in the cab by 2033, and Los Angeles is studying a fully automated line.",
-   "src": "Fortune",
-   "t": "The U.S. lags far behind on using driverless trains, but new projects could open the floodgates",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/24/transit-innovation-driverless-trains-subways-monorail-people-movers/"
   },
   {
    "d": "2026-10-24",
@@ -836,5 +872,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-25T06:50"
+ "updatedAt": "2026-10-25T07:51"
 }
