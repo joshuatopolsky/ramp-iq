@@ -40,14 +40,37 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "Markets Next Week: Crude oil at $117, broader market selloff and Q2 earnings in focus",
-   "s": "Indian stocks snapped a two-week winning streak as the Nifty50 fell 2.4% in a holiday-shortened week, pressured by high oil prices and foreign investor selling.",
-   "src": "Business Today",
-   "u": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-crude-oil-at-117-broader-market-selloff-and-q2-earnings-in-focus-563444-2026-10-25",
-   "tp": "Markets",
+   "t": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both",
+   "s": "Small nuclear reactors are being pitched as a way to give military bases and space missions reliable power without depending on the strained grid.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/25/us-military-nasa-nuclear-microreactors/",
+   "tp": "Energy & trade",
    "m": [
     "MACRO"
    ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Palantir CEO Alex Karp says neurodivergent workers will thrive in the AI era. An autistic psychologist says he has a point",
+   "s": "Karp argues people who think differently will have an edge as AI takes over routine work, and a psychologist who is autistic largely agrees.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/25/palantir-ceo-alex-karp-neurodivergent-people-tech-ai-think-differently/",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Indian stocks snapped a two-week winning streak as the Nifty50 fell 2.4% in a holiday-shortened week, pressured by high oil prices and foreign investor selling.",
+   "src": "Business Today",
+   "t": "Markets Next Week: Crude oil at $117, broader market selloff and Q2 earnings in focus",
+   "tp": "Markets",
+   "u": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-crude-oil-at-117-broader-market-selloff-and-q2-earnings-in-focus-563444-2026-10-25"
   },
   {
    "d": "2026-10-24",
@@ -281,29 +304,6 @@
    "t": "Elon Musk's SpaceX and Jeff Bezos' Blue Origin will face off in orbit next year, NASA confirms",
    "tp": "Companies & deals",
    "u": "https://fortune.com/2026/10/24/elon-musk-spacex-jeff-bezos-blue-origin-lunar-landers-earth-orbit-docking-nasa-artemis-moon-progam/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "SPEND",
-    "MACRO"
-   ],
-   "s": "NielsenIQ data show Halloween candy sales down 6.7% year over year in the month to Oct. 17, with only small bags growing as $4.29 gas (up nearly 40%) and candy prices up 44% in five years squeeze shoppers.",
-   "src": "Fortune",
-   "t": "America skimps on Halloween as high fuel prices force shoppers to buy small bags of candy and abandon large sizes",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/24/halloween-candy-sales-slump-small-bags-high-fuel-prices-inflation-iran-war-cocoa/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO"
-   ],
-   "s": "A Nationwide survey finds 72% of Gen Z investors adjusted retirement portfolios ahead of the Nov. 3 midterms versus 17% of boomers, while advisers point to average S&P 500 gains of about 15% in the year after midterms since 1950.",
-   "src": "Fortune",
-   "t": "Gen Z is treating the midterms like a market event. Boomers are treating them like weather",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/24/gen-z-baby-boomers-midterms-investing-patterns/"
   },
   {
    "d": "2026-10-24",
@@ -776,5 +776,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-25T04:51"
+ "updatedAt": "2026-10-25T05:52"
 }
