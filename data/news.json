@@ -40,26 +40,85 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both",
-   "s": "Small nuclear reactors are being pitched as a way to give military bases and space missions reliable power without depending on the strained grid.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/us-military-nasa-nuclear-microreactors/",
-   "tp": "Energy & trade",
+   "t": "As vote nears, Trump's AI gamble fuels economic uncertainty",
+   "s": "With the midterms close, the administration's heavy bet on AI-driven growth is leaving voters and businesses unsure where the economy is headed.",
+   "src": "LA Times",
+   "u": "https://finance.yahoo.com/economy/articles/vote-nears-trumps-ai-gamble-100000283.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "SpaceX, Meta, and other hyperscalers are dropping clues you should not ignore",
+   "s": "Recent signals from the biggest AI infrastructure spenders hint at where capex and the AI trade are heading.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/spacex-meta-and-other-hyperscalers-are-dropping-clues-you-should-not-ignore-100000992.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "'I need a job to save my life': Inside the desperate hunt for work in America",
+   "s": "Job seekers describe a market where openings are scarce and searches drag on for months.",
+   "src": "USA TODAY",
+   "u": "https://finance.yahoo.com/economy/articles/job-save-life-inside-desperate-090124580.html",
+   "tp": "Labor",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
+   "s": "Central banks are moving in opposite directions on gold, with some trimming holdings while others keep adding.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-market-central-banks-russia-065833456.html",
+   "tp": "Markets",
    "m": [
     "MACRO"
    ]
   },
   {
    "d": "2026-10-25",
-   "t": "Palantir CEO Alex Karp says neurodivergent workers will thrive in the AI era. An autistic psychologist says he has a point",
-   "s": "Karp argues people who think differently will have an edge as AI takes over routine work, and a psychologist who is autistic largely agrees.",
+   "t": "Americans keep spending despite calling the economy bad",
+   "s": "A commentary argues that resilient consumer spending contradicts gloomy sentiment, so midterm polling is a poor economic forecast.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/palantir-ceo-alex-karp-neurodivergent-people-tech-ai-think-differently/",
-   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/25/midterm-elections-polling-consumer-sentiment/",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Small nuclear reactors are being pitched as a way to give military bases and space missions reliable power without depending on the strained grid.",
+   "src": "Fortune",
+   "t": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/25/us-military-nasa-nuclear-microreactors/"
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "AI",
     "BENCH"
-   ]
+   ],
+   "s": "Karp argues people who think differently will have an edge as AI takes over routine work, and a psychologist who is autistic largely agrees.",
+   "src": "Fortune",
+   "t": "Palantir CEO Alex Karp says neurodivergent workers will thrive in the AI era. An autistic psychologist says he has a point",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/25/palantir-ceo-alex-karp-neurodivergent-people-tech-ai-think-differently/"
   },
   {
    "d": "2026-10-25",
@@ -71,6 +130,18 @@
    "t": "Markets Next Week: Crude oil at $117, broader market selloff and Q2 earnings in focus",
    "tp": "Markets",
    "u": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-crude-oil-at-117-broader-market-selloff-and-q2-earnings-in-focus-563444-2026-10-25"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Halloween candy sales are down. Here's what's driving it",
+   "s": "Higher cocoa and sugar costs and squeezed household budgets are pulling down Halloween candy purchases this year.",
+   "src": "USA TODAY",
+   "u": "https://finance.yahoo.com/economy/articles/halloween-candy-sales-down-heres-173931968.html",
+   "tp": "Companies & deals",
+   "m": [
+    "SPEND",
+    "MACRO"
+   ]
   },
   {
    "d": "2026-10-24",
@@ -293,17 +364,6 @@
    "t": "The U.S. lags far behind on using driverless trains, but new projects could open the floodgates",
    "tp": "AI & tech",
    "u": "https://fortune.com/2026/10/24/transit-innovation-driverless-trains-subways-monorail-people-movers/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "VNDR"
-   ],
-   "s": "NASA says a roughly two-week, four-astronaut Artemis III docking test next summer will pair Orion with Blue Origin's lander before SpaceX's Starship, with the first crewed landing still slated for 2028.",
-   "src": "Fortune",
-   "t": "Elon Musk's SpaceX and Jeff Bezos' Blue Origin will face off in orbit next year, NASA confirms",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/24/elon-musk-spacex-jeff-bezos-blue-origin-lunar-landers-earth-orbit-docking-nasa-artemis-moon-progam/"
   },
   {
    "d": "2026-10-24",
@@ -776,5 +836,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-25T05:52"
+ "updatedAt": "2026-10-25T06:50"
 }
