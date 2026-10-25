@@ -40,95 +40,129 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "Billy Evans' 'Theranos 2.0' startup has patents, investors, and a missing CTO—but no product",
-   "s": "Elizabeth Holmes's partner has raised money and filed patents for a blood-testing startup, but Fortune finds no working product and a vacant technical leadership role.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/elizabeth-holmes-partner-billy-evans-haemanthus-blood-testing-startup-theranos/",
+   "t": "Bitcoin ETFs snap two-week losing streak despite late-week slide",
+   "s": "US spot bitcoin ETFs drew net inflows for the week, ending two straight weeks of outflows even as prices slipped late in the week.",
+   "src": "Decrypt",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-snap-two-week-140103174.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "The 'desperate' TV investors behind pensioners' streaming revolt",
+   "s": "A look at the investors pushing a shareholder revolt over a broadcaster's streaming strategy, and why pension holders are involved.",
+   "src": "The Telegraph",
+   "u": "https://finance.yahoo.com/media-advertising/articles/desperate-tv-investors-behind-pensioners-120000496.html",
    "tp": "Companies & deals",
    "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Endeavor snags Midway hotels at a discount as RLJ Lodging sells for $68M",
+   "s": "RLJ Lodging Trust sold a pair of Chicago Midway-area hotels to Vishal Thakkar's Endeavor for $68 million, below prior valuations.",
+   "src": "The Real Deal",
+   "u": "https://finance.yahoo.com/real-estate/articles/vishal-thakkar-endeavor-snags-midway-120000106.html",
+   "tp": "Companies & deals",
+   "m": [
+    "TNE",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-25",
-   "t": "The experience economy keeps defying expectations. Maybe we've been looking at it all wrong",
-   "s": "Consumer spending on travel, events and dining keeps outrunning gloomy forecasts, prompting a rethink of how experiences fit into household budgets.",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Elizabeth Holmes's partner has raised money and filed patents for a blood-testing startup, but Fortune finds no working product and a vacant technical leadership role.",
    "src": "Fortune",
-   "u": "https://finance.yahoo.com/news/experience-economy-keeps-defying-expectations-093000111.html",
-   "tp": "Economy",
+   "t": "Billy Evans' 'Theranos 2.0' startup has patents, investors, and a missing CTO—but no product",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/25/elizabeth-holmes-partner-billy-evans-haemanthus-blood-testing-startup-theranos/"
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "Consumer spending on travel, events and dining keeps outrunning gloomy forecasts, prompting a rethink of how experiences fit into household budgets.",
+   "src": "Fortune",
+   "t": "The experience economy keeps defying expectations. Maybe we've been looking at it all wrong",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/news/experience-economy-keeps-defying-expectations-093000111.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
+   "m": [
+    "MACRO"
+   ],
    "s": "With housing demand stuck, more sellers are cutting asking prices and offering concessions such as covering closing costs to get deals done.",
    "src": "AP",
-   "u": "https://finance.yahoo.com/real-estate/articles/home-sellers-lowering-price-helping-125922082.html",
+   "t": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/real-estate/articles/home-sellers-lowering-price-helping-125922082.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Chain-reaction chaos threatens to unleash new risks on the world",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
    "s": "Axios looks at how tightly linked shocks across AI, markets and geopolitics can cascade into risks that are harder for businesses to anticipate.",
    "src": "Axios",
-   "u": "https://finance.yahoo.com/technology/ai/articles/chain-reaction-chaos-threatens-unleash-125542712.html",
+   "t": "Chain-reaction chaos threatens to unleash new risks on the world",
    "tp": "AI & tech",
-   "m": [
-    "AI",
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/technology/ai/articles/chain-reaction-chaos-threatens-unleash-125542712.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Inflation under Trump is only about half the rate under Biden. Voters are still just as mad",
+   "m": [
+    "MACRO"
+   ],
    "s": "Price growth has slowed markedly, yet voter frustration over the cost of living ahead of the midterms remains about as high as it was under the prior administration.",
    "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/economy/policy/article/inflation-under-trump-is-only-about-half-the-rate-under-biden-voters-are-still-just-as-mad-120043933.html",
+   "t": "Inflation under Trump is only about half the rate under Biden. Voters are still just as mad",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/article/inflation-under-trump-is-only-about-half-the-rate-under-biden-voters-are-still-just-as-mad-120043933.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Will the Fed drop any hints on rate rises?",
+   "m": [
+    "MACRO"
+   ],
    "s": "Ahead of this week's Fed meeting, investors are watching for signals on whether policymakers are leaning toward rate increases as energy-driven inflation risks build.",
    "src": "Financial Times",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-drop-hints-rate-rises-120003602.html",
+   "t": "Will the Fed drop any hints on rate rises?",
    "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-drop-hints-rate-rises-120003602.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Apollo's Slok says AI has delivered zero payoff outside of tech",
-   "s": "Apollo's chief economist argues the AI boom has yet to show measurable productivity or profit gains for companies beyond the tech sector itself.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/technology/ai/articles/apollo-slok-says-ai-delivered-092836159.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Apollo's chief economist argues the AI boom has yet to show measurable productivity or profit gains for companies beyond the tech sector itself.",
+   "src": "Bloomberg",
+   "t": "Apollo's Slok says AI has delivered zero payoff outside of tech",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/ai/articles/apollo-slok-says-ai-delivered-092836159.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Goldman cuts Kospi 12-month target by 25% as AI trade unravels",
-   "s": "Goldman Sachs slashed its target for South Korea's chip-heavy benchmark index, citing the unwinding of the AI-driven rally in semiconductor stocks.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/goldman-cuts-kospi-12-month-074443032.html",
-   "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "Goldman Sachs slashed its target for South Korea's chip-heavy benchmark index, citing the unwinding of the AI-driven rally in semiconductor stocks.",
+   "src": "Bloomberg",
+   "t": "Goldman cuts Kospi 12-month target by 25% as AI trade unravels",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/goldman-cuts-kospi-12-month-074443032.html"
   },
   {
    "d": "2026-10-25",
@@ -551,6 +585,18 @@
   },
   {
    "d": "2026-10-23",
+   "t": "Carta and NewView partner to get more startups to let employees sell shares early",
+   "s": "Carta and NewView Capital are teaming up on a program aimed at making secondary sales by startup employees routine before an IPO.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+   "tp": "Companies & deals",
+   "m": [
+    "SPEND",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-23",
    "m": [
     "MACRO",
     "AI"
@@ -727,18 +773,6 @@
    "t": "World shares are mixed after Wall Street's AI-related losses, while oil prices jump",
    "tp": "Markets",
    "u": "https://clickondetroit.com/business/2026/10/23/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "OpenAI is stopping training on freshly scraped web content, saying the open internet now poses too many risks to model quality and safety.",
-   "src": "TechCrunch",
-   "t": "OpenAI says it will no longer train its AI models on the live internet, citing significant risks",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
   },
   {
    "d": "2026-10-23",
@@ -941,5 +975,5 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-25T09:51"
+ "updatedAt": "2026-10-25T10:55"
 }
