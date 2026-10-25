@@ -40,25 +40,60 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "Repricing America's $1 trillion gold reserves at market value could backfire, analyst warns",
-   "s": "Marking the Treasury's gold stockpile to current prices to ease debt pressures could unsettle bond markets and undercut confidence rather than help, an analyst argues.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/us-largest-gold-reserves-1-trillion-mark-to-market-debt-treasury-bond-yields/",
-   "tp": "Economy",
+   "t": "Issa brothers' petrol station empire targeted in £6bn Canadian swoop",
+   "s": "A Canadian bidder is weighing a roughly £6 billion move for the forecourt business built by Britain's Issa brothers, a sign of continued cross-border consolidation in fuel retail.",
+   "src": "The Telegraph",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/issa-brothers-petrol-station-empire-192027638.html",
+   "tp": "Companies & deals",
    "m": [
-    "MACRO"
+    "BENCH"
    ]
   },
   {
    "d": "2026-10-25",
-   "t": "'Boring Budget' would pave way for early election, City fears",
-   "s": "London economists warn a snap election after this week's low-key UK Budget could push up already-high borrowing costs, with UBS seeing a gilt selloff of at least 0.2 points.",
-   "src": "The Telegraph",
-   "u": "https://finance.yahoo.com/economy/policy/articles/boring-budget-pave-way-early-160841079.html",
-   "tp": "Economy",
+   "t": "Britain's renewable energy boom is hitting a grid bottleneck",
+   "s": "UK wind and solar build-out is outpacing grid connections, leaving projects stuck in queues and pushing up system costs for power users.",
+   "src": "Oilprice.com",
+   "u": "https://finance.yahoo.com/energy/articles/britains-renewable-energy-boom-hitting-190000848.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "How Pepsi lost the cola wars and the KFC account",
+   "s": "PepsiCo's soda business has slipped further behind Coca-Cola, with the loss of KFC's fountain contract underscoring pressure on CEO Ramon Laguarta.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/25/pepsico-lost-cola-wars-kfc-coke-ceo-ramon-laguarta/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Marking the Treasury's gold stockpile to current prices to ease debt pressures could unsettle bond markets and undercut confidence rather than help, an analyst argues.",
+   "src": "Fortune",
+   "t": "Repricing America's $1 trillion gold reserves at market value could backfire, analyst warns",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/25/us-largest-gold-reserves-1-trillion-mark-to-market-debt-treasury-bond-yields/"
+  },
+  {
+   "d": "2026-10-25",
+   "m": [
+    "MACRO"
+   ],
+   "s": "London economists warn a snap election after this week's low-key UK Budget could push up already-high borrowing costs, with UBS seeing a gilt selloff of at least 0.2 points.",
+   "src": "The Telegraph",
+   "t": "'Boring Budget' would pave way for early election, City fears",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/boring-budget-pave-way-early-160841079.html"
   },
   {
    "d": "2026-10-25",
@@ -387,18 +422,6 @@
   {
    "d": "2026-10-25",
    "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Karp argues people who think differently will have an edge as AI takes over routine work, and a psychologist who is autistic largely agrees.",
-   "src": "Fortune",
-   "t": "Palantir CEO Alex Karp says neurodivergent workers will thrive in the AI era. An autistic psychologist says he has a point",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/25/palantir-ceo-alex-karp-neurodivergent-people-tech-ai-think-differently/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
     "MACRO"
    ],
    "s": "Indian stocks snapped a two-week winning streak as the Nifty50 fell 2.4% in a holiday-shortened week, pressured by high oil prices and foreign investor selling.",
@@ -713,30 +736,6 @@
   {
    "d": "2026-10-23",
    "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Google, Meta and others are offering communities bigger incentives and more transparency as local opposition to data centers grows.",
-   "src": "AP",
-   "t": "Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets",
-   "tp": "AI & tech",
-   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Plywood, packing crates and some machinery from Canada will be exempt from the 50% tariffs starting Oct. 30, a move seen as helping Maine Sen. Susan Collins.",
-   "src": "AP",
-   "t": "Trump exempts some Canadian imports from his 50% tariffs",
-   "tp": "Energy & trade",
-   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
     "MACRO",
     "TNE"
    ],
@@ -974,5 +973,5 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
   }
  ],
- "updatedAt": "2026-10-25T15:55"
+ "updatedAt": "2026-10-25T16:55"
 }
