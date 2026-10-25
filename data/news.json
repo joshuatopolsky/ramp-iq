@@ -1,90 +1,64 @@
 {
- "excl": [
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  },
-  {
-   "d": "2026-10-06",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
-   "src": "Ramp Leading Indicators",
-   "t": "Faxing into the future: top industries paying for fax services",
-   "tp": "Companies & deals",
-   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
-  }
- ],
+ "updatedAt": "2026-10-24T21:51",
  "items": [
   {
    "d": "2026-10-24",
-   "t": "Truckload contract rate increases riding steady above 10%",
-   "s": "Contract truckload rates are still running more than 10% above year-ago levels, a sign shippers face persistently higher freight costs heading into 2027 bid season.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/truckload-contract-rate-increases-riding-003000701.html",
-   "tp": "Supply chain",
+   "t": "Jamie Dimon poached Warren Buffett protégé Todd Combs for a $10 billion fund",
+   "s": "JPMorgan hired Berkshire Hathaway investment manager Todd Combs to run a new $10 billion investment vehicle, and Buffett responded to the departure.",
+   "src": "Fortune",
+   "u": "https://fortune.com/article/jamie-dimon-poached-warren-buffett-protege-todd-combs-at-least-hes-going-to-you-finance-banks-ceo/",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-24",
    "m": [
     "VNDR",
     "SPEND"
-   ]
+   ],
+   "s": "Contract truckload rates are still running more than 10% above year-ago levels, a sign shippers face persistently higher freight costs heading into 2027 bid season.",
+   "src": "FreightWaves",
+   "t": "Truckload contract rate increases riding steady above 10%",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/truckload-contract-rate-increases-riding-003000701.html"
   },
   {
    "d": "2026-10-24",
-   "t": "Record tanker rates cripple U.S. crude oil flows to Asia",
-   "s": "Soaring charter costs for supertankers have made shipping American crude to Asian buyers uneconomic, cutting export flows.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/record-tanker-rates-cripple-u-230000714.html",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "Soaring charter costs for supertankers have made shipping American crude to Asian buyers uneconomic, cutting export flows.",
+   "src": "Oilprice.com",
+   "t": "Record tanker rates cripple U.S. crude oil flows to Asia",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/record-tanker-rates-cripple-u-230000714.html"
   },
   {
    "d": "2026-10-24",
-   "t": "Will AI expose the rickety infrastructure of the internet?",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
    "s": "After a run of critical web vulnerabilities, TechCrunch examines whether AI-driven bug hunting and traffic will strain aging internet software that businesses depend on.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "t": "Will AI expose the rickety infrastructure of the internet?",
    "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
+   "u": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
   },
   {
    "d": "2026-10-24",
-   "t": "The AI graveyard: a running list of projects and startups that didn't make it",
-   "s": "A tally of AI products and startups that have shut down, highlighting the shakeout as funding concentrates in a few leaders.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "A tally of AI products and startups that have shut down, highlighting the shakeout as funding concentrates in a few leaders.",
+   "src": "TechCrunch",
+   "t": "The AI graveyard: a running list of projects and startups that didn't make it",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
   },
   {
    "d": "2026-10-24",
@@ -282,17 +256,6 @@
    "t": "Gen Z is treating the midterms like a market event. Boomers are treating them like weather",
    "tp": "Markets",
    "u": "https://fortune.com/2026/10/24/gen-z-baby-boomers-midterms-investing-patterns/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "AI"
-   ],
-   "s": "AI voice-cloning scams are spreading as a three-second clip can yield an 85% voice match, with an estimated 15 million U.S. adults losing about $68 billion to scams in 2025 and 12% of reported scams involving AI or deepfakes.",
-   "src": "Fortune",
-   "t": "Scammers used AI to clone her daughter's voice and fake a kidnapping. A voice expert says every family now needs a safe word",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/24/ai-voice-cloning-scam-fake-kidnapping-safe-word/"
   },
   {
    "d": "2026-10-24",
@@ -601,6 +564,29 @@
   },
   {
    "d": "2026-10-22",
+   "t": "Mattel gives friendly investor a board seat to head off proxy fight",
+   "s": "Mattel signed a cooperation agreement with EdgePoint, which gives it a board seat, after Southeastern Asset Management prepared a boardroom challenge pushing for a sale.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/22/2026/mattel-gives-friendly-investor-a-board-seat-to-head-off-proxy-fight",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Brian Chesky's new blueprint for Airbnb — and Silicon Valley",
+   "s": "Airbnb's CEO is positioning the company to profit from loneliness that he argues AI is making worse.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/22/2026/brian-cheskys-new-blueprint-for-airbnb-and-silicon-valley",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-22",
    "m": [
     "AI",
     "MACRO"
@@ -742,5 +728,42 @@
    "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
   }
  ],
- "updatedAt": "2026-10-24T20:55"
+ "excl": [
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  },
+  {
+   "d": "2026-10-06",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ],
+   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
+   "src": "Ramp Leading Indicators",
+   "t": "Faxing into the future: top industries paying for fax services",
+   "tp": "Companies & deals",
+   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
+  }
+ ]
 }
