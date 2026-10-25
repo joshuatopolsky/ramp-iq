@@ -40,15 +40,37 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "TechCrunch Mobility: Blue-green is the color of autonomy",
-   "s": "TechCrunch's weekly mobility roundup looks at the latest moves in autonomous driving and the companies racing to commercialize robotaxis and self-driving freight.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-   "tp": "AI & tech",
+   "t": "Repricing America's $1 trillion gold reserves at market value could backfire, analyst warns",
+   "s": "Marking the Treasury's gold stockpile to current prices to ease debt pressures could unsettle bond markets and undercut confidence rather than help, an analyst argues.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/25/us-largest-gold-reserves-1-trillion-mark-to-market-debt-treasury-bond-yields/",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "'Boring Budget' would pave way for early election, City fears",
+   "s": "London economists warn a snap election after this week's low-key UK Budget could push up already-high borrowing costs, with UBS seeing a gilt selloff of at least 0.2 points.",
+   "src": "The Telegraph",
+   "u": "https://finance.yahoo.com/economy/policy/articles/boring-budget-pave-way-early-160841079.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "TechCrunch's weekly mobility roundup looks at the latest moves in autonomous driving and the companies racing to commercialize robotaxis and self-driving freight.",
+   "src": "TechCrunch",
+   "t": "TechCrunch Mobility: Blue-green is the color of autonomy",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"
   },
   {
    "d": "2026-10-25",
@@ -431,18 +453,6 @@
    "t": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/economy/articles/borderlands-mexico-avocado-imports-generate-110000094.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "PepsiCo's soda business has lost ground to Coca-Cola, and the loss of the KFC fountain account adds a fresh blow.",
-   "src": "Fortune",
-   "t": "How Pepsi fell behind in the cola wars—and then lost KFC",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pepsi-fell-behind-cola-wars-070000297.html"
   },
   {
    "d": "2026-10-24",
@@ -962,20 +972,7 @@
    "t": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
    "tp": "Markets",
    "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
-  },
-  {
-   "d": "2026-10-22",
-   "m": [
-    "MACRO",
-    "AI",
-    "TNE"
-   ],
-   "s": "The Nasdaq closed down 2.6% at 26,008 and the S&P 500 fell 1.2% while the Dow ended flat, as Meta dropped 7% on its $135B-$145B capex outlook, Tesla slid 3.1%, P&G jumped 5.6%, and WTI crude rose 3% to about $100.",
-   "src": "Kiplinger",
-   "t": "Nasdaq Sinks 694 Points as Meta Stock Slumps After Earnings: Stock Market Today",
-   "tp": "Markets",
-   "u": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-694-points-as-meta-stock-slumps-stock-market-today"
   }
  ],
- "updatedAt": "2026-10-25T14:50"
+ "updatedAt": "2026-10-25T15:55"
 }
