@@ -40,22 +40,33 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "Microsoft offers voluntary buyouts to about 60,000 employees",
-   "s": "Microsoft is extending voluntary buyout offers to roughly 60,000 workers as it reshapes its workforce around AI spending.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html",
-   "tp": "Labor",
+   "t": "Oil edges higher, holding near six-month highs after attacks on Saudi facilities",
+   "s": "Crude prices ticked up and stayed close to their highest level in six months as attacks in Saudi Arabia kept supply worries in focus.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/oil-prices-down-almost-1-232445179.html",
+   "tp": "Energy & trade",
    "m": [
-    "BENCH",
-    "AI"
+    "MACRO",
+    "TNE"
    ]
   },
   {
    "d": "2026-10-26",
-   "t": "Anthropic's S-1 shows $16.3 billion in revenue and an $80.7 billion net loss",
-   "s": "Anthropic's IPO filing lays out sharply rising revenue alongside an enormous paper loss, giving investors their first full look at a frontier AI lab's books.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/anthropics-s-1/",
+   "t": "European stocks rebound as corporate optimism lifts mood ahead of rate decisions",
+   "s": "European shares recovered as upbeat company results improved sentiment ahead of a week of central bank decisions.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-rebound-investors-eye-110029980.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Anthropic is leasing data centers to reduce reliance on Amazon, Google and others",
+   "s": "Anthropic is taking on its own data center leases to lessen its dependence on the big cloud providers for compute.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/technology/article/anthropic-is-leasing-data-centers-to-reduce-reliance-on-amazon-google-others-173843933.html",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -64,45 +75,10 @@
   },
   {
    "d": "2026-10-26",
-   "t": "Analysis: In China, the AI bubble has already burst",
-   "s": "A Reuters analysis argues that Chinese AI valuations and spending have already deflated, offering a possible preview for the US trade.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "AI air freight drives Kuehne+Nagel profit increase",
-   "s": "The logistics giant credited strong demand for shipping AI hardware by air for a rise in quarterly profit.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-air-freight-drives-kuehne-152644739.html",
-   "tp": "Supply chain",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Walmart debuts longer Black Friday and Cyber Monday sales events",
-   "s": "Walmart is stretching its holiday promotions over a longer window as retailers compete for cautious shoppers.",
-   "src": "Retail Dive",
-   "u": "https://finance.yahoo.com/small-business/articles/walmart-debuts-longer-black-friday-154300095.html",
-   "tp": "Companies & deals",
-   "m": [
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Why retail investor trading has fallen off a cliff",
-   "s": "Trading activity by individual investors has dropped sharply, and the piece looks at what is pushing small traders to the sidelines.",
+   "t": "Tesla stock leaves the rest of the Magnificent 7 behind, surging to October's top spot",
+   "s": "Tesla shares have outperformed every other Magnificent Seven stock this month, taking the lead for October.",
    "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/why-retail-investor-trading-has-fallen-off-a-cliff-152604818.html",
+   "u": "https://finance.yahoo.com/markets/article/tesla-stock-leaves-rest-of-the-magnificent-7-in-the-dust-surging-to-octobers-top-spot-172356059.html",
    "tp": "Markets",
    "m": [
     "MACRO"
@@ -110,25 +86,155 @@
   },
   {
    "d": "2026-10-26",
-   "t": "Warren urges Fed, OCC and FDIC to restore bank examiner powers",
-   "s": "Sen. Elizabeth Warren is pressing the three bank regulators to reverse moves that curtailed examiners' supervisory authority.",
-   "src": "Banking Dive",
-   "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-fed-occ-fdic-161735509.html",
-   "tp": "Economy",
+   "t": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
+   "s": "Figures from Anthropic's IPO filing put its revenue per employee above every Magnificent Seven company except Nvidia.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/anthropic-makes-more-per-employee-than-every-magnificent-seven-company-but-nvidia-171110780.html",
+   "tp": "AI & tech",
    "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "s": "SpaceX has secured a $40 billion financing arrangement with Apollo to pay for GPUs, adding to the wave of debt-funded AI compute buildouts.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
     "MACRO"
    ]
   },
   {
    "d": "2026-10-26",
-   "t": "CEOs want a new kind of CHRO, but only 1 in 4 candidates fit",
-   "s": "Chief executives are looking for HR leaders with business and tech fluency, and few candidates meet that bar.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/ceos-want-a-new-kind-of-chro-only-1-in-4-fit-the-bill/",
-   "tp": "Labor",
+   "t": "Bedrock Robotics raises $600M for self-driving excavators",
+   "s": "Autonomous excavator startup Bedrock Robotics raised a $600 million Series C at a $4.1 billion valuation, co-led by CapitalG and Emergence Capital.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+   "tp": "Companies & deals",
    "m": [
+    "AI",
     "BENCH"
    ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "EQT bets on record U.S. gas demand with $50 billion Range takeover",
+   "s": "Natural gas producer EQT agreed to a roughly $50 billion takeover of Range Resources, betting on record U.S. gas demand from power and LNG.",
+   "src": "Oilprice.com",
+   "u": "https://finance.yahoo.com/energy/articles/eqt-bets-record-u-gas-163000985.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Japan Airlines hires Boeing 747 cargo carriers to meet high-tech demand",
+   "s": "Japan Airlines is chartering 747 freighter capacity to keep up with strong demand to ship high-tech and AI-related goods.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/technology/ai/articles/japan-airlines-hires-b747-cargo-162824136.html",
+   "tp": "Supply chain",
+   "m": [
+    "TNE",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "BENCH",
+    "AI"
+   ],
+   "s": "Microsoft is extending voluntary buyout offers to roughly 60,000 workers as it reshapes its workforce around AI spending.",
+   "src": "Yahoo Finance",
+   "t": "Microsoft offers voluntary buyouts to about 60,000 employees",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Anthropic's IPO filing lays out sharply rising revenue alongside an enormous paper loss, giving investors their first full look at a frontier AI lab's books.",
+   "src": "Fortune",
+   "t": "Anthropic's S-1 shows $16.3 billion in revenue and an $80.7 billion net loss",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/26/anthropics-s-1/"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "A Reuters analysis argues that Chinese AI valuations and spending have already deflated, offering a possible preview for the US trade.",
+   "src": "Reuters",
+   "t": "Analysis: In China, the AI bubble has already burst",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "The logistics giant credited strong demand for shipping AI hardware by air for a rise in quarterly profit.",
+   "src": "FreightWaves",
+   "t": "AI air freight drives Kuehne+Nagel profit increase",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-air-freight-drives-kuehne-152644739.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "SPEND"
+   ],
+   "s": "Walmart is stretching its holiday promotions over a longer window as retailers compete for cautious shoppers.",
+   "src": "Retail Dive",
+   "t": "Walmart debuts longer Black Friday and Cyber Monday sales events",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/small-business/articles/walmart-debuts-longer-black-friday-154300095.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Trading activity by individual investors has dropped sharply, and the piece looks at what is pushing small traders to the sidelines.",
+   "src": "Yahoo Finance",
+   "t": "Why retail investor trading has fallen off a cliff",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/article/why-retail-investor-trading-has-fallen-off-a-cliff-152604818.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Sen. Elizabeth Warren is pressing the three bank regulators to reverse moves that curtailed examiners' supervisory authority.",
+   "src": "Banking Dive",
+   "t": "Warren urges Fed, OCC and FDIC to restore bank examiner powers",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-fed-occ-fdic-161735509.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Chief executives are looking for HR leaders with business and tech fluency, and few candidates meet that bar.",
+   "src": "Fortune",
+   "t": "CEOs want a new kind of CHRO, but only 1 in 4 candidates fit",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/26/ceos-want-a-new-kind-of-chro-only-1-in-4-fit-the-bill/"
   },
   {
    "d": "2026-10-26",
@@ -541,18 +647,6 @@
    "d": "2026-10-26",
    "m": [
     "MACRO",
-    "SPEND"
-   ],
-   "s": "The ECB's lending survey shows businesses facing tighter credit conditions as rates and inflation stay high.",
-   "src": "Reuters",
-   "t": "Euro zone firms find it harder to get credit, ECB survey shows",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/euro-zone-firms-harder-credit-103125316.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
     "AI",
     "VNDR"
    ],
@@ -642,18 +736,6 @@
    "t": "Markets put chance of RBA rate hike above 60pc, ASX down",
    "tp": "Economy",
    "u": "https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Crude prices eased in early Asian trading after hitting their highest levels in nearly six months, even as Middle East supply risks persist.",
-   "src": "Reuters",
-   "t": "Oil slips from near six-month highs despite supply concerns",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/oil-prices-down-almost-1-232445179.html"
   },
   {
    "d": "2026-10-25",
@@ -883,89 +965,7 @@
    "t": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/real-estate/articles/home-sellers-lowering-price-helping-125922082.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Axios looks at how tightly linked shocks across AI, markets and geopolitics can cascade into risks that are harder for businesses to anticipate.",
-   "src": "Axios",
-   "t": "Chain-reaction chaos threatens to unleash new risks on the world",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/chain-reaction-chaos-threatens-unleash-125542712.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Price growth has slowed markedly, yet voter frustration over the cost of living ahead of the midterms remains about as high as it was under the prior administration.",
-   "src": "Yahoo Finance",
-   "t": "Inflation under Trump is only about half the rate under Biden. Voters are still just as mad",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/article/inflation-under-trump-is-only-about-half-the-rate-under-biden-voters-are-still-just-as-mad-120043933.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Ahead of this week's Fed meeting, investors are watching for signals on whether policymakers are leaning toward rate increases as energy-driven inflation risks build.",
-   "src": "Financial Times",
-   "t": "Will the Fed drop any hints on rate rises?",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-drop-hints-rate-rises-120003602.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Apollo's chief economist argues the AI boom has yet to show measurable productivity or profit gains for companies beyond the tech sector itself.",
-   "src": "Bloomberg",
-   "t": "Apollo's Slok says AI has delivered zero payoff outside of tech",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/apollo-slok-says-ai-delivered-092836159.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Goldman Sachs slashed its target for South Korea's chip-heavy benchmark index, citing the unwinding of the AI-driven rally in semiconductor stocks.",
-   "src": "Bloomberg",
-   "t": "Goldman cuts Kospi 12-month target by 25% as AI trade unravels",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/goldman-cuts-kospi-12-month-074443032.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "With the midterms close, the administration's heavy bet on AI-driven growth is leaving voters and businesses unsure where the economy is headed.",
-   "src": "LA Times",
-   "t": "As vote nears, Trump's AI gamble fuels economic uncertainty",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/articles/vote-nears-trumps-ai-gamble-100000283.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Recent signals from the biggest AI infrastructure spenders hint at where capex and the AI trade are heading.",
-   "src": "Yahoo Finance",
-   "t": "SpaceX, Meta, and other hyperscalers are dropping clues you should not ignore",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/markets/article/spacex-meta-and-other-hyperscalers-are-dropping-clues-you-should-not-ignore-100000992.html"
   }
  ],
- "updatedAt": "2026-10-26T12:51"
+ "updatedAt": "2026-10-26T13:51"
 }
