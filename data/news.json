@@ -40,117 +40,140 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "DoorDash in exclusive talks to acquire Instacart",
-   "s": "DoorDash is negotiating exclusively to buy Instacart, a deal that would combine two of the largest US delivery platforms.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/26/2026/doordash-in-exclusive-talks-to-acquire-instacart",
-   "tp": "Companies & deals",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Dollar General overcharged shoppers, FTC and states allege in lawsuit",
-   "s": "The FTC and a coalition of about 20 states sued Dollar General, alleging shoppers were charged more at the register than advertised shelf prices.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/us-20-states-sue-dollar-174735286.html",
-   "tp": "Companies & deals",
+   "t": "Apple unveils iPad mini with OLED display and A20 Pro chip",
+   "s": "Apple refreshed its smallest tablet with an OLED screen and a faster chip, a hardware update ahead of the holiday buying season.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+   "tp": "AI & tech",
    "m": [
     "VNDR"
    ]
   },
   {
    "d": "2026-10-26",
-   "t": "Skydance offers buyouts to some employees to cut costs after Warner Bros merger",
-   "s": "Skydance is offering voluntary buyouts to part of its workforce as it looks for savings following its combination with Warner Bros.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/skydance-offers-buyouts-employees-cut-192949017.html",
+   "t": "42% of recent college grads are underemployed",
+   "s": "A rising share of new graduates are working jobs that don't require a degree, feeding youth frustration from France to India.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/gen-z-underemployment-riots-france-cockroach-india-rebellion/",
    "tp": "Labor",
    "m": [
+    "MACRO",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-26",
-   "t": "Musk warns most AI 'neoclouds' face a debt-driven shakeout",
-   "s": "Elon Musk said more than 200 AI cloud providers could be wiped out as heavy borrowing to fund the AI buildout turns into a debt squeeze.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/elon-musk-ai-boom-debt-neoclouds/",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Goldman says AI's boost to US growth may be nearing its peak",
-   "s": "Goldman Sachs economists suggest AI investment's contribution to US GDP growth is close to topping out, while Apollo sees little payoff beyond Big Tech.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/ai-zero-financial-payoff-outside-big-tech-apollo-slok-goldman-peak/",
-   "tp": "Economy",
-   "m": [
-    "MACRO",
-    "AI"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "FICO stock falls 14% after Pulte pledges 'more action' on credit score competition",
-   "s": "FICO shares slid after FHFA director Bill Pulte promised further steps to open mortgage credit scoring to competing providers.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/article/fico-stock-falls-14-after-pulte-pledges-more-action-on-credit-score-competition-194328661.html",
-   "tp": "Companies & deals",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "USPS to debut weekly fuel fee in 2027, matching FedEx and UPS",
-   "s": "The Postal Service will start adjusting a fuel surcharge weekly in 2027, bringing its shipping pricing in line with private carriers.",
-   "src": "Supply Chain Dive",
-   "u": "https://finance.yahoo.com/economy/policy/articles/usps-debut-weekly-fuel-fee-191200863.html",
-   "tp": "Supply chain",
    "m": [
     "VNDR",
     "SPEND"
-   ]
+   ],
+   "s": "DoorDash is negotiating exclusively to buy Instacart, a deal that would combine two of the largest US delivery platforms.",
+   "src": "Semafor",
+   "t": "DoorDash in exclusive talks to acquire Instacart",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/26/2026/doordash-in-exclusive-talks-to-acquire-instacart"
   },
   {
    "d": "2026-10-26",
-   "t": "The Iran war just added $39 billion to the world's LNG bill",
+   "m": [
+    "VNDR"
+   ],
+   "s": "The FTC and a coalition of about 20 states sued Dollar General, alleging shoppers were charged more at the register than advertised shelf prices.",
+   "src": "Reuters",
+   "t": "Dollar General overcharged shoppers, FTC and states allege in lawsuit",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/news/us-20-states-sue-dollar-174735286.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Skydance is offering voluntary buyouts to part of its workforce as it looks for savings following its combination with Warner Bros.",
+   "src": "Reuters",
+   "t": "Skydance offers buyouts to some employees to cut costs after Warner Bros merger",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/news/skydance-offers-buyouts-employees-cut-192949017.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Elon Musk said more than 200 AI cloud providers could be wiped out as heavy borrowing to fund the AI buildout turns into a debt squeeze.",
+   "src": "Fortune",
+   "t": "Musk warns most AI 'neoclouds' face a debt-driven shakeout",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/26/elon-musk-ai-boom-debt-neoclouds/"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Goldman Sachs economists suggest AI investment's contribution to US GDP growth is close to topping out, while Apollo sees little payoff beyond Big Tech.",
+   "src": "Fortune",
+   "t": "Goldman says AI's boost to US growth may be nearing its peak",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/26/ai-zero-financial-payoff-outside-big-tech-apollo-slok-goldman-peak/"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
+   "s": "FICO shares slid after FHFA director Bill Pulte promised further steps to open mortgage credit scoring to competing providers.",
+   "src": "Yahoo Finance",
+   "t": "FICO stock falls 14% after Pulte pledges 'more action' on credit score competition",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/article/fico-stock-falls-14-after-pulte-pledges-more-action-on-credit-score-competition-194328661.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ],
+   "s": "The Postal Service will start adjusting a fuel surcharge weekly in 2027, bringing its shipping pricing in line with private carriers.",
+   "src": "Supply Chain Dive",
+   "t": "USPS to debut weekly fuel fee in 2027, matching FedEx and UPS",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/economy/policy/articles/usps-debut-weekly-fuel-fee-191200863.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
    "s": "The conflict has pushed up liquefied natural gas prices enough to add an estimated $39 billion to global import costs.",
    "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/iran-war-just-added-39-180000823.html",
+   "t": "The Iran war just added $39 billion to the world's LNG bill",
    "tp": "Energy & trade",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/energy/articles/iran-war-just-added-39-180000823.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Brussels takes aim at Chinese imports as Europe's industrial crisis deepens",
+   "m": [
+    "MACRO"
+   ],
    "s": "EU officials are moving toward tougher measures on Chinese imports as European manufacturers struggle with weak demand and high energy costs.",
    "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/economy/policy/articles/brussels-takes-aim-chinese-imports-190000809.html",
+   "t": "Brussels takes aim at Chinese imports as Europe's industrial crisis deepens",
    "tp": "Energy & trade",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/articles/brussels-takes-aim-chinese-imports-190000809.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Fusion startups are giving the government equity in exchange for awards",
-   "s": "Several fusion energy companies are handing the federal government shares in return for funding awards, raising questions about the trade-off.",
-   "src": "TechCrunch",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fusion-startups-giving-government-shares-185952182.html",
-   "tp": "AI & tech",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Several fusion energy companies are handing the federal government shares in return for funding awards, raising questions about the trade-off.",
+   "src": "TechCrunch",
+   "t": "Fusion startups are giving the government equity in exchange for awards",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/economy/policy/articles/fusion-startups-giving-government-shares-185952182.html"
   },
   {
    "d": "2026-10-26",
@@ -598,17 +621,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "BENCH"
-   ],
-   "s": "Finance chiefs at newly spun-off industrial companies saw their compensation rise about two-thirds, a sign of how much boards prize CFOs who can run a standalone business.",
-   "src": "Fortune",
-   "t": "CFO pay jumps 66% at major industrial spinoffs",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/26/cfo-pay-jumps-66-percent-major-industrial-spinoffs/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "MACRO"
    ],
    "s": "Investors are bracing for Brazilian assets to unwind after Lula's surprise victory, with stocks and the real expected to fall on fiscal worries.",
@@ -954,19 +966,7 @@
    "t": "Zero-day option traders are betting against big S&P 500 swings",
    "tp": "Markets",
    "u": "https://finance.yahoo.com/markets/options/articles/zero-day-option-traders-betting-140000009.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Investors going into this week's megacap tech reports care more about ballooning AI capex plans than about the strong profits they are expected to show.",
-   "src": "Bloomberg",
-   "t": "AI spending fears threaten to swamp Big Tech's strong earnings",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-spending-fears-threaten-swamp-130000182.html"
   }
  ],
- "updatedAt": "2026-10-26T15:52"
+ "updatedAt": "2026-10-26T16:55"
 }
