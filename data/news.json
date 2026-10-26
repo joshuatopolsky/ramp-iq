@@ -40,26 +40,38 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "Apple unveils iPad mini with OLED display and A20 Pro chip",
-   "s": "Apple refreshed its smallest tablet with an OLED screen and a faster chip, a hardware update ahead of the holiday buying season.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-   "tp": "AI & tech",
+   "t": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector",
+   "s": "The S&P 500 rose about 0.7% and the Nasdaq about 0.8% on Monday, led by chipmakers, as Anthropic's IPO filing lifted sentiment ahead of a heavy week of Big Tech earnings and a Fed decision.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+   "tp": "Markets",
    "m": [
-    "VNDR"
+    "MACRO",
+    "AI"
    ]
   },
   {
    "d": "2026-10-26",
-   "t": "42% of recent college grads are underemployed",
-   "s": "A rising share of new graduates are working jobs that don't require a degree, feeding youth frustration from France to India.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/gen-z-underemployment-riots-france-cockroach-india-rebellion/",
-   "tp": "Labor",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Apple refreshed its smallest tablet with an OLED screen and a faster chip, a hardware update ahead of the holiday buying season.",
+   "src": "TechCrunch",
+   "t": "Apple unveils iPad mini with OLED display and A20 Pro chip",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "MACRO",
     "BENCH"
-   ]
+   ],
+   "s": "A rising share of new graduates are working jobs that don't require a degree, feeding youth frustration from France to India.",
+   "src": "Fortune",
+   "t": "42% of recent college grads are underemployed",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/26/gen-z-underemployment-riots-france-cockroach-india-rebellion/"
   },
   {
    "d": "2026-10-26",
@@ -955,18 +967,7 @@
    "t": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Traders in same-day S&P 500 options are positioning for calm, wagering the index avoids large moves despite a volatile week of AI and oil headlines.",
-   "src": "Bloomberg",
-   "t": "Zero-day option traders are betting against big S&P 500 swings",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/options/articles/zero-day-option-traders-betting-140000009.html"
   }
  ],
- "updatedAt": "2026-10-26T16:55"
+ "updatedAt": "2026-10-26T17:58"
 }
