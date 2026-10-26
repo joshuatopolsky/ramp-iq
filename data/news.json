@@ -40,39 +40,181 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "Singapore urges suppliers to 'honor commitments' as Indonesia cuts gas exports by 9%",
-   "s": "Singapore is pressing gas suppliers to stick to their contracts after Indonesia reduced pipeline shipments to the city-state.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/singapore-urges-suppliers-honor-commitments/",
-   "tp": "Energy & trade",
+   "t": "AI is propping up U.S. growth, but there's no sign of a broader upturn",
+   "s": "Reuters finds AI investment is carrying U.S. economic growth while the rest of the economy shows little momentum.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/articles/us-growth-boosted-ai-no-100520849.html",
+   "tp": "Economy",
    "m": [
     "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Bank of Canada expected to raise rates to contain energy-driven inflation",
+   "s": "Economists expect the Bank of Canada to hike on Wednesday as higher energy costs push up prices.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/bank-canada-expected-hike-rate-100130711.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "AI agents expected to gradually take over some credit-trading work",
+   "s": "Bloomberg reports banks and funds see AI agents handling a growing share of credit-trading tasks now done by people.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-seen-taking-credit-093000187.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "CoreWeave rout sends a warning sign for the broader stock market",
+   "s": "A sharp sell-off in AI cloud provider CoreWeave is being read as a sign of fragility in the AI-heavy market rally.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rout-sends-warning-sign-092443918.html",
+   "tp": "Markets",
+   "m": [
+    "AI",
     "VNDR"
    ]
   },
   {
    "d": "2026-10-26",
-   "t": "42% of recent U.S. college grads work jobs that don't need a degree as youth unrest spreads abroad",
-   "s": "High underemployment among recent graduates is tied to a wave of youth protests from Kathmandu to Paris.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/gen-z-underemployment-riots-france-cockroach-india-rebellion/",
-   "tp": "Labor",
+   "t": "Meta's $42 billion in penalties is a warning for AI companies",
+   "s": "Axios argues the scale of Meta's regulatory penalties signals the legal exposure facing AI developers.",
+   "src": "Axios",
+   "u": "https://finance.yahoo.com/technology/ai/articles/metas-42b-penalties-warning-ai-092006335.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Gas prices are higher under Trump's second term than under Biden",
+   "s": "CNN compares pump prices across administrations and finds drivers now paying more than during the Biden years.",
+   "src": "CNN Business",
+   "u": "https://finance.yahoo.com/energy/articles/gas-under-trump-2-0-100015672.html",
+   "tp": "Energy & trade",
    "m": [
     "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Oil plunges more than 6% from near-wartime highs as Iran diplomacy advances",
+   "s": "Crude prices fell sharply as signs of progress in talks with Iran eased fears of supply disruption.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/energy/articles/oil-plunges-more-6-near-102341241.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Euro zone firms find it harder to get credit, ECB survey shows",
+   "s": "The ECB's lending survey shows businesses facing tighter credit conditions as rates and inflation stay high.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/euro-zone-firms-harder-credit-103125316.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Google, Microsoft, Amazon and the Fed step up to a skittish market",
+   "s": "A preview of a week packed with Big Tech earnings and a Fed decision as investors weigh AI spending worries.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Europe's natural gas prices climb to a four-year high ahead of winter",
+   "s": "European gas benchmarks hit their highest level in four years as supply concerns build before the heating season.",
+   "src": "Oilprice.com",
+   "u": "https://finance.yahoo.com/energy/articles/europes-natural-gas-prices-soar-093000934.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Pepsi's revenue is double Coca-Cola's, but its market cap is half",
+   "s": "Fortune examines why investors value Coca-Cola far above PepsiCo despite Pepsi's much larger sales.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/pepsico-twice-revenue-coca-cola-market-cap/",
+   "tp": "Companies & deals",
+   "m": [
     "BENCH"
    ]
   },
   {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "Singapore is pressing gas suppliers to stick to their contracts after Indonesia reduced pipeline shipments to the city-state.",
+   "src": "Fortune",
+   "t": "Singapore urges suppliers to 'honor commitments' as Indonesia cuts gas exports by 9%",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/26/singapore-urges-suppliers-honor-commitments/"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ],
+   "s": "High underemployment among recent graduates is tied to a wave of youth protests from Kathmandu to Paris.",
+   "src": "Fortune",
+   "t": "42% of recent U.S. college grads work jobs that don't need a degree as youth unrest spreads abroad",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/26/gen-z-underemployment-riots-france-cockroach-india-rebellion/"
+  },
+  {
    "d": "2026-10-25",
-   "t": "'Everyone is hedging': swing countries gain leverage as U.S. and China split the world into AI blocs",
-   "s": "Countries caught between American and Chinese AI ecosystems are using their position to extract better terms from both sides.",
-   "src": "AP",
-   "u": "https://fortune.com/2026/10/25/us-china-rival-ai-blocs-swing-countries-hedging/",
-   "tp": "AI & tech",
+   "t": "Airbnb CEO says 'pure people managers' and change-resisters won't survive AI",
+   "s": "Brian Chesky says managers who don't do hands-on work and employees who resist new tools face the biggest risk from AI.",
+   "src": "Fortune",
+   "u": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Countries caught between American and Chinese AI ecosystems are using their position to extract better terms from both sides.",
+   "src": "AP",
+   "t": "'Everyone is hedging': swing countries gain leverage as U.S. and China split the world into AI blocs",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/25/us-china-rival-ai-blocs-swing-countries-hedging/"
   },
   {
    "d": "2026-10-25",
@@ -262,18 +404,6 @@
   {
    "d": "2026-10-25",
    "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Beyond backing a wealth tax, United's chief is promoting a national service program that would steer young Americans toward teaching, the military and first-responder jobs.",
-   "src": "Fortune",
-   "t": "United Airlines CEO Scott Kirby pitches national service alongside a wealth tax",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/25/united-airlines-ceo-scott-kirby-wealth-tax-national-service-teacher-military-first-responder/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
     "AI"
    ],
    "s": "Three months after Elon Musk promised a feature-length AI version of The Odyssey, xAI's Grok put out a seven-minute opening that critics found visually passable but short on artistry.",
@@ -304,18 +434,6 @@
    "t": "Britain's renewable energy boom is hitting a grid bottleneck",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/britains-renewable-energy-boom-hitting-190000848.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "PepsiCo's soda business has slipped further behind Coca-Cola, with the loss of KFC's fountain contract underscoring pressure on CEO Ramon Laguarta.",
-   "src": "Fortune",
-   "t": "How Pepsi lost the cola wars and the KFC account",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/25/pepsico-lost-cola-wars-kfc-coke-ceo-ramon-laguarta/"
   },
   {
    "d": "2026-10-25",
@@ -798,17 +916,6 @@
    "m": [
     "MACRO"
    ],
-   "s": "Commodity trading houses are heading for another record year in metals as volatile prices and supply disruptions widen trading margins.",
-   "src": "Bloomberg",
-   "t": "Metals traders reap bonanza with another year of record profits",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/metals-traders-reap-bonanza-another-144505872.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO"
-   ],
    "s": "Borrowing costs for German homebuyers have hit a 17-year high as the Iran war and oil spike push up inflation expectations and bond yields.",
    "src": "Euronews",
    "t": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
@@ -860,115 +967,7 @@
    "t": "First Russian diesel tanker under Trump-Putin deal heads to New York",
    "tp": "Energy & trade",
    "u": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Shortly after the open the Dow was down about 1% and the S&P 500 0.4% as AI stocks extended Thursday's rout, while AT&T, Verizon and T-Mobile fell 3% to 4.7% on a report that SpaceX is exploring a nationwide wireless carrier.",
-   "src": "Reuters",
-   "t": "Wall St dips after AI-led selloff; SpaceX worries hit telecoms",
-   "tp": "Markets",
-   "u": "https://www.marketscreener.com/news/wall-st-dips-after-ai-led-selloff-spacex-worries-hit-telecoms-ce785cdfda8aff2d"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Stocks closed lower Friday as AI-spending worries and U.S. crude topping $100 weighed: the Dow fell about 653 points (1.2%) to 52,215, the S&P 500 slid 0.5% and the Nasdaq 0.2%, leaving both down for a second straight week.",
-   "src": "Yahoo Finance",
-   "t": "Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "SPEND"
-   ],
-   "s": "Omnicom says its Interpublic integration is largely done and it remains on track for $900 million in cost savings this year, posting 7.2% organic Q3 growth to $6 billion as it won Coca-Cola's North American media but lost PepsiCo to Publicis.",
-   "src": "Marketing Dive",
-   "t": "Omnicom-IPG deal ‘substantially completed’ as group wins Coke’s NA media",
-   "tp": "Companies & deals",
-   "u": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "TNE",
-    "MACRO"
-   ],
-   "s": "Brent climbed about 1.5% to near $115 a barrel, its highest since early May and headed for a third straight weekly gain, as Middle East attacks, a tanker spill off the UAE and a Libyan pipeline shutdown stoked supply fears; WTI rose to about $101.",
-   "src": "Reuters",
-   "t": "Brent crude hits more than five-month high on Houthi-Saudi attacks, UAE oil spill",
-   "tp": "Energy & trade",
-   "u": "https://virginiabusiness.com/brent-crude-five-month-high-middle-east-tensions-uae-spill/"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "MACRO",
-    "VNDR",
-    "AI"
-   ],
-   "s": "After the Nasdaq's worst day since June, investors face reports from Alphabet, Microsoft and Amazon plus a Fed meeting next week, with hyperscaler capex near $800 billion this year, Q3 S&P 500 earnings tracking up over 32%, and futures pricing about an 80% chance of a December rate hike.",
-   "src": "Reuters",
-   "t": "Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally",
-   "tp": "Markets",
-   "u": "https://www.aol.com/articles/earnings-flood-fed-meeting-pose-100557000.html"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "CEO Stephen Squeri told analysts after third-quarter results that AmEx will eliminate about 5% of its global staff, booking a roughly $336 million restructuring charge, and shares fell nearly 3% in early trading.",
-   "src": "CNBC",
-   "t": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-   "tp": "Labor",
-   "u": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Volvo Cars stock fell close to 30% after the Geely-controlled automaker swung to a 5.7 billion kronor quarterly loss on a 23% revenue drop, blaming U.S. tariffs and Chinese competition, and announced about 2,500 job cuts and a 5 billion kronor savings plan.",
-   "src": "AFP",
-   "t": "Volvo Cars shares plunge on losses, job cuts",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/volvo-cars-shares-plunge-losses-084848555.html"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "TNE",
-    "MACRO"
-   ],
-   "s": "Brent rose another 0.9% to about $114.73 a barrel on Friday after a 4% jump Thursday, with Gulf-to-Asia crude shipping now over five times pre-war costs and the U.S. 10-year yield back below 5%.",
-   "src": "Euronews",
-   "t": "Oil tops $114 as European shares fall and Kering tumbles",
-   "tp": "Energy & trade",
-   "u": "https://www.euronews.com/2026/10/23/oil-prices-climb-above-113-as-ai-sell-off-rattles-stocks-and-investors-buy-bonds"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "MACRO",
-    "AI",
-    "VNDR"
-   ],
-   "s": "Global markets were mixed Friday after a Nasdaq drop of 2.6% led by Nvidia (-4.4%), Meta (-7%) and CoreWeave (-10%), while the 10-year Treasury yield fell to about 4.97% from 5.13% and European indexes opened lower.",
-   "src": "AP",
-   "t": "World shares are mixed after Wall Street's AI-related losses, while oil prices jump",
-   "tp": "Markets",
-   "u": "https://clickondetroit.com/business/2026/10/23/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump"
   }
  ],
- "updatedAt": "2026-10-26T05:51"
+ "updatedAt": "2026-10-26T06:51"
 }
