@@ -40,74 +40,85 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "Anthropic's IPO outlines AI's extraordinary risks",
-   "s": "Anthropic's S-1 lays out an unusual list of risk factors, from regulatory hostility to the dangers of the technology itself, giving investors a rare look at frontier-lab exposure.",
-   "src": "Axios",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-outlines-ais-extraordinary-135248152.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Stagwell acquires publisher ad tech company Freestar",
-   "s": "Marketing holding company Stagwell is buying Freestar, a programmatic ad platform for publishers, extending its push into ad tech.",
-   "src": "Axios",
-   "u": "https://finance.yahoo.com/media-advertising/articles/stagwell-acquires-publisher-ad-tech-143026010.html",
+   "t": "Apollo takes stake in Abu Dhabi's Mubadala Capital",
+   "s": "Apollo is buying a minority stake in Mubadala's alternative-asset arm and committing $5 billion across its strategies, showing that Wall Street still treats Gulf capital as central.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/apollo-takes-stake-in-abu-dhabis-mubadala-capital",
    "tp": "Companies & deals",
    "m": [
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Verizon lifts outlook, inks Amazon deal worth more than $2 billion",
-   "s": "Verizon raised its full-year guidance and announced a multi-billion-dollar agreement with Amazon, signaling steadier telecom demand.",
-   "src": "The Wall Street Journal",
-   "u": "https://finance.yahoo.com/technology/articles/verizon-lifts-outlook-inks-amazon-111300927.html",
-   "tp": "Companies & deals",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "CSX sees rail conversion opportunities from battered trucking market",
-   "s": "CSX says weakness and capacity exits in trucking are creating openings to move more freight onto rail.",
-   "src": "Supply Chain Dive",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/csx-sees-rail-conversion-opportunities-144000827.html",
-   "tp": "Supply chain",
-   "m": [
-    "VNDR",
     "MACRO"
    ]
   },
   {
    "d": "2026-10-26",
-   "t": "FedEx taps AutoZone executive to be finance chief",
-   "s": "FedEx has named an AutoZone finance executive as its next CFO as the shipper continues restructuring its cost base.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-taps-autozone-executive-finance-134909334.html",
-   "tp": "Companies & deals",
    "m": [
-    "SPEND",
-    "BENCH"
-   ]
+    "AI",
+    "VNDR"
+   ],
+   "s": "Anthropic's S-1 lays out an unusual list of risk factors, from regulatory hostility to the dangers of the technology itself, giving investors a rare look at frontier-lab exposure.",
+   "src": "Axios",
+   "t": "Anthropic's IPO outlines AI's extraordinary risks",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-outlines-ais-extraordinary-135248152.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Tesla turns to Turo to boost adoption of Full Self-Driving",
-   "s": "Tesla is partnering with car-sharing marketplace Turo to put its supervised FSD software in front of more drivers.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-   "tp": "AI & tech",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Marketing holding company Stagwell is buying Freestar, a programmatic ad platform for publishers, extending its push into ad tech.",
+   "src": "Axios",
+   "t": "Stagwell acquires publisher ad tech company Freestar",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/media-advertising/articles/stagwell-acquires-publisher-ad-tech-143026010.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ],
+   "s": "Verizon raised its full-year guidance and announced a multi-billion-dollar agreement with Amazon, signaling steadier telecom demand.",
+   "src": "The Wall Street Journal",
+   "t": "Verizon lifts outlook, inks Amazon deal worth more than $2 billion",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/technology/articles/verizon-lifts-outlook-inks-amazon-111300927.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "CSX says weakness and capacity exits in trucking are creating openings to move more freight onto rail.",
+   "src": "Supply Chain Dive",
+   "t": "CSX sees rail conversion opportunities from battered trucking market",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/csx-sees-rail-conversion-opportunities-144000827.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "SPEND",
+    "BENCH"
+   ],
+   "s": "FedEx has named an AutoZone finance executive as its next CFO as the shipper continues restructuring its cost base.",
+   "src": "FreightWaves",
+   "t": "FedEx taps AutoZone executive to be finance chief",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-taps-autozone-executive-finance-134909334.html"
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "AI",
     "TNE"
-   ]
+   ],
+   "s": "Tesla is partnering with car-sharing marketplace Turo to put its supervised FSD software in front of more drivers.",
+   "src": "TechCrunch",
+   "t": "Tesla turns to Turo to boost adoption of Full Self-Driving",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"
   },
   {
    "d": "2026-10-26",
@@ -955,19 +966,7 @@
    "t": "Babcock in push to build warships for US navy",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/economy/policy/articles/babcock-push-build-warships-us-090000195.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "Cross-border avocado shipments from Mexico now feed an estimated $641 million a year into US trucking and warehousing businesses.",
-   "src": "FreightWaves",
-   "t": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/economy/articles/borderlands-mexico-avocado-imports-generate-110000094.html"
   }
  ],
- "updatedAt": "2026-10-26T10:55"
+ "updatedAt": "2026-10-26T11:51"
 }
