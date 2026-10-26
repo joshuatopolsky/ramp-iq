@@ -40,11 +40,79 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "AI is propping up U.S. growth, but there's no sign of a broader upturn",
-   "s": "Reuters finds AI investment is carrying U.S. economic growth while the rest of the economy shows little momentum.",
+   "t": "Brazil's markets set for sharp selloff after Lula's reelection",
+   "s": "Investors are bracing for Brazilian assets to unwind after Lula's surprise victory, with stocks and the real expected to fall on fiscal worries.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/articles/us-growth-boosted-ai-no-100520849.html",
+   "u": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "US futures steady as oil retreats ahead of earnings deluge, Fed decision",
+   "s": "Wall Street futures held flat as crude eased, with a heavy week of Big Tech earnings and a Fed rate decision ahead.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-edge-oil-100215774.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Strong CBI retail sales buck downbeat UK consumer trend",
+   "s": "A CBI survey showed UK retail sales unexpectedly strengthened, cutting against otherwise gloomy signals on British consumer spending.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/articles/strong-cbi-retail-sales-buck-110230030.html",
    "tp": "Economy",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "The markets are starting to act seriously weird. Blame AI",
+   "s": "CNN looks at how the AI trade is distorting market behavior, with unusual moves across stocks and other assets tied to AI enthusiasm and fear.",
+   "src": "CNN Business",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/markets-starting-act-seriously-weird-110015358.html",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Galp and Moeve fail to agree merger of refining and distribution operations",
+   "s": "Portugal's Galp and Spain's Moeve called off talks to combine their refining and fuel distribution businesses after failing to reach terms.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/energy/articles/galp-moeve-fail-agree-merger-112832328.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Revolut to launch platform for investing in private tech companies",
+   "s": "Revolut plans to let customers buy into private tech companies, extending retail access to pre-IPO investing.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/revolut-launch-platform-investing-private-105046604.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Investors ready for week of Big Tech and central bank announcements",
+   "s": "Markets face a packed week of megacap tech earnings alongside rate decisions from the Fed and other central banks.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements",
+   "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
@@ -52,121 +120,133 @@
   },
   {
    "d": "2026-10-26",
-   "t": "Bank of Canada expected to raise rates to contain energy-driven inflation",
-   "s": "Economists expect the Bank of Canada to hike on Wednesday as higher energy costs push up prices.",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Reuters finds AI investment is carrying U.S. economic growth while the rest of the economy shows little momentum.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bank-canada-expected-hike-rate-100130711.html",
+   "t": "AI is propping up U.S. growth, but there's no sign of a broader upturn",
    "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/articles/us-growth-boosted-ai-no-100520849.html"
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Economists expect the Bank of Canada to hike on Wednesday as higher energy costs push up prices.",
+   "src": "Reuters",
+   "t": "Bank of Canada expected to raise rates to contain energy-driven inflation",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/bank-canada-expected-hike-rate-100130711.html"
   },
   {
    "d": "2026-10-26",
-   "t": "AI agents expected to gradually take over some credit-trading work",
+   "m": [
+    "AI",
+    "TNE"
+   ],
    "s": "Bloomberg reports banks and funds see AI agents handling a growing share of credit-trading tasks now done by people.",
    "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-seen-taking-credit-093000187.html",
+   "t": "AI agents expected to gradually take over some credit-trading work",
    "tp": "AI & tech",
-   "m": [
-    "AI",
-    "TNE"
-   ]
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-seen-taking-credit-093000187.html"
   },
   {
    "d": "2026-10-26",
-   "t": "CoreWeave rout sends a warning sign for the broader stock market",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
    "s": "A sharp sell-off in AI cloud provider CoreWeave is being read as a sign of fragility in the AI-heavy market rally.",
    "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rout-sends-warning-sign-092443918.html",
+   "t": "CoreWeave rout sends a warning sign for the broader stock market",
    "tp": "Markets",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rout-sends-warning-sign-092443918.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Meta's $42 billion in penalties is a warning for AI companies",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
    "s": "Axios argues the scale of Meta's regulatory penalties signals the legal exposure facing AI developers.",
    "src": "Axios",
-   "u": "https://finance.yahoo.com/technology/ai/articles/metas-42b-penalties-warning-ai-092006335.html",
+   "t": "Meta's $42 billion in penalties is a warning for AI companies",
    "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
+   "u": "https://finance.yahoo.com/technology/ai/articles/metas-42b-penalties-warning-ai-092006335.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Gas prices are higher under Trump's second term than under Biden",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
    "s": "CNN compares pump prices across administrations and finds drivers now paying more than during the Biden years.",
    "src": "CNN Business",
-   "u": "https://finance.yahoo.com/energy/articles/gas-under-trump-2-0-100015672.html",
+   "t": "Gas prices are higher under Trump's second term than under Biden",
    "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "TNE"
-   ]
+   "u": "https://finance.yahoo.com/energy/articles/gas-under-trump-2-0-100015672.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Oil plunges more than 6% from near-wartime highs as Iran diplomacy advances",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
    "s": "Crude prices fell sharply as signs of progress in talks with Iran eased fears of supply disruption.",
    "src": "Euronews",
-   "u": "https://finance.yahoo.com/energy/articles/oil-plunges-more-6-near-102341241.html",
+   "t": "Oil plunges more than 6% from near-wartime highs as Iran diplomacy advances",
    "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "TNE"
-   ]
+   "u": "https://finance.yahoo.com/energy/articles/oil-plunges-more-6-near-102341241.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Euro zone firms find it harder to get credit, ECB survey shows",
-   "s": "The ECB's lending survey shows businesses facing tighter credit conditions as rates and inflation stay high.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/euro-zone-firms-harder-credit-103125316.html",
-   "tp": "Economy",
    "m": [
     "MACRO",
     "SPEND"
-   ]
+   ],
+   "s": "The ECB's lending survey shows businesses facing tighter credit conditions as rates and inflation stay high.",
+   "src": "Reuters",
+   "t": "Euro zone firms find it harder to get credit, ECB survey shows",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/euro-zone-firms-harder-credit-103125316.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Google, Microsoft, Amazon and the Fed step up to a skittish market",
-   "s": "A preview of a week packed with Big Tech earnings and a Fed decision as investors weigh AI spending worries.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html",
-   "tp": "Markets",
    "m": [
     "MACRO",
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "A preview of a week packed with Big Tech earnings and a Fed decision as investors weigh AI spending worries.",
+   "src": "Yahoo Finance",
+   "t": "Google, Microsoft, Amazon and the Fed step up to a skittish market",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/article/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Europe's natural gas prices climb to a four-year high ahead of winter",
-   "s": "European gas benchmarks hit their highest level in four years as supply concerns build before the heating season.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/europes-natural-gas-prices-soar-093000934.html",
-   "tp": "Energy & trade",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "European gas benchmarks hit their highest level in four years as supply concerns build before the heating season.",
+   "src": "Oilprice.com",
+   "t": "Europe's natural gas prices climb to a four-year high ahead of winter",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/europes-natural-gas-prices-soar-093000934.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Pepsi's revenue is double Coca-Cola's, but its market cap is half",
-   "s": "Fortune examines why investors value Coca-Cola far above PepsiCo despite Pepsi's much larger sales.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/pepsico-twice-revenue-coca-cola-market-cap/",
-   "tp": "Companies & deals",
    "m": [
     "BENCH"
-   ]
+   ],
+   "s": "Fortune examines why investors value Coca-Cola far above PepsiCo despite Pepsi's much larger sales.",
+   "src": "Fortune",
+   "t": "Pepsi's revenue is double Coca-Cola's, but its market cap is half",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/26/pepsico-twice-revenue-coca-cola-market-cap/"
   },
   {
    "d": "2026-10-26",
@@ -194,15 +274,15 @@
   },
   {
    "d": "2026-10-25",
-   "t": "Airbnb CEO says 'pure people managers' and change-resisters won't survive AI",
-   "s": "Brian Chesky says managers who don't do hands-on work and employees who resist new tools face the biggest risk from AI.",
-   "src": "Fortune",
-   "u": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/",
-   "tp": "Labor",
    "m": [
     "AI",
     "TNE"
-   ]
+   ],
+   "s": "Brian Chesky says managers who don't do hands-on work and employees who resist new tools face the biggest risk from AI.",
+   "src": "Fortune",
+   "t": "Airbnb CEO says 'pure people managers' and change-resisters won't survive AI",
+   "tp": "Labor",
+   "u": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/"
   },
   {
    "d": "2026-10-25",
@@ -887,87 +967,7 @@
    "t": "How two critical PHP web bugs almost broke the internet",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Instacart held early talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
-   "src": "TechCrunch",
-   "t": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Block has released a voice AI model whose speech is strikingly natural, extending the payments company's push into AI.",
-   "src": "TechCrunch",
-   "t": "Block's new voice model sounds eerily human",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Borrowing costs for German homebuyers have hit a 17-year high as the Iran war and oil spike push up inflation expectations and bond yields.",
-   "src": "Euronews",
-   "t": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/real-estate/articles/german-mortgage-rates-climb-highest-090404128.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO"
-   ],
-   "s": "US households' equity allocation as a share of financial assets has reached a record, topping the 2000 peak.",
-   "src": "Yahoo Finance",
-   "t": "Americans have never had more of their money in stocks — not even in the dot-com bubble",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/article/americans-have-never-had-more-of-their-money-in-stocks--not-even-in-the-dot-com-bubble-chart-of-the-day-120127109.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "AI"
-   ],
-   "s": "A study forcing AI models to name a candidate in nearly 500 midterm races found Grok backed Republicans 92% of the time and OpenAI's model backed Democrats 97% of the time.",
-   "src": "TechCrunch",
-   "t": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "The designation opens more federal financing to helium producers and brings closer monitoring of a gas essential to chipmaking.",
-   "src": "AP",
-   "t": "US designates helium as a critical material, citing its importance for semiconductors",
-   "tp": "Supply chain",
-   "u": "https://www.voiceofalexandria.com/news/national_business_news/ap-business-summarybrief-at-12-50-p-m-edt/article_d996ac27-0ae2-5c67-9ee4-00a63b433800.html"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "A tanker carrying Russian diesel is bound for New York under the new US-Russia fuel arrangement, the first such shipment since 2023 as the Iran war strains supplies.",
-   "src": "AP",
-   "t": "First Russian diesel tanker under Trump-Putin deal heads to New York",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
   }
  ],
- "updatedAt": "2026-10-26T06:51"
+ "updatedAt": "2026-10-26T07:55"
 }
