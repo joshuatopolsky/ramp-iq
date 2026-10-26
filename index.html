@@ -340,6 +340,7 @@ aside.newsbar{display:none}
 .nitem.lead .nt{font-family:var(--font-display);font-size:clamp(22px,2.6vw,30px);font-weight:800;font-stretch:108%;letter-spacing:-.015em;line-height:1.12;text-wrap:balance}
 .nitem.lead .ns{font-size:15px;max-width:70ch}
 .nrel{color:var(--accent-ink);background:var(--accent);padding:0 4px;margin-left:4px}
+.price-moves .div-fill.pos{background:var(--down)}.price-moves .div-fill.neg{background:var(--up)}
 .prov.fred{background:var(--s1);color:#fff}
 .mod .live.fred{background:var(--s1);color:#fff}
 .prov.press{color:var(--fg);border:1px solid var(--muted)}
@@ -545,8 +546,8 @@ const MODULES=[
    desc:"Business spending as an early signal for the economy, ahead of survey-based indicators.",
    groups:[["Signals",[["MSPD","Spend momentum"],["MHIR","Hiring & labor"]]],["Validation",[["MCMP","Versus official data"]]]]},
   {code:"GOODS",name:"Goods & Industry",data:"fred",home:"GOVW",
-   desc:"Official U.S. data on production, orders, freight, consumer demand, prices and new businesses: the conditions Ramp's customers operate in.",
-   groups:[["Overview",[["GOVW","All indicators"]]],["Industry",[["GIND","Factory floor"],["GFRT","Freight & logistics"]]],["Consumer",[["GCON","Consumer demand"]]],["Costs & formation",[["GPRC","Prices & margins"],["GNEW","New businesses"]]]]},
+   desc:"Official U.S. data on production, orders, freight, consumer demand, shelf prices and new businesses: the conditions Ramp's customers operate in.",
+   groups:[["Overview",[["GOVW","All indicators"]]],["Industry",[["GIND","Factory floor"],["GFRT","Freight & logistics"]]],["Consumer",[["GCON","Consumer demand"]]],["Prices",[["GSHF","Shelf prices"],["GPRC","Prices & margins"]]],["Formation",[["GNEW","New businesses"]]]]},
   {code:"BENCH",name:"Company Benchmarks",data:"mixed",home:"BMIX",
    desc:"Anonymized peer cohorts: how companies like yours spend, approve and stack their software.",
    groups:[["Cohort",[["BMIX","Spend mix"],["BSTK","Software stack"],["BOPS","Operations"]]],["Outcomes",[["BAIG","AI & growth"]]]]},
@@ -1418,6 +1419,7 @@ VIEWS.GOVW=()=>{
         ["GPRC","Who is absorbing higher costs?",`Producer prices ${gPct(ppi)} vs consumer prices ${gPct(cpi)}: a ${spread.toFixed(1)}-point gap that hits suppliers first.`],
         ["GCON","Is the consumer still spending?",`Sales are up but sentiment is at ${sent.toFixed(1)}. People are spending more while saying they feel worse.`],
         ["GFRT","What do trucks say?",`Freight volumes are ${gPct(gyoy("TSIFRGHT"))} YoY, flat to down even as factory output rises.`],
+        ["GSHF","What does a dozen eggs cost now?",`${shPrice("APU0000708111",glast("APU0000708111"))}, down from ${shPrice("APU0000708111",shPeak("APU0000708111").v)} at the 2025 peak. Beef and coffee are the ones climbing.`],
         ["GNEW","Are new companies forming?",(()=>{const v=GV.BABATOTALSAUS,a=x=>x.reduce((s,y)=>s+y,0)/x.length;return `About ${Math.round(a(v.slice(-12))/1000)}K applications a month over the past year, ${gPct((a(v.slice(-12))/a(v.slice(0,12))-1)*100)} vs the 2023 average.`;})()]
       ].map(([c,q,a])=>`<button type="button" class="xcard" data-go="${c}"><span class="c">${c} &lt;GO&gt;</span><span class="q">${q}</span><span class="a">${a}</span></button>`).join("")}</div>
     </section>
@@ -1509,6 +1511,85 @@ VIEWS.GNEW=()=>{
   return {html,mount(root){charts.push(lineChart(root.querySelector("#g-ba"),{auto:true,height:260,months:state.range,fmt:v=>Math.round(v/1000)+"K",tipFmt:v=>Math.round(v).toLocaleString("en-US"),axFmt:t=>Math.round(t/1000)+"K",endLabels:true,aria:"Business applications",series:[{key:"B",name:"Applications",short:"Monthly",v,color:"var(--s3)",w:2},{key:"M",name:"12-month average",short:"12-mo avg",v:ma,color:"var(--hi)",dash:true,w:2}]}));}};
 };
 
+Object.assign(GV,{
+  APU0000708111:[4.823,4.211,3.446,3.27,2.666,2.219,2.094,2.043,2.065,2.072,2.138,2.507,2.522,2.996,2.992,2.864,2.699,2.715,3.08,3.204,3.821,3.37,3.649,4.146,4.953,5.897,6.227,5.122,4.548,3.775,3.599,3.587,3.488,null,2.86,2.712,2.577,2.5,2.348,2.25,2.191,2.141,2.189,2.272,2.272],
+  APU0000709112:[4.204,4.163,4.098,4.042,4.042,3.985,3.971,3.927,3.965,3.927,3.997,4.008,3.958,3.94,3.893,3.868,3.864,3.956,3.983,4.044,4.021,4.041,4.138,4.101,4.025,4.026,4.05,4.074,4.022,4.029,4.162,4.171,4.129,null,3.997,4.047,4.1,4.026,4.067,4.136,4.217,4.317,4.313,4.229,4.106],
+  APU0000702111:[1.888,1.896,1.936,1.989,1.951,1.937,1.98,1.97,1.972,2.002,1.976,2.024,2.033,2.006,1.997,1.998,1.971,1.973,1.975,1.951,1.976,1.937,1.916,1.912,1.925,1.925,1.88,1.913,1.876,1.864,1.851,1.841,1.867,null,1.79,1.833,1.843,1.85,1.808,1.869,1.83,1.814,1.82,1.823,1.83],
+  APU0000703112:[4.791,4.778,4.813,4.79,4.96,5.028,5.102,5.076,5.109,5.226,5.353,5.21,5.03,5.132,5.132,5.236,5.148,5.472,5.497,5.577,5.67,5.588,5.628,5.605,5.545,5.625,5.79,5.801,5.981,6.12,6.254,6.318,6.323,null,6.54,6.687,6.752,6.739,6.701,6.899,6.745,6.825,6.885,6.923,6.792],
+  APU0000706111:[1.855,1.894,1.868,1.873,1.92,1.953,1.891,1.958,1.901,1.926,1.976,1.955,1.987,1.951,1.991,1.953,2.013,2.007,1.988,1.988,1.979,1.987,2.076,2.061,2.061,2.051,2.064,2.059,2.061,2.086,2.078,2.076,2.061,null,2.044,2.02,2.041,2.049,2.033,2.026,2.036,2.044,2.005,2.012,2.064],
+  APU0000710212:[5.946,5.85,5.922,5.94,5.841,5.681,5.911,5.897,5.846,5.846,5.65,5.545,5.724,5.726,5.689,5.51,5.551,5.537,5.599,5.763,5.731,5.844,5.676,5.621,5.698,5.536,5.737,5.743,5.908,5.999,6.041,6.123,6.049,null,5.636,5.789,5.982,5.987,5.97,6.029,5.685,5.96,5.741,5.983,6.133],
+  APU0000712311:[2.11,1.99,1.932,1.874,1.798,1.911,1.896,1.877,1.844,1.865,1.942,1.995,2.146,2.132,2.044,1.962,1.859,1.843,1.945,1.996,1.936,1.98,2.03,2.067,2.05,1.848,1.819,1.793,1.705,1.737,1.793,1.925,1.91,null,1.828,1.84,1.791,1.902,2.255,2.689,2.489,2.154,2.003,1.977,1.992],
+  APU0000711211:[0.639,0.641,0.632,0.635,0.628,0.625,0.631,0.631,0.625,0.626,0.627,0.625,0.617,0.625,0.629,0.626,0.622,0.625,0.613,0.612,0.617,0.619,0.622,0.615,0.621,0.619,0.625,0.635,0.655,0.654,0.657,0.666,0.67,null,0.664,0.656,0.653,0.653,0.657,0.654,0.646,0.645,0.65,0.652,0.656],
+  APU0000717311:[6.358,6.351,6.184,6.04,6.094,6.091,6.141,6.091,6.085,6.178,6.169,6.092,6.124,6.094,5.964,6.063,5.991,6.253,6.307,6.311,6.47,6.644,6.868,6.776,7.019,7.246,7.385,7.536,7.931,8.132,8.414,8.872,9.139,null,9.258,9.053,9.366,9.459,9.608,9.723,9.511,9.457,9.317,9.299,9.332],
+  APU0000715211:[0.86,0.876,0.88,0.893,0.899,0.918,0.932,0.95,0.971,0.963,0.958,0.956,0.975,0.984,0.984,1.006,1.001,1.004,1.004,1.004,1.007,1.003,1.0,0.992,1.011,1.012,1.014,1.021,1.054,1.054,1.046,1.04,1.042,null,0.991,0.985,1.022,1.016,0.996,1.006,1.034,1.018,1.024,1.024,1.019],
+  APU000074714:[3.452,3.514,3.551,3.735,3.685,3.712,3.732,3.955,3.988,3.782,3.5,3.289,3.221,3.359,3.581,3.776,3.755,3.601,3.622,3.521,3.344,3.279,3.181,3.145,3.211,3.261,3.232,3.33,3.306,3.306,3.285,3.295,3.339,3.239,3.228,3.05,2.961,3.065,3.843,4.263,4.651,4.195,4.094,4.2,4.482],
+  APU000072610:[0.168,0.168,0.166,0.165,0.165,0.17,0.169,0.17,0.171,0.169,0.168,0.169,0.173,0.173,0.174,0.173,0.175,0.178,0.178,0.177,0.178,0.177,0.176,0.176,0.179,0.179,0.181,0.181,0.182,0.19,0.189,0.19,0.188,null,0.189,0.189,0.192,0.189,0.19,0.194,0.196,0.198,0.197,0.196,0.196]
+});
+
+/* ---------- Shelf prices: BLS average retail prices, U.S. city average (via FRED) ---------- */
+const SHF={
+  APU0000708111:{name:"Eggs",unit:"dozen",alias:"EGGS",cat:"kitchen",who:"bakeries, diners, breakfast spots"},
+  APU0000709112:{name:"Milk",unit:"gallon",alias:"MILK",cat:"kitchen",who:"coffee shops, bakeries"},
+  APU0000702111:{name:"White bread",unit:"lb",alias:"BREAD",cat:"kitchen",who:"sandwich shops, caterers"},
+  APU0000703112:{name:"Ground beef",unit:"lb",alias:"BEEF",cat:"kitchen",who:"burger chains, restaurants"},
+  APU0000706111:{name:"Whole chicken",unit:"lb",alias:"CHICKEN",cat:"kitchen",who:"restaurants, grocers"},
+  APU0000710212:{name:"Cheddar cheese",unit:"lb",alias:"CHEESE",cat:"kitchen",who:"pizzerias, restaurants"},
+  APU0000712311:{name:"Tomatoes",unit:"lb",alias:"TOMATOES",cat:"kitchen",who:"restaurants, grocers"},
+  APU0000711211:{name:"Bananas",unit:"lb",alias:"BANANAS",cat:"kitchen",who:"grocers, cafés"},
+  APU0000717311:{name:"Ground coffee",unit:"lb",alias:"COFFEE",cat:"kitchen",who:"cafés, offices"},
+  APU0000715211:{name:"Sugar",unit:"lb",alias:"SUGAR",cat:"kitchen",who:"bakeries, beverage makers"},
+  APU000074714:{name:"Gasoline",unit:"gallon",alias:"GAS",cat:"energy",who:"fleets, field teams, mileage claims"},
+  APU000072610:{name:"Electricity",unit:"kWh",alias:"POWER",cat:"energy",who:"every office, store and plant"}
+};
+const SHF_KEYS=Object.keys(SHF);
+const SHF_ALIAS={}; SHF_KEYS.forEach(k=>SHF_ALIAS[SHF[k].alias]=k);
+const KITCHEN=SHF_KEYS.filter(k=>SHF[k].cat==="kitchen");
+const shPrice=(k,v)=>v==null?"—":k==="APU000072610"?(v*100).toFixed(1)+"¢":"$"+v.toFixed(2);
+const pCls=v=>v==null?"":v>0?"down":"up"; /* prices: rising = red */
+const shFirst=k=>GV[k].find(x=>x!=null);
+const shPeak=k=>{const v=GV[k];let m=-Infinity,i=0;v.forEach((x,j)=>{if(x!=null&&x>m){m=x;i=j;}});return {v:m,i};};
+const shLow=k=>{const v=GV[k];let m=Infinity,i=0;v.forEach((x,j)=>{if(x!=null&&x<m){m=x;i=j;}});return {v:m,i};};
+/* Kitchen basket: equal-weighted average of the 10 food items, each indexed to Jan 2023 = 100. Months with any missing item are skipped. */
+function shBasket(){const n=Math.max(...KITCHEN.map(k=>GV[k].length));return Array.from({length:n},(_,i)=>{const r=KITCHEN.map(k=>GV[k][i]!=null?GV[k][i]/shFirst(k)*100:null);return r.some(x=>x==null)?null:+(r.reduce((a,b)=>a+b,0)/r.length).toFixed(3);});}
+if(!state.shf||!SHF[state.shf]) state.shf="APU0000708111";
+
+VIEWS.GSHF=()=>{
+  const k=SHF[state.shf]?state.shf:"APU0000708111", m=SHF[k], v=GV[k];
+  const pk=shPeak(k), lo=shLow(k), since=(glast(k)/shFirst(k)-1)*100;
+  const bk=shBasket(), bkI=(()=>{for(let i=bk.length-1;i>=0;i--) if(bk[i]!=null) return i;return 0;})();
+  const cpiI=gidx(GV.CPIAUCSL);
+  const movers=SHF_KEYS.map(x=>({name:SHF[x].name,v:gyoy(x)})).filter(r=>r.v!=null).sort((a,b)=>b.v-a.v);
+  const card=x=>{const s=SHF[x],y=gyoy(x),vals=GV[x].filter(z=>z!=null);return `<button type="button" class="mini" data-shf="${x}" aria-pressed="${x===k}"><span class="nm">${s.name} <span style="color:var(--dim);font-weight:400">/ ${s.unit}</span></span><span class="vv">${shPrice(x,glast(x))}</span><span class="mono ${pCls(y)}" style="font-size:12px">${gPct(y)} YoY</span>${spark(vals.slice(-24),150,26,y>=0?"var(--down)":"var(--up)")}</button>`;};
+  const html=head("GSHF","Shelf prices","What staple goods actually cost at the store, in dollars, from the government's monthly price survey.",rangeSeg(state.range))+
+  measure("Average retail price paid in U.S. cities, collected by the Bureau of Labor Statistics","$ per unit shown","Jan 2023 – "+gmo("APU0000708111")+", monthly")+
+  `<div class="grid">
+    ${pan(12,"none",`${ph("Price board · select an item","fred",`<span class="src" style="margin:0">Red = pricier than a year ago · green = cheaper</span>`)}
+      <div class="rail-h" style="padding:0">FOOD & KITCHEN</div><div class="multi">${KITCHEN.map(card).join("")}</div>
+      <div class="rail-h" style="padding:6px 0 0">ENERGY</div><div class="multi">${SHF_KEYS.filter(x=>SHF[x].cat==="energy").map(card).join("")}</div>
+      ${gsrc(SHF_KEYS,"BLS average price data")}`)}
+    ${pan(8,"none",`${ph(esc(m.name)+" · per "+m.unit,"fred")}
+      <div style="display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 18px"><div class="big">${shPrice(k,glast(k))}</div><span class="delta ${pCls(gmom(k))}">${gPct(gmom(k))} MoM</span><span class="delta ${pCls(gyoy(k))}">${gPct(gyoy(k))} YoY</span><span class="src" style="margin:0">${gmo(k).toUpperCase()}</span></div>
+      <div class="chart" id="s-main"></div>
+      ${gsrc([k],"dashed line: Jan 2023 price"+(v[33]==null?"; no Oct 2025 reading (not collected during the federal shutdown)":""))}`)}
+    ${pan(4,"none",`${ph("Profile","none")}<div class="statgrid">
+      <div><span class="k">Now</span><span class="v">${shPrice(k,glast(k))}</span></div>
+      <div><span class="k">Jan 2023</span><span class="v">${shPrice(k,shFirst(k))}</span></div>
+      <div><span class="k">Since Jan 2023</span><span class="v ${pCls(since)}">${gPct(since)}</span></div>
+      <div><span class="k">1 year</span><span class="v ${pCls(gyoy(k))}">${gPct(gyoy(k))}</span></div>
+      <div><span class="k">Peak</span><span class="v">${shPrice(k,pk.v)}</span><span class="k">${mlabel(pk.i)}</span></div>
+      <div><span class="k">Low</span><span class="v">${shPrice(k,lo.v)}</span><span class="k">${mlabel(lo.i)}</span></div>
+    </div><p class="note">Who feels it first: ${esc(m.who)}.${k==="APU0000708111"?" Eggs spiked to "+shPrice(k,pk.v)+" in "+mlabel(pk.i)+" during the bird-flu outbreak and have since fallen "+gPct((glast(k)/pk.v-1)*100).replace("−","")+" from that peak.":""}${k==="APU000074714"?" Gas feeds straight into fleet costs and mileage reimbursements in Ramp's travel and expense data.":""}</p>${k==="APU000074714"?`<button class="go" type="button" data-go="TAIR" style="align-self:flex-start">TAIR</button>`:m.cat==="kitchen"?`<button class="go" type="button" data-go="TMEA" style="align-self:flex-start">TMEA</button>`:""}`)}
+    ${pan(8,"none",`${ph("Kitchen basket vs all consumer prices · Jan 2023 = 100","fred")}<div class="chart" id="s-bk"></div><p class="note">The kitchen basket weights the ten food items equally, a rough stand-in for a restaurant's ingredient costs. It's at ${bk[bkI].toFixed(1)} against ${cpiI[glastI("CPIAUCSL")].toFixed(1)} for overall consumer prices. Beef (${gPct((glast("APU0000703112")/shFirst("APU0000703112")-1)*100)}) and coffee (${gPct((glast("APU0000717311")/shFirst("APU0000717311")-1)*100)}) are the big drivers; cheaper eggs offset them.</p>${gsrc(["CPIAUCSL"],"basket built here from the ten food series on the price board")}`)}
+    ${pan(4,"none",`${ph("Biggest moves · past year","fred")}<div class="price-moves">${divbars(movers,{fmt:v=>sgnPct(v,0),max:Math.max(...movers.map(r=>Math.abs(r.v)))}).replace(/mono (up|down)/g,(x,c)=>"mono "+(c==="up"?"down":"up"))}</div><p class="note" style="font-size:13px">Red bars cost more than a year ago; green bars cost less.</p>`)}
+  </div>`;
+  return {html,mount(root){
+    root.querySelectorAll("[data-shf]").forEach(b=>b.addEventListener("click",()=>{ state.shf=b.dataset.shf; save(); render(); }));
+    const base=shFirst(k);
+    charts.push(lineChart(root.querySelector("#s-main"),{auto:true,height:260,months:state.range,ref:base,fmt:x=>shPrice(k,x),tipFmt:x=>k==="APU000072610"?(x*100).toFixed(2)+"¢":"$"+x.toFixed(3),axFmt:t=>k==="APU000072610"?(t*100).toFixed(1)+"¢":"$"+(+t.toFixed(2)),aria:m.name+" price",series:[{key:k,name:m.name,v,color:"var(--hi)",w:2.5}]}));
+    charts.push(lineChart(root.querySelector("#s-bk"),{...idxOpts,height:240,months:state.range,ref:100,endLabels:true,aria:"Kitchen basket vs CPI",series:[{key:"B",name:"Kitchen basket",short:"Kitchen basket",v:bk,color:"var(--s2)",w:2.5},{key:"C",name:"All consumer prices",short:"CPI",v:cpiI,color:"var(--s1)"}]}));
+  }};
+};
+
 /* Live refresh: a newer pull can arrive from the shared database (meta/goods) or data/goods.json */
 function applyGoods(x){
   if(!x||!x.series) return; let changed=false;
@@ -1524,7 +1605,7 @@ const TICKERS={
   VNDR:{lab:"RAMP RATE · ADOPTION",items:()=>[["CANVA","74%",-4,"content"],["ZAPIER","61%",0,"sales"],["FIREFLIES","~21%",2,"sales"],["GRANOLA","~20%",15,"sales"],["PROFOUND","40%",33.4,"aeo"]].map(([s,v,d,c])=>({s,v,d,u:" pts",go:"VCAT",setv:c}))},
   TNE:{lab:"TRAVEL · SAMPLE",items:()=>[["FARE",usd(last1(TR.fare)),yoy(TR.fare),"TAIR"],["HOTEL",usd(last1(TR.hotel)),yoy(TR.hotel),"TAIR"],["TRIPS/100",last1(TR.trips).toFixed(1),yoy(TR.trips),"TAIR"],["TRAVEL IDX",last1(TR.idx).toFixed(1),yoy(TR.idx),"TAIR"],["MEAL",usd(last1(TR.meal),2),yoy(TR.meal),"TMEA"]].map(([s,v,d,g])=>({s,v,d,u:"%",go:g}))},
   MACRO:{lab:"LEADING · SAMPLE",items:()=>[{s:"DIFFUSION",v:last1(MC.diff).toFixed(1),d:last1(MC.diff)-MC.diff[N-2],u:" pts",go:"MSPD"},{s:"MOMENTUM",v:sgnPct(last1(MC.mom)),d:last1(MC.mom)-MC.mom[N-2],u:" pts",go:"MSPD"},...[["RECRUIT",MC.rec],["JOBS",MC.jobs],["PAYROLL",MC.pay]].map(([s,v])=>({s,v:last1(v).toFixed(1),d:yoy(v),u:"%",go:"MHIR"}))]},
-  GOODS:{lab:"GOODS & INDUSTRY · FRED",items:()=>[["INDPRO","INDPRO","GIND"],["CAP UTIL","TCU","GIND"],["CORE CAPEX","NEWORDER","GIND"],["RETAIL","RSAFS","GCON"],["RESTAURANTS","RSFSDP","GCON"],["SENTIMENT","UMCSENT","GCON"],["PPI","PPIACO","GPRC"],["CPI","CPIAUCSL","GPRC"],["FREIGHT","TSIFRGHT","GFRT"],["NEW BIZ","BABATOTALSAUS","GNEW"]].map(([s,k,g])=>({s,v:GMETA[k].f(glast(k)),d:gyoy(k),u:"%",go:g}))},
+  GOODS:{lab:"GOODS & INDUSTRY · FRED",items:()=>[["INDPRO","INDPRO","GIND"],["CAP UTIL","TCU","GIND"],["CORE CAPEX","NEWORDER","GIND"],["RETAIL","RSAFS","GCON"],["RESTAURANTS","RSFSDP","GCON"],["SENTIMENT","UMCSENT","GCON"],["PPI","PPIACO","GPRC"],["CPI","CPIAUCSL","GPRC"],["FREIGHT","TSIFRGHT","GFRT"],["NEW BIZ","BABATOTALSAUS","GNEW"]].map(([s,k,g])=>({s,v:GMETA[k].f(glast(k)),d:gyoy(k),u:"%",go:g})).concat(["APU0000708111","APU0000703112","APU0000717311","APU000074714"].map(k=>({s:SHF[k].alias,v:shPrice(k,glast(k)),d:gyoy(k),u:"%",go:"GSHF"})))},
   BENCH:{lab:"COHORT · SAMPLE",items:()=>{const c=cohort();return [{s:"VENDORS",v:String(c.stack.med),d:null,go:"BSTK"},...c.ops.map(o=>({s:o.name.split(" ")[0].toUpperCase(),v:o.fmt(o.med),d:null,go:"BOPS"}))];}}
 };
 
@@ -1947,6 +2028,7 @@ const ALLCMD=[
   ...SERIES_KEYS.map(k=>({code:S[k].code,desc:"Profile · "+S[k].name})),
   ...Object.values(VENDORS).filter(v=>!VENDOR_LAB[v.key]).map(v=>({code:v.key,desc:"Vendor · "+v.name})),
   ...GKEYS.map(k=>({code:k,desc:"Goods & Industry · "+GMETA[k].name})),
+  ...SHF_KEYS.map(k=>({code:SHF[k].alias,desc:"Shelf price · "+SHF[k].name+" per "+SHF[k].unit})),
   ...INDUSTRIES.map(k=>({code:"AIND "+k,desc:"AI · "+S[k].name+" vs all businesses"})),
 ];
 let sel=-1, shown=[];
@@ -1959,6 +2041,7 @@ function run(raw){
   else if(a==="AIND"){ if(b&&INDUSTRIES.includes(b)) state.ind=b; else if(b){ msg.textContent=`No industry "${b}". Try ${INDUSTRIES.join(", ")}.`; return; } nav("AIND"); }
   else if(VIEWS[a]&&a!=="DES"){ nav(a); }
   else if(GMETA[a]){ nav(GMETA[a].view); }
+  else if(SHF_ALIAS[a]||SHF[a]){ state.shf=SHF_ALIAS[a]||a; nav("GSHF"); }
   else if(a==="DES"&&b&&openDes(q.split(/\s+/).slice(1).join(""))){ }
   else if(keyOf(a)&&(!b||b==="DES")){ openDes(a); }
   else if(openDes(q.replace(/\s+DES$/,"").replace(/\s+/g,""))){ }
