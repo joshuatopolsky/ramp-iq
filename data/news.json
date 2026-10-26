@@ -40,22 +40,10 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
-   "s": "SpaceX's new private-credit borrowing is pricing well above expectations, with its riskiest tranche costing as much as 8.75% as lenders grow wary of AI spending.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt",
-   "tp": "Markets",
-   "m": [
-    "MACRO",
-    "AI"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Meta announces $95B offering to fund AI",
-   "s": "Meta plans to raise about $95 billion for its AI buildout, roughly $60 billion of it through the nonvoting share class it created last week.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai",
+   "t": "Anthropic files to sell shares to the public for the first time",
+   "s": "Anthropic publicly filed its IPO prospectus, disclosing rapid revenue growth alongside enormous spending on AI computing.",
+   "src": "AP",
+   "u": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-giant-anthropic-files-130525608.html",
    "tp": "Companies & deals",
    "m": [
     "AI",
@@ -64,21 +52,10 @@
   },
   {
    "d": "2026-10-26",
-   "t": "China's economic growth beats expectations",
-   "s": "China's third-quarter GDP grew 4.5% from a year earlier, slightly ahead of forecasts despite U.S. tariff pressure.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/trump-china-economy-tariffs-growth-goldman-sachs-deficit/",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "AI agents are becoming a major shopping channel, and Mastercard wants to handle the payments",
-   "s": "Mastercard's new 'Pay for Machines' tooling aims to let AI agents make purchases and micropayments on behalf of people and businesses.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/ai-agent-shopping-commerce-mastercard-pay-for-machines-agent-pay-x402-micropayments-jorn-lambert/",
+   "t": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing",
+   "s": "The prospectus shows Anthropic has committed roughly $430 billion to future compute contracts, underscoring the scale of AI infrastructure spending.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/anthropics-ipo-filing-reveals-430-billion-in-locked-in-ai-computing-chart-of-the-day-134457635.html",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -87,14 +64,141 @@
   },
   {
    "d": "2026-10-26",
-   "t": "CFO pay jumps 66% at major industrial spinoffs",
-   "s": "Finance chiefs at newly spun-off industrial companies saw their compensation rise about two-thirds, a sign of how much boards prize CFOs who can run a standalone business.",
+   "t": "Trump says the U.S. is making big money from the Iran war as fuel prices climb",
+   "s": "The president touted gains from the conflict even as gasoline and diesel prices keep rising for consumers and businesses.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/cfo-pay-jumps-66-percent-major-industrial-spinoffs/",
-   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "SoftBank weighs a $50 billion AI investment in Malaysia",
+   "s": "SoftBank is considering an AI investment in Malaysia worth about a tenth of the country's GDP.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/softbank-malaysia-50-billion-ai-investment/",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Startup raises $15 million to fight AI-powered cybercrime",
+   "s": "Overwatch raised $15 million to counter attackers using AI to scale up fraud and cybercrime.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Russian refiners ramp up diesel output after US deal",
+   "s": "Russian refineries are boosting diesel production following an agreement with the United States, sources say, which could ease tight fuel markets.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/energy/articles/russian-refiners-ramp-diesel-output-131232624.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Audi CEO faces backlash after joining Trump at midterm rally",
+   "s": "Audi's chief drew criticism for appearing at a Trump campaign rally days after the automaker announced a $4 billion Georgia plant.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/audi-ceos-appearance-trump-rally-073150220.html",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "German business confidence rises in October despite global risks",
+   "s": "Germany's business sentiment improved this month even as energy prices and trade tensions cloud the outlook.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/economy/articles/german-business-confidence-rises-october-134137077.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Strategy pauses bitcoin buying, spends $205 million on buyback",
+   "s": "Strategy halted its bitcoin purchases and instead spent $205 million buying back its STRC preferred stock as bitcoin slipped below $80,000.",
+   "src": "Decrypt",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-spends-132438478.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "SpaceX's new private-credit borrowing is pricing well above expectations, with its riskiest tranche costing as much as 8.75% as lenders grow wary of AI spending.",
+   "src": "Semafor",
+   "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Meta plans to raise about $95 billion for its AI buildout, roughly $60 billion of it through the nonvoting share class it created last week.",
+   "src": "Semafor",
+   "t": "Meta announces $95B offering to fund AI",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
+   "s": "China's third-quarter GDP grew 4.5% from a year earlier, slightly ahead of forecasts despite U.S. tariff pressure.",
+   "src": "Fortune",
+   "t": "China's economic growth beats expectations",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/26/trump-china-economy-tariffs-growth-goldman-sachs-deficit/"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "AI",
+    "SPEND"
+   ],
+   "s": "Mastercard's new 'Pay for Machines' tooling aims to let AI agents make purchases and micropayments on behalf of people and businesses.",
+   "src": "Fortune",
+   "t": "AI agents are becoming a major shopping channel, and Mastercard wants to handle the payments",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/26/ai-agent-shopping-commerce-mastercard-pay-for-machines-agent-pay-x402-micropayments-jorn-lambert/"
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "BENCH"
-   ]
+   ],
+   "s": "Finance chiefs at newly spun-off industrial companies saw their compensation rise about two-thirds, a sign of how much boards prize CFOs who can run a standalone business.",
+   "src": "Fortune",
+   "t": "CFO pay jumps 66% at major industrial spinoffs",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/26/cfo-pay-jumps-66-percent-major-industrial-spinoffs/"
   },
   {
    "d": "2026-10-26",
@@ -392,17 +496,6 @@
   {
    "d": "2026-10-25",
    "m": [
-    "AI"
-   ],
-   "s": "An anthropologist cautions that AI companies leaning on religious frameworks for model values risk privileging certain faiths over others.",
-   "src": "Fortune",
-   "t": "Tech leaders want religion to guide AI ethics. An anthropologist warns it could favor some traditions",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/25/tech-leaders-religion-ai-morality-traditions-anthropic-openai/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
     "MACRO",
     "TNE"
    ],
@@ -481,29 +574,6 @@
    "t": "Asia is building the world's next $15 trillion energy market",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/asia-building-world-next-15-230000136.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Decisions on data centers, permitting and taxes at the state and local level could matter more for growth than control of Congress.",
-   "src": "Fortune",
-   "t": "State and local races may shape the U.S. economy more than the House and Senate midterms",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/25/midterm-elections-house-senate-economy-gdp-growth-state-local-races-data-centers-blue-wave/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "TNE",
-    "MACRO"
-   ],
-   "s": "A new survey finds Gen X is the most financially insecure cohort heading toward retirement, trailing millennials and Gen Z.",
-   "src": "Fortune",
-   "t": "Only 49% of Gen X workers say they're on track for retirement, lowest of any generation",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/25/reality-bites-gen-x-retirement-most-insecure-millennials-gen-z/"
   },
   {
    "d": "2026-10-25",
@@ -795,18 +865,6 @@
   {
    "d": "2026-10-25",
    "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Volkswagen's Audi will spend about $4 billion on a Georgia plant, the brand's first US factory, after a tariff deal with the White House.",
-   "src": "Reuters",
-   "t": "Trump announces Audi will build $4 billion US factory in Georgia",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/news/trump-set-announce-plan-audi-213133434.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
     "BENCH"
    ],
    "s": "A succession fight among the Del Vecchio heirs is unsettling the ownership of EssilorLuxottica, the eyewear giant behind Ray-Ban.",
@@ -841,25 +899,25 @@
   },
   {
    "d": "2026-10-24",
-   "t": "Block's new voice model sounds eerily human",
-   "s": "Block unveiled a voice AI model whose speech is strikingly close to a real person's, pushing the fintech further into AI products.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-   "tp": "AI & tech",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "Block unveiled a voice AI model whose speech is strikingly close to a real person's, pushing the fintech further into AI products.",
+   "src": "TechCrunch",
+   "t": "Block's new voice model sounds eerily human",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
   },
   {
    "d": "2026-10-24",
-   "t": "Instacart reportedly discussed selling itself to DoorDash and Uber",
-   "s": "Instacart held talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-   "tp": "Companies & deals",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "Instacart held talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
+   "src": "TechCrunch",
+   "t": "Instacart reportedly discussed selling itself to DoorDash and Uber",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
   },
   {
    "d": "2026-10-24",
@@ -907,66 +965,7 @@
    "t": "Record tanker rates cripple U.S. crude oil flows to Asia",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/record-tanker-rates-cripple-u-230000714.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "After a run of critical web vulnerabilities, TechCrunch examines whether AI-driven bug hunting and traffic will strain aging internet software that businesses depend on.",
-   "src": "TechCrunch",
-   "t": "Will AI expose the rickety infrastructure of the internet?",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "A tally of AI products and startups that have shut down, highlighting the shakeout as funding concentrates in a few leaders.",
-   "src": "TechCrunch",
-   "t": "The AI graveyard: a running list of projects and startups that didn't make it",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The Fed, ECB and Bank of Japan are all expected to hold rates next week, with the Fed keeping a hawkish tone as markets bet on a December hike.",
-   "src": "Bloomberg",
-   "t": "Fed set to lead G7 trio in hawkish rate pause: Eco Week Ahead",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-set-lead-g7-trio-200000137.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Singapore high-sulphur fuel oil now costs more than crude as lost Middle East and Russian supply and steep freight rates squeeze Asia's shipping-fuel market.",
-   "src": "Oilprice.com",
-   "t": "Fuel oil becomes Asia's next cost shock",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/fuel-oil-becomes-asia-next-210000466.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "A prominent AI skeptic argues GPU shortages are manufactured by Nvidia's pricing strategy rather than real demand limits, adding to doubts behind this week's tech selloff.",
-   "src": "Yahoo Finance",
-   "t": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html"
   }
  ],
- "updatedAt": "2026-10-26T08:56"
+ "updatedAt": "2026-10-26T09:52"
 }
