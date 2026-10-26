@@ -40,11 +40,11 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "Anthropic files to sell shares to the public for the first time",
-   "s": "Anthropic publicly filed its IPO prospectus, disclosing rapid revenue growth alongside enormous spending on AI computing.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-giant-anthropic-files-130525608.html",
-   "tp": "Companies & deals",
+   "t": "Anthropic's IPO outlines AI's extraordinary risks",
+   "s": "Anthropic's S-1 lays out an unusual list of risk factors, from regulatory hostility to the dangers of the technology itself, giving investors a rare look at frontier-lab exposure.",
+   "src": "Axios",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-outlines-ais-extraordinary-135248152.html",
+   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
@@ -52,95 +52,166 @@
   },
   {
    "d": "2026-10-26",
-   "t": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing",
-   "s": "The prospectus shows Anthropic has committed roughly $430 billion to future compute contracts, underscoring the scale of AI infrastructure spending.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/anthropics-ipo-filing-reveals-430-billion-in-locked-in-ai-computing-chart-of-the-day-134457635.html",
+   "t": "Stagwell acquires publisher ad tech company Freestar",
+   "s": "Marketing holding company Stagwell is buying Freestar, a programmatic ad platform for publishers, extending its push into ad tech.",
+   "src": "Axios",
+   "u": "https://finance.yahoo.com/media-advertising/articles/stagwell-acquires-publisher-ad-tech-143026010.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Verizon lifts outlook, inks Amazon deal worth more than $2 billion",
+   "s": "Verizon raised its full-year guidance and announced a multi-billion-dollar agreement with Amazon, signaling steadier telecom demand.",
+   "src": "The Wall Street Journal",
+   "u": "https://finance.yahoo.com/technology/articles/verizon-lifts-outlook-inks-amazon-111300927.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "CSX sees rail conversion opportunities from battered trucking market",
+   "s": "CSX says weakness and capacity exits in trucking are creating openings to move more freight onto rail.",
+   "src": "Supply Chain Dive",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/csx-sees-rail-conversion-opportunities-144000827.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "FedEx taps AutoZone executive to be finance chief",
+   "s": "FedEx has named an AutoZone finance executive as its next CFO as the shipper continues restructuring its cost base.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-taps-autozone-executive-finance-134909334.html",
+   "tp": "Companies & deals",
+   "m": [
+    "SPEND",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Tesla turns to Turo to boost adoption of Full Self-Driving",
+   "s": "Tesla is partnering with car-sharing marketplace Turo to put its supervised FSD software in front of more drivers.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
    "tp": "AI & tech",
+   "m": [
+    "AI",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Anthropic publicly filed its IPO prospectus, disclosing rapid revenue growth alongside enormous spending on AI computing.",
+   "src": "AP",
+   "t": "Anthropic files to sell shares to the public for the first time",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-giant-anthropic-files-130525608.html"
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "AI",
     "SPEND"
-   ]
+   ],
+   "s": "The prospectus shows Anthropic has committed roughly $430 billion to future compute contracts, underscoring the scale of AI infrastructure spending.",
+   "src": "Yahoo Finance",
+   "t": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/markets/article/anthropics-ipo-filing-reveals-430-billion-in-locked-in-ai-computing-chart-of-the-day-134457635.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Trump says the U.S. is making big money from the Iran war as fuel prices climb",
-   "s": "The president touted gains from the conflict even as gasoline and diesel prices keep rising for consumers and businesses.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "The president touted gains from the conflict even as gasoline and diesel prices keep rising for consumers and businesses.",
+   "src": "Fortune",
+   "t": "Trump says the U.S. is making big money from the Iran war as fuel prices climb",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/"
   },
   {
    "d": "2026-10-26",
-   "t": "SoftBank weighs a $50 billion AI investment in Malaysia",
-   "s": "SoftBank is considering an AI investment in Malaysia worth about a tenth of the country's GDP.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/softbank-malaysia-50-billion-ai-investment/",
-   "tp": "AI & tech",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "SoftBank is considering an AI investment in Malaysia worth about a tenth of the country's GDP.",
+   "src": "Fortune",
+   "t": "SoftBank weighs a $50 billion AI investment in Malaysia",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/26/softbank-malaysia-50-billion-ai-investment/"
   },
   {
    "d": "2026-10-26",
-   "t": "Startup raises $15 million to fight AI-powered cybercrime",
-   "s": "Overwatch raised $15 million to counter attackers using AI to scale up fraud and cybercrime.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Overwatch raised $15 million to counter attackers using AI to scale up fraud and cybercrime.",
+   "src": "Fortune",
+   "t": "Startup raises $15 million to fight AI-powered cybercrime",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/"
   },
   {
    "d": "2026-10-26",
-   "t": "Russian refiners ramp up diesel output after US deal",
-   "s": "Russian refineries are boosting diesel production following an agreement with the United States, sources say, which could ease tight fuel markets.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/energy/articles/russian-refiners-ramp-diesel-output-131232624.html",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "Russian refineries are boosting diesel production following an agreement with the United States, sources say, which could ease tight fuel markets.",
+   "src": "Reuters",
+   "t": "Russian refiners ramp up diesel output after US deal",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/russian-refiners-ramp-diesel-output-131232624.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Audi CEO faces backlash after joining Trump at midterm rally",
+   "m": [
+    "MACRO"
+   ],
    "s": "Audi's chief drew criticism for appearing at a Trump campaign rally days after the automaker announced a $4 billion Georgia plant.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/audi-ceos-appearance-trump-rally-073150220.html",
+   "t": "Audi CEO faces backlash after joining Trump at midterm rally",
    "tp": "Companies & deals",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/news/audi-ceos-appearance-trump-rally-073150220.html"
   },
   {
    "d": "2026-10-26",
-   "t": "German business confidence rises in October despite global risks",
+   "m": [
+    "MACRO"
+   ],
    "s": "Germany's business sentiment improved this month even as energy prices and trade tensions cloud the outlook.",
    "src": "Euronews",
-   "u": "https://finance.yahoo.com/economy/articles/german-business-confidence-rises-october-134137077.html",
+   "t": "German business confidence rises in October despite global risks",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/articles/german-business-confidence-rises-october-134137077.html"
   },
   {
    "d": "2026-10-26",
-   "t": "Strategy pauses bitcoin buying, spends $205 million on buyback",
-   "s": "Strategy halted its bitcoin purchases and instead spent $205 million buying back its STRC preferred stock as bitcoin slipped below $80,000.",
-   "src": "Decrypt",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-spends-132438478.html",
-   "tp": "Markets",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Strategy halted its bitcoin purchases and instead spent $205 million buying back its STRC preferred stock as bitcoin slipped below $80,000.",
+   "src": "Decrypt",
+   "t": "Strategy pauses bitcoin buying, spends $205 million on buyback",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-spends-132438478.html"
   },
   {
    "d": "2026-10-26",
@@ -896,76 +967,7 @@
    "t": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/economy/articles/borderlands-mexico-avocado-imports-generate-110000094.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "AI"
-   ],
-   "s": "Block unveiled a voice AI model whose speech is strikingly close to a real person's, pushing the fintech further into AI products.",
-   "src": "TechCrunch",
-   "t": "Block's new voice model sounds eerily human",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Instacart held talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
-   "src": "TechCrunch",
-   "t": "Instacart reportedly discussed selling itself to DoorDash and Uber",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "VNDR"
-   ],
-   "s": "SpaceX's Starlink service in Ukraine appears to have recovered after a disruption, restoring connectivity relied on by the military and civilians.",
-   "src": "TechCrunch",
-   "t": "Starlink seems to be working normally again in Ukraine",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "SPEND",
-    "MACRO"
-   ],
-   "s": "Higher cocoa and sugar costs and squeezed household budgets are pulling down Halloween candy purchases this year.",
-   "src": "USA TODAY",
-   "t": "Halloween candy sales are down. Here's what's driving it",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/economy/articles/halloween-candy-sales-down-heres-173931968.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "Contract truckload rates are still running more than 10% above year-ago levels, a sign shippers face persistently higher freight costs heading into 2027 bid season.",
-   "src": "FreightWaves",
-   "t": "Truckload contract rate increases riding steady above 10%",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/truckload-contract-rate-increases-riding-003000701.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Soaring charter costs for supertankers have made shipping American crude to Asian buyers uneconomic, cutting export flows.",
-   "src": "Oilprice.com",
-   "t": "Record tanker rates cripple U.S. crude oil flows to Asia",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/record-tanker-rates-cripple-u-230000714.html"
   }
  ],
- "updatedAt": "2026-10-26T09:52"
+ "updatedAt": "2026-10-26T10:55"
 }
