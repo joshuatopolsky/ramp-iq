@@ -40,14 +40,106 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "Apollo takes stake in Abu Dhabi's Mubadala Capital",
-   "s": "Apollo is buying a minority stake in Mubadala's alternative-asset arm and committing $5 billion across its strategies, showing that Wall Street still treats Gulf capital as central.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/26/2026/apollo-takes-stake-in-abu-dhabis-mubadala-capital",
+   "t": "Microsoft offers voluntary buyouts to about 60,000 employees",
+   "s": "Microsoft is extending voluntary buyout offers to roughly 60,000 workers as it reshapes its workforce around AI spending.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html",
+   "tp": "Labor",
+   "m": [
+    "BENCH",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Anthropic's S-1 shows $16.3 billion in revenue and an $80.7 billion net loss",
+   "s": "Anthropic's IPO filing lays out sharply rising revenue alongside an enormous paper loss, giving investors their first full look at a frontier AI lab's books.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/anthropics-s-1/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Analysis: In China, the AI bubble has already burst",
+   "s": "A Reuters analysis argues that Chinese AI valuations and spending have already deflated, offering a possible preview for the US trade.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "AI air freight drives Kuehne+Nagel profit increase",
+   "s": "The logistics giant credited strong demand for shipping AI hardware by air for a rise in quarterly profit.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-air-freight-drives-kuehne-152644739.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Walmart debuts longer Black Friday and Cyber Monday sales events",
+   "s": "Walmart is stretching its holiday promotions over a longer window as retailers compete for cautious shoppers.",
+   "src": "Retail Dive",
+   "u": "https://finance.yahoo.com/small-business/articles/walmart-debuts-longer-black-friday-154300095.html",
    "tp": "Companies & deals",
+   "m": [
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Why retail investor trading has fallen off a cliff",
+   "s": "Trading activity by individual investors has dropped sharply, and the piece looks at what is pushing small traders to the sidelines.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/why-retail-investor-trading-has-fallen-off-a-cliff-152604818.html",
+   "tp": "Markets",
    "m": [
     "MACRO"
    ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Warren urges Fed, OCC and FDIC to restore bank examiner powers",
+   "s": "Sen. Elizabeth Warren is pressing the three bank regulators to reverse moves that curtailed examiners' supervisory authority.",
+   "src": "Banking Dive",
+   "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-fed-occ-fdic-161735509.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "CEOs want a new kind of CHRO, but only 1 in 4 candidates fit",
+   "s": "Chief executives are looking for HR leaders with business and tech fluency, and few candidates meet that bar.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/ceos-want-a-new-kind-of-chro-only-1-in-4-fit-the-bill/",
+   "tp": "Labor",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Apollo is buying a minority stake in Mubadala's alternative-asset arm and committing $5 billion across its strategies, showing that Wall Street still treats Gulf capital as central.",
+   "src": "Semafor",
+   "t": "Apollo takes stake in Abu Dhabi's Mubadala Capital",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/26/2026/apollo-takes-stake-in-abu-dhabis-mubadala-capital"
   },
   {
    "d": "2026-10-26",
@@ -505,30 +597,6 @@
    "u": "https://fortune.com/2026/10/26/singapore-urges-suppliers-honor-commitments/"
   },
   {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "High underemployment among recent graduates is tied to a wave of youth protests from Kathmandu to Paris.",
-   "src": "Fortune",
-   "t": "42% of recent U.S. college grads work jobs that don't need a degree as youth unrest spreads abroad",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/26/gen-z-underemployment-riots-france-cockroach-india-rebellion/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "TNE"
-   ],
-   "s": "Brian Chesky says managers who don't do hands-on work and employees who resist new tools face the biggest risk from AI.",
-   "src": "Fortune",
-   "t": "Airbnb CEO says 'pure people managers' and change-resisters won't survive AI",
-   "tp": "Labor",
-   "u": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/"
-  },
-  {
    "d": "2026-10-25",
    "m": [
     "AI",
@@ -610,18 +678,6 @@
    "t": "Nvidia teams up with 6 supply chain partners to expand global AI manufacturing capacity",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-teams-6-supply-chain-183002962.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Claude reportedly retrieved paywalled Georgia vote-tally data, raising fresh questions about how AI agents handle restricted content.",
-   "src": "Reuters",
-   "t": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/news/anthropics-claude-accessed-public-us-224806257.html"
   },
   {
    "d": "2026-10-25",
@@ -909,64 +965,7 @@
    "t": "SpaceX, Meta, and other hyperscalers are dropping clues you should not ignore",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/markets/article/spacex-meta-and-other-hyperscalers-are-dropping-clues-you-should-not-ignore-100000992.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Job seekers describe a market where openings are scarce and searches drag on for months.",
-   "src": "USA TODAY",
-   "t": "'I need a job to save my life': Inside the desperate hunt for work in America",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/economy/articles/job-save-life-inside-desperate-090124580.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Central banks are moving in opposite directions on gold, with some trimming holdings while others keep adding.",
-   "src": "Euronews",
-   "t": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-market-central-banks-russia-065833456.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Indian stocks snapped a two-week winning streak as the Nifty50 fell 2.4% in a holiday-shortened week, pressured by high oil prices and foreign investor selling.",
-   "src": "Business Today",
-   "t": "Markets Next Week: Crude oil at $117, broader market selloff and Q2 earnings in focus",
-   "tp": "Markets",
-   "u": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-crude-oil-at-117-broader-market-selloff-and-q2-earnings-in-focus-563444-2026-10-25"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "BENCH"
-   ],
-   "s": "A succession fight among the Del Vecchio heirs is unsettling the ownership of EssilorLuxottica, the eyewear giant behind Ray-Ban.",
-   "src": "The Telegraph",
-   "t": "The family dispute threatening to upend Ray-Ban's global empire",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/family-dispute-threatening-upend-ray-100000703.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "British defense contractor Babcock is pursuing US Navy shipbuilding work as Washington looks to allies to ease its naval construction backlog.",
-   "src": "The Telegraph",
-   "t": "Babcock in push to build warships for US navy",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/economy/policy/articles/babcock-push-build-warships-us-090000195.html"
   }
  ],
- "updatedAt": "2026-10-26T11:51"
+ "updatedAt": "2026-10-26T12:51"
 }
