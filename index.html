@@ -340,6 +340,8 @@ aside.newsbar{display:none}
 .nitem.lead .nt{font-family:var(--font-display);font-size:clamp(22px,2.6vw,30px);font-weight:800;font-stretch:108%;letter-spacing:-.015em;line-height:1.12;text-wrap:balance}
 .nitem.lead .ns{font-size:15px;max-width:70ch}
 .nrel{color:var(--accent-ink);background:var(--accent);padding:0 4px;margin-left:4px}
+.prov.fred{background:var(--s1);color:#fff}
+.mod .live.fred{background:var(--s1);color:#fff}
 .prov.press{color:var(--fg);border:1px solid var(--muted)}
 #newsBtn[aria-pressed="true"]{color:var(--fg);border-style:solid}
 @media (max-width:1439px){ #newsBtn{border-style:dashed} }
@@ -542,6 +544,9 @@ const MODULES=[
   {code:"MACRO",name:"Leading Indicators",data:"mixed",home:"MSPD",
    desc:"Business spending as an early signal for the economy, ahead of survey-based indicators.",
    groups:[["Signals",[["MSPD","Spend momentum"],["MHIR","Hiring & labor"]]],["Validation",[["MCMP","Versus official data"]]]]},
+  {code:"GOODS",name:"Goods & Industry",data:"fred",home:"GOVW",
+   desc:"Official U.S. data on production, orders, freight, consumer demand, prices and new businesses: the conditions Ramp's customers operate in.",
+   groups:[["Overview",[["GOVW","All indicators"]]],["Industry",[["GIND","Factory floor"],["GFRT","Freight & logistics"]]],["Consumer",[["GCON","Consumer demand"]]],["Costs & formation",[["GPRC","Prices & margins"],["GNEW","New businesses"]]]]},
   {code:"BENCH",name:"Company Benchmarks",data:"mixed",home:"BMIX",
    desc:"Anonymized peer cohorts: how companies like yours spend, approve and stack their software.",
    groups:[["Cohort",[["BMIX","Spend mix"],["BSTK","Software stack"],["BOPS","Operations"]]],["Outcomes",[["BAIG","AI & growth"]]]]},
@@ -950,7 +955,7 @@ const sgnPts=(v,d=1)=>(v>=0?"+":"−")+Math.abs(v).toFixed(d)+" pts";
 const cls=v=>v>=0?"up":"down";
 const idxF=v=>v.toFixed(1), idxAx=t=>String(Math.round(t));
 const usd=(v,d=0)=>"$"+v.toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d});
-const prov=k=>k==="press"?'<span class="prov press">PRESS</span>':k==="real"?'<span class="prov real">RAMP DATA</span>':k==="mixed"?'<span class="prov mixed">RAMP + SAMPLE</span>':'<span class="prov sample">SAMPLE DATA</span>';
+const prov=k=>k==="fred"?'<span class="prov fred">FRED DATA</span>':k==="press"?'<span class="prov press">PRESS</span>':k==="real"?'<span class="prov real">RAMP DATA</span>':k==="mixed"?'<span class="prov mixed">RAMP + SAMPLE</span>':'<span class="prov sample">SAMPLE DATA</span>';
 const pan=(span,kind,inner)=>`<section class="panel span-${span}${kind==="sample"||kind==="mixed"?" sample":""}">${inner}</section>`;
 const ph=(label,kind,extra)=>`<div class="p-h"><span class="label">${label}</span><span style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">${extra||""}${kind&&kind!=="none"?prov(kind):""}</span></div>`;
 const kv=(v,s)=>`<div><div class="v">${v}</div><div class="s">${s}</div></div>`;
@@ -1328,6 +1333,190 @@ VIEWS.BAIG=()=>{
   return {html,mount(){}};
 };
 
+const GV={
+  INDPRO:[100.505,100.6416,101.0205,101.253,100.9286,100.1196,100.9067,100.8393,101.0211,100.4689,100.8639,100.6031,99.2223,100.285,100.4575,100.2434,100.863,100.894,99.9757,100.4309,99.8084,99.4695,99.2925,100.3273,100.0647,101.0993,101.0404,101.1279,100.9655,101.4785,101.894,101.6247,101.668,101.2195,101.0344,101.4941,101.0388,101.9053,101.7336,102.5768,102.7232,102.961,103.2006,103.2664,103.9506],
+  TCU:[77.601,77.6078,77.8036,77.888,77.5496,76.8467,77.3773,77.2588,77.3375,76.859,77.1081,76.858,75.7542,76.5157,76.5964,76.3803,76.7961,76.7586,75.9946,76.2697,75.7216,75.3852,75.1681,75.8651,75.5781,76.2685,76.1318,76.1048,75.8894,76.181,76.3997,76.1055,76.0461,75.6194,75.3901,75.6422,75.242,75.8142,75.6178,76.1792,76.2225,76.3321,76.4409,76.4184,76.8504],
+  ISRATIO:[1.4,1.42,1.44,1.44,1.43,1.44,1.43,1.42,1.41,1.42,1.43,1.43,1.44,1.44,1.44,1.44,1.44,1.45,1.43,1.44,1.44,1.44,1.43,1.42,1.43,1.42,1.41,1.41,1.42,1.42,1.4,1.4,1.4,1.41,1.4,1.39,1.38,1.37,1.35,1.34,1.31,1.33,1.34,1.33],
+  TRUCKD11:[117.4,116.7,114.5,113.9,113.6,114.1,115.0,114.0,114.0,114.3,113.9,116.3,112.5,113.7,113.0,112.8,114.7,113.8,113.4,114.5,112.9,114.0,113.2,113.0,113.1,113.4,113.5,113.5,113.3,113.2,113.9,115.0,113.7,112.2,113.2,113.1,114.2,115.8,117.5,116.3,112.8,114.4,113.5],
+  TSIFRGHT:[138.1,139.0,137.7,137.0,136.8,137.0,137.7,137.0,137.5,137.7,137.5,138.5,135.2,136.7,136.7,135.2,138.6,138.0,137.3,138.8,137.3,138.3,137.1,137.4,137.8,136.8,137.6,137.5,136.9,137.0,138.5,138.9,138.0,136.7,137.2,136.9,136.3,138.4,139.3,138.2,135.3,136.6,135.7],
+  AMTMNO:[593201,582578,584931,583953,581399,596374,586852,589655,603929,584930,595096,603429,575836,580113,588450,589369,585723,579092,593865,589396,591606,591738,589991,592319,594107,597337,617418,593537,642533,611471,603586,611464,612874,605401,621859,619137,619352,621304,632650,665895,658836,657790,662837,663491],
+  NEWORDER:[75395,74193,73852,74424,75363,74769,75140,74387,74534,74163,74284,74073,73668,73969,73986,74040,73137,73544,73430,73738,74487,73440,74311,74595,75971,75561,75781,74631,76049,75608,76154,76806,77591,77948,78621,79262,78990,80235,83296,82778,84360,85757,86295,87640],
+  PPIACO:[260.227,258.669,257.062,256.908,253.67,253.86,253.835,257.68,258.934,255.192,252.856,249.866,251.306,254.926,255.095,256.978,255.313,255.914,257.321,255.463,252.682,253.081,253.211,253.423,257.36,259.498,258.525,258.392,258.678,260.491,262.358,262.11,262.054,260.591,261.914,261.333,263.608,269.535,276.109,282.722,290.281,286.037,284.973,287.735,295.708],
+  CPIAUCSL:[300.42,301.45,301.821,302.845,303.334,304.014,304.609,306.082,307.276,307.696,308.148,308.741,309.698,310.967,312.345,313.023,313.175,313.044,313.569,314.062,314.732,315.631,316.528,317.604,318.961,319.679,319.785,320.302,320.62,321.435,322.169,323.291,324.245,null,325.063,326.031,326.588,327.46,330.293,332.407,333.979,332.568,332.813,334.131,336.298],
+  RSAFS:[674646,664692,655146,658962,662303,664476,663391,667632,671096,667815,666419,666963,660602,664621,664328,664858,667659,666040,673662,670668,676005,681808,685709,691794,687058,683772,694750,695464,685488,691883,698280,700407,700948,700790,705453,706264,701860,707959,719700,723921,731415,732898,729915,739322,745021],
+  RSFSDP:[81068,78417,78269,78022,78552,78979,79404,79322,79889,79946,80776,81113,80969,81251,80732,80933,81010,81011,81496,81524,82588,83405,83567,83697,84160,83158,85761,86400,85893,86401,86205,86837,86837,86890,87424,87142,86989,87586,87793,88700,89532,90105,90652,91882,92906],
+  UMCSENT:[64.9,66.9,62.0,63.7,59.0,64.2,71.5,69.4,67.8,63.8,61.3,69.7,79.0,76.9,79.4,77.2,69.1,68.2,66.4,67.9,70.1,70.5,71.8,74.0,71.7,64.7,57.0,52.2,52.2,60.7,61.7,58.2,55.1,53.6,51.0,52.9,56.4,56.6,53.3,49.8,44.8,49.5,55.2,51.7,48.1],
+  PCEDG:[2175.9,2135.2,2118.3,2150,2144.7,2141.1,2153.5,2152.6,2153.7,2140.5,2130.4,2143.9,2119.9,2128,2136.5,2145.8,2165.6,2166.5,2182.3,2170,2207.5,2209.6,2243.1,2292.5,2200.1,2198.3,2274.8,2286.6,2241.1,2251.2,2275,2276.3,2280.3,2282.8,2298.2,2300.3,2281.9,2338.7,2369.9,2370,2390.1,2412.2,2395.6,2443.6],
+  BABATOTALSAUS:[428614,446842,452843,444715,449234,470793,478273,467208,470317,470393,455805,454137,450041,443944,431289,431531,427923,436016,424927,436267,427221,426875,446146,464450,385618,432820,461056,456024,448815,462692,467687,477591,512569,498416,537266,496139,526115,496121,493792,506807,528929,533453,576264,532051,534947]
+};
+
+/* ===================== Goods & Industry (official data via FRED) ===================== */
+/* Monthly values from Jan 2023, fetched from FRED 25 Oct 2026. null = no reading that month (CPI Oct 2025 was not published). */
+const GMETA={
+  INDPRO:{name:"Industrial production",short:"Ind. production",unit:"Index, 2017 = 100",f:v=>v.toFixed(1),view:"GIND",what:"Output of U.S. factories, mines and utilities"},
+  TCU:{name:"Capacity utilization",short:"Capacity used",unit:"% of capacity",f:v=>v.toFixed(1)+"%",view:"GIND",what:"Share of industrial capacity in use"},
+  AMTMNO:{name:"Factory new orders",short:"New orders",unit:"$ billions / month",f:v=>"$"+(v/1000).toFixed(1)+"B",view:"GIND",what:"Value of new orders placed with U.S. manufacturers"},
+  NEWORDER:{name:"Core capital goods orders",short:"Core capex orders",unit:"$ billions / month",f:v=>"$"+(v/1000).toFixed(1)+"B",view:"GIND",what:"Orders for business equipment, excluding defense and aircraft"},
+  ISRATIO:{name:"Inventories-to-sales ratio",short:"Inventory/sales",unit:"Months of sales",f:v=>v.toFixed(2),view:"GIND",what:"How many months of sales businesses hold in stock"},
+  TRUCKD11:{name:"Truck tonnage",short:"Truck tonnage",unit:"Index, 2015 = 100",f:v=>v.toFixed(1),view:"GFRT",what:"Freight hauled by for-hire trucks (ATA)"},
+  TSIFRGHT:{name:"Freight transportation index",short:"Freight TSI",unit:"Index, 2000 = 100",f:v=>v.toFixed(1),view:"GFRT",what:"Freight moved by truck, rail, air, water and pipeline (BTS)"},
+  RSAFS:{name:"Retail & food services sales",short:"Retail sales",unit:"$ billions / month",f:v=>"$"+(v/1000).toFixed(1)+"B",view:"GCON",what:"What consumers spend at stores, online and in restaurants"},
+  RSFSDP:{name:"Restaurant & bar sales",short:"Restaurants",unit:"$ billions / month",f:v=>"$"+(v/1000).toFixed(1)+"B",view:"GCON",what:"Sales at food services and drinking places"},
+  PCEDG:{name:"Spending on durable goods",short:"Durable goods",unit:"$ trillions, annual rate",f:v=>"$"+(v/1000).toFixed(2)+"T",view:"GCON",what:"Consumer spending on cars, appliances, furniture and electronics"},
+  UMCSENT:{name:"Consumer sentiment",short:"Sentiment",unit:"Index, 1966 = 100",f:v=>v.toFixed(1),view:"GCON",what:"University of Michigan survey of consumer confidence"},
+  PPIACO:{name:"Producer prices",short:"PPI",unit:"Index, 1982 = 100",f:v=>v.toFixed(1),view:"GPRC",what:"Prices businesses pay for commodities and inputs"},
+  CPIAUCSL:{name:"Consumer prices",short:"CPI",unit:"Index, 1982–84 = 100",f:v=>v.toFixed(1),view:"GPRC",what:"Prices consumers pay for goods and services"},
+  BABATOTALSAUS:{name:"New business applications",short:"Business apps",unit:"Applications / month",f:v=>Math.round(v/1000)+"K",view:"GNEW",what:"Applications for a new employer ID number, a proxy for new businesses"}
+};
+const GKEYS=Object.keys(GMETA);
+const GLIVE={syncedAt:"2026-10-25"};
+const gv=k=>GV[k];
+const glastI=k=>{const v=GV[k];for(let i=v.length-1;i>=0;i--) if(v[i]!=null) return i;return 0;};
+const glast=k=>GV[k][glastI(k)];
+const gchgAt=(k,i,n)=>{const v=GV[k];return (i-n>=0&&v[i]!=null&&v[i-n]!=null)?(v[i]/v[i-n]-1)*100:null;};
+const gmom=k=>gchgAt(k,glastI(k),1), gyoy=k=>gchgAt(k,glastI(k),12);
+const gyoyArr=v=>v.map((x,i)=>i>=12&&x!=null&&v[i-12]!=null?+((x/v[i-12]-1)*100).toFixed(3):null);
+const gidx=v=>{const b=v.find(x=>x!=null);return v.map(x=>x==null?null:+(x/b*100).toFixed(3));};
+const gmo=k=>mlabel(glastI(k));
+const gPct=v=>v==null?"—":sgnPct(v);
+const gCls=v=>v==null?"":cls(v);
+const gsrc=(ids,extra)=>`<div class="src">SRC · FRED, Federal Reserve Bank of St. Louis: ${ids.map(id=>`<a href="${FRED(id)}" target="_blank" rel="noopener">${id}</a>`).join(", ")}${extra?" · "+extra:""}</div>`;
+const gDelta=(k)=>`<div style="display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 18px"><div class="big">${GMETA[k].f(glast(k))}</div><span class="delta ${gCls(gmom(k))}">${gPct(gmom(k))} MoM</span><span class="delta ${gCls(gyoy(k))}">${gPct(gyoy(k))} YoY</span><span class="src" style="margin:0">${gmo(k).toUpperCase()}</span></div>`;
+const gKpi=(k,label,sub)=>`<section class="panel kpi span-3">${ph(label,"fred")}<div class="v">${GMETA[k].f(glast(k))}</div><div class="s">${sub}</div>${gsrc([k])}</section>`;
+const gkv=(span,label,val,sub,ids)=>`<section class="panel kpi span-${span}">${ph(label,"fred")}<div class="v">${val}</div><div class="s">${sub}</div>${gsrc(ids)}</section>`;
+const gFmtAx=k=>{const f=GMETA[k].f;return t=>{const s=f(t);return s.replace(/\.0(?=[BT%]|$)/,"");};};
+function gChart(el,keys,o={}){
+  const cols=o.colors||["var(--s1)","var(--s2)","var(--s3)","var(--hi)"];
+  return lineChart(el,Object.assign({auto:true,height:260,months:state.range,fmt:GMETA[keys[0]].f,tipFmt:GMETA[keys[0]].f,axFmt:gFmtAx(keys[0]),aria:keys.map(k=>GMETA[k].name).join(", "),series:keys.map((k,i)=>({key:k,name:GMETA[k].name,short:GMETA[k].short,v:GV[k],color:cols[i%cols.length],w:keys.length===1?2.5:2}))},o));
+}
+/* Real (inflation-adjusted) retail sales: nominal deflated by CPI, indexed Jan 2023 = 100 */
+function gReal(){const r=GV.RSAFS,c=GV.CPIAUCSL;const v=r.map((x,i)=>x!=null&&c[i]!=null?x/c[i]:null);return gidx(v);}
+const gRealYoy=()=>{const v=gReal();for(let i=v.length-1;i>=12;i--) if(v[i]!=null&&v[i-12]!=null) return {v:(v[i]/v[i-12]-1)*100,i};return {v:null,i:0};};
+
+VIEWS.GOVW=()=>{
+  const ry=gRealYoy(), ppi=gyoy("PPIACO"), cpi=gyoy("CPIAUCSL"), spread=ppi-cpi;
+  const caps=gyoy("NEWORDER"), sent=glast("UMCSENT");
+  const order=["INDPRO","TCU","AMTMNO","NEWORDER","ISRATIO","TRUCKD11","TSIFRGHT","RSAFS","RSFSDP","PCEDG","UMCSENT","PPIACO","CPIAUCSL","BABATOTALSAUS"];
+  const html=head("GOVW","Goods & industry overview","Official U.S. data on the factories, shippers, retailers and restaurants that make up much of Ramp's customer base.",rangeSeg(state.range))+
+  measure("Production, orders, freight, consumer demand, prices and new-business formation","Mixed; see each row","Jan 2023 – latest release, monthly")+
+  `<div class="grid">
+    ${gKpi("INDPRO","Industrial production",`${gPct(gyoy("INDPRO"))} from a year earlier${glast("INDPRO")>=Math.max(...GV.INDPRO.filter(x=>x!=null))?"; the highest reading since at least 2023":""} (${gmo("INDPRO")})`)}
+    ${gkv(3,"Real retail sales · YoY",gPct(ry.v),`Retail and restaurant sales grew ${gPct(gyoy("RSAFS"))} before inflation; after CPI, the gain is about a third of that (${mlabel(ry.i)})`,["RSAFS","CPIAUCSL"])}
+    ${gkv(3,"Producer prices · YoY",gPct(ppi),`Input prices are rising ${spread.toFixed(1)} points faster than consumer prices (${gPct(cpi)}), which squeezes margins (${gmo("PPIACO")})`,["PPIACO","CPIAUCSL"])}
+    ${gKpi("UMCSENT","Consumer sentiment",`${sent<55?"Near the lowest readings on record":"Below its 2024 level"}; ${gPct(gyoy("UMCSENT"))} in a year (${gmo("UMCSENT")})`)}
+    <section class="panel span-12">${ph("All indicators","fred",`<span class="src" style="margin:0">Select a row to open its function</span>`)}
+      <div class="tbl-wrap"><table><thead><tr><th>Indicator</th><th class="n">Latest</th><th>Month</th><th class="n">MoM</th><th class="n">YoY</th><th>2 years</th></tr></thead><tbody>
+      ${order.map(k=>{const m=GMETA[k],v=GV[k].filter(x=>x!=null);return `<tr class="row-btn" tabindex="0" data-go="${m.view}"><td class="rowname">${m.name}<div style="font-size:12px;color:var(--muted);font-weight:400"><span class="mono" style="color:var(--dim)">${k}</span> · ${m.what}</div></td><td class="n">${m.f(glast(k))}</td><td class="mono">${gmo(k).toUpperCase()}</td><td class="n ${gCls(gmom(k))}">${gPct(gmom(k))}</td><td class="n ${gCls(gyoy(k))}">${gPct(gyoy(k))}</td><td>${spark(v.slice(-24),64,24)}</td></tr>`;}).join("")}
+      </tbody></table></div>
+      <p class="note">These are government and industry statistics, not Ramp data. They sit here as context for Ramp's own spend series: they describe the demand, costs and logistics Ramp's customers in manufacturing, retail, wholesale and hospitality face each month.</p>
+      ${gsrc(order)}
+    </section>
+    <section class="panel span-12">${ph("Exploration vectors","none",`<span class="src" style="margin:0">Each opens the function that answers it</span>`)}
+      <div class="explore">${[
+        ["GIND","Are factories busy or slowing?",`Output is ${gPct(gyoy("INDPRO"))} YoY and ${GMETA.TCU.f(glast("TCU"))} of capacity is in use, still below the long-run norm near 79.5%.`],
+        ["GIND","Are businesses investing?",`Core capital goods orders are ${gPct(caps)} from a year ago${glast("NEWORDER")>=Math.max(...GV.NEWORDER)?", at the highest level in this window.":"."}`],
+        ["GPRC","Who is absorbing higher costs?",`Producer prices ${gPct(ppi)} vs consumer prices ${gPct(cpi)}: a ${spread.toFixed(1)}-point gap that hits suppliers first.`],
+        ["GCON","Is the consumer still spending?",`Sales are up but sentiment is at ${sent.toFixed(1)}. People are spending more while saying they feel worse.`],
+        ["GFRT","What do trucks say?",`Freight volumes are ${gPct(gyoy("TSIFRGHT"))} YoY, flat to down even as factory output rises.`],
+        ["GNEW","Are new companies forming?",(()=>{const v=GV.BABATOTALSAUS,a=x=>x.reduce((s,y)=>s+y,0)/x.length;return `About ${Math.round(a(v.slice(-12))/1000)}K applications a month over the past year, ${gPct((a(v.slice(-12))/a(v.slice(0,12))-1)*100)} vs the 2023 average.`;})()]
+      ].map(([c,q,a])=>`<button type="button" class="xcard" data-go="${c}"><span class="c">${c} &lt;GO&gt;</span><span class="q">${q}</span><span class="a">${a}</span></button>`).join("")}</div>
+    </section>
+  </div>`;
+  return {html,mount(root){root.querySelectorAll("tr.row-btn[data-go]").forEach(r=>r.addEventListener("keydown",e=>{if(e.key==="Enter") nav(r.dataset.go);}));}};
+};
+
+VIEWS.GIND=()=>{
+  const isr=GV.ISRATIO, isMin=Math.min(...isr.filter(x=>x!=null));
+  const html=head("GIND","Factory floor","Output, capacity, orders and inventories for U.S. industry.",rangeSeg(state.range))+
+  measure("Industrial output, share of capacity in use, new orders, inventories relative to sales","Index; %; $ billions; months","Jan 2023 – latest release, monthly")+
+  `<div class="grid">
+    ${pan(6,"none",`${ph("Industrial production","fred")}${gDelta("INDPRO")}<div class="chart" id="g-ip"></div>${gsrc(["INDPRO"])}`)}
+    ${pan(6,"none",`${ph("Capacity utilization","fred")}${gDelta("TCU")}<div class="chart" id="g-tcu"></div>${gsrc(["TCU"],"dashed line: long-run average, about 79.5%")}`)}
+    ${pan(8,"none",`${ph("New orders · indexed, Jan 2023 = 100","fred")}<div class="chart" id="g-ord"></div>
+      <div class="tbl-wrap"><table><thead><tr><th>Series</th><th class="n">Latest</th><th class="n">YoY</th></tr></thead><tbody>${["AMTMNO","NEWORDER"].map((k,i)=>`<tr><td class="rowname"><span class="sw" style="background:${["var(--s1)","var(--hi)"][i]}"></span>${GMETA[k].name}</td><td class="n">${GMETA[k].f(glast(k))}</td><td class="n ${gCls(gyoy(k))}">${gPct(gyoy(k))}</td></tr>`).join("")}</tbody></table></div>
+      ${gsrc(["AMTMNO","NEWORDER"])}`)}
+    ${pan(4,"none",`${ph("Why it matters for Ramp","none")}<div class="kpi">${kv(gPct(gyoy("NEWORDER")),"core capital goods orders vs a year earlier")}</div><p class="note">Core capex orders are the government's cleanest read on business investment. When they rise, the equipment, software and contractor spend that shows up on corporate cards tends to follow. Compare with Ramp's software and AI spend.</p><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="go" type="button" data-go="STOT">STOT</button><button class="go" type="button" data-go="VGPU">VGPU</button></div>`)}
+    ${pan(12,"none",`${ph("Inventories-to-sales ratio · all businesses","fred")}${gDelta("ISRATIO")}<div class="chart" id="g-isr"></div><p class="note">Businesses are holding about ${glast("ISRATIO").toFixed(2)} months of sales in stock, ${glast("ISRATIO")<=isMin+.02?"near":"above"} the low of this period (${isMin.toFixed(2)}). Lean inventories mean restocking orders, and supplier payments, come quickly when demand picks up.</p>${gsrc(["ISRATIO"])}`)}
+  </div>`;
+  return {html,mount(root){
+    charts.push(gChart(root.querySelector("#g-ip"),["INDPRO"],{height:220}));
+    charts.push(gChart(root.querySelector("#g-tcu"),["TCU"],{height:220,ref:79.5,colors:["var(--s3)"]}));
+    charts.push(lineChart(root.querySelector("#g-ord"),{...idxOpts,height:260,months:state.range,endLabels:true,ref:100,aria:"New orders indexed",series:[{key:"A",name:"All factory orders",short:"All orders",v:gidx(GV.AMTMNO),color:"var(--s1)"},{key:"N",name:"Core capital goods",short:"Core capex",v:gidx(GV.NEWORDER),color:"var(--hi)",w:2.5}]}));
+    charts.push(gChart(root.querySelector("#g-isr"),["ISRATIO"],{height:200,colors:["var(--s2)"]}));
+  }};
+};
+
+VIEWS.GFRT=()=>{
+  const html=head("GFRT","Freight & logistics","How much physical stuff is moving through the U.S. economy.",rangeSeg(state.range))+
+  measure("Freight hauled by for-hire trucks; freight moved across all transport modes","Index, Jan 2023 = 100 (chart); source index (tiles)","Jan 2023 – latest release, monthly")+
+  `<div class="grid">
+    ${pan(8,"none",`${ph("Freight volumes · indexed, Jan 2023 = 100","fred")}<div class="chart" id="g-frt"></div>${gsrc(["TRUCKD11","TSIFRGHT"],"truck tonnage from the American Trucking Associations; freight index from the Bureau of Transportation Statistics")}`)}
+    ${pan(4,"none",`${ph("Read","none")}<div class="kpi" style="display:grid;gap:14px">${kv(gPct(gyoy("TSIFRGHT")),"freight index vs a year earlier ("+gmo("TSIFRGHT")+")")}${kv(gPct(gyoy("TRUCKD11")),"truck tonnage vs a year earlier ("+gmo("TRUCKD11")+")")}</div><p class="note">Freight is flat to down while factory output is up ${gPct(gyoy("INDPRO"))}. That gap usually means higher-value, lighter goods, or stock being drawn down rather than shipped. For Ramp's logistics, wholesale and fuel spend, volumes are not the growth driver; prices are.</p><button class="go" type="button" data-go="GPRC" style="align-self:flex-start">GPRC</button>`)}
+    ${gKpi("TRUCKD11","Truck tonnage",`${gPct(gmom("TRUCKD11"))} on the month; about 72% of U.S. freight by weight moves by truck`)}
+    ${gKpi("TSIFRGHT","Freight index",`${gPct(gmom("TSIFRGHT"))} on the month, across truck, rail, air, water and pipeline`)}
+    ${gKpi("INDPRO","Industrial production",`for comparison: ${gPct(gyoy("INDPRO"))} YoY`)}
+    ${gKpi("ISRATIO","Inventory / sales",`months of sales on hand, ${gPct(gyoy("ISRATIO"))} YoY`)}
+  </div>`;
+  return {html,mount(root){charts.push(lineChart(root.querySelector("#g-frt"),{...idxOpts,height:280,months:state.range,endLabels:true,ref:100,aria:"Freight volumes indexed",series:[{key:"T",name:"Truck tonnage",short:"Trucks",v:gidx(GV.TRUCKD11),color:"var(--s2)"},{key:"F",name:"All-mode freight",short:"All freight",v:gidx(GV.TSIFRGHT),color:"var(--s1)"},{key:"I",name:"Industrial production",short:"Factory output",v:gidx(GV.INDPRO),color:"var(--muted)",dash:true,w:1.5}]}));}};
+};
+
+VIEWS.GCON=()=>{
+  const ry=gRealYoy(), r=GV.RSAFS, rs=GV.RSFSDP, li=glastI("RSFSDP");
+  const share=rs[li]/r[li]*100, share0=rs[0]/r[0]*100;
+  const html=head("GCON","Consumer demand","What households are buying, and how they feel about it.",rangeSeg(state.range))+
+  measure("Retail and restaurant sales, durable-goods spending, consumer sentiment","$; index","Jan 2023 – latest release, monthly")+
+  `<div class="grid">
+    ${pan(8,"none",`${ph("Retail sales · before and after inflation, Jan 2023 = 100","fred")}<div class="chart" id="g-ret"></div><p class="note">Nominal sales are ${gPct(gyoy("RSAFS"))} from a year ago. Adjusted for consumer prices, the gain is ${gPct(ry.v)}. Real retail sales are a derived series here: retail sales divided by CPI.</p>${gsrc(["RSAFS","CPIAUCSL"])}`)}
+    ${pan(4,"none",`${ph("Retail & food services","fred")}<div class="kpi" style="display:grid;gap:14px">${kv(GMETA.RSAFS.f(glast("RSAFS")),"in sales, "+gmo("RSAFS"))}${kv(gPct(ry.v),"real growth, year over year")}</div>${gsrc(["RSAFS"])}`)}
+    ${pan(6,"none",`${ph("Restaurants & bars","fred")}${gDelta("RSFSDP")}<div class="chart" id="g-rst"></div><p class="note">Restaurants take ${share.toFixed(1)}% of retail dollars, up from ${share0.toFixed(1)}% in Jan 2023. This is the consumer side of the meals line in Ramp's travel and expense data.</p><button class="go" type="button" data-go="TMEA" style="align-self:flex-start">TMEA</button>${gsrc(["RSFSDP"])}`)}
+    ${pan(6,"none",`${ph("Consumer sentiment","fred")}${gDelta("UMCSENT")}<div class="chart" id="g-snt"></div><p class="note">Sentiment has fallen from ${Math.max(...GV.UMCSENT).toFixed(1)} in early 2024 to ${glast("UMCSENT").toFixed(1)}, while spending keeps rising. Surveys and receipts disagree; Ramp's thesis is that transactions are the better signal.</p>${gsrc(["UMCSENT"])}`)}
+    ${pan(12,"none",`${ph("Spending on durable goods","fred")}${gDelta("PCEDG")}<div class="chart" id="g-dur"></div><p class="note">Big-ticket purchases are a read on demand for what Ramp's manufacturing and wholesale customers make. Annual rate, before inflation.</p>${gsrc(["PCEDG"])}`)}
+  </div>`;
+  return {html,mount(root){
+    charts.push(lineChart(root.querySelector("#g-ret"),{...idxOpts,height:260,months:state.range,endLabels:true,ref:100,aria:"Retail sales nominal and real",series:[{key:"N",name:"Retail sales",short:"Nominal",v:gidx(GV.RSAFS),color:"var(--s1)"},{key:"R",name:"Real retail sales",short:"After inflation",v:gReal(),color:"var(--hi)",w:2.5}]}));
+    charts.push(gChart(root.querySelector("#g-rst"),["RSFSDP"],{height:200,colors:["var(--s2)"]}));
+    charts.push(gChart(root.querySelector("#g-snt"),["UMCSENT"],{height:200,colors:["var(--s3)"]}));
+    charts.push(gChart(root.querySelector("#g-dur"),["PCEDG"],{height:200,colors:["var(--s1)"]}));
+  }};
+};
+
+VIEWS.GPRC=()=>{
+  const ppi=gyoyArr(GV.PPIACO), cpi=gyoyArr(GV.CPIAUCSL), gap=ppi.map((p,i)=>p!=null&&cpi[i]!=null?+(p-cpi[i]).toFixed(3):null);
+  const pl=gyoy("PPIACO"), cl=gyoy("CPIAUCSL");
+  const pc=v=>sgnPct(v), pa=t=>t+"%";
+  const html=head("GPRC","Prices & margins","What businesses pay for inputs versus what consumers pay at the register.",rangeSeg(state.range))+
+  measure("Year-over-year change in producer prices (all commodities) and consumer prices (all items)","% change from a year earlier","Jan 2024 – latest release, monthly")+
+  `<div class="grid">
+    ${pan(8,"none",`${ph("Producer vs consumer prices · YoY","fred")}<div class="chart" id="g-pc"></div><p class="note">Producer prices started rising sharply in early 2026 and are now up ${gPct(pl)} on the year, against ${gPct(cl)} for consumer prices. CPI for Oct 2025 was never published, so that month is a gap.</p>${gsrc(["PPIACO","CPIAUCSL"],"YoY rates computed here from the index levels")}`)}
+    ${pan(4,"none",`${ph("Margin squeeze","fred")}<div class="kpi" style="display:grid;gap:14px">${kv((pl-cl>=0?"+":"−")+Math.abs(pl-cl).toFixed(1)+" pts","producer prices minus consumer prices, YoY")}${kv(gPct(gmom("PPIACO")),"producer prices, last month alone")}</div><p class="note">When input costs outrun what customers pay, the difference comes out of the margins of manufacturers, distributors and restaurants. It shows up first as higher supplier bills: the vendor-price data Ramp tracks.</p><button class="go" type="button" data-go="VPRC" style="align-self:flex-start">VPRC</button>`)}
+    ${pan(12,"none",`${ph("The gap · producer minus consumer inflation","fred")}<div class="chart" id="g-gap"></div>${gsrc(["PPIACO","CPIAUCSL"],"derived")}`)}
+  </div>`;
+  return {html,mount(root){
+    charts.push(lineChart(root.querySelector("#g-pc"),{auto:true,ref:0,height:260,months:state.range,endLabels:true,fmt:pc,tipFmt:v=>sgnPct(v,2),axFmt:pa,aria:"Producer and consumer price inflation",series:[{key:"P",name:"Producer prices",short:"PPI",v:ppi,color:"var(--s2)",w:2.5},{key:"C",name:"Consumer prices",short:"CPI",v:cpi,color:"var(--s1)"}]}));
+    charts.push(lineChart(root.querySelector("#g-gap"),{auto:true,ref:0,height:200,months:state.range,fmt:v=>sgnPts(v),tipFmt:v=>sgnPts(v,2),axFmt:t=>t+"",aria:"Gap between producer and consumer inflation",series:[{key:"G",name:"PPI minus CPI",short:"Gap",v:gap,color:"var(--hi)",w:2.5}]}));
+  }};
+};
+
+VIEWS.GNEW=()=>{
+  const v=GV.BABATOTALSAUS, avg=a=>a.reduce((s,x)=>s+x,0)/a.length;
+  const a23=avg(v.slice(0,12)), a12=avg(v.slice(-12)), ma=v.map((x,i)=>i>=11?+avg(v.slice(i-11,i+1)).toFixed(0):null);
+  const html=head("GNEW","New business formation","How many new companies are starting each month: the pipeline of future customers for spend-management software.",rangeSeg(state.range))+
+  measure("Applications for a new employer identification number (EIN), all industries","Applications per month, seasonally adjusted","Jan 2023 – latest release, monthly")+
+  `<div class="grid">
+    ${pan(8,"none",`${ph("Business applications","fred")}${gDelta("BABATOTALSAUS")}<div class="chart" id="g-ba"></div>${gsrc(["BABATOTALSAUS"],"U.S. Census Bureau, Business Formation Statistics; dashed line is the 12-month average")}`)}
+    ${pan(4,"none",`${ph("Read","none")}<div class="kpi" style="display:grid;gap:14px">${kv(Math.round(a12/1000)+"K","average per month, past 12 months")}${kv(gPct((a12/a23-1)*100),"vs the 2023 monthly average")}</div><p class="note">Not every application becomes an employer, but the series is a reliable leading read on startup activity. A rising count means more first-time buyers of cards, bill pay and accounting software, which is the market Ramp sells into.</p><button class="go" type="button" data-go="ASIZ" style="align-self:flex-start">ASIZ</button>`)}
+  </div>`;
+  return {html,mount(root){charts.push(lineChart(root.querySelector("#g-ba"),{auto:true,height:260,months:state.range,fmt:v=>Math.round(v/1000)+"K",tipFmt:v=>Math.round(v).toLocaleString("en-US"),axFmt:t=>Math.round(t/1000)+"K",endLabels:true,aria:"Business applications",series:[{key:"B",name:"Applications",short:"Monthly",v,color:"var(--s3)",w:2},{key:"M",name:"12-month average",short:"12-mo avg",v:ma,color:"var(--hi)",dash:true,w:2}]}));}};
+};
+
+/* Live refresh: a newer pull can arrive from the shared database (meta/goods) or data/goods.json */
+function applyGoods(x){
+  if(!x||!x.series) return; let changed=false;
+  Object.entries(x.series).forEach(([k,s])=>{ if(!GV[k]||!s||!Array.isArray(s.values)) return; const vals=s.values.map(n=>n==null?null:Number(n)); if(vals.length<GV[k].length||vals.length>120||vals.some(n=>n!=null&&(!isFinite(n)||n<=0))) return; if(JSON.stringify(vals)!==JSON.stringify(GV[k])){ GV[k]=vals; changed=true; } });
+  if(x.syncedAt) GLIVE.syncedAt=String(x.syncedAt).slice(0,10);
+  if(changed&&modOf(state.view)==="GOODS") render();
+}
+
 /* ---------- Module tickers ---------- */
 const TICKERS={
   MY:{lab:"WATCHLIST",items:()=>PREFS.watch.filter(k=>S[k]).map(k=>({s:S[k].code,v:last(S[k]).toFixed(2),d:chg(S[k],1),u:"",cmd:S[k].code}))},
@@ -1335,6 +1524,7 @@ const TICKERS={
   VNDR:{lab:"RAMP RATE · ADOPTION",items:()=>[["CANVA","74%",-4,"content"],["ZAPIER","61%",0,"sales"],["FIREFLIES","~21%",2,"sales"],["GRANOLA","~20%",15,"sales"],["PROFOUND","40%",33.4,"aeo"]].map(([s,v,d,c])=>({s,v,d,u:" pts",go:"VCAT",setv:c}))},
   TNE:{lab:"TRAVEL · SAMPLE",items:()=>[["FARE",usd(last1(TR.fare)),yoy(TR.fare),"TAIR"],["HOTEL",usd(last1(TR.hotel)),yoy(TR.hotel),"TAIR"],["TRIPS/100",last1(TR.trips).toFixed(1),yoy(TR.trips),"TAIR"],["TRAVEL IDX",last1(TR.idx).toFixed(1),yoy(TR.idx),"TAIR"],["MEAL",usd(last1(TR.meal),2),yoy(TR.meal),"TMEA"]].map(([s,v,d,g])=>({s,v,d,u:"%",go:g}))},
   MACRO:{lab:"LEADING · SAMPLE",items:()=>[{s:"DIFFUSION",v:last1(MC.diff).toFixed(1),d:last1(MC.diff)-MC.diff[N-2],u:" pts",go:"MSPD"},{s:"MOMENTUM",v:sgnPct(last1(MC.mom)),d:last1(MC.mom)-MC.mom[N-2],u:" pts",go:"MSPD"},...[["RECRUIT",MC.rec],["JOBS",MC.jobs],["PAYROLL",MC.pay]].map(([s,v])=>({s,v:last1(v).toFixed(1),d:yoy(v),u:"%",go:"MHIR"}))]},
+  GOODS:{lab:"GOODS & INDUSTRY · FRED",items:()=>[["INDPRO","INDPRO","GIND"],["CAP UTIL","TCU","GIND"],["CORE CAPEX","NEWORDER","GIND"],["RETAIL","RSAFS","GCON"],["RESTAURANTS","RSFSDP","GCON"],["SENTIMENT","UMCSENT","GCON"],["PPI","PPIACO","GPRC"],["CPI","CPIAUCSL","GPRC"],["FREIGHT","TSIFRGHT","GFRT"],["NEW BIZ","BABATOTALSAUS","GNEW"]].map(([s,k,g])=>({s,v:GMETA[k].f(glast(k)),d:gyoy(k),u:"%",go:g}))},
   BENCH:{lab:"COHORT · SAMPLE",items:()=>{const c=cohort();return [{s:"VENDORS",v:String(c.stack.med),d:null,go:"BSTK"},...c.ops.map(o=>({s:o.name.split(" ")[0].toUpperCase(),v:o.fmt(o.med),d:null,go:"BOPS"}))];}}
 };
 
@@ -1564,7 +1754,7 @@ function applySeries(snap){ let changed=false; snap.docs.forEach(d=>{ const k=d.
 async function bootCapabilities(){
   if(!window.claude||typeof window.claude.use!=="function") return;
   const db=await window.claude.use("db"); if(!db) return;
-  try{ db.collection("series").onSnapshot(applySeries,()=>{}); db.doc("meta/sync").onSnapshot(d=>{ if(d.exists){ LIVE.sync=d.data(); updateStatus(); } },()=>{}); }catch(e){}
+  try{ db.collection("series").onSnapshot(applySeries,()=>{}); db.doc("meta/sync").onSnapshot(d=>{ if(d.exists){ LIVE.sync=d.data(); updateStatus(); } },()=>{}); db.doc("meta/goods").onSnapshot(d=>{ if(d.exists) applyGoods(d.data()); },()=>{}); }catch(e){}
   const user=await window.claude.use("user"); if(!user) return;
   let id=null; try{ id=await user.id(); }catch(e){} if(!id) return;
   try{
@@ -1682,6 +1872,7 @@ function applyNewsData(x){ const items=cleanNews(x&&x.items); if(!items) return;
 async function loadStatic(){
   try{ const r=await fetch("data/series.json?t="+Date.now(),{cache:"no-store"}); if(r.ok){ const j=await r.json(); const docs=Object.entries((j&&j.series)||{}).map(([k,v])=>({id:k,data:()=>({start:"2023-01",values:v&&v.values})})); if(docs.length){ applySeries({size:docs.length,docs}); LIVE.sync={syncedAt:j.syncedAt,latest:j.latest}; LIVE.state="live"; updateStatus(); } } }catch(e){}
   try{ const r=await fetch("data/news.json?t="+Date.now(),{cache:"no-store"}); if(r.ok) applyNewsData(await r.json()); }catch(e){}
+  try{ const r=await fetch("data/goods.json?t="+Date.now(),{cache:"no-store"}); if(r.ok) applyGoods(await r.json()); }catch(e){}
 }
 function bootStatic(){ if(!/^https?:$/.test(location.protocol)) return; loadStatic(); setInterval(()=>{ if(document.visibilityState==="visible") loadStatic(); },300000); document.addEventListener("visibilitychange",()=>{ if(document.visibilityState==="visible") loadStatic(); }); }
 async function bootNews(){
@@ -1706,10 +1897,10 @@ function tickerHTML(lab,items){
 }
 function renderChrome(){
   const cur=modOf(state.view);
-  document.getElementById("modbar").innerHTML=MODULES.map(m=>`<button type="button" class="mod${m.data==="real"?"":" planned"}" data-mod="${m.code}" aria-current="${m.code===cur?"page":"false"}"><span class="code">${m.code}</span>${m.name}${m.data==="real"?' <span class="live">REAL</span>':m.data==="personal"?' <span class="tag">YOURS</span>':m.data==="news"?' <span class="tag">PRESS</span>':' <span class="tag">MIXED</span>'}</button>`).join("");
+  document.getElementById("modbar").innerHTML=MODULES.map(m=>`<button type="button" class="mod${m.data==="real"||m.data==="fred"?"":" planned"}" data-mod="${m.code}" aria-current="${m.code===cur?"page":"false"}"><span class="code">${m.code}</span>${m.name}${m.data==="real"?' <span class="live">REAL</span>':m.data==="fred"?' <span class="live fred">FRED</span>':m.data==="personal"?' <span class="tag">YOURS</span>':m.data==="news"?' <span class="tag">PRESS</span>':' <span class="tag">MIXED</span>'}</button>`).join("");
   document.querySelectorAll(".mod").forEach(b=>b.addEventListener("click",()=>{ const m=MODULES.find(x=>x.code===b.dataset.mod); nav(m.home); }));
   const m=MODULES.find(x=>x.code===cur);
-  document.getElementById("railMod").innerHTML=`<span class="t">${m.name}</span><span class="d">${m.desc}</span><span class="d">${m.data==="real"?prov("real")+" Ramp's published data":m.data==="personal"?storeNote():m.data==="news"?prov("press")+" Headlines link to the original reporting":prov("mixed")+" Real where Ramp publishes it; sample elsewhere"}</span>`;
+  document.getElementById("railMod").innerHTML=`<span class="t">${m.name}</span><span class="d">${m.desc}</span><span class="d">${m.data==="fred"?prov("fred")+" Official statistics via FRED, as of "+GLIVE.syncedAt:m.data==="real"?prov("real")+" Ramp's published data":m.data==="personal"?storeNote():m.data==="news"?prov("press")+" Headlines link to the original reporting":prov("mixed")+" Real where Ramp publishes it; sample elsewhere"}</span>`;
   const rw=document.getElementById("railWatch");
   rw.innerHTML=`<div class="rail-h">WATCHLIST</div>`+(PREFS.watch.length?PREFS.watch.map(k=>`<button type="button" class="rw" data-des="${k}"><span>${S[k].name}</span><span class="c">${last(S[k]).toFixed(1)}</span><span class="x ${cls(chg(S[k],1))}">${chg(S[k],1)>=0?"▲":"▼"}${Math.abs(chg(S[k],1)).toFixed(1)}</span></button>`).join(""):`<p class="rail-note" style="border:0;padding:0 10px">Empty. Open any series and add it.</p>`)+`<button type="button" class="rw" data-go="WTCH"><span style="color:var(--accent)">Manage watchlist</span><span></span><span class="c">WTCH</span></button>`;
   rw.querySelectorAll("[data-des]").forEach(b=>b.addEventListener("click",()=>openDes(b.dataset.des)));
@@ -1755,6 +1946,7 @@ const ALLCMD=[
   ...MODULES.flatMap(m=>m.groups.flatMap(([,fs])=>fs.map(([c,t])=>({code:c,desc:m.name+" · "+t})))),
   ...SERIES_KEYS.map(k=>({code:S[k].code,desc:"Profile · "+S[k].name})),
   ...Object.values(VENDORS).filter(v=>!VENDOR_LAB[v.key]).map(v=>({code:v.key,desc:"Vendor · "+v.name})),
+  ...GKEYS.map(k=>({code:k,desc:"Goods & Industry · "+GMETA[k].name})),
   ...INDUSTRIES.map(k=>({code:"AIND "+k,desc:"AI · "+S[k].name+" vs all businesses"})),
 ];
 let sel=-1, shown=[];
@@ -1766,6 +1958,7 @@ function run(raw){
   if(mod){ nav(mod.home); }
   else if(a==="AIND"){ if(b&&INDUSTRIES.includes(b)) state.ind=b; else if(b){ msg.textContent=`No industry "${b}". Try ${INDUSTRIES.join(", ")}.`; return; } nav("AIND"); }
   else if(VIEWS[a]&&a!=="DES"){ nav(a); }
+  else if(GMETA[a]){ nav(GMETA[a].view); }
   else if(a==="DES"&&b&&openDes(q.split(/\s+/).slice(1).join(""))){ }
   else if(keyOf(a)&&(!b||b==="DES")){ openDes(a); }
   else if(openDes(q.replace(/\s+DES$/,"").replace(/\s+/g,""))){ }
