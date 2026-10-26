@@ -40,83 +40,141 @@
  "items": [
   {
    "d": "2026-10-26",
-   "t": "Brazil's markets set for sharp selloff after Lula's reelection",
-   "s": "Investors are bracing for Brazilian assets to unwind after Lula's surprise victory, with stocks and the real expected to fall on fiscal worries.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html",
-   "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "US futures steady as oil retreats ahead of earnings deluge, Fed decision",
-   "s": "Wall Street futures held flat as crude eased, with a heavy week of Big Tech earnings and a Fed rate decision ahead.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-edge-oil-100215774.html",
-   "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Strong CBI retail sales buck downbeat UK consumer trend",
-   "s": "A CBI survey showed UK retail sales unexpectedly strengthened, cutting against otherwise gloomy signals on British consumer spending.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/articles/strong-cbi-retail-sales-buck-110230030.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "The markets are starting to act seriously weird. Blame AI",
-   "s": "CNN looks at how the AI trade is distorting market behavior, with unusual moves across stocks and other assets tied to AI enthusiasm and fear.",
-   "src": "CNN Business",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/markets-starting-act-seriously-weird-110015358.html",
-   "tp": "Markets",
-   "m": [
-    "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Galp and Moeve fail to agree merger of refining and distribution operations",
-   "s": "Portugal's Galp and Spain's Moeve called off talks to combine their refining and fuel distribution businesses after failing to reach terms.",
-   "src": "Euronews",
-   "u": "https://finance.yahoo.com/energy/articles/galp-moeve-fail-agree-merger-112832328.html",
-   "tp": "Companies & deals",
-   "m": [
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Revolut to launch platform for investing in private tech companies",
-   "s": "Revolut plans to let customers buy into private tech companies, extending retail access to pre-IPO investing.",
-   "src": "Euronews",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/revolut-launch-platform-investing-private-105046604.html",
-   "tp": "Companies & deals",
-   "m": [
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-26",
-   "t": "Investors ready for week of Big Tech and central bank announcements",
-   "s": "Markets face a packed week of megacap tech earnings alongside rate decisions from the Fed and other central banks.",
+   "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
+   "s": "SpaceX's new private-credit borrowing is pricing well above expectations, with its riskiest tranche costing as much as 8.75% as lenders grow wary of AI spending.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements",
+   "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt",
    "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
    ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Meta announces $95B offering to fund AI",
+   "s": "Meta plans to raise about $95 billion for its AI buildout, roughly $60 billion of it through the nonvoting share class it created last week.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "China's economic growth beats expectations",
+   "s": "China's third-quarter GDP grew 4.5% from a year earlier, slightly ahead of forecasts despite U.S. tariff pressure.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/trump-china-economy-tariffs-growth-goldman-sachs-deficit/",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "AI agents are becoming a major shopping channel, and Mastercard wants to handle the payments",
+   "s": "Mastercard's new 'Pay for Machines' tooling aims to let AI agents make purchases and micropayments on behalf of people and businesses.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/ai-agent-shopping-commerce-mastercard-pay-for-machines-agent-pay-x402-micropayments-jorn-lambert/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "CFO pay jumps 66% at major industrial spinoffs",
+   "s": "Finance chiefs at newly spun-off industrial companies saw their compensation rise about two-thirds, a sign of how much boards prize CFOs who can run a standalone business.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/cfo-pay-jumps-66-percent-major-industrial-spinoffs/",
+   "tp": "Labor",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Investors are bracing for Brazilian assets to unwind after Lula's surprise victory, with stocks and the real expected to fall on fiscal worries.",
+   "src": "Reuters",
+   "t": "Brazil's markets set for sharp selloff after Lula's reelection",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Wall Street futures held flat as crude eased, with a heavy week of Big Tech earnings and a Fed rate decision ahead.",
+   "src": "Reuters",
+   "t": "US futures steady as oil retreats ahead of earnings deluge, Fed decision",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-edge-oil-100215774.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ],
+   "s": "A CBI survey showed UK retail sales unexpectedly strengthened, cutting against otherwise gloomy signals on British consumer spending.",
+   "src": "Reuters",
+   "t": "Strong CBI retail sales buck downbeat UK consumer trend",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/articles/strong-cbi-retail-sales-buck-110230030.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "CNN looks at how the AI trade is distorting market behavior, with unusual moves across stocks and other assets tied to AI enthusiasm and fear.",
+   "src": "CNN Business",
+   "t": "The markets are starting to act seriously weird. Blame AI",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/markets-starting-act-seriously-weird-110015358.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Portugal's Galp and Spain's Moeve called off talks to combine their refining and fuel distribution businesses after failing to reach terms.",
+   "src": "Euronews",
+   "t": "Galp and Moeve fail to agree merger of refining and distribution operations",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/energy/articles/galp-moeve-fail-agree-merger-112832328.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Revolut plans to let customers buy into private tech companies, extending retail access to pre-IPO investing.",
+   "src": "Euronews",
+   "t": "Revolut to launch platform for investing in private tech companies",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/revolut-launch-platform-investing-private-105046604.html"
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Markets face a packed week of megacap tech earnings alongside rate decisions from the Fed and other central banks.",
+   "src": "Semafor",
+   "t": "Investors ready for week of Big Tech and central bank announcements",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements"
   },
   {
    "d": "2026-10-26",
@@ -446,40 +504,6 @@
    "t": "Only 49% of Gen X workers say they're on track for retirement, lowest of any generation",
    "tp": "Labor",
    "u": "https://fortune.com/2026/10/25/reality-bites-gen-x-retirement-most-insecure-millennials-gen-z/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Small portable reactors are drawing government interest as a way to deliver reliable power to remote bases and space missions.",
-   "src": "Fortune",
-   "t": "Nuclear microreactors may solve power problems for the U.S. military and NASA",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/25/us-military-nasa-nuclear-microreactors/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Back-channel diplomacy between Tehran and Washington continues through go-betweens even as the region prepares for a possible return to full-scale fighting that is already roiling oil markets.",
-   "src": "Fortune",
-   "t": "As Mideast braces for war to resume, Iran is still passing messages to the U.S. via intermediaries",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/25/iran-war-messages-us-intermediaries-diplomacy-negotiations/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Karp argues people who think differently will have an edge as AI reshapes work, and an autistic psychologist says the claim has some merit.",
-   "src": "Fortune",
-   "t": "Palantir CEO Alex Karp says neurodivergent workers will thrive in the AI era",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/25/palantir-ceo-alex-karp-neurodivergent-people-tech-ai-think-differently/"
   },
   {
    "d": "2026-10-25",
@@ -817,6 +841,28 @@
   },
   {
    "d": "2026-10-24",
+   "t": "Block's new voice model sounds eerily human",
+   "s": "Block unveiled a voice AI model whose speech is strikingly close to a real person's, pushing the fintech further into AI products.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "t": "Instacart reportedly discussed selling itself to DoorDash and Uber",
+   "s": "Instacart held talks about a possible sale with delivery rivals DoorDash and Uber, according to a report.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-24",
    "m": [
     "VNDR"
    ],
@@ -920,54 +966,7 @@
    "t": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Telecom executives and analysts say SpaceX faces years of spectrum, regulatory and infrastructure hurdles before it can seriously challenge wireless carriers.",
-   "src": "Yahoo Finance",
-   "t": "SpaceX's telecom ambitions will be hard-won, CEOs and analysts say",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/article/its-not-something-that-gets-done-overnight-spacexs-telecom-ambitions-will-be-hard-won-ceos-and-analysts-say-120348084.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "UK officials are monitoring the discount chain's finances amid fears of store closures and job losses as weak consumer spending squeezes retailers.",
-   "src": "The Telegraph",
-   "t": "Government on alert over potential Poundland crisis",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/small-business/articles/government-alert-over-potential-poundland-114036200.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "HSBC has rolled a stablecoin out to millions of retail customers in Hong Kong, one of the largest bank-led pushes of digital dollars into mainstream payments.",
-   "src": "Decrypt",
-   "t": "Hong Kong's biggest bank puts a stablecoin in 3 million wallets",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-biggest-bank-puts-130102515.html"
-  },
-  {
-   "d": "2026-10-24",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "A pair of severe flaws in PHP, which runs much of the web, forced a scramble to patch servers and highlighted how AI tools are speeding up the discovery of exploitable bugs.",
-   "src": "TechCrunch",
-   "t": "How two critical PHP web bugs almost broke the internet",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
   }
  ],
- "updatedAt": "2026-10-26T07:55"
+ "updatedAt": "2026-10-26T08:56"
 }
