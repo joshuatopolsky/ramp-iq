@@ -1,54 +1,52 @@
 {
- "excl": [
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  },
-  {
-   "d": "2026-10-06",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
-   "src": "Ramp Leading Indicators",
-   "t": "Faxing into the future: top industries paying for fax services",
-   "tp": "Companies & deals",
-   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
-  }
- ],
+ "updatedAt": "2026-10-26T18:55",
  "items": [
   {
    "d": "2026-10-26",
-   "t": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector",
-   "s": "The S&P 500 rose about 0.7% and the Nasdaq about 0.8% on Monday, led by chipmakers, as Anthropic's IPO filing lifted sentiment ahead of a heavy week of Big Tech earnings and a Fed decision.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-   "tp": "Markets",
+   "t": "Anthropic IPO filing discloses first-of-its-kind governance structure",
+   "s": "Anthropic's S-1 lays out an unusual governance setup meant to keep its safety-focused trust in control even after the company goes public.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/anthropic-ipo-filing-discloses-first-of-its-kind-governance-structure",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Trump's promised cheaper beef imports are lagging as prices stay high",
+   "s": "Shipments under a 300,000-ton lower-tariff beef import quota meant to ease grocery costs have fallen well short, leaving beef prices elevated.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/beef-imports-reduced-tariffs-falling-short-beef-prices/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "A one-person quorum at the SEC: no discussion, no dissent, no disclosure",
+   "s": "With the SEC down to a single sitting commissioner, rules and actions can now move forward without debate or public dissent, raising governance concerns.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/sec-one-person-quorum-rule-commissioner-disclosure/",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "The S&P 500 rose about 0.7% and the Nasdaq about 0.8% on Monday, led by chipmakers, as Anthropic's IPO filing lifted sentiment ahead of a heavy week of Big Tech earnings and a Fed decision.",
+   "src": "CNBC",
+   "t": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector",
+   "tp": "Markets",
+   "u": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
   },
   {
    "d": "2026-10-26",
@@ -612,29 +610,6 @@
    "m": [
     "MACRO"
    ],
-   "s": "China's third-quarter GDP grew 4.5% from a year earlier, slightly ahead of forecasts despite U.S. tariff pressure.",
-   "src": "Fortune",
-   "t": "China's economic growth beats expectations",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/26/trump-china-economy-tariffs-growth-goldman-sachs-deficit/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "Mastercard's new 'Pay for Machines' tooling aims to let AI agents make purchases and micropayments on behalf of people and businesses.",
-   "src": "Fortune",
-   "t": "AI agents are becoming a major shopping channel, and Mastercard wants to handle the payments",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/26/ai-agent-shopping-commerce-mastercard-pay-for-machines-agent-pay-x402-micropayments-jorn-lambert/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
    "s": "Investors are bracing for Brazilian assets to unwind after Lula's surprise victory, with stocks and the real expected to fall on fiscal worries.",
    "src": "Reuters",
    "t": "Brazil's markets set for sharp selloff after Lula's reelection",
@@ -955,19 +930,44 @@
    "t": "TechCrunch Mobility: Blue-green is the color of autonomy",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Analysts are digesting SpaceX's first earnings disclosures and sizing up what a probable combination with Tesla would mean for investors in both companies.",
-   "src": "Yahoo Finance",
-   "t": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/article/the-worlds-super-company-wall-street-weighs-spacex-earnings-companys-likely-tesla-tie-up-173949705.html"
   }
  ],
- "updatedAt": "2026-10-26T17:58"
+ "excl": [
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  },
+  {
+   "d": "2026-10-06",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ],
+   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
+   "src": "Ramp Leading Indicators",
+   "t": "Faxing into the future: top industries paying for fax services",
+   "tp": "Companies & deals",
+   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
+  }
+ ]
 }
