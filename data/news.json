@@ -40,11 +40,35 @@
  "items": [
   {
    "d": "2026-10-25",
-   "t": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
-   "s": "Claude reportedly retrieved paywalled Georgia vote-tally data, raising fresh questions about how AI agents handle restricted content.",
+   "t": "Oil slips from near six-month highs despite supply concerns",
+   "s": "Crude prices eased in early Asian trading after hitting their highest levels in nearly six months, even as Middle East supply risks persist.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/anthropics-claude-accessed-public-us-224806257.html",
-   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-down-almost-1-232445179.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Weil's troubles mount with key partner's pending departure",
+   "s": "Law firm Weil, Gotshal & Manges faces another blow as a key partner prepares to leave following earlier exits and a failed merger attempt.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/25/2026/weils-troubles-mount-with-key-partners-pending-departure",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Nvidia teams up with 6 supply chain partners to expand global AI manufacturing capacity",
+   "s": "Nvidia is working with six manufacturing partners to scale up production capacity for AI hardware worldwide.",
+   "src": "Barchart",
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-teams-6-supply-chain-183002962.html",
+   "tp": "Supply chain",
    "m": [
     "AI",
     "VNDR"
@@ -52,71 +76,83 @@
   },
   {
    "d": "2026-10-25",
-   "t": "Fed expected to hold rates steady this week despite hot inflation, but signal it's not done hiking",
-   "s": "Policymakers are seen pausing at this week's meeting while keeping the door open to further increases as inflation runs hot.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/economy/policy/article/fed-expected-to-hold-rates-steady-this-week-despite-hot-inflation--but-signal-theyre-not-done-hiking-210000926.html",
-   "tp": "Economy",
    "m": [
-    "MACRO"
-   ]
+    "AI",
+    "VNDR"
+   ],
+   "s": "Claude reportedly retrieved paywalled Georgia vote-tally data, raising fresh questions about how AI agents handle restricted content.",
+   "src": "Reuters",
+   "t": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/news/anthropics-claude-accessed-public-us-224806257.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Oil prices rise despite Middle East export recovery",
-   "s": "Crude keeps climbing even as Gulf shipments recover, as traders price in the risk of renewed conflict.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/oil-prices-rise-despite-middle-230000614.html",
-   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Policymakers are seen pausing at this week's meeting while keeping the door open to further increases as inflation runs hot.",
+   "src": "Yahoo Finance",
+   "t": "Fed expected to hold rates steady this week despite hot inflation, but signal it's not done hiking",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/article/fed-expected-to-hold-rates-steady-this-week-despite-hot-inflation--but-signal-theyre-not-done-hiking-210000926.html"
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "MACRO",
     "SPEND"
-   ]
+   ],
+   "s": "Crude keeps climbing even as Gulf shipments recover, as traders price in the risk of renewed conflict.",
+   "src": "Oilprice.com",
+   "t": "Oil prices rise despite Middle East export recovery",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-rise-despite-middle-230000614.html"
   },
   {
    "d": "2026-10-25",
-   "t": "Asia is building the world's next $15 trillion energy market",
+   "m": [
+    "MACRO"
+   ],
    "s": "Rising demand across Asia is driving a massive buildout of power and fuel infrastructure that is reshaping global energy flows.",
    "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/asia-building-world-next-15-230000136.html",
+   "t": "Asia is building the world's next $15 trillion energy market",
    "tp": "Energy & trade",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/energy/articles/asia-building-world-next-15-230000136.html"
   },
   {
    "d": "2026-10-25",
-   "t": "State and local races may shape the U.S. economy more than the House and Senate midterms",
+   "m": [
+    "MACRO"
+   ],
    "s": "Decisions on data centers, permitting and taxes at the state and local level could matter more for growth than control of Congress.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/midterm-elections-house-senate-economy-gdp-growth-state-local-races-data-centers-blue-wave/",
+   "t": "State and local races may shape the U.S. economy more than the House and Senate midterms",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://fortune.com/2026/10/25/midterm-elections-house-senate-economy-gdp-growth-state-local-races-data-centers-blue-wave/"
   },
   {
    "d": "2026-10-25",
-   "t": "Only 49% of Gen X workers say they're on track for retirement, lowest of any generation",
-   "s": "A new survey finds Gen X is the most financially insecure cohort heading toward retirement, trailing millennials and Gen Z.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/reality-bites-gen-x-retirement-most-insecure-millennials-gen-z/",
-   "tp": "Labor",
    "m": [
     "TNE",
     "MACRO"
-   ]
+   ],
+   "s": "A new survey finds Gen X is the most financially insecure cohort heading toward retirement, trailing millennials and Gen Z.",
+   "src": "Fortune",
+   "t": "Only 49% of Gen X workers say they're on track for retirement, lowest of any generation",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/25/reality-bites-gen-x-retirement-most-insecure-millennials-gen-z/"
   },
   {
    "d": "2026-10-25",
-   "t": "Nuclear microreactors may solve power problems for the U.S. military and NASA",
-   "s": "Small portable reactors are drawing government interest as a way to deliver reliable power to remote bases and space missions.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/25/us-military-nasa-nuclear-microreactors/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Small portable reactors are drawing government interest as a way to deliver reliable power to remote bases and space missions.",
+   "src": "Fortune",
+   "t": "Nuclear microreactors may solve power problems for the U.S. military and NASA",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/25/us-military-nasa-nuclear-microreactors/"
   },
   {
    "d": "2026-10-25",
@@ -932,42 +968,7 @@
    "t": "SpaceX-Tesla merger could face antitrust scrutiny",
    "tp": "Companies & deals",
    "u": "https://www.semafor.com/article/10/23/2026/spacex-tesla-merger-could-face-antitrust-scrutiny"
-  },
-  {
-   "d": "2026-10-22",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Mattel signed a cooperation agreement with EdgePoint, which gives it a board seat, after Southeastern Asset Management prepared a boardroom challenge pushing for a sale.",
-   "src": "Semafor",
-   "t": "Mattel gives friendly investor a board seat to head off proxy fight",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/22/2026/mattel-gives-friendly-investor-a-board-seat-to-head-off-proxy-fight"
-  },
-  {
-   "d": "2026-10-22",
-   "m": [
-    "AI",
-    "TNE"
-   ],
-   "s": "Airbnb's CEO is positioning the company to profit from loneliness that he argues AI is making worse.",
-   "src": "Semafor",
-   "t": "Brian Chesky's new blueprint for Airbnb — and Silicon Valley",
-   "tp": "AI & tech",
-   "u": "https://www.semafor.com/article/10/22/2026/brian-cheskys-new-blueprint-for-airbnb-and-silicon-valley"
-  },
-  {
-   "d": "2026-10-22",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Meta is creating nonvoting shares it can sell to raise money for its AI buildout while keeping Mark Zuckerberg's voting control intact.",
-   "src": "Semafor",
-   "t": "Meta's new class of nonvoting stock lets Zuckerberg fund AI without losing control",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/22/2026/metas-new-class-of-nonvoting-stock-lets-zuckerberg-fund-ai-without-losing-control"
   }
  ],
- "updatedAt": "2026-10-25T19:50"
+ "updatedAt": "2026-10-25T20:52"
 }
