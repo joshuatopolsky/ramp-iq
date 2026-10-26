@@ -1,18 +1,91 @@
 {
- "updatedAt": "2026-10-26T04:55",
+ "excl": [
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  },
+  {
+   "d": "2026-10-06",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ],
+   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
+   "src": "Ramp Leading Indicators",
+   "t": "Faxing into the future: top industries paying for fax services",
+   "tp": "Companies & deals",
+   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
+  }
+ ],
  "items": [
   {
+   "d": "2026-10-26",
+   "t": "Singapore urges suppliers to 'honor commitments' as Indonesia cuts gas exports by 9%",
+   "s": "Singapore is pressing gas suppliers to stick to their contracts after Indonesia reduced pipeline shipments to the city-state.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/singapore-urges-suppliers-honor-commitments/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "42% of recent U.S. college grads work jobs that don't need a degree as youth unrest spreads abroad",
+   "s": "High underemployment among recent graduates is tied to a wave of youth protests from Kathmandu to Paris.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/gen-z-underemployment-riots-france-cockroach-india-rebellion/",
+   "tp": "Labor",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
    "d": "2026-10-25",
-   "t": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "s": "Apollo's chief economist argues that despite heavy investment, most companies have yet to see measurable financial returns from AI adoption.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "t": "'Everyone is hedging': swing countries gain leverage as U.S. and China split the world into AI blocs",
+   "s": "Countries caught between American and Chinese AI ecosystems are using their position to extract better terms from both sides.",
+   "src": "AP",
+   "u": "https://fortune.com/2026/10/25/us-china-rival-ai-blocs-swing-countries-hedging/",
    "tp": "AI & tech",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-25",
    "m": [
     "AI",
     "SPEND",
     "MACRO"
-   ]
+   ],
+   "s": "Apollo's chief economist argues that despite heavy investment, most companies have yet to see measurable financial returns from AI adoption.",
+   "src": "TechCrunch",
+   "t": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
   },
   {
    "d": "2026-10-25",
@@ -249,17 +322,6 @@
    "m": [
     "MACRO"
    ],
-   "s": "Marking the Treasury's gold stockpile to current prices to ease debt pressures could unsettle bond markets and undercut confidence rather than help, an analyst argues.",
-   "src": "Fortune",
-   "t": "Repricing America's $1 trillion gold reserves at market value could backfire, analyst warns",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/25/us-largest-gold-reserves-1-trillion-mark-to-market-debt-treasury-bond-yields/"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "MACRO"
-   ],
    "s": "London economists warn a snap election after this week's low-key UK Budget could push up already-high borrowing costs, with UBS seeing a gilt selloff of at least 0.2 points.",
    "src": "The Telegraph",
    "t": "'Boring Budget' would pave way for early election, City fears",
@@ -300,18 +362,6 @@
    "t": "Zero-day option traders are betting against big S&P 500 swings",
    "tp": "Markets",
    "u": "https://finance.yahoo.com/markets/options/articles/zero-day-option-traders-betting-140000009.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Chesky argues that AI will squeeze out managers who only manage people, and employees who won't adapt, as companies flatten and rework their teams.",
-   "src": "Fortune",
-   "t": "Airbnb CEO Brian Chesky says 'pure people managers' and workers who resist change won't survive the AI era",
-   "tp": "Labor",
-   "u": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/"
   },
   {
    "d": "2026-10-25",
@@ -918,56 +968,7 @@
    "t": "World shares are mixed after Wall Street's AI-related losses, while oil prices jump",
    "tp": "Markets",
    "u": "https://clickondetroit.com/business/2026/10/23/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump"
-  },
-  {
-   "d": "2026-10-23",
-   "m": [
-    "SPEND",
-    "MACRO"
-   ],
-   "s": "Sportsbooks have poured more than $80 million into races through a PAC, while prediction-market firms Kalshi and Polymarket are also stepping up political and lobbying spending.",
-   "src": "Semafor",
-   "t": "Betting operators and prediction markets spent record amounts on campaign donations and lobbying",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/23/2026/betting-operators-and-prediction-markets-spent-record-amounts-on-campaign-donations-and-lobbying"
   }
  ],
- "excl": [
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  },
-  {
-   "d": "2026-10-06",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
-   "src": "Ramp Leading Indicators",
-   "t": "Faxing into the future: top industries paying for fax services",
-   "tp": "Companies & deals",
-   "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
-  }
- ]
+ "updatedAt": "2026-10-26T05:51"
 }
