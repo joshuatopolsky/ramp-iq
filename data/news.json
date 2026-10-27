@@ -40,28 +40,154 @@
  ],
  "items": [
   {
-   "d": "2026-10-27",
-   "t": "P&G's CEO is getting inflation-weary shoppers to pay more with premium upgrades",
-   "s": "Procter & Gamble's chief executive says product upgrades like softer diapers are letting the company raise prices even as consumers push back on inflation.",
+   "t": "The big takeaways and big questions from Anthropic's S-1",
+   "s": "Fortune breaks down what Anthropic's IPO filing reveals about its finances and governance, and what it still leaves unanswered for investors.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/pg-ceo-shailesh-jejurikar-earnings-inflation-prices-diapers/",
+   "u": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "China's first AI-generated film to get a theatrical release flops at the box office",
+   "s": "A fully AI-generated feature drew thin audiences in Chinese cinemas, a setback for hopes that generative video can quickly replace traditional production.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Wizz Air's CEO, whose father was jailed under Soviet rule, earns $4 million and refuses to retire",
+   "s": "A profile of Wizz Air chief József Váradi, who is staying on at the budget carrier as airlines contend with soaring jet fuel costs.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/wizz-air-ceo-jozsef-varadi-father-jailed-soviet-hungary-4-million-salary-refuses-retire/",
    "tp": "Companies & deals",
    "m": [
+    "TNE"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Stocks rise ahead of tech earnings and Fed decision",
+   "s": "Global equities, led by Asia, edged higher on AI enthusiasm as investors positioned for Big Tech results and this week's central bank meetings.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rise-ai-enthusiasm-053058128.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "The Fed says it ignores politics. Its rate moves tell a more complicated story",
+   "s": "Ahead of this week's FOMC decision, CNN examines how the Fed's rate path has lined up with political pressure despite its claims of independence.",
+   "src": "CNN Business",
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-says-ignores-politics-rate-212612613.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "China's stock market has lost $2.4 trillion as investors doubt its AI boom will pay off",
+   "s": "Chinese equities have shed trillions in value as investors question whether heavy AI spending there will produce returns.",
+   "src": "Decrypt",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chinas-stock-market-lost-2-211602247.html",
+   "tp": "Markets",
+   "m": [
     "MACRO",
+    "AI"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Trump casts high gas prices as 'short-term pain' at Texas rally",
+   "s": "The president defended elevated fuel prices tied to the Iran war as temporary, days before the midterm elections.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/energy/articles/trump-casts-high-gas-price-210511413.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Bank of America asks customers not to share banking passwords with AI assistants",
+   "s": "As agentic AI tools spread, Bank of America is warning customers against handing their login credentials to AI assistants.",
+   "src": "TechCrunch",
+   "u": "https://finance.yahoo.com/technology/ai/articles/bank-america-kindly-asks-don-214434802.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
     "SPEND"
-   ]
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Ferring to acquire IVF startup Gameto for up to $1.4 billion",
+   "s": "Fertility drugmaker Ferring agreed to buy next-generation IVF company Gameto in a deal worth as much as $1.4 billion.",
+   "src": "BioPharma Dive",
+   "u": "https://finance.yahoo.com/healthcare/articles/ferring-acquire-next-gen-ivf-205300343.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "These jobs saw the biggest jump in pay in recent years",
+   "s": "CBS News looks at the occupations where wages have risen fastest recently, highlighting uneven pay growth in a cooling labor market.",
+   "src": "CBS News",
+   "u": "https://finance.yahoo.com/healthcare/articles/jobs-saw-biggest-jump-pay-214526292.html",
+   "tp": "Labor",
+   "m": [
+    "BENCH",
+    "MACRO"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Will Rubio's Jamnagar move permanently break the Russia-India oil axis?",
+   "s": "U.S. pressure on India's Jamnagar refining hub could reshape Russian crude flows to India and global oil trade routes.",
+   "src": "Oilprice.com",
+   "u": "https://finance.yahoo.com/energy/articles/rubio-jamnagar-move-permanently-break-220000091.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ],
+   "d": "2026-10-27"
   },
   {
    "d": "2026-10-27",
-   "t": "JLL's CEO says he despises the term 'headcount' as AI automates real estate work",
-   "s": "JLL's chief executive describes how the property services giant is rolling out automation while investing in skilled trades and arguing against framing workers as headcount.",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "s": "Procter & Gamble's chief executive says product upgrades like softer diapers are letting the company raise prices even as consumers push back on inflation.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/jll-ceo-rems-neil-murray-automation-headcount-survey-skilled-trades/",
-   "tp": "Labor",
+   "t": "P&G's CEO is getting inflation-weary shoppers to pay more with premium upgrades",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/27/pg-ceo-shailesh-jejurikar-earnings-inflation-prices-diapers/"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "AI",
     "BENCH"
-   ]
+   ],
+   "s": "JLL's chief executive describes how the property services giant is rolling out automation while investing in skilled trades and arguing against framing workers as headcount.",
+   "src": "Fortune",
+   "t": "JLL's CEO says he despises the term 'headcount' as AI automates real estate work",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/27/jll-ceo-rems-neil-murray-automation-headcount-survey-skilled-trades/"
   },
   {
    "d": "2026-10-27",
@@ -456,28 +582,6 @@
   {
    "d": "2026-10-27",
    "m": [
-    "MACRO"
-   ],
-   "s": "Kalanick relocated before January, a move that could spare him an estimated $180 million under California's proposed wealth levy.",
-   "src": "Fortune",
-   "t": "Uber cofounder Travis Kalanick moved to Texas ahead of California's proposed billionaire tax",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/27/billionaire-uber-cofounder-travis-kalanick-moved-to-texas-prior-to-january-dodging-180-million-hit-from-californias-billionaire-tax/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Early buyers of Apple's first foldable say displays are cracking quickly, with the hinge suspected as the cause.",
-   "src": "Fortune",
-   "t": "Some owners report Apple's $1,999 iPhone Duo foldable screens cracking",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/27/apple-iphone-duo-foldable-screen-cracking-hinge/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
     "VNDR",
     "MACRO"
    ],
@@ -573,18 +677,6 @@
    "d": "2026-10-27",
    "m": [
     "AI",
-    "MACRO"
-   ],
-   "s": "GMAC data show US MBA applications falling sharply as Gen Z questions the value of graduate degrees amid AI's impact on entry-level hiring.",
-   "src": "Fortune",
-   "t": "US business school applications drop about 25% as entry-level job market weakens",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/27/business-school-applications-decline-gen-z-question-degrees-gmac-data-ai-impact-entry-level-job-market/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
     "VNDR"
    ],
    "s": "A Meta AI director has left the company to build a startup aimed at competing with Microsoft's and Google's workplace productivity suites.",
@@ -656,17 +748,6 @@
    "m": [
     "MACRO"
    ],
-   "s": "Economists surveyed by Reuters expect elevated inflation to linger across major economies through 2027, limiting room for rate cuts.",
-   "src": "Reuters",
-   "t": "High inflation to persist globally into next year, Reuters poll shows",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/articles/high-inflation-persist-globally-next-134004984.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO"
-   ],
    "s": "A preview of this week's Fed decision under Chair Kevin Warsh, as hot inflation and oil-price swings collide with midterm politics.",
    "src": "Euronews",
    "t": "What to expect from the Fed as Warsh weighs hot inflation, oil and US midterms",
@@ -708,18 +789,6 @@
    "t": "General Compute raises $100M Series A, countering the 'neocloud disaster' narrative",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "Defense tech firm Anduril and chipmaker Qualcomm unveiled a domestically manufactured laptop aimed at secure government and enterprise use.",
-   "src": "TechCrunch",
-   "t": "Anduril and Qualcomm launch BlueChip, a new kind of US-made laptop",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
   },
   {
    "d": "2026-10-27",
@@ -904,76 +973,7 @@
    "t": "Beijing pushes domestic oil production as Iranian supply dries up",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/beijing-pushes-domestic-oil-production-230000429.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Asian economies would need roughly a trillion dollars of annual energy investment to insulate themselves from future supply shocks.",
-   "src": "Oilprice.com",
-   "t": "Asia needs $1 trillion a year to avoid the next energy shock",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/asia-needs-1-trillion-avoid-210000746.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "SPEND"
-   ],
-   "s": "Canadian regulators proposed stablecoin rules that limit redemption fees and bar issuers from paying interest to holders.",
-   "src": "Decrypt",
-   "t": "Canada's draft stablecoin rules cap redemption fees at 1% and ban yield",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/canada-draft-stablecoin-rules-cap-221603556.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "A large share of young adults still live with family, which shapes their savings, debt and spending patterns.",
-   "src": "Investopedia",
-   "t": "Nearly half of Americans under 30 live with a parent",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/economy/articles/nearly-half-americans-under-30-214800313.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic's S-1 lays out an unusual governance setup meant to keep its safety-focused trust in control even after the company goes public.",
-   "src": "Semafor",
-   "t": "Anthropic IPO filing discloses first-of-its-kind governance structure",
-   "tp": "AI & tech",
-   "u": "https://www.semafor.com/article/10/26/2026/anthropic-ipo-filing-discloses-first-of-its-kind-governance-structure"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "The S&P 500 rose about 0.7% and the Nasdaq about 0.8% on Monday, led by chipmakers, as Anthropic's IPO filing lifted sentiment ahead of a heavy week of Big Tech earnings and a Fed decision.",
-   "src": "CNBC",
-   "t": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector",
-   "tp": "Markets",
-   "u": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "DoorDash is negotiating exclusively to buy Instacart, a deal that would combine two of the largest US delivery platforms.",
-   "src": "Semafor",
-   "t": "DoorDash in exclusive talks to acquire Instacart",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/26/2026/doordash-in-exclusive-talks-to-acquire-instacart"
   }
  ],
- "updatedAt": "2026-10-27T18:53"
+ "updatedAt": "2026-10-27T19:55"
 }
