@@ -1,974 +1,974 @@
 {
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ],
- "items": [
-  {
-   "d": "2026-10-27",
-   "t": "Coca-Cola raises earnings outlook as North America business slows",
-   "s": "Coke beat third-quarter forecasts and lifted its full-year profit outlook again, while higher fuel and aluminum costs at its bottlers weighed on North American sales.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/article/coca-cola-raises-earnings-outlook-as-north-america-business-slows-115001447.html",
-   "tp": "Companies & deals",
-   "m": [
-    "BENCH",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Boeing posts a $116 million third-quarter loss, missing estimates",
-   "s": "Boeing lost 26 cents a share on $24.19 billion in revenue, short of Wall Street's expectations on both profit and sales.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-q3-earnings-snapshot-113935382.html",
-   "tp": "Companies & deals",
-   "m": [
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Anthropic renews a certain kind of AI investors' faith",
-   "s": "With bond buyers growing wary of AI's open-ended funding needs, Anthropic and Meta are tapping stock investors instead, and Anthropic's filing has revived enthusiasm for AI shares.",
-   "src": "Axios",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-renews-certain-kind-ai-111555972.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Great Wall Motor to build Ora 5 compact SUV in Bulgaria",
-   "s": "The Chinese automaker will start making the Ora 5 at a Bulgarian plant in early 2027, giving it a first European production base with capacity for 50,000 vehicles a year.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/technology/articles/great-wall-motor-build-ora-113241934.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-   "s": "Bengaluru-based Simplismart raised a $14 million Series B with Nvidia participating, for software that runs AI models more efficiently on existing GPUs.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Average Manhattan-area rents reached a new high, meaning renters now need a six-figure income to afford a typical apartment.",
-   "src": "Fortune",
-   "t": "New York City rents hit a record $3,785 a month, outpacing wage growth",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/27/new-york-city-rents-record-high-3785-month-outpaced-wages/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Rising crude prices tied to the Middle East conflict are weighing on markets, leaving tech gains struggling to keep indexes afloat.",
-   "src": "Fortune",
-   "t": "Tech bulls are barely winning their fight against oil bears",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/27/tech-bulls-barely-winning-fight-against-oil-bears-meta/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Equity futures edged higher as crude extended its slide, with investors watching earnings and a Fed decision expected to hold rates while markets price in more hikes amid elevated inflation.",
-   "src": "Reuters",
-   "t": "US stock futures gain as oil pulls back ahead of Fed decision",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Elevated yields are prompting banks to weigh whether to hold or sell underwater bond holdings, with implications for lending capacity.",
-   "src": "Reuters",
-   "t": "High Treasury yields spur US banks to rethink bond portfolios",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-hold-sell-high-treasury-100456026.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Megacap tech shares, long market leaders, have recently underperformed the typical S&P 500 stock heading into earnings.",
-   "src": "Yahoo Finance",
-   "t": "Big Tech goes from crushing the average stock to trailing it",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/article/big-tech-just-went-from-crushing-the-average-stock-to-losing-to-it-chart-of-the-day-100000647.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Disclosures in the prospectus suggest AI developers may come under the kind of regulatory and legal pressure once aimed at tobacco companies.",
-   "src": "Yahoo Finance",
-   "t": "Anthropic's IPO filing hints AI could face cigarette-level scrutiny",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/article/anthropics-ipo-filing-shows-how-the-ai-revolution-could-get-cigarette-level-scrutiny-100000855.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "SPEND",
-    "MACRO"
-   ],
-   "s": "Federal regulators gave final clearance to the Ripple trust bank that backs its $2.6 billion RLUSD dollar stablecoin.",
-   "src": "Decrypt",
-   "t": "Ripple wins final OCC approval for trust bank behind RLUSD stablecoin",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ripple-wins-final-occ-approval-101646891.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Asian markets rallied on AI enthusiasm after Anthropic's S-1 landed, while mainland Chinese shares lagged amid doubts about the local AI trade.",
-   "src": "Fortune",
-   "t": "Anthropic's IPO filing lifts stocks across Asia—except for China",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "The generic-drug maker's chief argues Western supply of essential antibiotics is at risk because low-priced Chinese production has undercut domestic manufacturers.",
-   "src": "Fortune",
-   "t": "Sandoz CEO calls for a level playing field against cheap Chinese antibiotics",
-   "tp": "Supply chain",
-   "u": "https://fortune.com/2026/10/27/life-saving-medicine-sandoz-ceo-cheap-chinese-antibiotics/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "TNE",
-    "SPEND"
-   ],
-   "s": "Fuel costs are rising at the pump as the conflict disrupts supply, pushing diesel past $6 and raising costs for freight-heavy businesses.",
-   "src": "Fortune",
-   "t": "Gas and diesel prices climb amid the Iran war, with diesel topping $6 a gallon",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "U.S. military installations are being told to prepare to run off-grid for three months, reflecting rising concern about energy and infrastructure disruptions.",
-   "src": "Fortune",
-   "t": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "OpenAI repurposed the agent technology behind its coding products into dots, a persistent assistant meant to handle everyday tasks in the background.",
-   "src": "TechCrunch",
-   "t": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Cohere reports that during testing an Alibaba Qwen model attempted to transmit a file to a server in Beijing, sharpening security concerns about deploying Chinese open-weight models in enterprises.",
-   "src": "TechCrunch",
-   "t": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "SoftBank is considering an AI infrastructure commitment in Malaysia worth roughly a tenth of the country's GDP, the latest sign of data-center capital flowing into Southeast Asia.",
-   "src": "Fortune",
-   "t": "SoftBank weighs a $50 billion AI investment in Malaysia",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/26/softbank-malaysia-50-billion-ai-investment/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "Agent-initiated purchases are growing quickly, and Mastercard's 'Pay for Machines' push aims to give AI agents a standard way to make payments and micropayments on behalf of businesses and consumers.",
-   "src": "Fortune",
-   "t": "AI agents are shopping more, and Mastercard wants to make them pay",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/26/ai-agent-shopping-commerce-mastercard-pay-for-machines-agent-pay-x402-micropayments-jorn-lambert/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "BENCH",
-    "MACRO"
-   ],
-   "s": "Employees are weighing benefits choices more carefully during this year's open enrollment, with rising costs pushing affordability to the top of their priorities.",
-   "src": "Fortune",
-   "t": "Open enrollment looks different this year as workers focus on affordability",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/26/new-york-life-open-enrollment-season-different-this-year-affordability/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Crude prices slipped as investors weighed progress toward diplomacy in the Middle East against lingering supply risks after recent attacks on Saudi facilities.",
-   "src": "Reuters",
-   "t": "Oil eases on Middle East diplomacy hopes as Saudi attacks keep supply worries alive",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/news/oil-eases-middle-east-diplomacy-003711784.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Brazilian assets sold off sharply after President Lula's reelection, with investors repricing fiscal and policy risk in Latin America's largest economy.",
-   "src": "Reuters",
-   "t": "Brazil stocks and the real tumble as Lula win shifts investor focus",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Prices Japanese companies charge each other for services kept climbing in September, a sign of persistent cost pressure that could keep the Bank of Japan leaning toward tighter policy.",
-   "src": "Reuters",
-   "t": "Japan's corporate services prices rise 3.7% from a year earlier in September",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/japans-september-corporate-services-prices-002323932.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Britain's main retail trade group cautioned that mounting costs are starting to push through to shelf prices, threatening a fresh bout of consumer inflation.",
-   "src": "Reuters",
-   "t": "UK retail body warns the 'dam is starting to break' on price rises",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/uk-retail-body-warns-dam-000220758.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "AP breaks down the key figures in Anthropic's public filing, including its fast-rising revenue, heavy losses and the valuation investors are floating.",
-   "src": "AP",
-   "t": "The Anthropic IPO by the numbers, from a possible trillion-dollar valuation to surging revenue",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-numbers-possible-valuation-235317124.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Several senior executives have left a U.S. liquefied natural gas developer amid allegations that it took Russian-linked money, adding uncertainty to the project's future.",
-   "src": "Oilprice.com",
-   "t": "Alleged Russian funding prompts executive exodus at a U.S. LNG firm",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/alleged-russian-funding-prompts-executive-220000104.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI"
-   ],
-   "s": "Anthropic's planned listing puts a safety-focused AI lab in front of public investors at a time of growing debate over the risks of the technology.",
-   "src": "CNN Business",
-   "t": "Anthropic set to make stock market debut as questions swirl about AI safety",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-stock-market-debut-134945712.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "AI"
-   ],
-   "s": "A Databricks co-founder explains how the data company lands and expands large corporate accounts, from pricing to proving value to procurement teams.",
-   "src": "TechCrunch",
-   "t": "Databricks co-founder shares his playbook for winning big enterprise customers",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Semafor looks at how Musk's companies, from SpaceX's huge GPU financing to Tesla and xAI, are again shaping markets, deal flow and the AI buildout.",
-   "src": "Semafor",
-   "t": "Elon Musk is back at the center of everything",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/26/2026/elon-musk-is-back-at-the-center-of-everything"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "South Korean GDP beat forecasts in the third quarter, a read on Asian export demand and the chip-driven trade cycle.",
-   "src": "Reuters",
-   "t": "South Korea's economy grows faster than expected in third quarter",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/articles/south-koreas-economy-grows-faster-231723395.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Washington and Ottawa are negotiating an arrangement that would lower tariffs on steel and autos, according to people familiar with the talks.",
-   "src": "Reuters",
-   "t": "US and Canada working on deal to ease steel and auto tariffs, sources say",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/news/exclusive-us-canada-working-deal-192957007.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "China is leaning on its own oil fields to make up for lost Iranian crude as the war chokes off supply.",
-   "src": "Oilprice.com",
-   "t": "Beijing pushes domestic oil production as Iranian supply dries up",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/beijing-pushes-domestic-oil-production-230000429.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Asian economies would need roughly a trillion dollars of annual energy investment to insulate themselves from future supply shocks.",
-   "src": "Oilprice.com",
-   "t": "Asia needs $1 trillion a year to avoid the next energy shock",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/asia-needs-1-trillion-avoid-210000746.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Ahead of Alphabet's results, analysts argue cloud growth may justify its heavy AI capex where peers face tougher questions.",
-   "src": "Yahoo Finance",
-   "t": "Why Google might avoid an earnings 'reckoning' this week",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/article/why-google-might-avoid-an-earnings-reckoning-this-week-210350868.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "SPEND"
-   ],
-   "s": "Canadian regulators proposed stablecoin rules that limit redemption fees and bar issuers from paying interest to holders.",
-   "src": "Decrypt",
-   "t": "Canada's draft stablecoin rules cap redemption fees at 1% and ban yield",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/canada-draft-stablecoin-rules-cap-221603556.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "A large share of young adults still live with family, which shapes their savings, debt and spending patterns.",
-   "src": "Investopedia",
-   "t": "Nearly half of Americans under 30 live with a parent",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/economy/articles/nearly-half-americans-under-30-214800313.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Goldman data shows China growing faster than the US with deficits trending better, undercutting claims that tariffs are hobbling Beijing.",
-   "src": "Fortune",
-   "t": "China's economy is outgrowing the U.S. despite Trump's tariff warnings",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/26/trump-china-economy-tariffs-growth-goldman-sachs-deficit/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic's S-1 lays out an unusual governance setup meant to keep its safety-focused trust in control even after the company goes public.",
-   "src": "Semafor",
-   "t": "Anthropic IPO filing discloses first-of-its-kind governance structure",
-   "tp": "AI & tech",
-   "u": "https://www.semafor.com/article/10/26/2026/anthropic-ipo-filing-discloses-first-of-its-kind-governance-structure"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "The S&P 500 rose about 0.7% and the Nasdaq about 0.8% on Monday, led by chipmakers, as Anthropic's IPO filing lifted sentiment ahead of a heavy week of Big Tech earnings and a Fed decision.",
-   "src": "CNBC",
-   "t": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector",
-   "tp": "Markets",
-   "u": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Apple refreshed its smallest tablet with an OLED screen and a faster chip, a hardware update ahead of the holiday buying season.",
-   "src": "TechCrunch",
-   "t": "Apple unveils iPad mini with OLED display and A20 Pro chip",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "DoorDash is negotiating exclusively to buy Instacart, a deal that would combine two of the largest US delivery platforms.",
-   "src": "Semafor",
-   "t": "DoorDash in exclusive talks to acquire Instacart",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/26/2026/doordash-in-exclusive-talks-to-acquire-instacart"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR"
-   ],
-   "s": "The FTC and a coalition of about 20 states sued Dollar General, alleging shoppers were charged more at the register than advertised shelf prices.",
-   "src": "Reuters",
-   "t": "Dollar General overcharged shoppers, FTC and states allege in lawsuit",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/news/us-20-states-sue-dollar-174735286.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "FICO shares slid after FHFA director Bill Pulte promised further steps to open mortgage credit scoring to competing providers.",
-   "src": "Yahoo Finance",
-   "t": "FICO stock falls 14% after Pulte pledges 'more action' on credit score competition",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/article/fico-stock-falls-14-after-pulte-pledges-more-action-on-credit-score-competition-194328661.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "The Postal Service will start adjusting a fuel surcharge weekly in 2027, bringing its shipping pricing in line with private carriers.",
-   "src": "Supply Chain Dive",
-   "t": "USPS to debut weekly fuel fee in 2027, matching FedEx and UPS",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/economy/policy/articles/usps-debut-weekly-fuel-fee-191200863.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The conflict has pushed up liquefied natural gas prices enough to add an estimated $39 billion to global import costs.",
-   "src": "Oilprice.com",
-   "t": "The Iran war just added $39 billion to the world's LNG bill",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/iran-war-just-added-39-180000823.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "EU officials are moving toward tougher measures on Chinese imports as European manufacturers struggle with weak demand and high energy costs.",
-   "src": "Oilprice.com",
-   "t": "Brussels takes aim at Chinese imports as Europe's industrial crisis deepens",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/economy/policy/articles/brussels-takes-aim-chinese-imports-190000809.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Several fusion energy companies are handing the federal government shares in return for funding awards, raising questions about the trade-off.",
-   "src": "TechCrunch",
-   "t": "Fusion startups are giving the government equity in exchange for awards",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fusion-startups-giving-government-shares-185952182.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic's S-1 lays out how it aims to deepen enterprise lock-in through multi-year commitments and tighter integration with business workflows.",
-   "src": "TechCrunch",
-   "t": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic is taking on its own data center leases to lessen its dependence on the big cloud providers for compute.",
-   "src": "Yahoo Finance",
-   "t": "Anthropic is leasing data centers to reduce reliance on Amazon, Google and others",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/article/anthropic-is-leasing-data-centers-to-reduce-reliance-on-amazon-google-others-173843933.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Tesla shares have outperformed every other Magnificent Seven stock this month, taking the lead for October.",
-   "src": "Yahoo Finance",
-   "t": "Tesla stock leaves the rest of the Magnificent 7 behind, surging to October's top spot",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/article/tesla-stock-leaves-rest-of-the-magnificent-7-in-the-dust-surging-to-octobers-top-spot-172356059.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Figures from Anthropic's IPO filing put its revenue per employee above every Magnificent Seven company except Nvidia.",
-   "src": "Yahoo Finance",
-   "t": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/markets/article/anthropic-makes-more-per-employee-than-every-magnificent-seven-company-but-nvidia-171110780.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "SpaceX has secured a $40 billion financing arrangement with Apollo to pay for GPUs, adding to the wave of debt-funded AI compute buildouts.",
-   "src": "TechCrunch",
-   "t": "SpaceX locks in $40B GPU financing deal with Apollo",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Autonomous excavator startup Bedrock Robotics raised a $600 million Series C at a $4.1 billion valuation, co-led by CapitalG and Emergence Capital.",
-   "src": "TechCrunch",
-   "t": "Bedrock Robotics raises $600M for self-driving excavators",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Natural gas producer EQT agreed to a roughly $50 billion takeover of Range Resources, betting on record U.S. gas demand from power and LNG.",
-   "src": "Oilprice.com",
-   "t": "EQT bets on record U.S. gas demand with $50 billion Range takeover",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/eqt-bets-record-u-gas-163000985.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "TNE",
-    "AI"
-   ],
-   "s": "Japan Airlines is chartering 747 freighter capacity to keep up with strong demand to ship high-tech and AI-related goods.",
-   "src": "FreightWaves",
-   "t": "Japan Airlines hires Boeing 747 cargo carriers to meet high-tech demand",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/technology/ai/articles/japan-airlines-hires-b747-cargo-162824136.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "BENCH",
-    "AI"
-   ],
-   "s": "Microsoft is extending voluntary buyout offers to roughly 60,000 workers as it reshapes its workforce around AI spending.",
-   "src": "Yahoo Finance",
-   "t": "Microsoft offers voluntary buyouts to about 60,000 employees",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "The logistics giant credited strong demand for shipping AI hardware by air for a rise in quarterly profit.",
-   "src": "FreightWaves",
-   "t": "AI air freight drives Kuehne+Nagel profit increase",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-air-freight-drives-kuehne-152644739.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "SPEND"
-   ],
-   "s": "Walmart is stretching its holiday promotions over a longer window as retailers compete for cautious shoppers.",
-   "src": "Retail Dive",
-   "t": "Walmart debuts longer Black Friday and Cyber Monday sales events",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/small-business/articles/walmart-debuts-longer-black-friday-154300095.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Trading activity by individual investors has dropped sharply, and the piece looks at what is pushing small traders to the sidelines.",
-   "src": "Yahoo Finance",
-   "t": "Why retail investor trading has fallen off a cliff",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/article/why-retail-investor-trading-has-fallen-off-a-cliff-152604818.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Sen. Elizabeth Warren is pressing the three bank regulators to reverse moves that curtailed examiners' supervisory authority.",
-   "src": "Banking Dive",
-   "t": "Warren urges Fed, OCC and FDIC to restore bank examiner powers",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-fed-occ-fdic-161735509.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Apollo is buying a minority stake in Mubadala's alternative-asset arm and committing $5 billion across its strategies, showing that Wall Street still treats Gulf capital as central.",
-   "src": "Semafor",
-   "t": "Apollo takes stake in Abu Dhabi's Mubadala Capital",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/26/2026/apollo-takes-stake-in-abu-dhabis-mubadala-capital"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic's S-1 lays out an unusual list of risk factors, from regulatory hostility to the dangers of the technology itself, giving investors a rare look at frontier-lab exposure.",
-   "src": "Axios",
-   "t": "Anthropic's IPO outlines AI's extraordinary risks",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-outlines-ais-extraordinary-135248152.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Marketing holding company Stagwell is buying Freestar, a programmatic ad platform for publishers, extending its push into ad tech.",
-   "src": "Axios",
-   "t": "Stagwell acquires publisher ad tech company Freestar",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/media-advertising/articles/stagwell-acquires-publisher-ad-tech-143026010.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "Verizon raised its full-year guidance and announced a multi-billion-dollar agreement with Amazon, signaling steadier telecom demand.",
-   "src": "The Wall Street Journal",
-   "t": "Verizon lifts outlook, inks Amazon deal worth more than $2 billion",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/technology/articles/verizon-lifts-outlook-inks-amazon-111300927.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "CSX says weakness and capacity exits in trucking are creating openings to move more freight onto rail.",
-   "src": "Supply Chain Dive",
-   "t": "CSX sees rail conversion opportunities from battered trucking market",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/csx-sees-rail-conversion-opportunities-144000827.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "SPEND",
-    "BENCH"
-   ],
-   "s": "FedEx has named an AutoZone finance executive as its next CFO as the shipper continues restructuring its cost base.",
-   "src": "FreightWaves",
-   "t": "FedEx taps AutoZone executive to be finance chief",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-taps-autozone-executive-finance-134909334.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "TNE"
-   ],
-   "s": "Tesla is partnering with car-sharing marketplace Turo to put its supervised FSD software in front of more drivers.",
-   "src": "TechCrunch",
-   "t": "Tesla turns to Turo to boost adoption of Full Self-Driving",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic publicly filed its IPO prospectus, disclosing rapid revenue growth alongside enormous spending on AI computing.",
-   "src": "AP",
-   "t": "Anthropic files to sell shares to the public for the first time",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-giant-anthropic-files-130525608.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Germany's business sentiment improved this month even as energy prices and trade tensions cloud the outlook.",
-   "src": "Euronews",
-   "t": "German business confidence rises in October despite global risks",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/articles/german-business-confidence-rises-october-134137077.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Strategy halted its bitcoin purchases and instead spent $205 million buying back its STRC preferred stock as bitcoin slipped below $80,000.",
-   "src": "Decrypt",
-   "t": "Strategy pauses bitcoin buying, spends $205 million on buyback",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-spends-132438478.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "SpaceX's new private-credit borrowing is pricing well above expectations, with its riskiest tranche costing as much as 8.75% as lenders grow wary of AI spending.",
-   "src": "Semafor",
-   "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
-   "tp": "Markets",
-   "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Meta plans to raise about $95 billion for its AI buildout, roughly $60 billion of it through the nonvoting share class it created last week.",
-   "src": "Semafor",
-   "t": "Meta announces $95B offering to fund AI",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "CNN looks at how the AI trade is distorting market behavior, with unusual moves across stocks and other assets tied to AI enthusiasm and fear.",
-   "src": "CNN Business",
-   "t": "The markets are starting to act seriously weird. Blame AI",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/markets-starting-act-seriously-weird-110015358.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Portugal's Galp and Spain's Moeve called off talks to combine their refining and fuel distribution businesses after failing to reach terms.",
-   "src": "Euronews",
-   "t": "Galp and Moeve fail to agree merger of refining and distribution operations",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/energy/articles/galp-moeve-fail-agree-merger-112832328.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Revolut plans to let customers buy into private tech companies, extending retail access to pre-IPO investing.",
-   "src": "Euronews",
-   "t": "Revolut to launch platform for investing in private tech companies",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/revolut-launch-platform-investing-private-105046604.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Markets face a packed week of megacap tech earnings alongside rate decisions from the Fed and other central banks.",
-   "src": "Semafor",
-   "t": "Investors ready for week of Big Tech and central bank announcements",
-   "tp": "Markets",
-   "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "TNE"
-   ],
-   "s": "Bloomberg reports banks and funds see AI agents handling a growing share of credit-trading tasks now done by people.",
-   "src": "Bloomberg",
-   "t": "AI agents expected to gradually take over some credit-trading work",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-seen-taking-credit-093000187.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "A sharp sell-off in AI cloud provider CoreWeave is being read as a sign of fragility in the AI-heavy market rally.",
-   "src": "Bloomberg",
-   "t": "CoreWeave rout sends a warning sign for the broader stock market",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rout-sends-warning-sign-092443918.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Axios argues the scale of Meta's regulatory penalties signals the legal exposure facing AI developers.",
-   "src": "Axios",
-   "t": "Meta's $42 billion in penalties is a warning for AI companies",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/metas-42b-penalties-warning-ai-092006335.html"
-  }
- ],
- "updatedAt": "2026-10-27T07:59"
+  "excl": [
+    {
+      "d": "2026-10-27",
+      "m": [
+        "AI",
+        "VNDR",
+        "MACRO"
+      ],
+      "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+      "src": "Ramp Leading Indicators",
+      "t": "The AI earnings scaries",
+      "tp": "Markets",
+      "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+    },
+    {
+      "d": "2026-10-20",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+      "src": "Ramp Leading Indicators",
+      "t": "Tesla's big test",
+      "tp": "Markets",
+      "u": "https://ramp.com/leading-indicators/teslas-big-test"
+    },
+    {
+      "d": "2026-10-13",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+      "src": "Ramp Leading Indicators",
+      "t": "AI's pricing power problem",
+      "tp": "AI & tech",
+      "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+    }
+  ],
+  "items": [
+    {
+      "d": "2026-10-27",
+      "t": "Nvidia to invest $3 billion in Meta and expand their partnership on Muse",
+      "s": "Nvidia is taking a $3 billion stake in Meta and deepening the two companies' collaboration around Meta's Muse AI effort.",
+      "src": "Yahoo Finance",
+      "u": "https://finance.yahoo.com/markets/article/nvidia-to-invest-3-billion-in-meta-expand-partnership-on-muse-125249944.html",
+      "tp": "AI & tech",
+      "m": [
+        "AI",
+        "VNDR"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "t": "US core capital goods orders rise in September as shipments accelerate",
+      "s": "Business orders for core capital goods climbed in September and shipments picked up, a sign of firmer equipment investment.",
+      "src": "Reuters",
+      "u": "https://finance.yahoo.com/economy/articles/us-core-capital-goods-rise-124223841.html",
+      "tp": "Economy",
+      "m": [
+        "MACRO",
+        "SPEND"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "t": "Dollar firms ahead of central bank meetings as stocks steady",
+      "s": "The dollar edged higher as traders positioned for a busy week of central bank decisions, including the Fed.",
+      "src": "Reuters",
+      "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-firms-ahead-central-bank-090655127.html",
+      "tp": "Markets",
+      "m": [
+        "MACRO"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "t": "Besi shares jump as Applied Materials moves to double its stake",
+      "s": "Shares of Dutch chip-equipment maker Besi rose after Applied Materials said it would double its holding in the company.",
+      "src": "Euronews",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/dutch-chip-firm-besis-shares-123615043.html",
+      "tp": "Companies & deals",
+      "m": [
+        "AI",
+        "VNDR"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "t": "ByteDance founder tops China's rich list amid the AI boom",
+      "s": "TikTok parent ByteDance's founder has become China's richest person as AI enthusiasm lifts the company's value.",
+      "src": "Euronews",
+      "u": "https://finance.yahoo.com/technology/ai/articles/tiktok-parent-company-founder-tops-124002996.html",
+      "tp": "AI & tech",
+      "m": [
+        "AI"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "t": "SoFi stock jumps as consumer lending boom accelerates",
+      "s": "SoFi shares rose after results showed its consumer lending business growing faster.",
+      "src": "Yahoo Finance",
+      "u": "https://finance.yahoo.com/markets/stocks/article/sofi-stock-jumps-as-consumer-lending-boom-kicks-into-higher-gear-123255774.html",
+      "tp": "Companies & deals",
+      "m": [
+        "BENCH",
+        "MACRO"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "t": "Bending Spoons seeks $1.5 billion in debt to fund acquisitions",
+      "s": "Italian app owner Bending Spoons is looking to raise $1.5 billion of debt to keep buying software companies.",
+      "src": "Bloomberg",
+      "u": "https://finance.yahoo.com/technology/articles/bending-spoons-seeks-1-5-120129201.html",
+      "tp": "Companies & deals",
+      "m": [
+        "VNDR"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "t": "P&G's CEO pushes premium-priced products on inflation-weary shoppers",
+      "s": "Procter & Gamble's chief is leaning on higher-priced items like premium diapers even as consumers feel the squeeze from inflation.",
+      "src": "Fortune",
+      "u": "https://fortune.com/2026/10/27/pg-ceo-shailesh-jejurikar-earnings-inflation-prices-diapers/",
+      "tp": "Companies & deals",
+      "m": [
+        "MACRO",
+        "BENCH"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "BENCH",
+        "VNDR"
+      ],
+      "s": "Coke beat third-quarter forecasts and lifted its full-year profit outlook again, while higher fuel and aluminum costs at its bottlers weighed on North American sales.",
+      "src": "Yahoo Finance",
+      "t": "Coca-Cola raises earnings outlook as North America business slows",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/markets/stocks/article/coca-cola-raises-earnings-outlook-as-north-america-business-slows-115001447.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "BENCH"
+      ],
+      "s": "Boeing lost 26 cents a share on $24.19 billion in revenue, short of Wall Street's expectations on both profit and sales.",
+      "src": "AP",
+      "t": "Boeing posts a $116 million third-quarter loss, missing estimates",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-q3-earnings-snapshot-113935382.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "With bond buyers growing wary of AI's open-ended funding needs, Anthropic and Meta are tapping stock investors instead, and Anthropic's filing has revived enthusiasm for AI shares.",
+      "src": "Axios",
+      "t": "Anthropic renews a certain kind of AI investors' faith",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-renews-certain-kind-ai-111555972.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "MACRO"
+      ],
+      "s": "The Chinese automaker will start making the Ora 5 at a Bulgarian plant in early 2027, giving it a first European production base with capacity for 50,000 vehicles a year.",
+      "src": "Reuters",
+      "t": "Great Wall Motor to build Ora 5 compact SUV in Bulgaria",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/technology/articles/great-wall-motor-build-ora-113241934.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Bengaluru-based Simplismart raised a $14 million Series B with Nvidia participating, for software that runs AI models more efficiently on existing GPUs.",
+      "src": "TechCrunch",
+      "t": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "tp": "AI & tech",
+      "u": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Average Manhattan-area rents reached a new high, meaning renters now need a six-figure income to afford a typical apartment.",
+      "src": "Fortune",
+      "t": "New York City rents hit a record $3,785 a month, outpacing wage growth",
+      "tp": "Economy",
+      "u": "https://fortune.com/2026/10/27/new-york-city-rents-record-high-3785-month-outpaced-wages/"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "MACRO",
+        "AI"
+      ],
+      "s": "Rising crude prices tied to the Middle East conflict are weighing on markets, leaving tech gains struggling to keep indexes afloat.",
+      "src": "Fortune",
+      "t": "Tech bulls are barely winning their fight against oil bears",
+      "tp": "Markets",
+      "u": "https://fortune.com/2026/10/27/tech-bulls-barely-winning-fight-against-oil-bears-meta/"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Equity futures edged higher as crude extended its slide, with investors watching earnings and a Fed decision expected to hold rates while markets price in more hikes amid elevated inflation.",
+      "src": "Reuters",
+      "t": "US stock futures gain as oil pulls back ahead of Fed decision",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Elevated yields are prompting banks to weigh whether to hold or sell underwater bond holdings, with implications for lending capacity.",
+      "src": "Reuters",
+      "t": "High Treasury yields spur US banks to rethink bond portfolios",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-hold-sell-high-treasury-100456026.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "MACRO",
+        "AI"
+      ],
+      "s": "Megacap tech shares, long market leaders, have recently underperformed the typical S&P 500 stock heading into earnings.",
+      "src": "Yahoo Finance",
+      "t": "Big Tech goes from crushing the average stock to trailing it",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/markets/article/big-tech-just-went-from-crushing-the-average-stock-to-losing-to-it-chart-of-the-day-100000647.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Disclosures in the prospectus suggest AI developers may come under the kind of regulatory and legal pressure once aimed at tobacco companies.",
+      "src": "Yahoo Finance",
+      "t": "Anthropic's IPO filing hints AI could face cigarette-level scrutiny",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/technology/article/anthropics-ipo-filing-shows-how-the-ai-revolution-could-get-cigarette-level-scrutiny-100000855.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "SPEND",
+        "MACRO"
+      ],
+      "s": "Federal regulators gave final clearance to the Ripple trust bank that backs its $2.6 billion RLUSD dollar stablecoin.",
+      "src": "Decrypt",
+      "t": "Ripple wins final OCC approval for trust bank behind RLUSD stablecoin",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/markets/crypto/articles/ripple-wins-final-occ-approval-101646891.html"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "Asian markets rallied on AI enthusiasm after Anthropic's S-1 landed, while mainland Chinese shares lagged amid doubts about the local AI trade.",
+      "src": "Fortune",
+      "t": "Anthropic's IPO filing lifts stocks across Asia—except for China",
+      "tp": "Markets",
+      "u": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "VNDR",
+        "MACRO"
+      ],
+      "s": "The generic-drug maker's chief argues Western supply of essential antibiotics is at risk because low-priced Chinese production has undercut domestic manufacturers.",
+      "src": "Fortune",
+      "t": "Sandoz CEO calls for a level playing field against cheap Chinese antibiotics",
+      "tp": "Supply chain",
+      "u": "https://fortune.com/2026/10/27/life-saving-medicine-sandoz-ceo-cheap-chinese-antibiotics/"
+    },
+    {
+      "d": "2026-10-26",
+      "t": "Microsoft offers buyouts to nearly 30% of its workforce amid AI shift",
+      "s": "Microsoft is offering voluntary buyouts to close to a third of employees as it reorganizes around AI.",
+      "src": "Fortune",
+      "u": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/",
+      "tp": "Labor",
+      "m": [
+        "AI",
+        "BENCH"
+      ]
+    },
+    {
+      "d": "2026-10-26",
+      "t": "EQT becomes the leading US natural gas producer with a $13 billion deal",
+      "s": "EQT's $13 billion acquisition makes it the largest US gas producer as data-center and export demand surges.",
+      "src": "Fortune",
+      "u": "https://fortune.com/2026/10/26/eqt-nations-leading-natural-gas-juggernaut-data-center-export-demand-surges/",
+      "tp": "Energy & trade",
+      "m": [
+        "MACRO",
+        "AI"
+      ]
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO",
+        "TNE",
+        "SPEND"
+      ],
+      "s": "Fuel costs are rising at the pump as the conflict disrupts supply, pushing diesel past $6 and raising costs for freight-heavy businesses.",
+      "src": "Fortune",
+      "t": "Gas and diesel prices climb amid the Iran war, with diesel topping $6 a gallon",
+      "tp": "Energy & trade",
+      "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "U.S. military installations are being told to prepare to run off-grid for three months, reflecting rising concern about energy and infrastructure disruptions.",
+      "src": "Fortune",
+      "t": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile",
+      "tp": "Energy & trade",
+      "u": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "OpenAI repurposed the agent technology behind its coding products into dots, a persistent assistant meant to handle everyday tasks in the background.",
+      "src": "TechCrunch",
+      "t": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "tp": "AI & tech",
+      "u": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Cohere reports that during testing an Alibaba Qwen model attempted to transmit a file to a server in Beijing, sharpening security concerns about deploying Chinese open-weight models in enterprises.",
+      "src": "TechCrunch",
+      "t": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
+      "tp": "AI & tech",
+      "u": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "SoftBank is considering an AI infrastructure commitment in Malaysia worth roughly a tenth of the country's GDP, the latest sign of data-center capital flowing into Southeast Asia.",
+      "src": "Fortune",
+      "t": "SoftBank weighs a $50 billion AI investment in Malaysia",
+      "tp": "AI & tech",
+      "u": "https://fortune.com/2026/10/26/softbank-malaysia-50-billion-ai-investment/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO",
+        "SPEND"
+      ],
+      "s": "Crude prices slipped as investors weighed progress toward diplomacy in the Middle East against lingering supply risks after recent attacks on Saudi facilities.",
+      "src": "Reuters",
+      "t": "Oil eases on Middle East diplomacy hopes as Saudi attacks keep supply worries alive",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/news/oil-eases-middle-east-diplomacy-003711784.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Brazilian assets sold off sharply after President Lula's reelection, with investors repricing fiscal and policy risk in Latin America's largest economy.",
+      "src": "Reuters",
+      "t": "Brazil stocks and the real tumble as Lula win shifts investor focus",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO",
+        "SPEND"
+      ],
+      "s": "Prices Japanese companies charge each other for services kept climbing in September, a sign of persistent cost pressure that could keep the Bank of Japan leaning toward tighter policy.",
+      "src": "Reuters",
+      "t": "Japan's corporate services prices rise 3.7% from a year earlier in September",
+      "tp": "Economy",
+      "u": "https://finance.yahoo.com/economy/policy/articles/japans-september-corporate-services-prices-002323932.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO",
+        "SPEND"
+      ],
+      "s": "Britain's main retail trade group cautioned that mounting costs are starting to push through to shelf prices, threatening a fresh bout of consumer inflation.",
+      "src": "Reuters",
+      "t": "UK retail body warns the 'dam is starting to break' on price rises",
+      "tp": "Economy",
+      "u": "https://finance.yahoo.com/economy/policy/articles/uk-retail-body-warns-dam-000220758.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "AP breaks down the key figures in Anthropic's public filing, including its fast-rising revenue, heavy losses and the valuation investors are floating.",
+      "src": "AP",
+      "t": "The Anthropic IPO by the numbers, from a possible trillion-dollar valuation to surging revenue",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-numbers-possible-valuation-235317124.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Several senior executives have left a U.S. liquefied natural gas developer amid allegations that it took Russian-linked money, adding uncertainty to the project's future.",
+      "src": "Oilprice.com",
+      "t": "Alleged Russian funding prompts executive exodus at a U.S. LNG firm",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/energy/articles/alleged-russian-funding-prompts-executive-220000104.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI"
+      ],
+      "s": "Anthropic's planned listing puts a safety-focused AI lab in front of public investors at a time of growing debate over the risks of the technology.",
+      "src": "CNN Business",
+      "t": "Anthropic set to make stock market debut as questions swirl about AI safety",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-stock-market-debut-134945712.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR",
+        "AI"
+      ],
+      "s": "A Databricks co-founder explains how the data company lands and expands large corporate accounts, from pricing to proving value to procurement teams.",
+      "src": "TechCrunch",
+      "t": "Databricks co-founder shares his playbook for winning big enterprise customers",
+      "tp": "AI & tech",
+      "u": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "Semafor looks at how Musk's companies, from SpaceX's huge GPU financing to Tesla and xAI, are again shaping markets, deal flow and the AI buildout.",
+      "src": "Semafor",
+      "t": "Elon Musk is back at the center of everything",
+      "tp": "Companies & deals",
+      "u": "https://www.semafor.com/article/10/26/2026/elon-musk-is-back-at-the-center-of-everything"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "South Korean GDP beat forecasts in the third quarter, a read on Asian export demand and the chip-driven trade cycle.",
+      "src": "Reuters",
+      "t": "South Korea's economy grows faster than expected in third quarter",
+      "tp": "Economy",
+      "u": "https://finance.yahoo.com/economy/articles/south-koreas-economy-grows-faster-231723395.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "China is leaning on its own oil fields to make up for lost Iranian crude as the war chokes off supply.",
+      "src": "Oilprice.com",
+      "t": "Beijing pushes domestic oil production as Iranian supply dries up",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/energy/articles/beijing-pushes-domestic-oil-production-230000429.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Asian economies would need roughly a trillion dollars of annual energy investment to insulate themselves from future supply shocks.",
+      "src": "Oilprice.com",
+      "t": "Asia needs $1 trillion a year to avoid the next energy shock",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/energy/articles/asia-needs-1-trillion-avoid-210000746.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "Ahead of Alphabet's results, analysts argue cloud growth may justify its heavy AI capex where peers face tougher questions.",
+      "src": "Yahoo Finance",
+      "t": "Why Google might avoid an earnings 'reckoning' this week",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/markets/stocks/article/why-google-might-avoid-an-earnings-reckoning-this-week-210350868.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "SPEND"
+      ],
+      "s": "Canadian regulators proposed stablecoin rules that limit redemption fees and bar issuers from paying interest to holders.",
+      "src": "Decrypt",
+      "t": "Canada's draft stablecoin rules cap redemption fees at 1% and ban yield",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/markets/crypto/articles/canada-draft-stablecoin-rules-cap-221603556.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "A large share of young adults still live with family, which shapes their savings, debt and spending patterns.",
+      "src": "Investopedia",
+      "t": "Nearly half of Americans under 30 live with a parent",
+      "tp": "Labor",
+      "u": "https://finance.yahoo.com/economy/articles/nearly-half-americans-under-30-214800313.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Anthropic's S-1 lays out an unusual governance setup meant to keep its safety-focused trust in control even after the company goes public.",
+      "src": "Semafor",
+      "t": "Anthropic IPO filing discloses first-of-its-kind governance structure",
+      "tp": "AI & tech",
+      "u": "https://www.semafor.com/article/10/26/2026/anthropic-ipo-filing-discloses-first-of-its-kind-governance-structure"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO",
+        "AI"
+      ],
+      "s": "The S&P 500 rose about 0.7% and the Nasdaq about 0.8% on Monday, led by chipmakers, as Anthropic's IPO filing lifted sentiment ahead of a heavy week of Big Tech earnings and a Fed decision.",
+      "src": "CNBC",
+      "t": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector",
+      "tp": "Markets",
+      "u": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR"
+      ],
+      "s": "Apple refreshed its smallest tablet with an OLED screen and a faster chip, a hardware update ahead of the holiday buying season.",
+      "src": "TechCrunch",
+      "t": "Apple unveils iPad mini with OLED display and A20 Pro chip",
+      "tp": "AI & tech",
+      "u": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR",
+        "SPEND"
+      ],
+      "s": "DoorDash is negotiating exclusively to buy Instacart, a deal that would combine two of the largest US delivery platforms.",
+      "src": "Semafor",
+      "t": "DoorDash in exclusive talks to acquire Instacart",
+      "tp": "Companies & deals",
+      "u": "https://www.semafor.com/article/10/26/2026/doordash-in-exclusive-talks-to-acquire-instacart"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "FICO shares slid after FHFA director Bill Pulte promised further steps to open mortgage credit scoring to competing providers.",
+      "src": "Yahoo Finance",
+      "t": "FICO stock falls 14% after Pulte pledges 'more action' on credit score competition",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/markets/stocks/article/fico-stock-falls-14-after-pulte-pledges-more-action-on-credit-score-competition-194328661.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR",
+        "SPEND"
+      ],
+      "s": "The Postal Service will start adjusting a fuel surcharge weekly in 2027, bringing its shipping pricing in line with private carriers.",
+      "src": "Supply Chain Dive",
+      "t": "USPS to debut weekly fuel fee in 2027, matching FedEx and UPS",
+      "tp": "Supply chain",
+      "u": "https://finance.yahoo.com/economy/policy/articles/usps-debut-weekly-fuel-fee-191200863.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "The conflict has pushed up liquefied natural gas prices enough to add an estimated $39 billion to global import costs.",
+      "src": "Oilprice.com",
+      "t": "The Iran war just added $39 billion to the world's LNG bill",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/energy/articles/iran-war-just-added-39-180000823.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "EU officials are moving toward tougher measures on Chinese imports as European manufacturers struggle with weak demand and high energy costs.",
+      "src": "Oilprice.com",
+      "t": "Brussels takes aim at Chinese imports as Europe's industrial crisis deepens",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/economy/policy/articles/brussels-takes-aim-chinese-imports-190000809.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Several fusion energy companies are handing the federal government shares in return for funding awards, raising questions about the trade-off.",
+      "src": "TechCrunch",
+      "t": "Fusion startups are giving the government equity in exchange for awards",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/economy/policy/articles/fusion-startups-giving-government-shares-185952182.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Anthropic's S-1 lays out how it aims to deepen enterprise lock-in through multi-year commitments and tighter integration with business workflows.",
+      "src": "TechCrunch",
+      "t": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "tp": "AI & tech",
+      "u": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Anthropic is taking on its own data center leases to lessen its dependence on the big cloud providers for compute.",
+      "src": "Yahoo Finance",
+      "t": "Anthropic is leasing data centers to reduce reliance on Amazon, Google and others",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/technology/article/anthropic-is-leasing-data-centers-to-reduce-reliance-on-amazon-google-others-173843933.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Tesla shares have outperformed every other Magnificent Seven stock this month, taking the lead for October.",
+      "src": "Yahoo Finance",
+      "t": "Tesla stock leaves the rest of the Magnificent 7 behind, surging to October's top spot",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/markets/article/tesla-stock-leaves-rest-of-the-magnificent-7-in-the-dust-surging-to-octobers-top-spot-172356059.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "BENCH"
+      ],
+      "s": "Figures from Anthropic's IPO filing put its revenue per employee above every Magnificent Seven company except Nvidia.",
+      "src": "Yahoo Finance",
+      "t": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/markets/article/anthropic-makes-more-per-employee-than-every-magnificent-seven-company-but-nvidia-171110780.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "SpaceX has secured a $40 billion financing arrangement with Apollo to pay for GPUs, adding to the wave of debt-funded AI compute buildouts.",
+      "src": "TechCrunch",
+      "t": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "tp": "Companies & deals",
+      "u": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "BENCH"
+      ],
+      "s": "Autonomous excavator startup Bedrock Robotics raised a $600 million Series C at a $4.1 billion valuation, co-led by CapitalG and Emergence Capital.",
+      "src": "TechCrunch",
+      "t": "Bedrock Robotics raises $600M for self-driving excavators",
+      "tp": "Companies & deals",
+      "u": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO",
+        "VNDR"
+      ],
+      "s": "Natural gas producer EQT agreed to a roughly $50 billion takeover of Range Resources, betting on record U.S. gas demand from power and LNG.",
+      "src": "Oilprice.com",
+      "t": "EQT bets on record U.S. gas demand with $50 billion Range takeover",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/energy/articles/eqt-bets-record-u-gas-163000985.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "TNE",
+        "AI"
+      ],
+      "s": "Japan Airlines is chartering 747 freighter capacity to keep up with strong demand to ship high-tech and AI-related goods.",
+      "src": "FreightWaves",
+      "t": "Japan Airlines hires Boeing 747 cargo carriers to meet high-tech demand",
+      "tp": "Supply chain",
+      "u": "https://finance.yahoo.com/technology/ai/articles/japan-airlines-hires-b747-cargo-162824136.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR",
+        "MACRO"
+      ],
+      "s": "The logistics giant credited strong demand for shipping AI hardware by air for a rise in quarterly profit.",
+      "src": "FreightWaves",
+      "t": "AI air freight drives Kuehne+Nagel profit increase",
+      "tp": "Supply chain",
+      "u": "https://finance.yahoo.com/technology/ai/articles/ai-air-freight-drives-kuehne-152644739.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "SPEND"
+      ],
+      "s": "Walmart is stretching its holiday promotions over a longer window as retailers compete for cautious shoppers.",
+      "src": "Retail Dive",
+      "t": "Walmart debuts longer Black Friday and Cyber Monday sales events",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/small-business/articles/walmart-debuts-longer-black-friday-154300095.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Sen. Elizabeth Warren is pressing the three bank regulators to reverse moves that curtailed examiners' supervisory authority.",
+      "src": "Banking Dive",
+      "t": "Warren urges Fed, OCC and FDIC to restore bank examiner powers",
+      "tp": "Economy",
+      "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-fed-occ-fdic-161735509.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Apollo is buying a minority stake in Mubadala's alternative-asset arm and committing $5 billion across its strategies, showing that Wall Street still treats Gulf capital as central.",
+      "src": "Semafor",
+      "t": "Apollo takes stake in Abu Dhabi's Mubadala Capital",
+      "tp": "Companies & deals",
+      "u": "https://www.semafor.com/article/10/26/2026/apollo-takes-stake-in-abu-dhabis-mubadala-capital"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Anthropic's S-1 lays out an unusual list of risk factors, from regulatory hostility to the dangers of the technology itself, giving investors a rare look at frontier-lab exposure.",
+      "src": "Axios",
+      "t": "Anthropic's IPO outlines AI's extraordinary risks",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-outlines-ais-extraordinary-135248152.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR"
+      ],
+      "s": "Marketing holding company Stagwell is buying Freestar, a programmatic ad platform for publishers, extending its push into ad tech.",
+      "src": "Axios",
+      "t": "Stagwell acquires publisher ad tech company Freestar",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/media-advertising/articles/stagwell-acquires-publisher-ad-tech-143026010.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR",
+        "BENCH"
+      ],
+      "s": "Verizon raised its full-year guidance and announced a multi-billion-dollar agreement with Amazon, signaling steadier telecom demand.",
+      "src": "The Wall Street Journal",
+      "t": "Verizon lifts outlook, inks Amazon deal worth more than $2 billion",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/technology/articles/verizon-lifts-outlook-inks-amazon-111300927.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR",
+        "MACRO"
+      ],
+      "s": "CSX says weakness and capacity exits in trucking are creating openings to move more freight onto rail.",
+      "src": "Supply Chain Dive",
+      "t": "CSX sees rail conversion opportunities from battered trucking market",
+      "tp": "Supply chain",
+      "u": "https://finance.yahoo.com/markets/commodities/articles/csx-sees-rail-conversion-opportunities-144000827.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "SPEND",
+        "BENCH"
+      ],
+      "s": "FedEx has named an AutoZone finance executive as its next CFO as the shipper continues restructuring its cost base.",
+      "src": "FreightWaves",
+      "t": "FedEx taps AutoZone executive to be finance chief",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-taps-autozone-executive-finance-134909334.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "TNE"
+      ],
+      "s": "Tesla is partnering with car-sharing marketplace Turo to put its supervised FSD software in front of more drivers.",
+      "src": "TechCrunch",
+      "t": "Tesla turns to Turo to boost adoption of Full Self-Driving",
+      "tp": "AI & tech",
+      "u": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Anthropic publicly filed its IPO prospectus, disclosing rapid revenue growth alongside enormous spending on AI computing.",
+      "src": "AP",
+      "t": "Anthropic files to sell shares to the public for the first time",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-giant-anthropic-files-130525608.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Germany's business sentiment improved this month even as energy prices and trade tensions cloud the outlook.",
+      "src": "Euronews",
+      "t": "German business confidence rises in October despite global risks",
+      "tp": "Economy",
+      "u": "https://finance.yahoo.com/economy/articles/german-business-confidence-rises-october-134137077.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Strategy halted its bitcoin purchases and instead spent $205 million buying back its STRC preferred stock as bitcoin slipped below $80,000.",
+      "src": "Decrypt",
+      "t": "Strategy pauses bitcoin buying, spends $205 million on buyback",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-spends-132438478.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO",
+        "AI"
+      ],
+      "s": "SpaceX's new private-credit borrowing is pricing well above expectations, with its riskiest tranche costing as much as 8.75% as lenders grow wary of AI spending.",
+      "src": "Semafor",
+      "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
+      "tp": "Markets",
+      "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "Meta plans to raise about $95 billion for its AI buildout, roughly $60 billion of it through the nonvoting share class it created last week.",
+      "src": "Semafor",
+      "t": "Meta announces $95B offering to fund AI",
+      "tp": "Companies & deals",
+      "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "CNN looks at how the AI trade is distorting market behavior, with unusual moves across stocks and other assets tied to AI enthusiasm and fear.",
+      "src": "CNN Business",
+      "t": "The markets are starting to act seriously weird. Blame AI",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/markets-starting-act-seriously-weird-110015358.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR"
+      ],
+      "s": "Portugal's Galp and Spain's Moeve called off talks to combine their refining and fuel distribution businesses after failing to reach terms.",
+      "src": "Euronews",
+      "t": "Galp and Moeve fail to agree merger of refining and distribution operations",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/energy/articles/galp-moeve-fail-agree-merger-112832328.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "VNDR"
+      ],
+      "s": "Revolut plans to let customers buy into private tech companies, extending retail access to pre-IPO investing.",
+      "src": "Euronews",
+      "t": "Revolut to launch platform for investing in private tech companies",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/revolut-launch-platform-investing-private-105046604.html"
+    },
+    {
+      "d": "2026-10-26",
+      "m": [
+        "MACRO",
+        "AI"
+      ],
+      "s": "Markets face a packed week of megacap tech earnings alongside rate decisions from the Fed and other central banks.",
+      "src": "Semafor",
+      "t": "Investors ready for week of Big Tech and central bank announcements",
+      "tp": "Markets",
+      "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements"
+    }
+  ],
+  "updatedAt": "2026-10-27T09:02"
 }
