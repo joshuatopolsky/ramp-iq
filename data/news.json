@@ -1,70 +1,62 @@
 {
- "updatedAt": "2026-10-27T11:10",
+ "excl": [
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  }
+ ],
  "items": [
   {
    "d": "2026-10-27",
-   "t": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "s": "A Meta AI director has left the company to build a startup aimed at competing with Microsoft's and Google's workplace productivity suites.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "US government says hackers are now exploiting critical PHP web bugs",
-   "s": "Federal cybersecurity officials warned that attackers are actively exploiting critical PHP vulnerabilities, urging organizations running affected web software to patch quickly.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-   "tp": "AI & tech",
-   "m": [
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Ford Fathom will be the cheapest American EV capable of powering a house",
-   "s": "Ford's upcoming Fathom electric truck, priced around $28,000, will be able to act as home backup power, bringing the feature to a much lower price point.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+   "t": "FTC moves to block Cintas's $5 billion bid for UniFirst",
+   "s": "FTC staff have told uniform giant Cintas the agency intends to sue to block its roughly $5 billion takeover of rival UniFirst over market-share concerns, though no final vote has been taken.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/27/2026/ftc-flexes-its-muscles-on-5-billion-uniform-deal",
    "tp": "Companies & deals",
    "m": [
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Anthropic's IPO needs believers to bridge it to the payoff",
-   "s": "Anthropic's filing shows a fast-growing company with obligations it can't cover without raising more money, leaving its IPO dependent on investor faith in a long-term payoff.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/27/2026/anthropics-ipo-needs-believers-to-bridge-it-to-the-payoff",
-   "tp": "Markets",
-   "m": [
-    "AI",
+    "VNDR",
     "MACRO"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "As Anthropic's IPO approaches, CFO Krishna Rao faces a defining test",
-   "s": "Anthropic's finance chief is under close scrutiny as he steers the AI company toward one of the most closely watched public debuts in years.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/as-anthropics-ipo-approaches-cfo-krishna-rao-faces-a-defining-test/",
-   "tp": "Companies & deals",
-   "m": [
-    "AI",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "JLL CEO on automation, headcount and the skilled trades",
-   "s": "The head of commercial real estate firm JLL discussed how automation is changing staffing decisions and why he pushes back on thinking of workers as 'headcount'.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/jll-ceo-rems-neil-murray-automation-headcount-survey-skilled-trades/",
+   "t": "Microsoft's buyout offer shows which tech jobs matter",
+   "s": "Microsoft's buyout offer skips data center, cybersecurity, quantum, sales and marketing staff, signaling which roles the company sees as critical in the AI era.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter",
    "tp": "Labor",
    "m": [
     "AI",
@@ -73,15 +65,179 @@
   },
   {
    "d": "2026-10-27",
-   "t": "US classifies helium as a critical material for semiconductors",
-   "s": "The Energy Department added helium to its list of critical materials for chipmaking after Iran war disruptions tightened supply from Qatar.",
-   "src": "AP",
-   "u": "https://fortune.com/2026/10/27/semiconductors-helium-us-energy-department/",
-   "tp": "Supply chain",
+   "t": "FTC and 20 states sue Dollar General over alleged overcharging",
+   "s": "Federal and state regulators accuse the discount chain of charging shoppers more at the register than its posted shelf prices.",
+   "src": "USA TODAY",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ftc-20-states-sue-dollar-152127038.html",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Oracle adds AI chips from Google, Cerebras and SambaNova to cut reliance on Nvidia",
+   "s": "Oracle is broadening the accelerators in its cloud beyond Nvidia, adding chips from Google, Cerebras and SambaNova to diversify AI compute supply.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "JetBlue stock rises despite third-quarter loss as demand stays resilient",
+   "s": "JetBlue posted another quarterly loss, but shares rose as the airline said travel demand remains resilient heading into the holidays.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/stocks/article/jetblue-stock-rises-despite-q3-loss-as-demand-remains-resilient-152550071.html",
+   "tp": "Companies & deals",
+   "m": [
+    "TNE",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "US new home sales fall in September as median price drops",
+   "s": "Sales of newly built US homes declined in September and the median sale price fell from a year earlier as high mortgage rates weighed on buyers.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/real-estate/articles/us-home-sales-fall-september-150007094.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Britain pays its highest five-year borrowing rate since 2008",
+   "s": "The UK government paid the steepest yield on five-year debt in nearly two decades at auction, underscoring pressure from elevated global bond yields.",
+   "src": "The Telegraph",
+   "u": "https://finance.yahoo.com/economy/policy/articles/britain-pays-highest-five-borrowing-144603107.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "EY UK partners take home a record £870,000 each after job cuts",
+   "s": "Average partner pay at EY's UK arm hit a record after the firm trimmed staff, highlighting how cost cuts are flowing to the top at professional-services firms.",
+   "src": "The Telegraph",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ey-partners-net-record-870-144922174.html",
+   "tp": "Labor",
+   "m": [
+    "BENCH",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "US business school applications drop about 25% as entry-level job market weakens",
+   "s": "GMAC data show US MBA applications falling sharply as Gen Z questions the value of graduate degrees amid AI's impact on entry-level hiring.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/business-school-applications-decline-gen-z-question-degrees-gmac-data-ai-impact-entry-level-job-market/",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "What Anthropic's S-1 reveals about its finances and a massive liability",
+   "s": "Fortune breaks down the revenue, losses and a large liability disclosed in Anthropic's IPO filing ahead of its expected November debut.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/anthropic-s1-ipo-filing-financials-profits/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "A Meta AI director has left the company to build a startup aimed at competing with Microsoft's and Google's workplace productivity suites.",
+   "src": "TechCrunch",
+   "t": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Federal cybersecurity officials warned that attackers are actively exploiting critical PHP vulnerabilities, urging organizations running affected web software to patch quickly.",
+   "src": "TechCrunch",
+   "t": "US government says hackers are now exploiting critical PHP web bugs",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "SPEND"
+   ],
+   "s": "Ford's upcoming Fathom electric truck, priced around $28,000, will be able to act as home backup power, bringing the feature to a much lower price point.",
+   "src": "TechCrunch",
+   "t": "Ford Fathom will be the cheapest American EV capable of powering a house",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Anthropic's filing shows a fast-growing company with obligations it can't cover without raising more money, leaving its IPO dependent on investor faith in a long-term payoff.",
+   "src": "Semafor",
+   "t": "Anthropic's IPO needs believers to bridge it to the payoff",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/27/2026/anthropics-ipo-needs-believers-to-bridge-it-to-the-payoff"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "Anthropic's finance chief is under close scrutiny as he steers the AI company toward one of the most closely watched public debuts in years.",
+   "src": "Fortune",
+   "t": "As Anthropic's IPO approaches, CFO Krishna Rao faces a defining test",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/27/as-anthropics-ipo-approaches-cfo-krishna-rao-faces-a-defining-test/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "The head of commercial real estate firm JLL discussed how automation is changing staffing decisions and why he pushes back on thinking of workers as 'headcount'.",
+   "src": "Fortune",
+   "t": "JLL CEO on automation, headcount and the skilled trades",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/27/jll-ceo-rems-neil-murray-automation-headcount-survey-skilled-trades/"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "VNDR",
     "MACRO"
-   ]
+   ],
+   "s": "The Energy Department added helium to its list of critical materials for chipmaking after Iran war disruptions tightened supply from Qatar.",
+   "src": "AP",
+   "t": "US classifies helium as a critical material for semiconductors",
+   "tp": "Supply chain",
+   "u": "https://fortune.com/2026/10/27/semiconductors-helium-us-energy-department/"
   },
   {
    "d": "2026-10-27",
@@ -445,15 +601,27 @@
   },
   {
    "d": "2026-10-26",
-   "t": "Investors ready for a week of Big Tech earnings and central bank decisions",
-   "s": "Alphabet, Amazon and Microsoft report earnings this week while the Fed, ECB and Bank of Japan all set rates, making it a pivotal stretch for markets.",
+   "t": "Meta announces $95 billion stock offering to fund AI buildout",
+   "s": "Meta is issuing new shares for the first time since 2013, mostly nonvoting stock, to pay for AI infrastructure without diluting Mark Zuckerberg's control.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements",
-   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "Alphabet, Amazon and Microsoft report earnings this week while the Fed, ECB and Bank of Japan all set rates, making it a pivotal stretch for markets.",
+   "src": "Semafor",
+   "t": "Investors ready for a week of Big Tech earnings and central bank decisions",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements"
   },
   {
    "d": "2026-10-26",
@@ -466,31 +634,6 @@
    "t": "Microsoft offers buyouts to nearly 30% of its workforce amid AI shift",
    "tp": "Labor",
    "u": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "EQT's $13 billion acquisition makes it the largest US gas producer as data-center and export demand surges.",
-   "src": "Fortune",
-   "t": "EQT becomes the leading US natural gas producer with a $13 billion deal",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/26/eqt-nations-leading-natural-gas-juggernaut-data-center-export-demand-surges/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "TNE",
-    "SPEND"
-   ],
-   "s": "Fuel costs are rising at the pump as the conflict disrupts supply, pushing diesel past $6 and raising costs for freight-heavy businesses.",
-   "src": "Fortune",
-   "t": "Gas and diesel prices climb amid the Iran war, with diesel topping $6 a gallon",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/"
   },
   {
    "d": "2026-10-26",
@@ -538,18 +681,6 @@
    "t": "Brazil stocks and the real tumble as Lula win shifts investor focus",
    "tp": "Markets",
    "u": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Prices Japanese companies charge each other for services kept climbing in September, a sign of persistent cost pressure that could keep the Bank of Japan leaning toward tighter policy.",
-   "src": "Reuters",
-   "t": "Japan's corporate services prices rise 3.7% from a year earlier in September",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/japans-september-corporate-services-prices-002323932.html"
   },
   {
    "d": "2026-10-26",
@@ -704,17 +835,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "MACRO"
-   ],
-   "s": "FICO shares slid after FHFA director Bill Pulte promised further steps to open mortgage credit scoring to competing providers.",
-   "src": "Yahoo Finance",
-   "t": "FICO stock falls 14% after Pulte pledges 'more action' on credit score competition",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/article/fico-stock-falls-14-after-pulte-pledges-more-action-on-credit-score-competition-194328661.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "VNDR",
     "SPEND"
    ],
@@ -745,18 +865,6 @@
    "t": "Brussels takes aim at Chinese imports as Europe's industrial crisis deepens",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/economy/policy/articles/brussels-takes-aim-chinese-imports-190000809.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic is taking on its own data center leases to lessen its dependence on the big cloud providers for compute.",
-   "src": "Yahoo Finance",
-   "t": "Anthropic is leasing data centers to reduce reliance on Amazon, Google and others",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/article/anthropic-is-leasing-data-centers-to-reduce-reliance-on-amazon-google-others-173843933.html"
   },
   {
    "d": "2026-10-26",
@@ -861,115 +969,7 @@
    "t": "Verizon lifts outlook, inks Amazon deal worth more than $2 billion",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/technology/articles/verizon-lifts-outlook-inks-amazon-111300927.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "CSX says weakness and capacity exits in trucking are creating openings to move more freight onto rail.",
-   "src": "Supply Chain Dive",
-   "t": "CSX sees rail conversion opportunities from battered trucking market",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/csx-sees-rail-conversion-opportunities-144000827.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "SPEND",
-    "BENCH"
-   ],
-   "s": "FedEx has named an AutoZone finance executive as its next CFO as the shipper continues restructuring its cost base.",
-   "src": "FreightWaves",
-   "t": "FedEx taps AutoZone executive to be finance chief",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-taps-autozone-executive-finance-134909334.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic publicly filed its IPO prospectus, disclosing rapid revenue growth alongside enormous spending on AI computing.",
-   "src": "AP",
-   "t": "Anthropic files to sell shares to the public for the first time",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-giant-anthropic-files-130525608.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Germany's business sentiment improved this month even as energy prices and trade tensions cloud the outlook.",
-   "src": "Euronews",
-   "t": "German business confidence rises in October despite global risks",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/articles/german-business-confidence-rises-october-134137077.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Strategy halted its bitcoin purchases and instead spent $205 million buying back its STRC preferred stock as bitcoin slipped below $80,000.",
-   "src": "Decrypt",
-   "t": "Strategy pauses bitcoin buying, spends $205 million on buyback",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-spends-132438478.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "SpaceX's new private-credit borrowing is pricing well above expectations, with its riskiest tranche costing as much as 8.75% as lenders grow wary of AI spending.",
-   "src": "Semafor",
-   "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
-   "tp": "Markets",
-   "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt"
   }
  ],
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ]
+ "updatedAt": "2026-10-27T12:15"
 }
