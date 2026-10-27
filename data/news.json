@@ -1,119 +1,12 @@
 {
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ],
+ "updatedAt": "2026-10-27T11:10",
  "items": [
   {
    "d": "2026-10-27",
-   "t": "US consumer confidence recovers in October as gas prices ease a bit",
-   "s": "The Conference Board's confidence index rebounded this month as a small dip in gasoline prices lifted Americans' outlook.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/economy/articles/us-consumer-confidence-recovers-october-140446214.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "High inflation to persist globally into next year, Reuters poll shows",
-   "s": "Economists surveyed by Reuters expect elevated inflation to linger across major economies through 2027, limiting room for rate cuts.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/articles/high-inflation-persist-globally-next-134004984.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
-   "s": "Analysts see a firm dollar and high Treasury yields weighing on gold, while steady central-bank buying cushions prices.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/strong-dollar-high-yields-drag-132941149.html",
-   "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "What to expect from the Fed as Warsh weighs hot inflation, oil and US midterms",
-   "s": "A preview of this week's Fed decision under Chair Kevin Warsh, as hot inflation and oil-price swings collide with midterm politics.",
-   "src": "Euronews",
-   "u": "https://finance.yahoo.com/economy/policy/articles/expect-fed-warsh-weighs-hot-142330101.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Gas prices under Trump 2.0 are now higher on average than during Biden's four years",
-   "s": "Average US pump prices in Trump's second term have now surpassed the Biden-era average, driven by the oil shock from the Iran war.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/energy/article/gas-prices-under-trump-20-are-now-higher-on-average-than-during-bidens-4-years-in-office-141656779.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "TNE"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Apple launches new MacBook Pro and iMac as it continues to refresh product lines",
-   "s": "Apple rolled out updated MacBook Pro and iMac models, extending a fall hardware refresh ahead of the holiday quarter.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/apple-launches-new-macbook-pro-imac-as-it-continues-to-refresh-product-lines-140344374.html",
-   "tp": "AI & tech",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "General Compute raises $100M Series A, countering the 'neocloud disaster' narrative",
-   "s": "AI infrastructure startup General Compute closed a $100 million Series A and argues demand for independent GPU clouds remains strong.",
+   "t": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "s": "A Meta AI director has left the company to build a startup aimed at competing with Microsoft's and Google's workplace productivity suites.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "u": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -122,26 +15,177 @@
   },
   {
    "d": "2026-10-27",
-   "t": "Anduril and Qualcomm launch BlueChip, a new kind of US-made laptop",
-   "s": "Defense tech firm Anduril and chipmaker Qualcomm unveiled a domestically manufactured laptop aimed at secure government and enterprise use.",
+   "t": "US government says hackers are now exploiting critical PHP web bugs",
+   "s": "Federal cybersecurity officials warned that attackers are actively exploiting critical PHP vulnerabilities, urging organizations running affected web software to patch quickly.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+   "u": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
    "tp": "AI & tech",
    "m": [
-    "VNDR",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Ford Fathom will be the cheapest American EV capable of powering a house",
+   "s": "Ford's upcoming Fathom electric truck, priced around $28,000, will be able to act as home backup power, bringing the feature to a much lower price point.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+   "tp": "Companies & deals",
+   "m": [
     "SPEND"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "Japan internet giant GMO says hackers posted stolen customer data",
-   "s": "GMO Internet Group said attackers published customer data taken in a breach, adding to a run of cyberattacks on major Japanese companies.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "t": "Anthropic's IPO needs believers to bridge it to the payoff",
+   "s": "Anthropic's filing shows a fast-growing company with obligations it can't cover without raising more money, leaving its IPO dependent on investor faith in a long-term payoff.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/27/2026/anthropics-ipo-needs-believers-to-bridge-it-to-the-payoff",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "As Anthropic's IPO approaches, CFO Krishna Rao faces a defining test",
+   "s": "Anthropic's finance chief is under close scrutiny as he steers the AI company toward one of the most closely watched public debuts in years.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/as-anthropics-ipo-approaches-cfo-krishna-rao-faces-a-defining-test/",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "JLL CEO on automation, headcount and the skilled trades",
+   "s": "The head of commercial real estate firm JLL discussed how automation is changing staffing decisions and why he pushes back on thinking of workers as 'headcount'.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/jll-ceo-rems-neil-murray-automation-headcount-survey-skilled-trades/",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "US classifies helium as a critical material for semiconductors",
+   "s": "The Energy Department added helium to its list of critical materials for chipmaking after Iran war disruptions tightened supply from Qatar.",
+   "src": "AP",
+   "u": "https://fortune.com/2026/10/27/semiconductors-helium-us-energy-department/",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "s": "The Conference Board's confidence index rebounded this month as a small dip in gasoline prices lifted Americans' outlook.",
+   "src": "AP",
+   "t": "US consumer confidence recovers in October as gas prices ease a bit",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/articles/us-consumer-confidence-recovers-october-140446214.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Economists surveyed by Reuters expect elevated inflation to linger across major economies through 2027, limiting room for rate cuts.",
+   "src": "Reuters",
+   "t": "High inflation to persist globally into next year, Reuters poll shows",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/articles/high-inflation-persist-globally-next-134004984.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Analysts see a firm dollar and high Treasury yields weighing on gold, while steady central-bank buying cushions prices.",
+   "src": "Reuters",
+   "t": "Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/strong-dollar-high-yields-drag-132941149.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "A preview of this week's Fed decision under Chair Kevin Warsh, as hot inflation and oil-price swings collide with midterm politics.",
+   "src": "Euronews",
+   "t": "What to expect from the Fed as Warsh weighs hot inflation, oil and US midterms",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/expect-fed-warsh-weighs-hot-142330101.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "Average US pump prices in Trump's second term have now surpassed the Biden-era average, driven by the oil shock from the Iran war.",
+   "src": "Yahoo Finance",
+   "t": "Gas prices under Trump 2.0 are now higher on average than during Biden's four years",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/article/gas-prices-under-trump-20-are-now-higher-on-average-than-during-bidens-4-years-in-office-141656779.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ],
+   "s": "Apple rolled out updated MacBook Pro and iMac models, extending a fall hardware refresh ahead of the holiday quarter.",
+   "src": "Yahoo Finance",
+   "t": "Apple launches new MacBook Pro and iMac as it continues to refresh product lines",
    "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/article/apple-launches-new-macbook-pro-imac-as-it-continues-to-refresh-product-lines-140344374.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "AI infrastructure startup General Compute closed a $100 million Series A and argues demand for independent GPU clouds remains strong.",
+   "src": "TechCrunch",
+   "t": "General Compute raises $100M Series A, countering the 'neocloud disaster' narrative",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ],
+   "s": "Defense tech firm Anduril and chipmaker Qualcomm unveiled a domestically manufactured laptop aimed at secure government and enterprise use.",
+   "src": "TechCrunch",
+   "t": "Anduril and Qualcomm launch BlueChip, a new kind of US-made laptop",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "GMO Internet Group said attackers published customer data taken in a breach, adding to a run of cyberattacks on major Japanese companies.",
+   "src": "TechCrunch",
+   "t": "Japan internet giant GMO says hackers posted stolen customer data",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
   },
   {
    "d": "2026-10-27",
@@ -401,6 +445,18 @@
   },
   {
    "d": "2026-10-26",
+   "t": "Investors ready for a week of Big Tech earnings and central bank decisions",
+   "s": "Alphabet, Amazon and Microsoft report earnings this week while the Fed, ECB and Bank of Japan all set rates, making it a pivotal stretch for markets.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "AI",
     "BENCH"
@@ -439,17 +495,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "MACRO"
-   ],
-   "s": "U.S. military installations are being told to prepare to run off-grid for three months, reflecting rising concern about energy and infrastructure disruptions.",
-   "src": "Fortune",
-   "t": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "AI",
     "VNDR"
    ],
@@ -470,18 +515,6 @@
    "t": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "SoftBank is considering an AI infrastructure commitment in Malaysia worth roughly a tenth of the country's GDP, the latest sign of data-center capital flowing into Southeast Asia.",
-   "src": "Fortune",
-   "t": "SoftBank weighs a $50 billion AI investment in Malaysia",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/26/softbank-malaysia-50-billion-ai-investment/"
   },
   {
    "d": "2026-10-26",
@@ -659,17 +692,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "VNDR"
-   ],
-   "s": "Apple refreshed its smallest tablet with an OLED screen and a faster chip, a hardware update ahead of the holiday buying season.",
-   "src": "TechCrunch",
-   "t": "Apple unveils iPad mini with OLED display and A20 Pro chip",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "VNDR",
     "SPEND"
    ],
@@ -723,29 +745,6 @@
    "t": "Brussels takes aim at Chinese imports as Europe's industrial crisis deepens",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/economy/policy/articles/brussels-takes-aim-chinese-imports-190000809.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Several fusion energy companies are handing the federal government shares in return for funding awards, raising questions about the trade-off.",
-   "src": "TechCrunch",
-   "t": "Fusion startups are giving the government equity in exchange for awards",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fusion-startups-giving-government-shares-185952182.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic's S-1 lays out how it aims to deepen enterprise lock-in through multi-year commitments and tighter integration with business workflows.",
-   "src": "TechCrunch",
-   "t": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
   },
   {
    "d": "2026-10-26",
@@ -932,42 +931,45 @@
    "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
    "tp": "Markets",
    "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt"
-  },
+  }
+ ],
+ "excl": [
   {
-   "d": "2026-10-26",
+   "d": "2026-10-27",
    "m": [
     "AI",
-    "VNDR"
+    "VNDR",
+    "MACRO"
    ],
-   "s": "Meta plans to raise about $95 billion for its AI buildout, roughly $60 billion of it through the nonvoting share class it created last week.",
-   "src": "Semafor",
-   "t": "Meta announces $95B offering to fund AI",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai"
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
   },
   {
-   "d": "2026-10-26",
+   "d": "2026-10-20",
    "m": [
     "AI",
     "MACRO"
    ],
-   "s": "CNN looks at how the AI trade is distorting market behavior, with unusual moves across stocks and other assets tied to AI enthusiasm and fear.",
-   "src": "CNN Business",
-   "t": "The markets are starting to act seriously weird. Blame AI",
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
    "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/markets-starting-act-seriously-weird-110015358.html"
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
   },
   {
-   "d": "2026-10-26",
+   "d": "2026-10-13",
    "m": [
+    "AI",
     "VNDR"
    ],
-   "s": "Portugal's Galp and Spain's Moeve called off talks to combine their refining and fuel distribution businesses after failing to reach terms.",
-   "src": "Euronews",
-   "t": "Galp and Moeve fail to agree merger of refining and distribution operations",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/energy/articles/galp-moeve-fail-agree-merger-112832328.html"
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
   }
- ],
- "updatedAt": "2026-10-27T10:30"
+ ]
 }
