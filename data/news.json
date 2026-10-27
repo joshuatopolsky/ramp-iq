@@ -1,6 +1,19 @@
 {
   "excl": [
     {
+      "d": "2026-10-27",
+      "t": "The AI earnings scaries",
+      "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+      "src": "Ramp Leading Indicators",
+      "tp": "Markets",
+      "m": [
+        "AI",
+        "VNDR",
+        "MACRO"
+      ],
+      "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+    },
+    {
       "d": "2026-10-20",
       "m": [
         "AI",
@@ -23,18 +36,6 @@
       "t": "AI's pricing power problem",
       "tp": "AI & tech",
       "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-    },
-    {
-      "d": "2026-10-06",
-      "m": [
-        "SPEND",
-        "VNDR"
-      ],
-      "s": "Ramp card and bill-pay data show 13.3% of U.S. healthcare businesses and 10% of finance and insurance firms on Ramp paid a fax-service provider in the first nine months of 2026.",
-      "src": "Ramp Leading Indicators",
-      "t": "Faxing into the future: top industries paying for fax services",
-      "tp": "Companies & deals",
-      "u": "https://ramp.com/leading-indicators/faxing-into-the-future"
     }
   ],
   "items": [
