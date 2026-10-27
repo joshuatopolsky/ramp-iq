@@ -40,16 +40,51 @@
  ],
  "items": [
   {
+   "d": "2026-10-27",
+   "t": "Anthropic's IPO filing lifts stocks across Asia—except for China",
+   "s": "Asian markets rallied on AI enthusiasm after Anthropic's S-1 landed, while mainland Chinese shares lagged amid doubts about the local AI trade.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Sandoz CEO calls for a level playing field against cheap Chinese antibiotics",
+   "s": "The generic-drug maker's chief argues Western supply of essential antibiotics is at risk because low-priced Chinese production has undercut domestic manufacturers.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/life-saving-medicine-sandoz-ceo-cheap-chinese-antibiotics/",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
    "d": "2026-10-26",
-   "t": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "s": "OpenAI repurposed the agent technology behind its coding products into dots, a persistent assistant meant to handle everyday tasks in the background.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-   "tp": "AI & tech",
+   "t": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile",
+   "s": "U.S. military installations are being told to prepare to run off-grid for three months, reflecting rising concern about energy and infrastructure disruptions.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "OpenAI repurposed the agent technology behind its coding products into dots, a persistent assistant meant to handle everyday tasks in the background.",
+   "src": "TechCrunch",
+   "t": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
   },
   {
    "d": "2026-10-26",
@@ -366,18 +401,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "A rising share of new graduates are working jobs that don't require a degree, feeding youth frustration from France to India.",
-   "src": "Fortune",
-   "t": "42% of recent college grads are underemployed",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/26/gen-z-underemployment-riots-france-cockroach-india-rebellion/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "VNDR",
     "SPEND"
    ],
@@ -408,30 +431,6 @@
    "t": "Skydance offers buyouts to some employees to cut costs after Warner Bros merger",
    "tp": "Labor",
    "u": "https://finance.yahoo.com/news/skydance-offers-buyouts-employees-cut-192949017.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Elon Musk said more than 200 AI cloud providers could be wiped out as heavy borrowing to fund the AI buildout turns into a debt squeeze.",
-   "src": "Fortune",
-   "t": "Musk warns most AI 'neoclouds' face a debt-driven shakeout",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/26/elon-musk-ai-boom-debt-neoclouds/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Goldman Sachs economists suggest AI investment's contribution to US GDP growth is close to topping out, while Apollo sees little payoff beyond Big Tech.",
-   "src": "Fortune",
-   "t": "Goldman says AI's boost to US growth may be nearing its peak",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/26/ai-zero-financial-payoff-outside-big-tech-apollo-slok-goldman-peak/"
   },
   {
    "d": "2026-10-26",
@@ -948,14 +947,14 @@
   },
   {
    "d": "2026-10-25",
-   "t": "Weil's troubles mount with key partner's pending departure",
-   "s": "Law firm Weil Gotshal faces another high-profile partner exit on top of earlier departures and a failed merger attempt.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/25/2026/weils-troubles-mount-with-key-partners-pending-departure",
-   "tp": "Companies & deals",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "Law firm Weil Gotshal faces another high-profile partner exit on top of earlier departures and a failed merger attempt.",
+   "src": "Semafor",
+   "t": "Weil's troubles mount with key partner's pending departure",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/25/2026/weils-troubles-mount-with-key-partners-pending-departure"
   },
   {
    "d": "2026-10-25",
@@ -970,5 +969,5 @@
    "u": "https://fortune.com/2026/10/25/us-china-rival-ai-blocs-swing-countries-hedging/"
   }
  ],
- "updatedAt": "2026-10-27T04:51"
+ "updatedAt": "2026-10-27T05:51"
 }
