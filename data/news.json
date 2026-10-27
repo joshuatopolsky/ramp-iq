@@ -41,94 +41,33 @@
  "items": [
   {
    "d": "2026-10-27",
-   "t": "Bond investors are thinking less about the Fed and more about AI, deficits",
-   "s": "Treasury investors are increasingly focused on AI-driven borrowing and swelling government deficits rather than the Fed's next rate move.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/analysis-bond-investors-thinking-less-100442377.html",
-   "tp": "Markets",
+   "t": "Robinhood stock falls on earnings miss despite record trading volumes",
+   "s": "Robinhood shares slid after third-quarter results came in below expectations, even though trading activity on the platform reached a record.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/robinhood-stock-falls-on-earnings-miss-despite-record-trading-volumes-204041177.html",
+   "tp": "Companies & deals",
    "m": [
-    "MACRO",
-    "AI"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Oil falls almost $2 as Middle East talks help ease supply worries",
-   "s": "Crude prices slid as diplomatic efforts in the Middle East eased fears of further supply disruptions.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/oil-eases-middle-east-diplomacy-003711784.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "TNE"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Food and household brands warn of more price hikes as Iran war costs bite",
-   "s": "Consumer goods makers say higher energy and input costs tied to the Iran war will force further price increases.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/articles/food-household-brands-warn-more-182829200.html",
-   "tp": "Supply chain",
-   "m": [
-    "MACRO",
-    "VNDR",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Airlines trade nearly 23% higher ticket prices for emptier planes as jet fuel surges",
-   "s": "Carriers are raising fares sharply and flying fewer passengers as jet fuel costs climb amid the Iran war.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/airlines-nearly-23-prices-empty-jet-fuel-90-iran-war/",
-   "tp": "Energy & trade",
-   "m": [
-    "TNE",
+    "BENCH",
     "MACRO"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "U.S. consumers pay nearly 8x more for fuel than others amid the Iran war",
-   "s": "An analysis finds American drivers are absorbing far larger fuel cost increases than consumers in other countries.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/iran-war-fuel-costs-8x-higher-american-consumers-trump-auto-energy-policy/",
-   "tp": "Energy & trade",
+   "t": "Dollar rises as markets eye central bank meetings",
+   "s": "The dollar firmed as traders positioned ahead of this week's Fed and other central bank rate decisions.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-firms-ahead-central-bank-090655127.html",
+   "tp": "Markets",
    "m": [
-    "MACRO",
-    "TNE"
+    "MACRO"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "Newsom vetoes California smart glasses privacy bill, but says rules are needed",
-   "s": "California's governor rejected lawmakers' smart-glasses privacy bill while agreeing the devices need some regulation.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/gavin-newsom-smart-glasses-privacy-bill-veto/",
-   "tp": "AI & tech",
-   "m": [
-    "AI"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Microsoft and Skydance buyouts signal what's ahead for workers in a 'low-hire' market",
-   "s": "Voluntary buyouts at Microsoft and Skydance highlight how employers are trimming headcount while hiring stays slow.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/economy/article/microsoft-and-skydance-announced-buyouts-what-does-it-mean-for-workers-in-a-low-hire-market-191021868.html",
-   "tp": "Labor",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Google to report Q3 results as investors focus on AI growth and Meta Muse risk",
-   "s": "Alphabet's earnings will be judged on AI-driven cloud growth and competition from Meta's Muse model.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/google-to-report-q3-results-as-investors-focus-on-ai-growth-weigh-meta-muse-ai-risk-191624324.html",
+   "t": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
+   "s": "A walk through the long list of risk factors in Anthropic's S-1, from compute costs to competition and regulation.",
+   "src": "CBS News",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-lists-93-pages-194624369.html",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -137,27 +76,170 @@
   },
   {
    "d": "2026-10-27",
-   "t": "Chicago West Loop office tower with 81% occupancy faces $310M foreclosure",
-   "s": "A largely leased West Loop office building is headed toward foreclosure on a $310 million loan, underscoring commercial real estate strain.",
-   "src": "The Real Deal",
-   "u": "https://finance.yahoo.com/real-estate/articles/west-loop-office-tower-81-193000468.html",
-   "tp": "Economy",
+   "t": "Robinhood taps Ripple's stablecoin, treasury software and trading loans",
+   "s": "Robinhood is adding Ripple's RLUSD stablecoin and treasury tools to its offerings, alongside new loans for traders.",
+   "src": "Decrypt",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/robinhood-taps-ripples-stablecoin-treasury-201602266.html",
+   "tp": "Companies & deals",
    "m": [
-    "MACRO"
+    "SPEND",
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "Diesel is breaking records while gasoline stays cheap",
-   "s": "Diesel prices have hit record highs even as gasoline stays relatively affordable, squeezing trucking costs.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/energy/articles/diesel-breaking-records-while-gasoline-183356385.html",
+   "t": "Re:Build, which spun out Slate Auto, raises $2.1B",
+   "s": "Industrial manufacturing group Re:Build, the company behind EV startup Slate Auto, has closed a $2.1 billion raise.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Manhattan rents hit a record $3,785 a month, outpacing wages",
+   "s": "Median Manhattan rent hit a new high, so renters now need a six-figure income to afford a typical apartment while wage growth lags behind.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/new-york-city-rents-record-high-3785-month-outpaced-wages/",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "What Netflix's layoffs show corporate America is getting wrong",
+   "s": "A commentary arguing that companies cutting staff, Netflix among them, are failing to treat departing workers with dignity.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/netflix-layoffs-corporate-america-getting-wrong-dignity/",
+   "tp": "Labor",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Treasury investors are increasingly focused on AI-driven borrowing and swelling government deficits rather than the Fed's next rate move.",
+   "src": "Reuters",
+   "t": "Bond investors are thinking less about the Fed and more about AI, deficits",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/economy/policy/articles/analysis-bond-investors-thinking-less-100442377.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "Crude prices slid as diplomatic efforts in the Middle East eased fears of further supply disruptions.",
+   "src": "Reuters",
+   "t": "Oil falls almost $2 as Middle East talks help ease supply worries",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/news/oil-eases-middle-east-diplomacy-003711784.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "VNDR",
+    "BENCH"
+   ],
+   "s": "Consumer goods makers say higher energy and input costs tied to the Iran war will force further price increases.",
+   "src": "Reuters",
+   "t": "Food and household brands warn of more price hikes as Iran war costs bite",
    "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/economy/articles/food-household-brands-warn-more-182829200.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "TNE",
+    "MACRO"
+   ],
+   "s": "Carriers are raising fares sharply and flying fewer passengers as jet fuel costs climb amid the Iran war.",
+   "src": "Fortune",
+   "t": "Airlines trade nearly 23% higher ticket prices for emptier planes as jet fuel surges",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/27/airlines-nearly-23-prices-empty-jet-fuel-90-iran-war/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "An analysis finds American drivers are absorbing far larger fuel cost increases than consumers in other countries.",
+   "src": "Fortune",
+   "t": "U.S. consumers pay nearly 8x more for fuel than others amid the Iran war",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/27/iran-war-fuel-costs-8x-higher-american-consumers-trump-auto-energy-policy/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI"
+   ],
+   "s": "California's governor rejected lawmakers' smart-glasses privacy bill while agreeing the devices need some regulation.",
+   "src": "Fortune",
+   "t": "Newsom vetoes California smart glasses privacy bill, but says rules are needed",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/27/gavin-newsom-smart-glasses-privacy-bill-veto/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ],
+   "s": "Voluntary buyouts at Microsoft and Skydance highlight how employers are trimming headcount while hiring stays slow.",
+   "src": "Yahoo Finance",
+   "t": "Microsoft and Skydance buyouts signal what's ahead for workers in a 'low-hire' market",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/economy/article/microsoft-and-skydance-announced-buyouts-what-does-it-mean-for-workers-in-a-low-hire-market-191021868.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Alphabet's earnings will be judged on AI-driven cloud growth and competition from Meta's Muse model.",
+   "src": "Yahoo Finance",
+   "t": "Google to report Q3 results as investors focus on AI growth and Meta Muse risk",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/article/google-to-report-q3-results-as-investors-focus-on-ai-growth-weigh-meta-muse-ai-risk-191624324.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "A largely leased West Loop office building is headed toward foreclosure on a $310 million loan, underscoring commercial real estate strain.",
+   "src": "The Real Deal",
+   "t": "Chicago West Loop office tower with 81% occupancy faces $310M foreclosure",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/real-estate/articles/west-loop-office-tower-81-193000468.html"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "TNE",
     "VNDR",
     "MACRO"
-   ]
+   ],
+   "s": "Diesel prices have hit record highs even as gasoline stays relatively affordable, squeezing trucking costs.",
+   "src": "FreightWaves",
+   "t": "Diesel is breaking records while gasoline stays cheap",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/energy/articles/diesel-breaking-records-while-gasoline-183356385.html"
   },
   {
    "d": "2026-10-27",
@@ -177,9 +259,9 @@
     "MACRO",
     "AI"
    ],
-   "s": "US stocks climbed as investors kept betting on AI ahead of Big Tech results and this week's Federal Reserve meeting.",
+   "s": "U.S. stocks closed higher as renewed enthusiasm for AI names lifted indexes ahead of Big Tech earnings and the Fed decision.",
    "src": "Reuters",
-   "t": "Wall St rises as AI momentum holds heading into key earnings, Fed decision",
+   "t": "Wall Street ends higher on revived AI momentum",
    "tp": "Markets",
    "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html"
   },
@@ -536,18 +618,6 @@
   {
    "d": "2026-10-27",
    "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "The head of commercial real estate firm JLL discussed how automation is changing staffing decisions and why he pushes back on thinking of workers as 'headcount'.",
-   "src": "Fortune",
-   "t": "JLL CEO on automation, headcount and the skilled trades",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/27/jll-ceo-rems-neil-murray-automation-headcount-survey-skilled-trades/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
     "VNDR",
     "MACRO"
    ],
@@ -579,17 +649,6 @@
    "t": "High inflation to persist globally into next year, Reuters poll shows",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/economy/articles/high-inflation-persist-globally-next-134004984.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Analysts see a firm dollar and high Treasury yields weighing on gold, while steady central-bank buying cushions prices.",
-   "src": "Reuters",
-   "t": "Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/strong-dollar-high-yields-drag-132941149.html"
   },
   {
    "d": "2026-10-27",
@@ -699,18 +758,6 @@
   {
    "d": "2026-10-27",
    "m": [
-    "BENCH",
-    "MACRO"
-   ],
-   "s": "SoFi shares rose after results showed its consumer lending business growing faster.",
-   "src": "Yahoo Finance",
-   "t": "SoFi stock jumps as consumer lending boom accelerates",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/article/sofi-stock-jumps-as-consumer-lending-boom-kicks-into-higher-gear-123255774.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
     "VNDR"
    ],
    "s": "Italian app owner Bending Spoons is looking to raise $1.5 billion of debt to keep buying software companies.",
@@ -718,18 +765,6 @@
    "t": "Bending Spoons seeks $1.5 billion in debt to fund acquisitions",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/technology/articles/bending-spoons-seeks-1-5-120129201.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Procter & Gamble's chief is leaning on higher-priced items like premium diapers even as consumers feel the squeeze from inflation.",
-   "src": "Fortune",
-   "t": "P&G's CEO pushes premium-priced products on inflation-weary shoppers",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/27/pg-ceo-shailesh-jejurikar-earnings-inflation-prices-diapers/"
   },
   {
    "d": "2026-10-27",
@@ -753,18 +788,6 @@
    "t": "Anthropic renews a certain kind of AI investors' faith",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-renews-certain-kind-ai-111555972.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Bengaluru-based Simplismart raised a $14 million Series B with Nvidia participating, for software that runs AI models more efficiently on existing GPUs.",
-   "src": "TechCrunch",
-   "t": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
   },
   {
    "d": "2026-10-27",
@@ -949,30 +972,7 @@
    "t": "DoorDash in exclusive talks to acquire Instacart",
    "tp": "Companies & deals",
    "u": "https://www.semafor.com/article/10/26/2026/doordash-in-exclusive-talks-to-acquire-instacart"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "The Postal Service will start adjusting a fuel surcharge weekly in 2027, bringing its shipping pricing in line with private carriers.",
-   "src": "Supply Chain Dive",
-   "t": "USPS to debut weekly fuel fee in 2027, matching FedEx and UPS",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/economy/policy/articles/usps-debut-weekly-fuel-fee-191200863.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The conflict has pushed up liquefied natural gas prices enough to add an estimated $39 billion to global import costs.",
-   "src": "Oilprice.com",
-   "t": "The Iran war just added $39 billion to the world's LNG bill",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/iran-war-just-added-39-180000823.html"
   }
  ],
- "updatedAt": "2026-10-27T15:51"
+ "updatedAt": "2026-10-27T16:52"
 }
