@@ -41,67 +41,56 @@
  "items": [
   {
    "d": "2026-10-27",
-   "t": "New York City rents hit a record $3,785 a month, outpacing wage growth",
-   "s": "Average Manhattan-area rents reached a new high, meaning renters now need a six-figure income to afford a typical apartment.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/new-york-city-rents-record-high-3785-month-outpaced-wages/",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Tech bulls are barely winning their fight against oil bears",
-   "s": "Rising crude prices tied to the Middle East conflict are weighing on markets, leaving tech gains struggling to keep indexes afloat.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/tech-bulls-barely-winning-fight-against-oil-bears-meta/",
-   "tp": "Markets",
-   "m": [
-    "MACRO",
-    "AI"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "US stock futures muted as oil holds near April highs ahead of Fed decision",
-   "s": "Equity futures were flat with crude elevated as investors waited on this week's Federal Reserve rate decision and Big Tech earnings.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html",
-   "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "High Treasury yields spur US banks to rethink bond portfolios",
-   "s": "Elevated yields are prompting banks to weigh whether to hold or sell underwater bond holdings, with implications for lending capacity.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-hold-sell-high-treasury-100456026.html",
-   "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Big Tech goes from crushing the average stock to trailing it",
-   "s": "Megacap tech shares, long market leaders, have recently underperformed the typical S&P 500 stock heading into earnings.",
+   "t": "Coca-Cola raises earnings outlook as North America business slows",
+   "s": "Coke beat third-quarter forecasts and lifted its full-year profit outlook again, while higher fuel and aluminum costs at its bottlers weighed on North American sales.",
    "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/big-tech-just-went-from-crushing-the-average-stock-to-losing-to-it-chart-of-the-day-100000647.html",
-   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/article/coca-cola-raises-earnings-outlook-as-north-america-business-slows-115001447.html",
+   "tp": "Companies & deals",
    "m": [
-    "MACRO",
-    "AI"
+    "BENCH",
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "Anthropic's IPO filing hints AI could face cigarette-level scrutiny",
-   "s": "Disclosures in the prospectus suggest AI developers may come under the kind of regulatory and legal pressure once aimed at tobacco companies.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/anthropics-ipo-filing-shows-how-the-ai-revolution-could-get-cigarette-level-scrutiny-100000855.html",
+   "t": "Boeing posts a $116 million third-quarter loss, missing estimates",
+   "s": "Boeing lost 26 cents a share on $24.19 billion in revenue, short of Wall Street's expectations on both profit and sales.",
+   "src": "AP",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-q3-earnings-snapshot-113935382.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Anthropic renews a certain kind of AI investors' faith",
+   "s": "With bond buyers growing wary of AI's open-ended funding needs, Anthropic and Meta are tapping stock investors instead, and Anthropic's filing has revived enthusiasm for AI shares.",
+   "src": "Axios",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-renews-certain-kind-ai-111555972.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Great Wall Motor to build Ora 5 compact SUV in Bulgaria",
+   "s": "The Chinese automaker will start making the Ora 5 at a Bulgarian plant in early 2027, giving it a first European production base with capacity for 50,000 vehicles a year.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/technology/articles/great-wall-motor-build-ora-113241934.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+   "s": "Bengaluru-based Simplismart raised a $14 million Series B with Nvidia participating, for software that runs AI models more efficiently on existing GPUs.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -110,15 +99,84 @@
   },
   {
    "d": "2026-10-27",
-   "t": "Ripple wins final OCC approval for trust bank behind RLUSD stablecoin",
-   "s": "Federal regulators gave final clearance to the Ripple trust bank that backs its $2.6 billion RLUSD dollar stablecoin.",
-   "src": "Decrypt",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ripple-wins-final-occ-approval-101646891.html",
-   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Average Manhattan-area rents reached a new high, meaning renters now need a six-figure income to afford a typical apartment.",
+   "src": "Fortune",
+   "t": "New York City rents hit a record $3,785 a month, outpacing wage growth",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/27/new-york-city-rents-record-high-3785-month-outpaced-wages/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Rising crude prices tied to the Middle East conflict are weighing on markets, leaving tech gains struggling to keep indexes afloat.",
+   "src": "Fortune",
+   "t": "Tech bulls are barely winning their fight against oil bears",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/10/27/tech-bulls-barely-winning-fight-against-oil-bears-meta/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Equity futures edged higher as crude extended its slide, with investors watching earnings and a Fed decision expected to hold rates while markets price in more hikes amid elevated inflation.",
+   "src": "Reuters",
+   "t": "US stock futures gain as oil pulls back ahead of Fed decision",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Elevated yields are prompting banks to weigh whether to hold or sell underwater bond holdings, with implications for lending capacity.",
+   "src": "Reuters",
+   "t": "High Treasury yields spur US banks to rethink bond portfolios",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-hold-sell-high-treasury-100456026.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Megacap tech shares, long market leaders, have recently underperformed the typical S&P 500 stock heading into earnings.",
+   "src": "Yahoo Finance",
+   "t": "Big Tech goes from crushing the average stock to trailing it",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/article/big-tech-just-went-from-crushing-the-average-stock-to-losing-to-it-chart-of-the-day-100000647.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Disclosures in the prospectus suggest AI developers may come under the kind of regulatory and legal pressure once aimed at tobacco companies.",
+   "src": "Yahoo Finance",
+   "t": "Anthropic's IPO filing hints AI could face cigarette-level scrutiny",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/article/anthropics-ipo-filing-shows-how-the-ai-revolution-could-get-cigarette-level-scrutiny-100000855.html"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "SPEND",
     "MACRO"
-   ]
+   ],
+   "s": "Federal regulators gave final clearance to the Ripple trust bank that backs its $2.6 billion RLUSD dollar stablecoin.",
+   "src": "Decrypt",
+   "t": "Ripple wins final OCC approval for trust bank behind RLUSD stablecoin",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ripple-wins-final-occ-approval-101646891.html"
   },
   {
    "d": "2026-10-27",
@@ -146,16 +204,16 @@
   },
   {
    "d": "2026-10-26",
-   "t": "Gas and diesel prices climb amid the Iran war, with diesel topping $6 a gallon",
-   "s": "Fuel costs are rising at the pump as the conflict disrupts supply, pushing diesel past $6 and raising costs for freight-heavy businesses.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE",
     "SPEND"
-   ]
+   ],
+   "s": "Fuel costs are rising at the pump as the conflict disrupts supply, pushing diesel past $6 and raising costs for freight-heavy businesses.",
+   "src": "Fortune",
+   "t": "Gas and diesel prices climb amid the Iran war, with diesel topping $6 a gallon",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/"
   },
   {
    "d": "2026-10-26",
@@ -484,17 +542,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "BENCH"
-   ],
-   "s": "Skydance is offering voluntary buyouts to part of its workforce as it looks for savings following its combination with Warner Bros.",
-   "src": "Reuters",
-   "t": "Skydance offers buyouts to some employees to cut costs after Warner Bros merger",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/news/skydance-offers-buyouts-employees-cut-192949017.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "MACRO"
    ],
    "s": "FICO shares slid after FHFA director Bill Pulte promised further steps to open mortgage credit scoring to competing providers.",
@@ -797,18 +844,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "The prospectus shows Anthropic has committed roughly $430 billion to future compute contracts, underscoring the scale of AI infrastructure spending.",
-   "src": "Yahoo Finance",
-   "t": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/markets/article/anthropics-ipo-filing-reveals-430-billion-in-locked-in-ai-computing-chart-of-the-day-134457635.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "MACRO"
    ],
    "s": "Germany's business sentiment improved this month even as energy prices and trade tensions cloud the outlook.",
@@ -933,42 +968,7 @@
    "t": "Meta's $42 billion in penalties is a warning for AI companies",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/ai/articles/metas-42b-penalties-warning-ai-092006335.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "CNN compares pump prices across administrations and finds drivers now paying more than during the Biden years.",
-   "src": "CNN Business",
-   "t": "Gas prices are higher under Trump's second term than under Biden",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/gas-under-trump-2-0-100015672.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Crude prices fell sharply as signs of progress in talks with Iran eased fears of supply disruption.",
-   "src": "Euronews",
-   "t": "Oil plunges more than 6% from near-wartime highs as Iran diplomacy advances",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/oil-plunges-more-6-near-102341241.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "European gas benchmarks hit their highest level in four years as supply concerns build before the heating season.",
-   "src": "Oilprice.com",
-   "t": "Europe's natural gas prices climb to a four-year high ahead of winter",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/europes-natural-gas-prices-soar-093000934.html"
   }
  ],
- "updatedAt": "2026-10-27T06:51"
+ "updatedAt": "2026-10-27T07:59"
 }
