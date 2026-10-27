@@ -41,11 +41,58 @@
  "items": [
   {
    "d": "2026-10-27",
-   "t": "FTC moves to block Cintas's $5 billion bid for UniFirst",
-   "s": "FTC staff have told uniform giant Cintas the agency intends to sue to block its roughly $5 billion takeover of rival UniFirst over market-share concerns, though no final vote has been taken.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/27/2026/ftc-flexes-its-muscles-on-5-billion-uniform-deal",
+   "t": "Kalshi expands safeguards for young traders on its prediction market",
+   "s": "Prediction market Kalshi is adding protections aimed at younger users as scrutiny of the betting-adjacent sector grows.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/options/articles/prediction-market-kalshi-expands-safeguards-160338556.html",
    "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Microsoft heads into Q1 earnings with Wall Street watching Azure growth",
+   "s": "Investors want continued acceleration in Microsoft's Azure cloud unit to justify its heavy AI spending when it reports this week.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/technology/article/microsoft-to-report-q1-earnings-with-wall-street-looking-for-further-azure-growth-160835128.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Anthropic's IPO could start trading as soon as Nov. 16",
+   "s": "A walkthrough of the steps between Anthropic's S-1 filing and a possible first trading day in mid-November.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/anthropics-ipo-could-start-trading-as-soon-as-nov-16--heres-the-road-from-filing-to-first-trade-155405578.html",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "UPS gears up for peak season with less Amazon volume",
+   "s": "UPS is heading into the holiday shipping rush carrying a smaller share of Amazon parcels after deliberately shrinking that business.",
+   "src": "Supply Chain Dive",
+   "u": "https://finance.yahoo.com/small-business/articles/ups-gears-peak-season-less-160600550.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Knight-Swift CEO says CDL crackdown could fuel a lasting trucking recovery",
+   "s": "Knight-Swift's chief argues tighter enforcement of commercial driver's licenses will cut capacity and support freight rates.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/small-business/articles/knight-swift-ceo-says-cdl-155736809.html",
+   "tp": "Supply chain",
    "m": [
     "VNDR",
     "MACRO"
@@ -53,58 +100,21 @@
   },
   {
    "d": "2026-10-27",
-   "t": "Microsoft's buyout offer shows which tech jobs matter",
-   "s": "Microsoft's buyout offer skips data center, cybersecurity, quantum, sales and marketing staff, signaling which roles the company sees as critical in the AI era.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter",
-   "tp": "Labor",
+   "t": "Target overhauls its Threshold home goods brand",
+   "s": "Target is revamping its in-house Threshold home line as it tries to revive sluggish discretionary sales.",
+   "src": "Retail Dive",
+   "u": "https://finance.yahoo.com/small-business/articles/target-overhauls-threshold-home-goods-154300855.html",
+   "tp": "Companies & deals",
    "m": [
-    "AI",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "FTC and 20 states sue Dollar General over alleged overcharging",
-   "s": "Federal and state regulators accuse the discount chain of charging shoppers more at the register than its posted shelf prices.",
-   "src": "USA TODAY",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ftc-20-states-sue-dollar-152127038.html",
-   "tp": "Companies & deals",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Oracle adds AI chips from Google, Cerebras and SambaNova to cut reliance on Nvidia",
-   "s": "Oracle is broadening the accelerators in its cloud beyond Nvidia, adding chips from Google, Cerebras and SambaNova to diversify AI compute supply.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "JetBlue stock rises despite third-quarter loss as demand stays resilient",
-   "s": "JetBlue posted another quarterly loss, but shares rose as the airline said travel demand remains resilient heading into the holidays.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/article/jetblue-stock-rises-despite-q3-loss-as-demand-remains-resilient-152550071.html",
-   "tp": "Companies & deals",
-   "m": [
-    "TNE",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "US new home sales fall in September as median price drops",
-   "s": "Sales of newly built US homes declined in September and the median sale price fell from a year earlier as high mortgage rates weighed on buyers.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/real-estate/articles/us-home-sales-fall-september-150007094.html",
+   "t": "Uber cofounder Travis Kalanick moved to Texas ahead of California's proposed billionaire tax",
+   "s": "Kalanick relocated before January, a move that could spare him an estimated $180 million under California's proposed wealth levy.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/billionaire-uber-cofounder-travis-kalanick-moved-to-texas-prior-to-january-dodging-180-million-hit-from-californias-billionaire-tax/",
    "tp": "Economy",
    "m": [
     "MACRO"
@@ -112,50 +122,132 @@
   },
   {
    "d": "2026-10-27",
-   "t": "Britain pays its highest five-year borrowing rate since 2008",
-   "s": "The UK government paid the steepest yield on five-year debt in nearly two decades at auction, underscoring pressure from elevated global bond yields.",
-   "src": "The Telegraph",
-   "u": "https://finance.yahoo.com/economy/policy/articles/britain-pays-highest-five-borrowing-144603107.html",
-   "tp": "Markets",
+   "t": "Some owners report Apple's $1,999 iPhone Duo foldable screens cracking",
+   "s": "Early buyers of Apple's first foldable say displays are cracking quickly, with the hinge suspected as the cause.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/27/apple-iphone-duo-foldable-screen-cracking-hinge/",
+   "tp": "AI & tech",
    "m": [
-    "MACRO"
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "EY UK partners take home a record £870,000 each after job cuts",
-   "s": "Average partner pay at EY's UK arm hit a record after the firm trimmed staff, highlighting how cost cuts are flowing to the top at professional-services firms.",
-   "src": "The Telegraph",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ey-partners-net-record-870-144922174.html",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "FTC staff have told uniform giant Cintas the agency intends to sue to block its roughly $5 billion takeover of rival UniFirst over market-share concerns, though no final vote has been taken.",
+   "src": "Semafor",
+   "t": "FTC moves to block Cintas's $5 billion bid for UniFirst",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/27/2026/ftc-flexes-its-muscles-on-5-billion-uniform-deal"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "Microsoft's buyout offer skips data center, cybersecurity, quantum, sales and marketing staff, signaling which roles the company sees as critical in the AI era.",
+   "src": "Semafor",
+   "t": "Microsoft's buyout offer shows which tech jobs matter",
    "tp": "Labor",
+   "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "s": "Federal and state regulators accuse the discount chain of charging shoppers more at the register than its posted shelf prices.",
+   "src": "USA TODAY",
+   "t": "FTC and 20 states sue Dollar General over alleged overcharging",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ftc-20-states-sue-dollar-152127038.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Oracle is broadening the accelerators in its cloud beyond Nvidia, adding chips from Google, Cerebras and SambaNova to diversify AI compute supply.",
+   "src": "Yahoo Finance",
+   "t": "Oracle adds AI chips from Google, Cerebras and SambaNova to cut reliance on Nvidia",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "TNE",
+    "BENCH"
+   ],
+   "s": "JetBlue posted another quarterly loss, but shares rose as the airline said travel demand remains resilient heading into the holidays.",
+   "src": "Yahoo Finance",
+   "t": "JetBlue stock rises despite third-quarter loss as demand stays resilient",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/article/jetblue-stock-rises-despite-q3-loss-as-demand-remains-resilient-152550071.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Sales of newly built US homes declined in September and the median sale price fell from a year earlier as high mortgage rates weighed on buyers.",
+   "src": "Reuters",
+   "t": "US new home sales fall in September as median price drops",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/real-estate/articles/us-home-sales-fall-september-150007094.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The UK government paid the steepest yield on five-year debt in nearly two decades at auction, underscoring pressure from elevated global bond yields.",
+   "src": "The Telegraph",
+   "t": "Britain pays its highest five-year borrowing rate since 2008",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/economy/policy/articles/britain-pays-highest-five-borrowing-144603107.html"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "BENCH",
     "VNDR"
-   ]
+   ],
+   "s": "Average partner pay at EY's UK arm hit a record after the firm trimmed staff, highlighting how cost cuts are flowing to the top at professional-services firms.",
+   "src": "The Telegraph",
+   "t": "EY UK partners take home a record £870,000 each after job cuts",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ey-partners-net-record-870-144922174.html"
   },
   {
    "d": "2026-10-27",
-   "t": "US business school applications drop about 25% as entry-level job market weakens",
-   "s": "GMAC data show US MBA applications falling sharply as Gen Z questions the value of graduate degrees amid AI's impact on entry-level hiring.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/business-school-applications-decline-gen-z-question-degrees-gmac-data-ai-impact-entry-level-job-market/",
-   "tp": "Labor",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "GMAC data show US MBA applications falling sharply as Gen Z questions the value of graduate degrees amid AI's impact on entry-level hiring.",
+   "src": "Fortune",
+   "t": "US business school applications drop about 25% as entry-level job market weakens",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/27/business-school-applications-decline-gen-z-question-degrees-gmac-data-ai-impact-entry-level-job-market/"
   },
   {
    "d": "2026-10-27",
-   "t": "What Anthropic's S-1 reveals about its finances and a massive liability",
-   "s": "Fortune breaks down the revenue, losses and a large liability disclosed in Anthropic's IPO filing ahead of its expected November debut.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/anthropic-s1-ipo-filing-financials-profits/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Fortune breaks down the revenue, losses and a large liability disclosed in Anthropic's IPO filing ahead of its expected November debut.",
+   "src": "Fortune",
+   "t": "What Anthropic's S-1 reveals about its finances and a massive liability",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/27/anthropic-s1-ipo-filing-financials-profits/"
   },
   {
    "d": "2026-10-27",
@@ -554,18 +646,6 @@
   {
    "d": "2026-10-27",
    "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Disclosures in the prospectus suggest AI developers may come under the kind of regulatory and legal pressure once aimed at tobacco companies.",
-   "src": "Yahoo Finance",
-   "t": "Anthropic's IPO filing hints AI could face cigarette-level scrutiny",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/article/anthropics-ipo-filing-shows-how-the-ai-revolution-could-get-cigarette-level-scrutiny-100000855.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
     "SPEND",
     "MACRO"
    ],
@@ -588,28 +668,28 @@
    "u": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
   },
   {
-   "d": "2026-10-27",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "The generic-drug maker's chief argues Western supply of essential antibiotics is at risk because low-priced Chinese production has undercut domestic manufacturers.",
-   "src": "Fortune",
-   "t": "Sandoz CEO calls for a level playing field against cheap Chinese antibiotics",
-   "tp": "Supply chain",
-   "u": "https://fortune.com/2026/10/27/life-saving-medicine-sandoz-ceo-cheap-chinese-antibiotics/"
-  },
-  {
    "d": "2026-10-26",
-   "t": "Meta announces $95 billion stock offering to fund AI buildout",
-   "s": "Meta is issuing new shares for the first time since 2013, mostly nonvoting stock, to pay for AI infrastructure without diluting Mark Zuckerberg's control.",
+   "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
+   "s": "SpaceX's latest private credit deal priced as high as 8.75%, well above its earlier 6.65% bonds, as lenders demand more for AI-linked risk.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai",
-   "tp": "AI & tech",
+   "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt",
+   "tp": "Markets",
    "m": [
     "AI",
     "MACRO"
    ]
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Meta is issuing new shares for the first time since 2013, mostly nonvoting stock, to pay for AI infrastructure without diluting Mark Zuckerberg's control.",
+   "src": "Semafor",
+   "t": "Meta announces $95 billion stock offering to fund AI buildout",
+   "tp": "AI & tech",
+   "u": "https://www.semafor.com/article/10/26/2026/meta-announces-95b-offering-to-fund-ai"
   },
   {
    "d": "2026-10-26",
@@ -622,18 +702,6 @@
    "t": "Investors ready for a week of Big Tech earnings and central bank decisions",
    "tp": "Markets",
    "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Microsoft is offering voluntary buyouts to close to a third of employees as it reorganizes around AI.",
-   "src": "Fortune",
-   "t": "Microsoft offers buyouts to nearly 30% of its workforce amid AI shift",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/"
   },
   {
    "d": "2026-10-26",
@@ -670,17 +738,6 @@
    "t": "Oil eases on Middle East diplomacy hopes as Saudi attacks keep supply worries alive",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/news/oil-eases-middle-east-diplomacy-003711784.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Brazilian assets sold off sharply after President Lula's reelection, with investors repricing fiscal and policy risk in Latin America's largest economy.",
-   "src": "Reuters",
-   "t": "Brazil stocks and the real tumble as Lula win shifts investor focus",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html"
   },
   {
    "d": "2026-10-26",
@@ -761,18 +818,6 @@
    "t": "Asia needs $1 trillion a year to avoid the next energy shock",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/asia-needs-1-trillion-avoid-210000746.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Ahead of Alphabet's results, analysts argue cloud growth may justify its heavy AI capex where peers face tougher questions.",
-   "src": "Yahoo Finance",
-   "t": "Why Google might avoid an earnings 'reckoning' this week",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/article/why-google-might-avoid-an-earnings-reckoning-this-week-210350868.html"
   },
   {
    "d": "2026-10-26",
@@ -923,53 +968,7 @@
    "t": "Warren urges Fed, OCC and FDIC to restore bank examiner powers",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-fed-occ-fdic-161735509.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Apollo is buying a minority stake in Mubadala's alternative-asset arm and committing $5 billion across its strategies, showing that Wall Street still treats Gulf capital as central.",
-   "src": "Semafor",
-   "t": "Apollo takes stake in Abu Dhabi's Mubadala Capital",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/26/2026/apollo-takes-stake-in-abu-dhabis-mubadala-capital"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic's S-1 lays out an unusual list of risk factors, from regulatory hostility to the dangers of the technology itself, giving investors a rare look at frontier-lab exposure.",
-   "src": "Axios",
-   "t": "Anthropic's IPO outlines AI's extraordinary risks",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-outlines-ais-extraordinary-135248152.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Marketing holding company Stagwell is buying Freestar, a programmatic ad platform for publishers, extending its push into ad tech.",
-   "src": "Axios",
-   "t": "Stagwell acquires publisher ad tech company Freestar",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/media-advertising/articles/stagwell-acquires-publisher-ad-tech-143026010.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "Verizon raised its full-year guidance and announced a multi-billion-dollar agreement with Amazon, signaling steadier telecom demand.",
-   "src": "The Wall Street Journal",
-   "t": "Verizon lifts outlook, inks Amazon deal worth more than $2 billion",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/technology/articles/verizon-lifts-outlook-inks-amazon-111300927.html"
   }
  ],
- "updatedAt": "2026-10-27T12:15"
+ "updatedAt": "2026-10-27T12:51"
 }
