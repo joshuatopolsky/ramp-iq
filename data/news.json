@@ -41,38 +41,132 @@
  "items": [
   {
    "d": "2026-10-27",
-   "t": "Anthropic's IPO filing lifts stocks across Asia—except for China",
-   "s": "Asian markets rallied on AI enthusiasm after Anthropic's S-1 landed, while mainland Chinese shares lagged amid doubts about the local AI trade.",
+   "t": "New York City rents hit a record $3,785 a month, outpacing wage growth",
+   "s": "Average Manhattan-area rents reached a new high, meaning renters now need a six-figure income to afford a typical apartment.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/",
-   "tp": "Markets",
+   "u": "https://fortune.com/2026/10/27/new-york-city-rents-record-high-3785-month-outpaced-wages/",
+   "tp": "Economy",
    "m": [
-    "AI",
     "MACRO"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "Sandoz CEO calls for a level playing field against cheap Chinese antibiotics",
-   "s": "The generic-drug maker's chief argues Western supply of essential antibiotics is at risk because low-priced Chinese production has undercut domestic manufacturers.",
+   "t": "Tech bulls are barely winning their fight against oil bears",
+   "s": "Rising crude prices tied to the Middle East conflict are weighing on markets, leaving tech gains struggling to keep indexes afloat.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/life-saving-medicine-sandoz-ceo-cheap-chinese-antibiotics/",
-   "tp": "Supply chain",
+   "u": "https://fortune.com/2026/10/27/tech-bulls-barely-winning-fight-against-oil-bears-meta/",
+   "tp": "Markets",
    "m": [
-    "VNDR",
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "US stock futures muted as oil holds near April highs ahead of Fed decision",
+   "s": "Equity futures were flat with crude elevated as investors waited on this week's Federal Reserve rate decision and Big Tech earnings.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html",
+   "tp": "Markets",
+   "m": [
     "MACRO"
    ]
   },
   {
-   "d": "2026-10-26",
-   "t": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile",
-   "s": "U.S. military installations are being told to prepare to run off-grid for three months, reflecting rising concern about energy and infrastructure disruptions.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/",
-   "tp": "Energy & trade",
+   "d": "2026-10-27",
+   "t": "High Treasury yields spur US banks to rethink bond portfolios",
+   "s": "Elevated yields are prompting banks to weigh whether to hold or sell underwater bond holdings, with implications for lending capacity.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-hold-sell-high-treasury-100456026.html",
+   "tp": "Markets",
    "m": [
     "MACRO"
    ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Big Tech goes from crushing the average stock to trailing it",
+   "s": "Megacap tech shares, long market leaders, have recently underperformed the typical S&P 500 stock heading into earnings.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/big-tech-just-went-from-crushing-the-average-stock-to-losing-to-it-chart-of-the-day-100000647.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Anthropic's IPO filing hints AI could face cigarette-level scrutiny",
+   "s": "Disclosures in the prospectus suggest AI developers may come under the kind of regulatory and legal pressure once aimed at tobacco companies.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/technology/article/anthropics-ipo-filing-shows-how-the-ai-revolution-could-get-cigarette-level-scrutiny-100000855.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Ripple wins final OCC approval for trust bank behind RLUSD stablecoin",
+   "s": "Federal regulators gave final clearance to the Ripple trust bank that backs its $2.6 billion RLUSD dollar stablecoin.",
+   "src": "Decrypt",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ripple-wins-final-occ-approval-101646891.html",
+   "tp": "Companies & deals",
+   "m": [
+    "SPEND",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Asian markets rallied on AI enthusiasm after Anthropic's S-1 landed, while mainland Chinese shares lagged amid doubts about the local AI trade.",
+   "src": "Fortune",
+   "t": "Anthropic's IPO filing lifts stocks across Asia—except for China",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "The generic-drug maker's chief argues Western supply of essential antibiotics is at risk because low-priced Chinese production has undercut domestic manufacturers.",
+   "src": "Fortune",
+   "t": "Sandoz CEO calls for a level playing field against cheap Chinese antibiotics",
+   "tp": "Supply chain",
+   "u": "https://fortune.com/2026/10/27/life-saving-medicine-sandoz-ceo-cheap-chinese-antibiotics/"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Gas and diesel prices climb amid the Iran war, with diesel topping $6 a gallon",
+   "s": "Fuel costs are rising at the pump as the conflict disrupts supply, pushing diesel past $6 and raising costs for freight-heavy businesses.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/26/trump-iran-war-gas-diesel-prices/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "m": [
+    "MACRO"
+   ],
+   "s": "U.S. military installations are being told to prepare to run off-grid for three months, reflecting rising concern about energy and infrastructure disruptions.",
+   "src": "Fortune",
+   "t": "Pentagon orders bases to plan for 90 days without the grid as Britain urges families to stockpile",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/"
   },
   {
    "d": "2026-10-26",
@@ -332,17 +426,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "AI"
-   ],
-   "s": "Each of the seven cofounders holds a near-equal stake that could double in value on listing, and they have pledged to give most of it away.",
-   "src": "Fortune",
-   "t": "Anthropic's cofounders are each worth about $14 billion before the IPO",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/26/anthropic-ipo-cofounders-how-rich-billionaires-philanthropy-amodei/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "AI",
     "VNDR"
    ],
@@ -351,29 +434,6 @@
    "t": "Anthropic IPO filing discloses first-of-its-kind governance structure",
    "tp": "AI & tech",
    "u": "https://www.semafor.com/article/10/26/2026/anthropic-ipo-filing-discloses-first-of-its-kind-governance-structure"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Shipments under a 300,000-ton lower-tariff beef import quota meant to ease grocery costs have fallen well short, leaving beef prices elevated.",
-   "src": "Fortune",
-   "t": "Trump's promised cheaper beef imports are lagging as prices stay high",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/26/beef-imports-reduced-tariffs-falling-short-beef-prices/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "With the SEC down to a single sitting commissioner, rules and actions can now move forward without debate or public dissent, raising governance concerns.",
-   "src": "Fortune",
-   "t": "A one-person quorum at the SEC: no discussion, no dissent, no disclosure",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/26/sec-one-person-quorum-rule-commissioner-disclosure/"
   },
   {
    "d": "2026-10-26",
@@ -503,17 +563,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "MACRO"
-   ],
-   "s": "European shares recovered as upbeat company results improved sentiment ahead of a week of central bank decisions.",
-   "src": "Reuters",
-   "t": "European stocks rebound as corporate optimism lifts mood ahead of rate decisions",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-rebound-investors-eye-110029980.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "AI",
     "VNDR"
    ],
@@ -605,18 +654,6 @@
    "t": "Microsoft offers voluntary buyouts to about 60,000 employees",
    "tp": "Labor",
    "u": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "A Reuters analysis argues that Chinese AI valuations and spending have already deflated, offering a possible preview for the US trade.",
-   "src": "Reuters",
-   "t": "Analysis: In China, the AI bubble has already burst",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html"
   },
   {
    "d": "2026-10-26",
@@ -924,19 +961,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "MACRO",
-    "AI",
-    "VNDR"
-   ],
-   "s": "A preview of a week packed with Big Tech earnings and a Fed decision as investors weigh AI spending worries.",
-   "src": "Yahoo Finance",
-   "t": "Google, Microsoft, Amazon and the Fed step up to a skittish market",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/article/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "MACRO"
    ],
    "s": "European gas benchmarks hit their highest level in four years as supply concerns build before the heating season.",
@@ -944,30 +968,7 @@
    "t": "Europe's natural gas prices climb to a four-year high ahead of winter",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/europes-natural-gas-prices-soar-093000934.html"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Law firm Weil Gotshal faces another high-profile partner exit on top of earlier departures and a failed merger attempt.",
-   "src": "Semafor",
-   "t": "Weil's troubles mount with key partner's pending departure",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/25/2026/weils-troubles-mount-with-key-partners-pending-departure"
-  },
-  {
-   "d": "2026-10-25",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Countries caught between American and Chinese AI ecosystems are using their position to extract better terms from both sides.",
-   "src": "AP",
-   "t": "'Everyone is hedging': swing countries gain leverage as U.S. and China split the world into AI blocs",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/25/us-china-rival-ai-blocs-swing-countries-hedging/"
   }
  ],
- "updatedAt": "2026-10-27T05:51"
+ "updatedAt": "2026-10-27T06:51"
 }
