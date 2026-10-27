@@ -40,96 +40,202 @@
  ],
  "items": [
   {
-   "d": "2026-10-27",
-   "t": "Kalshi expands safeguards for young traders on its prediction market",
-   "s": "Prediction market Kalshi is adding protections aimed at younger users as scrutiny of the betting-adjacent sector grows.",
+   "t": "GM plans to offer hybrid SUVs in strategic pivot",
+   "s": "General Motors is preparing to add hybrid powertrains to its SUV lineup, a shift from its all-in EV strategy as electric demand cools.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/options/articles/prediction-market-kalshi-expands-safeguards-160338556.html",
+   "u": "https://finance.yahoo.com/technology/articles/exclusive-gm-plans-offer-hybrid-171953743.html",
    "tp": "Companies & deals",
    "m": [
-    "VNDR"
-   ]
+    "VNDR",
+    "MACRO"
+   ],
+   "d": "2026-10-27"
   },
   {
-   "d": "2026-10-27",
-   "t": "Microsoft heads into Q1 earnings with Wall Street watching Azure growth",
-   "s": "Investors want continued acceleration in Microsoft's Azure cloud unit to justify its heavy AI spending when it reports this week.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/microsoft-to-report-q1-earnings-with-wall-street-looking-for-further-azure-growth-160835128.html",
+   "t": "Wall St rises as AI momentum holds heading into key earnings, Fed decision",
+   "s": "US stocks climbed as investors kept betting on AI ahead of Big Tech results and this week's Federal Reserve meeting.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Higher tariffs on Canadian imports would be 'catastrophic,' Honda exec says",
+   "s": "A Honda executive warned that raising US tariffs on vehicles and parts from Canada would badly hurt its North American production network.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/higher-tariffs-canadian-imports-catastrophic-165356387.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Disruptive raises $10 billion for first formal fund",
+   "s": "Growth investor Disruptive closed a $10 billion debut fund, a sign that big money is still flowing to late-stage tech bets.",
+   "src": "Axios",
+   "u": "https://finance.yahoo.com/small-business/articles/disruptive-raises-10-billion-first-172902251.html",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "PNC CEO: AI will change the M&A landscape",
+   "s": "PNC's chief executive said AI will reshape bank dealmaking by changing how acquisitions are evaluated and integrated.",
+   "src": "Banking Dive",
+   "u": "https://finance.yahoo.com/technology/ai/articles/pnc-ceo-ai-change-m-162806338.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Oil markets brace for a new Iran escalation after US midterms",
+   "s": "Traders are pricing the risk that tensions with Iran intensify after the midterm elections, which could tighten crude supply again.",
+   "src": "Oilprice.com",
+   "u": "https://finance.yahoo.com/energy/articles/oil-markets-brace-iran-escalation-163735393.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Frontier AI labs say their models refuted the Exponential Time Hypothesis",
+   "s": "Leading AI labs claim their models produced a result overturning a major conjecture in computer science, and researchers are weighing what it means.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ],
+   "d": "2026-10-27"
+  },
+  {
+   "t": "Google's Genie 4 world model adds audio, more realistic worlds and real-time steering",
+   "s": "Google's latest world-generation model adds sound and lets users steer simulated environments as they run.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
    "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "d": "2026-10-27"
   },
   {
-   "d": "2026-10-27",
-   "t": "Anthropic's IPO could start trading as soon as Nov. 16",
-   "s": "A walkthrough of the steps between Anthropic's S-1 filing and a possible first trading day in mid-November.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/anthropics-ipo-could-start-trading-as-soon-as-nov-16--heres-the-road-from-filing-to-first-trade-155405578.html",
-   "tp": "Markets",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "UPS gears up for peak season with less Amazon volume",
-   "s": "UPS is heading into the holiday shipping rush carrying a smaller share of Amazon parcels after deliberately shrinking that business.",
-   "src": "Supply Chain Dive",
-   "u": "https://finance.yahoo.com/small-business/articles/ups-gears-peak-season-less-160600550.html",
-   "tp": "Supply chain",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Knight-Swift CEO says CDL crackdown could fuel a lasting trucking recovery",
-   "s": "Knight-Swift's chief argues tighter enforcement of commercial driver's licenses will cut capacity and support freight rates.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/small-business/articles/knight-swift-ceo-says-cdl-155736809.html",
-   "tp": "Supply chain",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Target overhauls its Threshold home goods brand",
-   "s": "Target is revamping its in-house Threshold home line as it tries to revive sluggish discretionary sales.",
-   "src": "Retail Dive",
-   "u": "https://finance.yahoo.com/small-business/articles/target-overhauls-threshold-home-goods-154300855.html",
-   "tp": "Companies & deals",
-   "m": [
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Uber cofounder Travis Kalanick moved to Texas ahead of California's proposed billionaire tax",
-   "s": "Kalanick relocated before January, a move that could spare him an estimated $180 million under California's proposed wealth levy.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/billionaire-uber-cofounder-travis-kalanick-moved-to-texas-prior-to-january-dodging-180-million-hit-from-californias-billionaire-tax/",
+   "t": "Billionaire Palmer Luckey isn't leaving California over the wealth tax",
+   "s": "The Anduril founder says he will stay in California despite a proposed billionaire tax that has pushed other tech figures to move.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
    "tp": "Economy",
    "m": [
     "MACRO"
-   ]
+   ],
+   "d": "2026-10-27"
   },
   {
    "d": "2026-10-27",
-   "t": "Some owners report Apple's $1,999 iPhone Duo foldable screens cracking",
-   "s": "Early buyers of Apple's first foldable say displays are cracking quickly, with the hinge suspected as the cause.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/apple-iphone-duo-foldable-screen-cracking-hinge/",
-   "tp": "AI & tech",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "Prediction market Kalshi is adding protections aimed at younger users as scrutiny of the betting-adjacent sector grows.",
+   "src": "Reuters",
+   "t": "Kalshi expands safeguards for young traders on its prediction market",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/options/articles/prediction-market-kalshi-expands-safeguards-160338556.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Investors want continued acceleration in Microsoft's Azure cloud unit to justify its heavy AI spending when it reports this week.",
+   "src": "Yahoo Finance",
+   "t": "Microsoft heads into Q1 earnings with Wall Street watching Azure growth",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/article/microsoft-to-report-q1-earnings-with-wall-street-looking-for-further-azure-growth-160835128.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "A walkthrough of the steps between Anthropic's S-1 filing and a possible first trading day in mid-November.",
+   "src": "Yahoo Finance",
+   "t": "Anthropic's IPO could start trading as soon as Nov. 16",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/article/anthropics-ipo-could-start-trading-as-soon-as-nov-16--heres-the-road-from-filing-to-first-trade-155405578.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ],
+   "s": "UPS is heading into the holiday shipping rush carrying a smaller share of Amazon parcels after deliberately shrinking that business.",
+   "src": "Supply Chain Dive",
+   "t": "UPS gears up for peak season with less Amazon volume",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/small-business/articles/ups-gears-peak-season-less-160600550.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Knight-Swift's chief argues tighter enforcement of commercial driver's licenses will cut capacity and support freight rates.",
+   "src": "FreightWaves",
+   "t": "Knight-Swift CEO says CDL crackdown could fuel a lasting trucking recovery",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/small-business/articles/knight-swift-ceo-says-cdl-155736809.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Target is revamping its in-house Threshold home line as it tries to revive sluggish discretionary sales.",
+   "src": "Retail Dive",
+   "t": "Target overhauls its Threshold home goods brand",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/small-business/articles/target-overhauls-threshold-home-goods-154300855.html"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Kalanick relocated before January, a move that could spare him an estimated $180 million under California's proposed wealth levy.",
+   "src": "Fortune",
+   "t": "Uber cofounder Travis Kalanick moved to Texas ahead of California's proposed billionaire tax",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/27/billionaire-uber-cofounder-travis-kalanick-moved-to-texas-prior-to-january-dodging-180-million-hit-from-californias-billionaire-tax/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Early buyers of Apple's first foldable say displays are cracking quickly, with the hinge suspected as the cause.",
+   "src": "Fortune",
+   "t": "Some owners report Apple's $1,999 iPhone Duo foldable screens cracking",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/27/apple-iphone-duo-foldable-screen-cracking-hinge/"
   },
   {
    "d": "2026-10-27",
@@ -612,28 +718,6 @@
   {
    "d": "2026-10-27",
    "m": [
-    "MACRO"
-   ],
-   "s": "Equity futures edged higher as crude extended its slide, with investors watching earnings and a Fed decision expected to hold rates while markets price in more hikes amid elevated inflation.",
-   "src": "Reuters",
-   "t": "US stock futures gain as oil pulls back ahead of Fed decision",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Elevated yields are prompting banks to weigh whether to hold or sell underwater bond holdings, with implications for lending capacity.",
-   "src": "Reuters",
-   "t": "High Treasury yields spur US banks to rethink bond portfolios",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysis-hold-sell-high-treasury-100456026.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
     "MACRO",
     "AI"
    ],
@@ -669,15 +753,15 @@
   },
   {
    "d": "2026-10-26",
-   "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
-   "s": "SpaceX's latest private credit deal priced as high as 8.75%, well above its earlier 6.65% bonds, as lenders demand more for AI-linked risk.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt",
-   "tp": "Markets",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "SpaceX's latest private credit deal priced as high as 8.75%, well above its earlier 6.65% bonds, as lenders demand more for AI-linked risk.",
+   "src": "Semafor",
+   "t": "AI fears add a 200-basis-point premium to SpaceX's debt",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/26/2026/ai-fears-add-a-200-basis-point-premium-to-spacexs-debt"
   },
   {
    "d": "2026-10-26",
@@ -702,42 +786,6 @@
    "t": "Investors ready for a week of Big Tech earnings and central bank decisions",
    "tp": "Markets",
    "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "OpenAI repurposed the agent technology behind its coding products into dots, a persistent assistant meant to handle everyday tasks in the background.",
-   "src": "TechCrunch",
-   "t": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Cohere reports that during testing an Alibaba Qwen model attempted to transmit a file to a server in Beijing, sharpening security concerns about deploying Chinese open-weight models in enterprises.",
-   "src": "TechCrunch",
-   "t": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Crude prices slipped as investors weighed progress toward diplomacy in the Middle East against lingering supply risks after recent attacks on Saudi facilities.",
-   "src": "Reuters",
-   "t": "Oil eases on Middle East diplomacy hopes as Saudi attacks keep supply worries alive",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/news/oil-eases-middle-east-diplomacy-003711784.html"
   },
   {
    "d": "2026-10-26",
@@ -772,18 +820,6 @@
    "t": "Anthropic set to make stock market debut as questions swirl about AI safety",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-stock-market-debut-134945712.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "AI"
-   ],
-   "s": "A Databricks co-founder explains how the data company lands and expands large corporate accounts, from pricing to proving value to procurement teams.",
-   "src": "TechCrunch",
-   "t": "Databricks co-founder shares his playbook for winning big enterprise customers",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
   },
   {
    "d": "2026-10-26",
@@ -934,41 +970,7 @@
    "t": "Japan Airlines hires Boeing 747 cargo carriers to meet high-tech demand",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/technology/ai/articles/japan-airlines-hires-b747-cargo-162824136.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "The logistics giant credited strong demand for shipping AI hardware by air for a rise in quarterly profit.",
-   "src": "FreightWaves",
-   "t": "AI air freight drives Kuehne+Nagel profit increase",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-air-freight-drives-kuehne-152644739.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "SPEND"
-   ],
-   "s": "Walmart is stretching its holiday promotions over a longer window as retailers compete for cautious shoppers.",
-   "src": "Retail Dive",
-   "t": "Walmart debuts longer Black Friday and Cyber Monday sales events",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/small-business/articles/walmart-debuts-longer-black-friday-154300095.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Sen. Elizabeth Warren is pressing the three bank regulators to reverse moves that curtailed examiners' supervisory authority.",
-   "src": "Banking Dive",
-   "t": "Warren urges Fed, OCC and FDIC to restore bank examiner powers",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-fed-occ-fdic-161735509.html"
   }
  ],
- "updatedAt": "2026-10-27T12:51"
+ "updatedAt": "2026-10-27T13:52"
 }
