@@ -40,110 +40,110 @@
  ],
  "items": [
   {
-   "t": "GM plans to offer hybrid SUVs in strategic pivot",
-   "s": "General Motors is preparing to add hybrid powertrains to its SUV lineup, a shift from its all-in EV strategy as electric demand cools.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/technology/articles/exclusive-gm-plans-offer-hybrid-171953743.html",
-   "tp": "Companies & deals",
+   "d": "2026-10-27",
    "m": [
     "VNDR",
     "MACRO"
    ],
-   "d": "2026-10-27"
+   "s": "General Motors is preparing to add hybrid powertrains to its SUV lineup, a shift from its all-in EV strategy as electric demand cools.",
+   "src": "Reuters",
+   "t": "GM plans to offer hybrid SUVs in strategic pivot",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/technology/articles/exclusive-gm-plans-offer-hybrid-171953743.html"
   },
   {
-   "t": "Wall St rises as AI momentum holds heading into key earnings, Fed decision",
-   "s": "US stocks climbed as investors kept betting on AI ahead of Big Tech results and this week's Federal Reserve meeting.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html",
-   "tp": "Markets",
+   "d": "2026-10-27",
    "m": [
     "MACRO",
     "AI"
    ],
-   "d": "2026-10-27"
+   "s": "US stocks climbed as investors kept betting on AI ahead of Big Tech results and this week's Federal Reserve meeting.",
+   "src": "Reuters",
+   "t": "Wall St rises as AI momentum holds heading into key earnings, Fed decision",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html"
   },
   {
-   "t": "Higher tariffs on Canadian imports would be 'catastrophic,' Honda exec says",
-   "s": "A Honda executive warned that raising US tariffs on vehicles and parts from Canada would badly hurt its North American production network.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/higher-tariffs-canadian-imports-catastrophic-165356387.html",
-   "tp": "Energy & trade",
+   "d": "2026-10-27",
    "m": [
     "MACRO",
     "SPEND"
    ],
-   "d": "2026-10-27"
+   "s": "A Honda executive warned that raising US tariffs on vehicles and parts from Canada would badly hurt its North American production network.",
+   "src": "Reuters",
+   "t": "Higher tariffs on Canadian imports would be 'catastrophic,' Honda exec says",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/economy/policy/articles/higher-tariffs-canadian-imports-catastrophic-165356387.html"
   },
   {
-   "t": "Disruptive raises $10 billion for first formal fund",
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
    "s": "Growth investor Disruptive closed a $10 billion debut fund, a sign that big money is still flowing to late-stage tech bets.",
    "src": "Axios",
-   "u": "https://finance.yahoo.com/small-business/articles/disruptive-raises-10-billion-first-172902251.html",
+   "t": "Disruptive raises $10 billion for first formal fund",
    "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/small-business/articles/disruptive-raises-10-billion-first-172902251.html"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "AI",
     "BENCH"
    ],
-   "d": "2026-10-27"
-  },
-  {
-   "t": "PNC CEO: AI will change the M&A landscape",
    "s": "PNC's chief executive said AI will reshape bank dealmaking by changing how acquisitions are evaluated and integrated.",
    "src": "Banking Dive",
-   "u": "https://finance.yahoo.com/technology/ai/articles/pnc-ceo-ai-change-m-162806338.html",
+   "t": "PNC CEO: AI will change the M&A landscape",
    "tp": "AI & tech",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "d": "2026-10-27"
+   "u": "https://finance.yahoo.com/technology/ai/articles/pnc-ceo-ai-change-m-162806338.html"
   },
   {
-   "t": "Oil markets brace for a new Iran escalation after US midterms",
-   "s": "Traders are pricing the risk that tensions with Iran intensify after the midterm elections, which could tighten crude supply again.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/oil-markets-brace-iran-escalation-163735393.html",
-   "tp": "Energy & trade",
+   "d": "2026-10-27",
    "m": [
     "MACRO",
     "TNE"
    ],
-   "d": "2026-10-27"
+   "s": "Traders are pricing the risk that tensions with Iran intensify after the midterm elections, which could tighten crude supply again.",
+   "src": "Oilprice.com",
+   "t": "Oil markets brace for a new Iran escalation after US midterms",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/oil-markets-brace-iran-escalation-163735393.html"
   },
   {
-   "t": "Frontier AI labs say their models refuted the Exponential Time Hypothesis",
-   "s": "Leading AI labs claim their models produced a result overturning a major conjecture in computer science, and researchers are weighing what it means.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-   "tp": "AI & tech",
+   "d": "2026-10-27",
    "m": [
     "AI"
    ],
-   "d": "2026-10-27"
+   "s": "Leading AI labs claim their models produced a result overturning a major conjecture in computer science, and researchers are weighing what it means.",
+   "src": "TechCrunch",
+   "t": "Frontier AI labs say their models refuted the Exponential Time Hypothesis",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
   },
   {
-   "t": "Google's Genie 4 world model adds audio, more realistic worlds and real-time steering",
-   "s": "Google's latest world-generation model adds sound and lets users steer simulated environments as they run.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-   "tp": "AI & tech",
+   "d": "2026-10-27",
    "m": [
     "AI",
     "VNDR"
    ],
-   "d": "2026-10-27"
+   "s": "Google's latest world-generation model adds sound and lets users steer simulated environments as they run.",
+   "src": "TechCrunch",
+   "t": "Google's Genie 4 world model adds audio, more realistic worlds and real-time steering",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
   },
   {
-   "t": "Billionaire Palmer Luckey isn't leaving California over the wealth tax",
-   "s": "The Anduril founder says he will stay in California despite a proposed billionaire tax that has pushed other tech figures to move.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-   "tp": "Economy",
+   "d": "2026-10-27",
    "m": [
     "MACRO"
    ],
-   "d": "2026-10-27"
+   "s": "The Anduril founder says he will stay in California despite a proposed billionaire tax that has pushed other tech figures to move.",
+   "src": "TechCrunch",
+   "t": "Billionaire Palmer Luckey isn't leaving California over the wealth tax",
+   "tp": "Economy",
+   "u": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/"
   },
   {
    "d": "2026-10-27",
@@ -753,6 +753,28 @@
   },
   {
    "d": "2026-10-26",
+   "t": "Brazilian markets plunge after Lula's surprise victory",
+   "s": "Lula's unexpected reelection sent Brazilian assets lower and derailed roughly $6 billion in corporate equity offerings that had been lined up for after the vote.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/brazilian-markets-plunge-after-lulas-surprise-election-victory",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Apollo takes stake in Abu Dhabi's Mubadala Capital",
+   "s": "Apollo is buying into Mubadala's asset-management arm, another sign Wall Street views Gulf capital as central to global finance.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/apollo-takes-stake-in-abu-dhabis-mubadala-capital",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "AI",
     "MACRO"
@@ -820,18 +842,6 @@
    "t": "Anthropic set to make stock market debut as questions swirl about AI safety",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-stock-market-debut-134945712.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Semafor looks at how Musk's companies, from SpaceX's huge GPU financing to Tesla and xAI, are again shaping markets, deal flow and the AI buildout.",
-   "src": "Semafor",
-   "t": "Elon Musk is back at the center of everything",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/26/2026/elon-musk-is-back-at-the-center-of-everything"
   },
   {
    "d": "2026-10-26",
@@ -958,19 +968,7 @@
    "t": "EQT bets on record U.S. gas demand with $50 billion Range takeover",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/eqt-bets-record-u-gas-163000985.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "TNE",
-    "AI"
-   ],
-   "s": "Japan Airlines is chartering 747 freighter capacity to keep up with strong demand to ship high-tech and AI-related goods.",
-   "src": "FreightWaves",
-   "t": "Japan Airlines hires Boeing 747 cargo carriers to meet high-tech demand",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/technology/ai/articles/japan-airlines-hires-b747-cargo-162824136.html"
   }
  ],
- "updatedAt": "2026-10-27T13:52"
+ "updatedAt": "2026-10-27T14:56"
 }
