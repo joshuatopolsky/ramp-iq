@@ -41,6 +41,113 @@
  "items": [
   {
    "d": "2026-10-28",
+   "t": "S&P 500 nears record high as AI chip stocks rally",
+   "s": "Broadcom and Nvidia led a climb that pushed the S&P 500 toward an all-time high ahead of the Fed decision and Big Tech earnings.",
+   "src": "AP",
+   "u": "https://fortune.com/2026/10/28/sp-500-1-2-all-time-high-broadcom-nvidia-ai-stock/",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Malaysia intercepts $12.2 million shipment of AI-chip servers over export-control concerns",
+   "s": "Malaysian authorities seized servers carrying advanced AI chips suspected of being routed to China in breach of US export controls.",
+   "src": "AP",
+   "u": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/",
+   "tp": "Energy & trade",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Climate VC fundraising headed for its weakest year since 2015",
+   "s": "Venture funds focused on climate tech are raising the least money in a decade as investors shift capital toward AI.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/climate-innovation-movement-to-market/",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Airbus holds annual targets, bets on year-end delivery surge",
+   "s": "Airbus kept its full-year delivery and profit goals, counting on a heavy fourth-quarter push despite ongoing supply constraints.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/airbus-holds-annual-targets-bets-164821004.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Mexico and US assess viability of trade deal before midterms",
+   "s": "Officials from both countries are weighing whether a trade agreement can be reached ahead of the US midterm elections.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/mexico-us-assess-viability-trade-161206204.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "From Texas to Ohio, the data center backlash is spilling into the midterms",
+   "s": "Local opposition to power-hungry AI data centers over electricity costs and land use is becoming a campaign issue in several states.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/economy/article/from-texas-to-ohio-the-data-center-backlash-is-spilling-over-into-the-midterms-155954881.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "US consumers look resilient despite higher prices for gas and Halloween candy",
+   "s": "Spending is holding up even as shoppers face steeper prices on fuel, candy and other seasonal goods.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/economy/article/us-consumers-look-resilient-despite-higher-prices-for-gas-halloween-candy-and-more-155545270.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "DOE lends $5 billion to nuclear plants that will power data centers",
+   "s": "The Energy Department is financing nuclear projects meant to supply electricity for AI data center demand.",
+   "src": "TechCrunch",
+   "u": "https://finance.yahoo.com/energy/articles/trump-doe-loans-5b-nuclear-155321800.html",
+   "tp": "Energy & trade",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Virginia lender First Community expands into Ohio with $243M deal",
+   "s": "First Community agreed to a $243 million bank acquisition that extends its footprint into Ohio amid a pickup in regional bank M&A.",
+   "src": "Banking Dive",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/virginia-lender-first-community-expand-162328677.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-28",
    "m": [
     "MACRO"
    ],
@@ -406,17 +513,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "MACRO"
-   ],
-   "s": "Policymakers are expected to hold rates steady this week as they weigh hot inflation, oil prices and a cooling labor market.",
-   "src": "Reuters",
-   "t": "Fed likely to stay in wait-and-see mode on rates",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-likely-wait-see-mode-100452064.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "AI",
     "MACRO"
    ],
@@ -459,17 +555,6 @@
    "t": "China's wind and solar capacity passes 2 terawatts",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/china-wind-solar-power-capacity-102000839.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Economists expect the Bank of Canada to raise its benchmark rate for the first time since 2023 as inflation pressure from energy costs builds.",
-   "src": "Reuters",
-   "t": "Bank of Canada poised to hike key rate for first time in three years",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bank-canada-poised-hike-key-100322984.html"
   },
   {
    "d": "2026-10-28",
@@ -566,45 +651,68 @@
   },
   {
    "d": "2026-10-28",
-   "t": "Nvidia releases a new open transcription model",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
    "s": "Nvidia released an openly available speech-to-text model as voice AI becomes a hot area for developers and enterprises.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "t": "Nvidia releases a new open transcription model",
    "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
+   "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
   },
   {
    "d": "2026-10-28",
-   "t": "South Korea's financial industry hit by fresh wave of cyberattacks",
+   "m": [
+    "VNDR"
+   ],
    "s": "A new round of cyberattacks has struck South Korean financial firms, adding to security worries across the country's banking sector.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "t": "South Korea's financial industry hit by fresh wave of cyberattacks",
    "tp": "AI & tech",
-   "m": [
-    "VNDR"
-   ]
+   "u": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
   },
   {
    "d": "2026-10-28",
-   "t": "Financial AI startup Casap raises $56 million to fight customer fraud at banks",
-   "s": "Casap raised $56 million to expand AI tools that help banks handle disputes and fraud claims.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/dd/",
-   "tp": "Companies & deals",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Casap raised $56 million to expand AI tools that help banks handle disputes and fraud claims.",
+   "src": "Fortune",
+   "t": "Financial AI startup Casap raises $56 million to fight customer fraud at banks",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/28/dd/"
   },
   {
    "d": "2026-10-28",
-   "t": "Waters launches an AI tool targeting a tedious pharma industry task",
+   "m": [
+    "AI"
+   ],
    "s": "Lab-instrument maker Waters introduced an AI tool meant to automate time-consuming work in pharmaceutical testing.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/waters-new-ai-tool-targets-one-of-the-pharmaceutical-industrys-most-tedious-tasks/",
+   "t": "Waters launches an AI tool targeting a tedious pharma industry task",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/28/waters-new-ai-tool-targets-one-of-the-pharmaceutical-industrys-most-tedious-tasks/"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Anthropic's IPO needs believers to bridge it to the payoff",
+   "s": "Anthropic's listing will hinge on investors accepting years of heavy spending before its AI business delivers profits.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/27/2026/anthropics-ipo-needs-believers-to-bridge-it-to-the-payoff",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Hasbro's AI play: an AI-generated Mr. Potato Head voiced by Don Rickles",
+   "s": "Hasbro is using generative AI to recreate the late comedian's voice for Mr. Potato Head as part of a broader push into AI products.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/27/2026/hasbros-ai-play-involves-an-ai-generated-mr-potato-head-voiced-by-don-rickles",
    "tp": "AI & tech",
    "m": [
     "AI"
@@ -789,30 +897,6 @@
   {
    "d": "2026-10-27",
    "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Voluntary buyouts at Microsoft and Skydance highlight how employers are trimming headcount while hiring stays slow.",
-   "src": "Yahoo Finance",
-   "t": "Microsoft and Skydance buyouts signal what's ahead for workers in a 'low-hire' market",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/economy/article/microsoft-and-skydance-announced-buyouts-what-does-it-mean-for-workers-in-a-low-hire-market-191021868.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Alphabet's earnings will be judged on AI-driven cloud growth and competition from Meta's Muse model.",
-   "src": "Yahoo Finance",
-   "t": "Google to report Q3 results as investors focus on AI growth and Meta Muse risk",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/article/google-to-report-q3-results-as-investors-focus-on-ai-growth-weigh-meta-muse-ai-risk-191624324.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
     "MACRO"
    ],
    "s": "A largely leased West Loop office building is headed toward foreclosure on a $310 million loan, underscoring commercial real estate strain.",
@@ -893,89 +977,7 @@
    "t": "Knight-Swift CEO says CDL crackdown could fuel a lasting trucking recovery",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/small-business/articles/knight-swift-ceo-says-cdl-155736809.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Target is revamping its in-house Threshold home line as it tries to revive sluggish discretionary sales.",
-   "src": "Retail Dive",
-   "t": "Target overhauls its Threshold home goods brand",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/small-business/articles/target-overhauls-threshold-home-goods-154300855.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "FTC staff have told uniform giant Cintas the agency intends to sue to block its roughly $5 billion takeover of rival UniFirst over market-share concerns, though no final vote has been taken.",
-   "src": "Semafor",
-   "t": "FTC moves to block Cintas's $5 billion bid for UniFirst",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/27/2026/ftc-flexes-its-muscles-on-5-billion-uniform-deal"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Microsoft's buyout offer skips data center, cybersecurity, quantum, sales and marketing staff, signaling which roles the company sees as critical in the AI era.",
-   "src": "Semafor",
-   "t": "Microsoft's buyout offer shows which tech jobs matter",
-   "tp": "Labor",
-   "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Federal and state regulators accuse the discount chain of charging shoppers more at the register than its posted shelf prices.",
-   "src": "USA TODAY",
-   "t": "FTC and 20 states sue Dollar General over alleged overcharging",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ftc-20-states-sue-dollar-152127038.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The UK government paid the steepest yield on five-year debt in nearly two decades at auction, underscoring pressure from elevated global bond yields.",
-   "src": "The Telegraph",
-   "t": "Britain pays its highest five-year borrowing rate since 2008",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/economy/policy/articles/britain-pays-highest-five-borrowing-144603107.html"
-  },
-  {
-   "d": "2026-10-27",
-   "t": "VCs will make billions on Anthropic's IPO, but Amazon stands to make far more",
-   "s": "An analysis of Anthropic's cap table finds venture backers are in line for big gains from the IPO, with Amazon's stake worth far more.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-   "tp": "Markets",
-   "m": [
-    "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "US consumer confidence ticks up in October",
-   "s": "Consumer confidence improved slightly in October despite high fuel prices and rate-hike worries.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/27/2026/us-consumer-confidence-ticks-up-in-october",
-   "tp": "Economy",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ]
   }
  ],
- "updatedAt": "2026-10-28T11:51"
+ "updatedAt": "2026-10-28T12:51"
 }
