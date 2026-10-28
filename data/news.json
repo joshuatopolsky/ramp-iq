@@ -41,47 +41,22 @@
   "items": [
     {
       "d": "2026-10-28",
-      "t": "SK Hynix posts record revenue and profit, sees memory shortage lasting into 2030",
-      "s": "The Korean chipmaker's profit jumped more than sixfold on AI-driven memory demand, and it expects supply to stay tight for years.",
-      "src": "Yahoo Finance",
-      "u": "https://finance.yahoo.com/markets/article/sk-hynix-posts-record-revenue-and-profit-sees-memory-shortage-into-2030-113038822.html",
-      "tp": "AI & tech",
+      "t": "Big Law faces its reckoning",
+      "s": "The collapse of Weil has rattled other big corporate law firms, which now worry about their own partner retention and finances.",
+      "src": "Semafor",
+      "u": "https://www.semafor.com/article/10/28/2026/big-law-faces-its-reckoning",
+      "tp": "Companies & deals",
       "m": [
-        "AI",
-        "VNDR"
+        "VNDR",
+        "BENCH"
       ]
     },
     {
       "d": "2026-10-28",
-      "t": "Global stocks get an AI lift ahead of a busy 48 hours",
-      "s": "Equities rose on renewed AI enthusiasm while the dollar held steady before the Fed decision and a wave of Big Tech earnings.",
-      "src": "Reuters",
-      "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-ai-lift-dollar-holds-014425181.html",
-      "tp": "Markets",
-      "m": [
-        "MACRO",
-        "AI"
-      ]
-    },
-    {
-      "d": "2026-10-28",
-      "t": "Airlines scale back fuel hedges and warn on fares as Iran war drags on",
-      "s": "Carriers are pulling back on hedging jet fuel amid volatile prices from the Iran conflict and signaling that airfares may rise.",
-      "src": "Reuters",
-      "u": "https://finance.yahoo.com/news/analysis-iran-war-drags-airlines-105441658.html",
-      "tp": "Energy & trade",
-      "m": [
-        "TNE",
-        "SPEND",
-        "MACRO"
-      ]
-    },
-    {
-      "d": "2026-10-28",
-      "t": "Fed likely to stay in wait-and-see mode on rates",
-      "s": "Policymakers are expected to hold rates steady this week as they weigh hot inflation, oil prices and a cooling labor market.",
-      "src": "Reuters",
-      "u": "https://finance.yahoo.com/economy/policy/articles/fed-likely-wait-see-mode-100452064.html",
+      "t": "CBO projects Treasury interest costs near $20 trillion over the next decade",
+      "s": "New Congressional Budget Office projections show interest on the national debt growing into one of the largest items in the federal budget.",
+      "src": "Fortune",
+      "u": "https://fortune.com/2026/10/28/congressional-budget-office-projections-treasury-national-debt-interest-spending/",
       "tp": "Economy",
       "m": [
         "MACRO"
@@ -89,49 +64,120 @@
     },
     {
       "d": "2026-10-28",
-      "t": "Wall Street's AI debt machine is running short on supply",
-      "s": "Lenders financing the AI data center buildout are finding fewer deals and investors to absorb the borrowing, testing the credit-fueled boom.",
-      "src": "Bloomberg",
-      "u": "https://finance.yahoo.com/technology/ai/articles/wall-street-ai-debt-machine-103000166.html",
-      "tp": "AI & tech",
-      "m": [
-        "AI",
-        "MACRO"
-      ]
-    },
-    {
-      "d": "2026-10-28",
-      "t": "Jake Paul backs a project to revive US titanium sponge production",
-      "s": "The project aims to restart domestic output of titanium sponge, a key aerospace and defense input the US now imports.",
-      "src": "Bloomberg",
-      "u": "https://finance.yahoo.com/energy/articles/jake-paul-backs-project-revive-110000084.html",
+      "t": "UPS's CFO explains the overhaul behind a $22.9 billion quarter",
+      "s": "UPS's finance chief walks through the cost cuts and network changes behind its third-quarter results as the company moves away from Amazon volume.",
+      "src": "Fortune",
+      "u": "https://fortune.com/2026/10/28/ups-cfo-strategic-overhaul-behind-22-billion-quarter/",
       "tp": "Supply chain",
       "m": [
         "VNDR",
+        "SPEND"
+      ]
+    },
+    {
+      "d": "2026-10-28",
+      "t": "Fed veteran Don Kohn weighs in on Warsh's path as Fed chair",
+      "s": "Former Fed vice chair Don Kohn discusses Kevin Warsh's signals on rate hikes and the challenges ahead on Fed decision day.",
+      "src": "Fortune",
+      "u": "https://fortune.com/2026/10/28/kohn-warsh-bernanke-federal-reserve-jackson-hoole-hike/",
+      "tp": "Economy",
+      "m": [
         "MACRO"
       ]
     },
     {
       "d": "2026-10-28",
-      "t": "RXO founder Brad Jacobs backs C.H. Robinson's acquisition of RXO",
-      "s": "The freight brokerage's creator is supporting the proposed deal that would combine two of the largest US truckload brokers.",
-      "src": "FreightWaves",
-      "u": "https://finance.yahoo.com/markets/stocks/articles/jacobs-rxo-creator-backs-acquisition-110000283.html",
-      "tp": "Companies & deals",
+      "m": [
+        "AI",
+        "VNDR"
+      ],
+      "s": "The Korean chipmaker's profit jumped more than sixfold on AI-driven memory demand, and it expects supply to stay tight for years.",
+      "src": "Yahoo Finance",
+      "t": "SK Hynix posts record revenue and profit, sees memory shortage lasting into 2030",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/markets/article/sk-hynix-posts-record-revenue-and-profit-sees-memory-shortage-into-2030-113038822.html"
+    },
+    {
+      "d": "2026-10-28",
+      "m": [
+        "MACRO",
+        "AI"
+      ],
+      "s": "Equities rose on renewed AI enthusiasm while the dollar held steady before the Fed decision and a wave of Big Tech earnings.",
+      "src": "Reuters",
+      "t": "Global stocks get an AI lift ahead of a busy 48 hours",
+      "tp": "Markets",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-ai-lift-dollar-holds-014425181.html"
+    },
+    {
+      "d": "2026-10-28",
+      "m": [
+        "TNE",
+        "SPEND",
+        "MACRO"
+      ],
+      "s": "Carriers are pulling back on hedging jet fuel amid volatile prices from the Iran conflict and signaling that airfares may rise.",
+      "src": "Reuters",
+      "t": "Airlines scale back fuel hedges and warn on fares as Iran war drags on",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/news/analysis-iran-war-drags-airlines-105441658.html"
+    },
+    {
+      "d": "2026-10-28",
+      "m": [
+        "MACRO"
+      ],
+      "s": "Policymakers are expected to hold rates steady this week as they weigh hot inflation, oil prices and a cooling labor market.",
+      "src": "Reuters",
+      "t": "Fed likely to stay in wait-and-see mode on rates",
+      "tp": "Economy",
+      "u": "https://finance.yahoo.com/economy/policy/articles/fed-likely-wait-see-mode-100452064.html"
+    },
+    {
+      "d": "2026-10-28",
+      "m": [
+        "AI",
+        "MACRO"
+      ],
+      "s": "Lenders financing the AI data center buildout are finding fewer deals and investors to absorb the borrowing, testing the credit-fueled boom.",
+      "src": "Bloomberg",
+      "t": "Wall Street's AI debt machine is running short on supply",
+      "tp": "AI & tech",
+      "u": "https://finance.yahoo.com/technology/ai/articles/wall-street-ai-debt-machine-103000166.html"
+    },
+    {
+      "d": "2026-10-28",
+      "m": [
+        "VNDR",
+        "MACRO"
+      ],
+      "s": "The project aims to restart domestic output of titanium sponge, a key aerospace and defense input the US now imports.",
+      "src": "Bloomberg",
+      "t": "Jake Paul backs a project to revive US titanium sponge production",
+      "tp": "Supply chain",
+      "u": "https://finance.yahoo.com/energy/articles/jake-paul-backs-project-revive-110000084.html"
+    },
+    {
+      "d": "2026-10-28",
       "m": [
         "VNDR"
-      ]
+      ],
+      "s": "The freight brokerage's creator is supporting the proposed deal that would combine two of the largest US truckload brokers.",
+      "src": "FreightWaves",
+      "t": "RXO founder Brad Jacobs backs C.H. Robinson's acquisition of RXO",
+      "tp": "Companies & deals",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/jacobs-rxo-creator-backs-acquisition-110000283.html"
     },
     {
       "d": "2026-10-28",
-      "t": "China's wind and solar capacity passes 2 terawatts",
-      "s": "China's installed wind and solar generation has topped 2 TW, widening its lead in renewable buildout.",
-      "src": "Oilprice.com",
-      "u": "https://finance.yahoo.com/energy/articles/china-wind-solar-power-capacity-102000839.html",
-      "tp": "Energy & trade",
       "m": [
         "MACRO"
-      ]
+      ],
+      "s": "China's installed wind and solar generation has topped 2 TW, widening its lead in renewable buildout.",
+      "src": "Oilprice.com",
+      "t": "China's wind and solar capacity passes 2 terawatts",
+      "tp": "Energy & trade",
+      "u": "https://finance.yahoo.com/energy/articles/china-wind-solar-power-capacity-102000839.html"
     },
     {
       "d": "2026-10-28",
@@ -287,14 +333,38 @@
     },
     {
       "d": "2026-10-27",
-      "t": "Re:Build, which spun out Slate Auto, raises $2.1B",
-      "s": "The industrial manufacturing company behind EV startup Slate Auto closed a $2.1 billion raise to expand US factory capacity.",
+      "t": "GM is embracing hybrids now",
+      "s": "General Motors is shifting toward hybrid vehicles, a turn from its earlier all-electric strategy as EV demand cools.",
       "src": "TechCrunch",
-      "u": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "u": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
       "tp": "Companies & deals",
       "m": [
+        "MACRO",
+        "BENCH"
+      ]
+    },
+    {
+      "d": "2026-10-27",
+      "t": "Bank of America asks customers not to share banking passwords with AI assistants",
+      "s": "Bank of America is warning customers against handing their login credentials to AI agents, as agentic tools push into personal finance.",
+      "src": "TechCrunch",
+      "u": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "tp": "AI & tech",
+      "m": [
+        "AI",
         "VNDR"
       ]
+    },
+    {
+      "d": "2026-10-27",
+      "m": [
+        "VNDR"
+      ],
+      "s": "The industrial manufacturing company behind EV startup Slate Auto closed a $2.1 billion raise to expand US factory capacity.",
+      "src": "TechCrunch",
+      "t": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "tp": "Companies & deals",
+      "u": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/"
     },
     {
       "d": "2026-10-27",
@@ -439,64 +509,6 @@
       "t": "Werner Enterprises sees cost headwinds lingering into Q1",
       "tp": "Supply chain",
       "u": "https://finance.yahoo.com/markets/stocks/articles/werner-enterprises-sees-cost-headwinds-001003845.html"
-    },
-    {
-      "d": "2026-10-27",
-      "m": [
-        "VNDR",
-        "SPEND"
-      ],
-      "s": "The defense-tech firm and chipmaker unveiled a laptop assembled in the United States, pitched at buyers seeking a domestic hardware supply chain.",
-      "src": "TechCrunch",
-      "t": "Anduril and Qualcomm launch BlueChip, a US-made laptop",
-      "tp": "AI & tech",
-      "u": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
-    },
-    {
-      "d": "2026-10-27",
-      "m": [
-        "AI",
-        "MACRO"
-      ],
-      "s": "Surging power demand from AI data centers is spurring investment in new grid technologies that could ease strain on utilities and lower energy costs over time.",
-      "src": "TechCrunch",
-      "t": "The data center boom has an upside: innovation for the US grid",
-      "tp": "Energy & trade",
-      "u": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
-    },
-    {
-      "d": "2026-10-27",
-      "m": [
-        "AI",
-        "VNDR"
-      ],
-      "s": "Fortune breaks down what Anthropic's IPO filing reveals about its finances and governance, and what it still leaves unanswered for investors.",
-      "src": "Fortune",
-      "t": "The big takeaways and big questions from Anthropic's S-1",
-      "tp": "AI & tech",
-      "u": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/"
-    },
-    {
-      "d": "2026-10-27",
-      "m": [
-        "AI"
-      ],
-      "s": "A fully AI-generated feature drew thin audiences in Chinese cinemas, a setback for hopes that generative video can quickly replace traditional production.",
-      "src": "Fortune",
-      "t": "China's first AI-generated film to get a theatrical release flops at the box office",
-      "tp": "AI & tech",
-      "u": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/"
-    },
-    {
-      "d": "2026-10-27",
-      "m": [
-        "TNE"
-      ],
-      "s": "A profile of Wizz Air chief József Váradi, who is staying on at the budget carrier as airlines contend with soaring jet fuel costs.",
-      "src": "Fortune",
-      "t": "Wizz Air's CEO, whose father was jailed under Soviet rule, earns $4 million and refuses to retire",
-      "tp": "Companies & deals",
-      "u": "https://fortune.com/2026/10/27/wizz-air-ceo-jozsef-varadi-father-jailed-soviet-hungary-4-million-salary-refuses-retire/"
     },
     {
       "d": "2026-10-27",
@@ -966,19 +978,7 @@
       "t": "Anthropic renews a certain kind of AI investors' faith",
       "tp": "AI & tech",
       "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-renews-certain-kind-ai-111555972.html"
-    },
-    {
-      "d": "2026-10-27",
-      "m": [
-        "SPEND",
-        "MACRO"
-      ],
-      "s": "Federal regulators gave final clearance to the Ripple trust bank that backs its $2.6 billion RLUSD dollar stablecoin.",
-      "src": "Decrypt",
-      "t": "Ripple wins final OCC approval for trust bank behind RLUSD stablecoin",
-      "tp": "Companies & deals",
-      "u": "https://finance.yahoo.com/markets/crypto/articles/ripple-wins-final-occ-approval-101646891.html"
     }
   ],
-  "updatedAt": "2026-10-28T07:58"
+  "updatedAt": "2026-10-28T08:55"
 }
