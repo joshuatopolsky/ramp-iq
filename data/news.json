@@ -41,109 +41,205 @@
  "items": [
   {
    "d": "2026-10-28",
-   "t": "Fed holds rates steady as a governor and a regional president dissent together for the first time since 1992",
-   "s": "The Fed kept rates unchanged under Chair Kevin Warsh, but two officials broke ranks in favor of a hike, a rare joint dissent that signals pressure to tighten further.",
+   "t": "Alphabet slips as Google Cloud revenue doubles but free cash flow turns negative",
+   "s": "Google Cloud sales roughly doubled to about $31 billion, yet heavy AI infrastructure spending pushed Alphabet's free cash flow below zero and weighed on the stock.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "t": "FTC and 20 states sue Dollar General over alleged shelf-price overcharging",
-   "s": "Regulators accuse the discount chain of charging low-income shoppers more at the register than the prices posted on its shelves.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/dollar-general-ftc-lawsuit-overcharging-shelf-prices/",
+   "u": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/",
    "tp": "Companies & deals",
    "m": [
-    "MACRO",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "t": "Amazon tells engineers that burning more AI tokens doesn't mean better work",
-   "s": "Amazon is pushing back on 'token-maxxing,' warning staff that heavier AI usage is not itself a measure of productivity as companies scrutinize AI costs.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/amazon-token-maxxing-ai-work/",
-   "tp": "AI & tech",
-   "m": [
     "AI",
-    "SPEND",
+    "VNDR",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-28",
-   "t": "The Fed just removed a 2027 rate decision, raising the stakes for the remaining seven",
-   "s": "The Fed trimmed its 2027 meeting calendar to seven sessions, meaning each remaining decision carries more weight for borrowing costs and markets.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/economy/article/the-fed-just-removed-a-2027-rate-decision--making-the-remaining-7-even-more-important-194159258.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "t": "Oil prices rise on Yemen fighting and an attack on a Saudi refinery",
-   "s": "Crude climbed as new fighting in Yemen and a strike on Saudi refining capacity added to supply worries already elevated by the Iran war.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/oil-prices-rise-attack-saudi-021422891.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "TNE"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "t": "Canada reports limited progress in trade talks with the US",
-   "s": "Canadian officials say negotiations with Washington have made only modest headway, leaving tariff uncertainty in place for cross-border businesses.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/canada-reports-limited-progress-trade-131412397.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "t": "Italy approves 2027 budget with tax hikes on banks and energy firms",
-   "s": "Rome's new budget leans on higher levies on lenders and energy companies to fund its spending plans.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/italy-approves-2027-budget-tax-192752957.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "t": "Phillips 66 posts record $5.6 billion profit as refining margins soar",
-   "s": "The refiner's quarterly profit hit a record as war-driven fuel shortages widened the gap between crude costs and product prices.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/phillips-66-posts-record-5-193244302.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "TNE"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "t": "OpenAI plans to buy Google's AI chips as it looks beyond Nvidia",
-   "s": "OpenAI is reportedly lining up purchases of Google's TPUs to diversify its compute supply away from Nvidia.",
-   "src": "Decrypt",
-   "u": "https://finance.yahoo.com/technology/ai/articles/openai-plans-buy-googles-ai-191602020.html",
+   "t": "Microsoft's cloud growth accelerates, and so does its spending",
+   "s": "Microsoft reported faster Azure-driven cloud growth alongside a further jump in capital spending on AI data centers.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/microsofts-cloud-growth-accelerates-and-so-too-does-the-spending/",
    "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
    ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "SK Hynix expects the memory-chip shortage to last until 2030",
+   "s": "The chipmaker says more than half of its output is already booked for the next two years as AI demand keeps memory supply tight.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/sk-hynix-memory-shortage-2030/",
+   "tp": "Supply chain",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Dollar falls after Fed holds rates steady",
+   "s": "The U.S. dollar weakened after the Federal Reserve left interest rates unchanged at its October meeting.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-ahead-fed-decision-013404880.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Warsh bats away midterm politics questions after rate decision",
+   "s": "Fed Chair Kevin Warsh said politics never came up in the committee's deliberations as the central bank held rates days before the midterm elections.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/economy/policy/article/i-didnt-hear-an-utterance-about-politics-warsh-bats-away-midterm-talk-following-rate-decision-203737154.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Anthropic launches tools to show companies what their AI spending buys",
+   "s": "New Anthropic tools aim to help businesses measure the return on their AI usage and spending across teams.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "SPEND",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+   "s": "Autonomous trucking firm Kodiak signed its first commercial agreement to deliver self-driving trucks that will run on public highways.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+   "tp": "Supply chain",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Hacker steals personnel data on thousands of Homeland Security employees",
+   "s": "A breach exposed personnel records for thousands of DHS staff, including CBP and ICE agents.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+   "tp": "AI & tech",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The Fed kept rates unchanged under Chair Kevin Warsh, but two officials broke ranks in favor of a hike, a rare joint dissent that signals pressure to tighten further.",
+   "src": "Fortune",
+   "t": "Fed holds rates steady as a governor and a regional president dissent together for the first time since 1992",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "s": "Regulators accuse the discount chain of charging low-income shoppers more at the register than the prices posted on its shelves.",
+   "src": "Fortune",
+   "t": "FTC and 20 states sue Dollar General over alleged shelf-price overcharging",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/28/dollar-general-ftc-lawsuit-overcharging-shelf-prices/"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "AI",
+    "SPEND",
+    "BENCH"
+   ],
+   "s": "Amazon is pushing back on 'token-maxxing,' warning staff that heavier AI usage is not itself a measure of productivity as companies scrutinize AI costs.",
+   "src": "Fortune",
+   "t": "Amazon tells engineers that burning more AI tokens doesn't mean better work",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/28/amazon-token-maxxing-ai-work/"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The Fed trimmed its 2027 meeting calendar to seven sessions, meaning each remaining decision carries more weight for borrowing costs and markets.",
+   "src": "Yahoo Finance",
+   "t": "The Fed just removed a 2027 rate decision, raising the stakes for the remaining seven",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/article/the-fed-just-removed-a-2027-rate-decision--making-the-remaining-7-even-more-important-194159258.html"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "Crude climbed as new fighting in Yemen and a strike on Saudi refining capacity added to supply worries already elevated by the Iran war.",
+   "src": "Reuters",
+   "t": "Oil prices rise on Yemen fighting and an attack on a Saudi refinery",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/news/oil-prices-rise-attack-saudi-021422891.html"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "Canadian officials say negotiations with Washington have made only modest headway, leaving tariff uncertainty in place for cross-border businesses.",
+   "src": "Reuters",
+   "t": "Canada reports limited progress in trade talks with the US",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/news/canada-reports-limited-progress-trade-131412397.html"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Rome's new budget leans on higher levies on lenders and energy companies to fund its spending plans.",
+   "src": "Reuters",
+   "t": "Italy approves 2027 budget with tax hikes on banks and energy firms",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/news/italy-approves-2027-budget-tax-192752957.html"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "The refiner's quarterly profit hit a record as war-driven fuel shortages widened the gap between crude costs and product prices.",
+   "src": "Oilprice.com",
+   "t": "Phillips 66 posts record $5.6 billion profit as refining margins soar",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/phillips-66-posts-record-5-193244302.html"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "OpenAI is reportedly lining up purchases of Google's TPUs to diversify its compute supply away from Nvidia.",
+   "src": "Decrypt",
+   "t": "OpenAI plans to buy Google's AI chips as it looks beyond Nvidia",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/ai/articles/openai-plans-buy-googles-ai-191602020.html"
   },
   {
    "d": "2026-10-28",
@@ -479,17 +575,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "MACRO"
-   ],
-   "s": "The US goods trade gap grew in September against expectations for a narrower deficit, a potential drag on third-quarter growth estimates.",
-   "src": "Reuters",
-   "t": "US goods trade deficit unexpectedly widens in September",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-goods-trade-deficit-unexpectedly-124134612.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "BENCH"
    ],
    "s": "Activist investor Nelson Peltz has offered to take the burger chain private as Wendy's struggles with weak sales.",
@@ -630,52 +715,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "MACRO"
-   ],
-   "s": "New Congressional Budget Office projections show interest on the national debt growing into one of the largest items in the federal budget.",
-   "src": "Fortune",
-   "t": "CBO projects Treasury interest costs near $20 trillion over the next decade",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/28/congressional-budget-office-projections-treasury-national-debt-interest-spending/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "UPS's finance chief walks through the cost cuts and network changes behind its third-quarter results as the company moves away from Amazon volume.",
-   "src": "Fortune",
-   "t": "UPS's CFO explains the overhaul behind a $22.9 billion quarter",
-   "tp": "Supply chain",
-   "u": "https://fortune.com/2026/10/28/ups-cfo-strategic-overhaul-behind-22-billion-quarter/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Former Fed vice chair Don Kohn discusses Kevin Warsh's signals on rate hikes and the challenges ahead on Fed decision day.",
-   "src": "Fortune",
-   "t": "Fed veteran Don Kohn weighs in on Warsh's path as Fed chair",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/28/kohn-warsh-bernanke-federal-reserve-jackson-hoole-hike/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "The Korean chipmaker's profit jumped more than sixfold on AI-driven memory demand, and it expects supply to stay tight for years.",
-   "src": "Yahoo Finance",
-   "t": "SK Hynix posts record revenue and profit, sees memory shortage lasting into 2030",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/markets/article/sk-hynix-posts-record-revenue-and-profit-sees-memory-shortage-into-2030-113038822.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "AI",
     "MACRO"
    ],
@@ -778,26 +817,15 @@
    "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
   },
   {
-   "d": "2026-10-28",
+   "d": "2026-10-27",
    "m": [
     "VNDR"
    ],
-   "s": "A new round of cyberattacks has struck South Korean financial firms, adding to security worries across the country's banking sector.",
-   "src": "TechCrunch",
-   "t": "South Korea's financial industry hit by fresh wave of cyberattacks",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
-  },
-  {
-   "d": "2026-10-27",
-   "t": "FTC flexes its muscles on $5 billion uniform deal",
    "s": "The FTC is pushing back on a $5 billion merger in the workplace-uniform industry, a sign of tougher antitrust scrutiny for service-provider consolidation.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/27/2026/ftc-flexes-its-muscles-on-5-billion-uniform-deal",
+   "t": "FTC flexes its muscles on $5 billion uniform deal",
    "tp": "Companies & deals",
-   "m": [
-    "VNDR"
-   ]
+   "u": "https://www.semafor.com/article/10/27/2026/ftc-flexes-its-muscles-on-5-billion-uniform-deal"
   },
   {
    "d": "2026-10-27",
@@ -822,30 +850,6 @@
    "t": "Microsoft's buyout offer to employees shows which tech jobs matter",
    "tp": "Labor",
    "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Venture backers are set for large paper gains from Anthropic's listing, but Amazon's sizable stake positions it as the biggest winner.",
-   "src": "TechCrunch",
-   "t": "VCs will make billions on Anthropic's IPO, but Amazon stands to make much more",
-   "tp": "Markets",
-   "u": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Industrial holding company Re:Build raised $2.1 billion to expand its US manufacturing businesses.",
-   "src": "TechCrunch",
-   "t": "Re:Build, which spun out Slate Auto, raises $2.1 billion",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/"
   },
   {
    "d": "2026-10-27",
@@ -976,5 +980,5 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/robinhood-taps-ripples-stablecoin-treasury-201602266.html"
   }
  ],
- "updatedAt": "2026-10-28T15:51"
+ "updatedAt": "2026-10-28T16:52"
 }
