@@ -1,90 +1,88 @@
 {
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ],
+ "updatedAt": "2026-10-28T05:51",
  "items": [
   {
    "d": "2026-10-28",
-   "t": "Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings",
-   "s": "Futures were mixed Wednesday morning as investors awaited a widely expected Fed hold under Chair Kevin Warsh and Microsoft and Alphabet results after the close.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html",
-   "tp": "Markets",
+   "t": "Airbnb drops guest cleaning chores, and hosts threaten a boycott and higher cleaning fees",
+   "s": "Airbnb's new rule ends checkout chores for guests, and hosts warn they will raise cleaning fees or protest the change.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/airbnb-guests-no-dishes-strip-beds-hosts-boycott-cleaning-fees/",
+   "tp": "Companies & deals",
    "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Jio shares surge 21% in market debut after blockbuster India IPO",
-   "s": "Reliance's Jio Platforms jumped 21% in its first day of trading after one of India's largest-ever public offerings.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-   "tp": "Markets",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "t": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "s": "A senior Meta AI leader is departing to build an AI-native productivity suite aimed squarely at Microsoft and Google's office software.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
+    "TNE",
     "VNDR"
    ]
   },
   {
+   "d": "2026-10-28",
+   "t": "Judge rules Trump-era cut to H-2A farmworker pay illegal, opening the door to back pay",
+   "s": "A federal judge found the administration's reduction of H-2A guest-worker wage rates unlawful, and growers could owe back pay.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/trump-h2a-farmworker-pay-cut-ruling-back-pay-deadline/",
+   "tp": "Labor",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Anthropic's IPO filing flags immigration policy and H-1B visa fees as a risk",
+   "s": "Anthropic's S-1 warns that tighter immigration rules and steep new H-1B fees could make it harder to recruit AI talent.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/anthropic-ipo-filing-immigration-risks-trump-h1b-visa-fees-ai-talent-recruitment/",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Futures were mixed Wednesday morning as investors awaited a widely expected Fed hold under Chair Kevin Warsh and Microsoft and Alphabet results after the close.",
+   "src": "Yahoo Finance",
+   "t": "Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html"
+  },
+  {
    "d": "2026-10-27",
-   "t": "Ford Fathom will be the cheapest American EV capable of powering a house",
-   "s": "Ford's upcoming Fathom EV will offer bidirectional home-backup power at a lower price than any other US-made electric vehicle.",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ],
+   "s": "Reliance's Jio Platforms jumped 21% in its first day of trading after one of India's largest-ever public offerings.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-   "tp": "Companies & deals",
+   "t": "Jio shares surge 21% in market debut after blockbuster India IPO",
+   "tp": "Markets",
+   "u": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "A senior Meta AI leader is departing to build an AI-native productivity suite aimed squarely at Microsoft and Google's office software.",
+   "src": "TechCrunch",
+   "t": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "BENCH",
     "SPEND"
-   ]
+   ],
+   "s": "Ford's upcoming Fathom EV will offer bidirectional home-backup power at a lower price than any other US-made electric vehicle.",
+   "src": "TechCrunch",
+   "t": "Ford Fathom will be the cheapest American EV capable of powering a house",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
   },
   {
    "d": "2026-10-27",
@@ -396,29 +394,6 @@
    "d": "2026-10-27",
    "m": [
     "MACRO",
-    "TNE"
-   ],
-   "s": "Median Manhattan rent hit a new high, so renters now need a six-figure income to afford a typical apartment while wage growth lags behind.",
-   "src": "Fortune",
-   "t": "Manhattan rents hit a record $3,785 a month, outpacing wages",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/27/new-york-city-rents-record-high-3785-month-outpaced-wages/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "BENCH"
-   ],
-   "s": "A commentary arguing that companies cutting staff, Netflix among them, are failing to treat departing workers with dignity.",
-   "src": "Fortune",
-   "t": "What Netflix's layoffs show corporate America is getting wrong",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/27/netflix-layoffs-corporate-america-getting-wrong-dignity/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO",
     "AI"
    ],
    "s": "Treasury investors are increasingly focused on AI-driven borrowing and swelling government deficits rather than the Fed's next rate move.",
@@ -451,18 +426,6 @@
    "t": "Food and household brands warn of more price hikes as Iran war costs bite",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/economy/articles/food-household-brands-warn-more-182829200.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "TNE",
-    "MACRO"
-   ],
-   "s": "Carriers are raising fares sharply and flying fewer passengers as jet fuel costs climb amid the Iran war.",
-   "src": "Fortune",
-   "t": "Airlines trade nearly 23% higher ticket prices for emptier planes as jet fuel surges",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/27/airlines-nearly-23-prices-empty-jet-fuel-90-iran-war/"
   },
   {
    "d": "2026-10-27",
@@ -890,6 +853,18 @@
   },
   {
    "d": "2026-10-26",
+   "t": "Elon Musk is back at the center of everything",
+   "s": "Semafor looks at how Musk's companies are again shaping markets, AI and politics as Tesla and SpaceX dominate the headlines.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/elon-musk-is-back-at-the-center-of-everything",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "AI",
     "VNDR"
@@ -961,18 +936,6 @@
   {
    "d": "2026-10-26",
    "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Alphabet, Amazon and Microsoft report earnings this week while the Fed, ECB and Bank of Japan all set rates, making it a pivotal stretch for markets.",
-   "src": "Semafor",
-   "t": "Investors ready for a week of Big Tech earnings and central bank decisions",
-   "tp": "Markets",
-   "u": "https://www.semafor.com/article/10/26/2026/investors-ready-for-week-of-big-tech-and-central-bank-announcements"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
     "AI",
     "VNDR"
    ],
@@ -983,5 +946,43 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-numbers-possible-valuation-235317124.html"
   }
  ],
- "updatedAt": "2026-10-28T04:50"
+ "excl": [
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  }
+ ]
 }
