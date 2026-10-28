@@ -41,122 +41,122 @@
  "items": [
   {
    "d": "2026-10-28",
-   "t": "Wall Street choppy as megacap losses offset chip gains ahead of Fed decision",
-   "s": "Stocks traded mixed as declines in the biggest tech names countered a rally in chipmakers, with investors waiting on the Fed's afternoon rate decision.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-choppy-megacap-losses-143539739.html",
-   "tp": "Markets",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Stocks traded mixed as declines in the biggest tech names countered a rally in chipmakers, with investors waiting on the Fed's afternoon rate decision.",
+   "src": "Reuters",
+   "t": "Wall Street choppy as megacap losses offset chip gains ahead of Fed decision",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-choppy-megacap-losses-143539739.html"
   },
   {
    "d": "2026-10-28",
-   "t": "AI giants' funding ambitions test investors' appetite for risk",
-   "s": "The scale of capital the largest AI companies are seeking is pushing investors to weigh how much risk they are willing to take on the sector.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/ai-giants-funding-ambitions-test-141616195.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "The scale of capital the largest AI companies are seeking is pushing investors to weigh how much risk they are willing to take on the sector.",
+   "src": "Reuters",
+   "t": "AI giants' funding ambitions test investors' appetite for risk",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/news/ai-giants-funding-ambitions-test-141616195.html"
   },
   {
    "d": "2026-10-28",
-   "t": "SAP swaps costly AI models for cheaper ones, targeting over €2 billion in savings",
-   "s": "SAP is replacing expensive AI models with lower-cost alternatives as part of a push to cut more than €2 billion in costs.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/sap-swaps-costly-ai-models-140807603.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR",
     "SPEND"
-   ]
+   ],
+   "s": "SAP is replacing expensive AI models with lower-cost alternatives as part of a push to cut more than €2 billion in costs.",
+   "src": "Reuters",
+   "t": "SAP swaps costly AI models for cheaper ones, targeting over €2 billion in savings",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/news/sap-swaps-costly-ai-models-140807603.html"
   },
   {
    "d": "2026-10-28",
-   "t": "GE Vernova to buy high-voltage grid equipment maker for about $9 billion",
-   "s": "GE Vernova agreed to a roughly $9 billion acquisition of a grid-equipment maker as power demand from data centers strains the electric grid.",
-   "src": "The Wall Street Journal",
-   "u": "https://finance.yahoo.com/energy/articles/ge-vernova-buy-high-voltage-120300675.html",
-   "tp": "Companies & deals",
    "m": [
     "AI",
     "BENCH"
-   ]
+   ],
+   "s": "GE Vernova agreed to a roughly $9 billion acquisition of a grid-equipment maker as power demand from data centers strains the electric grid.",
+   "src": "The Wall Street Journal",
+   "t": "GE Vernova to buy high-voltage grid equipment maker for about $9 billion",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/energy/articles/ge-vernova-buy-high-voltage-120300675.html"
   },
   {
    "d": "2026-10-28",
-   "t": "Nvidia forges supplier agreements to expand AI chip capacity",
-   "s": "Nvidia struck new deals with suppliers aimed at increasing production capacity for its AI chips amid persistent compute shortages.",
-   "src": "Supply Chain Dive",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-forges-supplier-agreements-expand-142020989.html",
-   "tp": "Supply chain",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Nvidia struck new deals with suppliers aimed at increasing production capacity for its AI chips amid persistent compute shortages.",
+   "src": "Supply Chain Dive",
+   "t": "Nvidia forges supplier agreements to expand AI chip capacity",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-forges-supplier-agreements-expand-142020989.html"
   },
   {
    "d": "2026-10-28",
-   "t": "Natural gas emerges as a key AI bottleneck, Anthropic's S-1 filing shows",
-   "s": "Anthropic's IPO filing points to natural gas supply for power generation as a growing constraint on AI data center expansion.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/energy/article/natural-gas-emerges-as-key-ai-bottleneck-anthropic-s-1-filing-shows-141103590.html",
-   "tp": "Energy & trade",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Anthropic's IPO filing points to natural gas supply for power generation as a growing constraint on AI data center expansion.",
+   "src": "Yahoo Finance",
+   "t": "Natural gas emerges as a key AI bottleneck, Anthropic's S-1 filing shows",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/article/natural-gas-emerges-as-key-ai-bottleneck-anthropic-s-1-filing-shows-141103590.html"
   },
   {
    "d": "2026-10-28",
-   "t": "Rail backlog grows to 35,000 containers at Los Angeles–Long Beach",
-   "s": "A buildup of roughly 35,000 containers awaiting rail at the Southern California ports is adding delays for importers.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/backlog-grows-35-000-containers-140108002.html",
-   "tp": "Supply chain",
    "m": [
     "VNDR",
     "MACRO"
-   ]
+   ],
+   "s": "A buildup of roughly 35,000 containers awaiting rail at the Southern California ports is adding delays for importers.",
+   "src": "FreightWaves",
+   "t": "Rail backlog grows to 35,000 containers at Los Angeles–Long Beach",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/backlog-grows-35-000-containers-140108002.html"
   },
   {
    "d": "2026-10-28",
-   "t": "America's truckers on the brink with 221 bankruptcies so far this year",
-   "s": "US trucking companies are under mounting financial strain, with 221 bankruptcy filings recorded so far in 2026.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/small-business/articles/americas-truckers-brink-221-bankruptcies-140026424.html",
-   "tp": "Supply chain",
    "m": [
     "MACRO",
     "VNDR"
-   ]
+   ],
+   "s": "US trucking companies are under mounting financial strain, with 221 bankruptcy filings recorded so far in 2026.",
+   "src": "Bloomberg",
+   "t": "America's truckers on the brink with 221 bankruptcies so far this year",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/small-business/articles/americas-truckers-brink-221-bankruptcies-140026424.html"
   },
   {
    "d": "2026-10-28",
-   "t": "Cif maker warns cleaning product prices will rise as Iran war drags on",
-   "s": "The maker of Cif said household cleaning products will get more expensive as the Iran war keeps pushing up input and energy costs.",
-   "src": "The Telegraph",
-   "u": "https://finance.yahoo.com/economy/policy/articles/cleaning-product-prices-soar-iran-132934491.html",
-   "tp": "Economy",
    "m": [
     "MACRO",
     "SPEND"
-   ]
+   ],
+   "s": "The maker of Cif said household cleaning products will get more expensive as the Iran war keeps pushing up input and energy costs.",
+   "src": "The Telegraph",
+   "t": "Cif maker warns cleaning product prices will rise as Iran war drags on",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/cleaning-product-prices-soar-iran-132934491.html"
   },
   {
    "d": "2026-10-28",
-   "t": "Amazon debuts the Alexa Photo Frame, Echo Time smart clock and other upgraded devices",
-   "s": "Amazon unveiled a new lineup of Alexa hardware, including a photo frame and smart clock, alongside refreshed Echo devices.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-   "tp": "AI & tech",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "Amazon unveiled a new lineup of Alexa hardware, including a photo frame and smart clock, alongside refreshed Echo devices.",
+   "src": "TechCrunch",
+   "t": "Amazon debuts the Alexa Photo Frame, Echo Time smart clock and other upgraded devices",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/"
   },
   {
    "d": "2026-10-28",
@@ -556,30 +556,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "A federal judge found the administration's reduction of H-2A guest-worker wage rates unlawful, and growers could owe back pay.",
-   "src": "Fortune",
-   "t": "Judge rules Trump-era cut to H-2A farmworker pay illegal, opening the door to back pay",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/28/trump-h2a-farmworker-pay-cut-ruling-back-pay-deadline/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Anthropic's S-1 warns that tighter immigration rules and steep new H-1B fees could make it harder to recruit AI talent.",
-   "src": "Fortune",
-   "t": "Anthropic's IPO filing flags immigration policy and H-1B visa fees as a risk",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/28/anthropic-ipo-filing-immigration-risks-trump-h1b-visa-fees-ai-talent-recruitment/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "MACRO"
    ],
    "s": "Futures were mixed Wednesday morning as investors awaited a widely expected Fed hold under Chair Kevin Warsh and Microsoft and Alphabet results after the close.",
@@ -589,28 +565,74 @@
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html"
   },
   {
-   "d": "2026-10-27",
-   "t": "Guidewire buys Hyperexponential for $1.7B in cash",
-   "s": "Insurance software maker Guidewire agreed to acquire pricing-platform startup Hyperexponential in an all-cash deal worth $1.7 billion.",
+   "d": "2026-10-28",
+   "t": "Nvidia releases a new open transcription model",
+   "s": "Nvidia released an openly available speech-to-text model as voice AI becomes a hot area for developers and enterprises.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+   "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "South Korea's financial industry hit by fresh wave of cyberattacks",
+   "s": "A new round of cyberattacks has struck South Korean financial firms, adding to security worries across the country's banking sector.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "tp": "AI & tech",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Financial AI startup Casap raises $56 million to fight customer fraud at banks",
+   "s": "Casap raised $56 million to expand AI tools that help banks handle disputes and fraud claims.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/dd/",
    "tp": "Companies & deals",
    "m": [
-    "VNDR",
-    "BENCH"
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Waters launches an AI tool targeting a tedious pharma industry task",
+   "s": "Lab-instrument maker Waters introduced an AI tool meant to automate time-consuming work in pharmaceutical testing.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/waters-new-ai-tool-targets-one-of-the-pharmaceutical-industrys-most-tedious-tasks/",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
    ]
   },
   {
    "d": "2026-10-27",
-   "t": "The data center boom has an upside: innovation for the US grid",
-   "s": "Surging data center power demand is spurring new technology and investment aimed at modernizing the US electric grid.",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ],
+   "s": "Insurance software maker Guidewire agreed to acquire pricing-platform startup Hyperexponential in an all-cash deal worth $1.7 billion.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-   "tp": "Energy & trade",
+   "t": "Guidewire buys Hyperexponential for $1.7B in cash",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Surging data center power demand is spurring new technology and investment aimed at modernizing the US electric grid.",
+   "src": "TechCrunch",
+   "t": "The data center boom has an upside: innovation for the US grid",
+   "tp": "Energy & trade",
+   "u": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
   },
   {
    "d": "2026-10-27",
@@ -646,54 +668,6 @@
    "t": "Re:Build, which spun out Slate Auto, raises $2.1B",
    "tp": "Companies & deals",
    "u": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "Anthropic's finance chief must sell public investors on rapid revenue growth alongside massive compute commitments ahead of the listing.",
-   "src": "Fortune",
-   "t": "As Anthropic's IPO approaches, CFO Krishna Rao faces a defining test",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/27/as-anthropics-ipo-approaches-cfo-krishna-rao-faces-a-defining-test/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Reliance's Jio Platforms jumped 21% in its first day of trading after one of India's largest-ever public offerings.",
-   "src": "TechCrunch",
-   "t": "Jio shares surge 21% in market debut after blockbuster India IPO",
-   "tp": "Markets",
-   "u": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "A senior Meta AI leader is departing to build an AI-native productivity suite aimed squarely at Microsoft and Google's office software.",
-   "src": "TechCrunch",
-   "t": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "BENCH",
-    "SPEND"
-   ],
-   "s": "Ford's upcoming Fathom EV will offer bidirectional home-backup power at a lower price than any other US-made electric vehicle.",
-   "src": "TechCrunch",
-   "t": "Ford Fathom will be the cheapest American EV capable of powering a house",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
   },
   {
    "d": "2026-10-27",
@@ -977,7 +951,31 @@
    "t": "Britain pays its highest five-year borrowing rate since 2008",
    "tp": "Markets",
    "u": "https://finance.yahoo.com/economy/policy/articles/britain-pays-highest-five-borrowing-144603107.html"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "VCs will make billions on Anthropic's IPO, but Amazon stands to make far more",
+   "s": "An analysis of Anthropic's cap table finds venture backers are in line for big gains from the IPO, with Amazon's stake worth far more.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "US consumer confidence ticks up in October",
+   "s": "Consumer confidence improved slightly in October despite high fuel prices and rate-hike worries.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/27/2026/us-consumer-confidence-ticks-up-in-october",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
   }
  ],
- "updatedAt": "2026-10-28T10:57"
+ "updatedAt": "2026-10-28T11:51"
 }
