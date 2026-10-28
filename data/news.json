@@ -40,130 +40,178 @@
  ],
  "items": [
   {
-   "t": "The big takeaways and big questions from Anthropic's S-1",
-   "s": "Fortune breaks down what Anthropic's IPO filing reveals about its finances and governance, and what it still leaves unanswered for investors.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
+   "d": "2026-10-27",
+   "t": "Guidewire buys Hyperexponential for $1.7B in cash",
+   "s": "Insurance software maker Guidewire agreed to an all-cash deal for pricing-analytics startup Hyperexponential, deepening its push into AI-driven underwriting tools.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Werner Enterprises sees cost headwinds lingering into Q1",
+   "s": "The truckload carrier told investors elevated operating costs, including record diesel prices, will keep pressuring margins into early next year.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/werner-enterprises-sees-cost-headwinds-001003845.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "Anduril and Qualcomm launch BlueChip, a US-made laptop",
+   "s": "The defense-tech firm and chipmaker unveiled a laptop assembled in the United States, pitched at buyers seeking a domestic hardware supply chain.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
    "tp": "AI & tech",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "t": "The data center boom has an upside: innovation for the US grid",
+   "s": "Surging power demand from AI data centers is spurring investment in new grid technologies that could ease strain on utilities and lower energy costs over time.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "tp": "Energy & trade",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "AI",
     "VNDR"
    ],
-   "d": "2026-10-27"
+   "s": "Fortune breaks down what Anthropic's IPO filing reveals about its finances and governance, and what it still leaves unanswered for investors.",
+   "src": "Fortune",
+   "t": "The big takeaways and big questions from Anthropic's S-1",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/"
   },
   {
-   "t": "China's first AI-generated film to get a theatrical release flops at the box office",
+   "d": "2026-10-27",
+   "m": [
+    "AI"
+   ],
    "s": "A fully AI-generated feature drew thin audiences in Chinese cinemas, a setback for hopes that generative video can quickly replace traditional production.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/",
+   "t": "China's first AI-generated film to get a theatrical release flops at the box office",
    "tp": "AI & tech",
-   "m": [
-    "AI"
-   ],
-   "d": "2026-10-27"
+   "u": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/"
   },
   {
-   "t": "Wizz Air's CEO, whose father was jailed under Soviet rule, earns $4 million and refuses to retire",
+   "d": "2026-10-27",
+   "m": [
+    "TNE"
+   ],
    "s": "A profile of Wizz Air chief József Váradi, who is staying on at the budget carrier as airlines contend with soaring jet fuel costs.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/27/wizz-air-ceo-jozsef-varadi-father-jailed-soviet-hungary-4-million-salary-refuses-retire/",
+   "t": "Wizz Air's CEO, whose father was jailed under Soviet rule, earns $4 million and refuses to retire",
    "tp": "Companies & deals",
-   "m": [
-    "TNE"
-   ],
-   "d": "2026-10-27"
+   "u": "https://fortune.com/2026/10/27/wizz-air-ceo-jozsef-varadi-father-jailed-soviet-hungary-4-million-salary-refuses-retire/"
   },
   {
-   "t": "Stocks rise ahead of tech earnings and Fed decision",
+   "d": "2026-10-27",
+   "m": [
+    "MACRO"
+   ],
    "s": "Global equities, led by Asia, edged higher on AI enthusiasm as investors positioned for Big Tech results and this week's central bank meetings.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rise-ai-enthusiasm-053058128.html",
+   "t": "Stocks rise ahead of tech earnings and Fed decision",
    "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rise-ai-enthusiasm-053058128.html"
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "MACRO"
    ],
-   "d": "2026-10-27"
-  },
-  {
-   "t": "The Fed says it ignores politics. Its rate moves tell a more complicated story",
    "s": "Ahead of this week's FOMC decision, CNN examines how the Fed's rate path has lined up with political pressure despite its claims of independence.",
    "src": "CNN Business",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-says-ignores-politics-rate-212612613.html",
+   "t": "The Fed says it ignores politics. Its rate moves tell a more complicated story",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ],
-   "d": "2026-10-27"
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-says-ignores-politics-rate-212612613.html"
   },
   {
-   "t": "China's stock market has lost $2.4 trillion as investors doubt its AI boom will pay off",
-   "s": "Chinese equities have shed trillions in value as investors question whether heavy AI spending there will produce returns.",
-   "src": "Decrypt",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chinas-stock-market-lost-2-211602247.html",
-   "tp": "Markets",
+   "d": "2026-10-27",
    "m": [
     "MACRO",
     "AI"
    ],
-   "d": "2026-10-27"
+   "s": "Chinese equities have shed trillions in value as investors question whether heavy AI spending there will produce returns.",
+   "src": "Decrypt",
+   "t": "China's stock market has lost $2.4 trillion as investors doubt its AI boom will pay off",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chinas-stock-market-lost-2-211602247.html"
   },
   {
-   "t": "Trump casts high gas prices as 'short-term pain' at Texas rally",
-   "s": "The president defended elevated fuel prices tied to the Iran war as temporary, days before the midterm elections.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/energy/articles/trump-casts-high-gas-price-210511413.html",
-   "tp": "Energy & trade",
+   "d": "2026-10-27",
    "m": [
     "MACRO",
     "TNE"
    ],
-   "d": "2026-10-27"
+   "s": "The president defended elevated fuel prices tied to the Iran war as temporary, days before the midterm elections.",
+   "src": "Bloomberg",
+   "t": "Trump casts high gas prices as 'short-term pain' at Texas rally",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/trump-casts-high-gas-price-210511413.html"
   },
   {
-   "t": "Bank of America asks customers not to share banking passwords with AI assistants",
-   "s": "As agentic AI tools spread, Bank of America is warning customers against handing their login credentials to AI assistants.",
-   "src": "TechCrunch",
-   "u": "https://finance.yahoo.com/technology/ai/articles/bank-america-kindly-asks-don-214434802.html",
-   "tp": "AI & tech",
+   "d": "2026-10-27",
    "m": [
     "AI",
     "SPEND"
    ],
-   "d": "2026-10-27"
+   "s": "As agentic AI tools spread, Bank of America is warning customers against handing their login credentials to AI assistants.",
+   "src": "TechCrunch",
+   "t": "Bank of America asks customers not to share banking passwords with AI assistants",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/ai/articles/bank-america-kindly-asks-don-214434802.html"
   },
   {
-   "t": "Ferring to acquire IVF startup Gameto for up to $1.4 billion",
-   "s": "Fertility drugmaker Ferring agreed to buy next-generation IVF company Gameto in a deal worth as much as $1.4 billion.",
-   "src": "BioPharma Dive",
-   "u": "https://finance.yahoo.com/healthcare/articles/ferring-acquire-next-gen-ivf-205300343.html",
-   "tp": "Companies & deals",
+   "d": "2026-10-27",
    "m": [
     "VNDR"
    ],
-   "d": "2026-10-27"
+   "s": "Fertility drugmaker Ferring agreed to buy next-generation IVF company Gameto in a deal worth as much as $1.4 billion.",
+   "src": "BioPharma Dive",
+   "t": "Ferring to acquire IVF startup Gameto for up to $1.4 billion",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/healthcare/articles/ferring-acquire-next-gen-ivf-205300343.html"
   },
   {
-   "t": "These jobs saw the biggest jump in pay in recent years",
-   "s": "CBS News looks at the occupations where wages have risen fastest recently, highlighting uneven pay growth in a cooling labor market.",
-   "src": "CBS News",
-   "u": "https://finance.yahoo.com/healthcare/articles/jobs-saw-biggest-jump-pay-214526292.html",
-   "tp": "Labor",
+   "d": "2026-10-27",
    "m": [
     "BENCH",
     "MACRO"
    ],
-   "d": "2026-10-27"
+   "s": "CBS News looks at the occupations where wages have risen fastest recently, highlighting uneven pay growth in a cooling labor market.",
+   "src": "CBS News",
+   "t": "These jobs saw the biggest jump in pay in recent years",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/healthcare/articles/jobs-saw-biggest-jump-pay-214526292.html"
   },
   {
-   "t": "Will Rubio's Jamnagar move permanently break the Russia-India oil axis?",
-   "s": "U.S. pressure on India's Jamnagar refining hub could reshape Russian crude flows to India and global oil trade routes.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/rubio-jamnagar-move-permanently-break-220000091.html",
-   "tp": "Energy & trade",
+   "d": "2026-10-27",
    "m": [
     "MACRO"
    ],
-   "d": "2026-10-27"
+   "s": "U.S. pressure on India's Jamnagar refining hub could reshape Russian crude flows to India and global oil trade routes.",
+   "src": "Oilprice.com",
+   "t": "Will Rubio's Jamnagar move permanently break the Russia-India oil axis?",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/rubio-jamnagar-move-permanently-break-220000091.html"
   },
   {
    "d": "2026-10-27",
@@ -688,28 +736,6 @@
   {
    "d": "2026-10-27",
    "m": [
-    "VNDR"
-   ],
-   "s": "Federal cybersecurity officials warned that attackers are actively exploiting critical PHP vulnerabilities, urging organizations running affected web software to patch quickly.",
-   "src": "TechCrunch",
-   "t": "US government says hackers are now exploiting critical PHP web bugs",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "SPEND"
-   ],
-   "s": "Ford's upcoming Fathom electric truck, priced around $28,000, will be able to act as home backup power, bringing the feature to a much lower price point.",
-   "src": "TechCrunch",
-   "t": "Ford Fathom will be the cheapest American EV capable of powering a house",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
     "AI",
     "MACRO"
    ],
@@ -777,18 +803,6 @@
    "t": "Apple launches new MacBook Pro and iMac as it continues to refresh product lines",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/article/apple-launches-new-macbook-pro-imac-as-it-continues-to-refresh-product-lines-140344374.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "AI infrastructure startup General Compute closed a $100 million Series A and argues demand for independent GPU clouds remains strong.",
-   "src": "TechCrunch",
-   "t": "General Compute raises $100M Series A, countering the 'neocloud disaster' narrative",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
   },
   {
    "d": "2026-10-27",
@@ -873,6 +887,18 @@
   },
   {
    "d": "2026-10-26",
+   "t": "DoorDash in exclusive talks to acquire Instacart",
+   "s": "A deal would combine the two biggest US delivery platforms into a single giant spanning restaurants and groceries.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/26/2026/doordash-in-exclusive-talks-to-acquire-instacart",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-26",
    "m": [
     "MACRO"
    ],
@@ -951,29 +977,7 @@
    "t": "Alleged Russian funding prompts executive exodus at a U.S. LNG firm",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/alleged-russian-funding-prompts-executive-220000104.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "AI"
-   ],
-   "s": "Anthropic's planned listing puts a safety-focused AI lab in front of public investors at a time of growing debate over the risks of the technology.",
-   "src": "CNN Business",
-   "t": "Anthropic set to make stock market debut as questions swirl about AI safety",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-stock-market-debut-134945712.html"
-  },
-  {
-   "d": "2026-10-26",
-   "m": [
-    "MACRO"
-   ],
-   "s": "China is leaning on its own oil fields to make up for lost Iranian crude as the war chokes off supply.",
-   "src": "Oilprice.com",
-   "t": "Beijing pushes domestic oil production as Iranian supply dries up",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/beijing-pushes-domestic-oil-production-230000429.html"
   }
  ],
- "updatedAt": "2026-10-27T19:55"
+ "updatedAt": "2026-10-27T20:51"
 }
