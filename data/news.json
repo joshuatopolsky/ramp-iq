@@ -41,99 +41,123 @@
  "items": [
   {
    "d": "2026-10-28",
-   "t": "Alphabet slips as Google Cloud revenue doubles but free cash flow turns negative",
-   "s": "Google Cloud sales roughly doubled to about $31 billion, yet heavy AI infrastructure spending pushed Alphabet's free cash flow below zero and weighed on the stock.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/",
-   "tp": "Companies & deals",
+   "t": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "s": "Microsoft's latest quarterly results show roughly $10 billion of revenue tied to OpenAI, underscoring how central the startup's compute demand has become to Azure's growth.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Google expands AI Search ads globally as core ad growth slows",
+   "s": "Google is rolling out ads inside its AI-powered search experiences worldwide as growth in its traditional search advertising business cools.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-28",
    "m": [
     "AI",
     "VNDR",
     "BENCH"
-   ]
+   ],
+   "s": "Google Cloud sales roughly doubled to about $31 billion, yet heavy AI infrastructure spending pushed Alphabet's free cash flow below zero and weighed on the stock.",
+   "src": "Fortune",
+   "t": "Alphabet slips as Google Cloud revenue doubles but free cash flow turns negative",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/"
   },
   {
    "d": "2026-10-28",
-   "t": "Microsoft's cloud growth accelerates, and so does its spending",
-   "s": "Microsoft reported faster Azure-driven cloud growth alongside a further jump in capital spending on AI data centers.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/microsofts-cloud-growth-accelerates-and-so-too-does-the-spending/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Microsoft reported faster Azure-driven cloud growth alongside a further jump in capital spending on AI data centers.",
+   "src": "Fortune",
+   "t": "Microsoft's cloud growth accelerates, and so does its spending",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/28/microsofts-cloud-growth-accelerates-and-so-too-does-the-spending/"
   },
   {
    "d": "2026-10-28",
-   "t": "SK Hynix expects the memory-chip shortage to last until 2030",
-   "s": "The chipmaker says more than half of its output is already booked for the next two years as AI demand keeps memory supply tight.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/sk-hynix-memory-shortage-2030/",
-   "tp": "Supply chain",
    "m": [
     "AI",
     "VNDR",
     "MACRO"
-   ]
+   ],
+   "s": "The chipmaker says more than half of its output is already booked for the next two years as AI demand keeps memory supply tight.",
+   "src": "Fortune",
+   "t": "SK Hynix expects the memory-chip shortage to last until 2030",
+   "tp": "Supply chain",
+   "u": "https://fortune.com/2026/10/28/sk-hynix-memory-shortage-2030/"
   },
   {
    "d": "2026-10-28",
-   "t": "Dollar falls after Fed holds rates steady",
+   "m": [
+    "MACRO"
+   ],
    "s": "The U.S. dollar weakened after the Federal Reserve left interest rates unchanged at its October meeting.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-ahead-fed-decision-013404880.html",
+   "t": "Dollar falls after Fed holds rates steady",
    "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-ahead-fed-decision-013404880.html"
   },
   {
    "d": "2026-10-28",
-   "t": "Warsh bats away midterm politics questions after rate decision",
+   "m": [
+    "MACRO"
+   ],
    "s": "Fed Chair Kevin Warsh said politics never came up in the committee's deliberations as the central bank held rates days before the midterm elections.",
    "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/economy/policy/article/i-didnt-hear-an-utterance-about-politics-warsh-bats-away-midterm-talk-following-rate-decision-203737154.html",
+   "t": "Warsh bats away midterm politics questions after rate decision",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/article/i-didnt-hear-an-utterance-about-politics-warsh-bats-away-midterm-talk-following-rate-decision-203737154.html"
   },
   {
    "d": "2026-10-28",
-   "t": "Anthropic launches tools to show companies what their AI spending buys",
-   "s": "New Anthropic tools aim to help businesses measure the return on their AI usage and spending across teams.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "SPEND",
     "VNDR"
-   ]
+   ],
+   "s": "New Anthropic tools aim to help businesses measure the return on their AI usage and spending across teams.",
+   "src": "TechCrunch",
+   "t": "Anthropic launches tools to show companies what their AI spending buys",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
   },
   {
    "d": "2026-10-28",
-   "t": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-   "s": "Autonomous trucking firm Kodiak signed its first commercial agreement to deliver self-driving trucks that will run on public highways.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-   "tp": "Supply chain",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Autonomous trucking firm Kodiak signed its first commercial agreement to deliver self-driving trucks that will run on public highways.",
+   "src": "TechCrunch",
+   "t": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+   "tp": "Supply chain",
+   "u": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/"
   },
   {
    "d": "2026-10-28",
-   "t": "Hacker steals personnel data on thousands of Homeland Security employees",
-   "s": "A breach exposed personnel records for thousands of DHS staff, including CBP and ICE agents.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-   "tp": "AI & tech",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "A breach exposed personnel records for thousands of DHS staff, including CBP and ICE agents.",
+   "src": "TechCrunch",
+   "t": "Hacker steals personnel data on thousands of Homeland Security employees",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/"
   },
   {
    "d": "2026-10-28",
@@ -621,18 +645,6 @@
    "d": "2026-10-28",
    "m": [
     "AI",
-    "VNDR"
-   ],
-   "s": "Autonomous trucking firm Kodiak signed its first commercial contract to supply driverless trucks that will run on public roads.",
-   "src": "TechCrunch",
-   "t": "Kodiak lands first commercial deal for driverless trucks on public highways",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/technology/ai/articles/kodiak-lands-first-commercial-deal-130000978.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
     "SPEND"
    ],
    "s": "Data center equipment maker Vertiv said orders doubled as AI infrastructure spending accelerates, sending its shares higher.",
@@ -805,18 +817,6 @@
    "u": "https://finance.yahoo.com/energy/articles/equinor-profits-triple-oil-gas-092033582.html"
   },
   {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Nvidia released an openly available speech-to-text model as voice AI becomes a hot area for developers and enterprises.",
-   "src": "TechCrunch",
-   "t": "Nvidia releases a new open transcription model",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
-  },
-  {
    "d": "2026-10-27",
    "m": [
     "VNDR"
@@ -980,5 +980,5 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/robinhood-taps-ripples-stablecoin-treasury-201602266.html"
   }
  ],
- "updatedAt": "2026-10-28T16:52"
+ "updatedAt": "2026-10-28T17:51"
 }
