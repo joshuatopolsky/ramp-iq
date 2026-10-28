@@ -41,27 +41,72 @@
  "items": [
   {
    "d": "2026-10-28",
-   "t": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "s": "Microsoft's latest quarterly results show roughly $10 billion of revenue tied to OpenAI, underscoring how central the startup's compute demand has become to Azure's growth.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "tp": "AI & tech",
+   "t": "Investors eye Brazilian equities after post-election selloff",
+   "s": "After markets slumped on Lula's surprise win, some investors see the drop in Brazilian stocks as a buying opportunity.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/28/2026/investors-eye-brazilian-equities-after-election-selloff",
+   "tp": "Markets",
    "m": [
-    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "CBO projects $20 trillion in federal interest costs over the next decade",
+   "s": "The Congressional Budget Office's new outlook has Treasury interest payments on the national debt topping $20 trillion over ten years.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/congressional-budget-office-projections-treasury-national-debt-interest-spending/",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "UK Treasury offers energy bill relief and a one-off payment amid Iran war shock",
+   "s": "Britain is rolling out household energy-bill support and a one-time payment as the Iran war keeps fuel and power prices high.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/uk-treasury-energy-bills-relief-iran-war/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Airbnb drops some guest cleaning chores, and hosts threaten a boycott",
+   "s": "Airbnb told guests they no longer have to do certain cleanup tasks, angering hosts who say it pushes cleaning costs onto them.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/airbnb-guests-no-dishes-strip-beds-hosts-boycott-cleaning-fees/",
+   "tp": "Companies & deals",
+   "m": [
+    "TNE",
     "VNDR"
    ]
   },
   {
    "d": "2026-10-28",
-   "t": "Google expands AI Search ads globally as core ad growth slows",
-   "s": "Google is rolling out ads inside its AI-powered search experiences worldwide as growth in its traditional search advertising business cools.",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Microsoft's latest quarterly results show roughly $10 billion of revenue tied to OpenAI, underscoring how central the startup's compute demand has become to Azure's growth.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "t": "Microsoft recorded $10 billion in revenue from OpenAI",
    "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+  },
+  {
+   "d": "2026-10-28",
    "m": [
     "AI",
     "SPEND"
-   ]
+   ],
+   "s": "Google is rolling out ads inside its AI-powered search experiences worldwide as growth in its traditional search advertising business cools.",
+   "src": "TechCrunch",
+   "t": "Google expands AI Search ads globally as core ad growth slows",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
   },
   {
    "d": "2026-10-28",
@@ -680,41 +725,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "BENCH"
-   ],
-   "s": "GM and Hilton are switching exchanges to Nasdaq, part of a broader shift as Nasdaq courts big listings including Anthropic's IPO.",
-   "src": "Fortune",
-   "t": "Why GM and Hilton are moving their listings from the NYSE to Nasdaq",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/28/gm-hilton-anthropic-ipo-nasdaq-nyse/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "TNE",
-    "MACRO"
-   ],
-   "s": "A cruise operator suspended sailings in Cambodia and left passengers stranded, blaming fuel costs driven up by the Iran war.",
-   "src": "Fortune",
-   "t": "Cruise ship halts operations in Cambodia, citing soaring fuel costs",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/28/cruise-ship-cambodia-strands-passengers-fuel-costs-iran/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Analysts reading Anthropic's IPO filing point to areas where rival OpenAI appears better positioned.",
-   "src": "Fortune",
-   "t": "Anthropic's S-1 shows two areas where OpenAI may have the edge, experts say",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/28/anthropic-s-1-where-openai-might-have-advantage/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "VNDR",
     "BENCH"
    ],
@@ -966,19 +976,7 @@
    "t": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-lists-93-pages-194624369.html"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Robinhood is adding Ripple's RLUSD stablecoin and treasury tools to its offerings, alongside new loans for traders.",
-   "src": "Decrypt",
-   "t": "Robinhood taps Ripple's stablecoin, treasury software and trading loans",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/robinhood-taps-ripples-stablecoin-treasury-201602266.html"
   }
  ],
- "updatedAt": "2026-10-28T17:51"
+ "updatedAt": "2026-10-28T18:55"
 }
