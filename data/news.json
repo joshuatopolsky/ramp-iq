@@ -41,39 +41,109 @@
  "items": [
   {
    "d": "2026-10-29",
-   "t": "Spirit Halloween CEO says tariffs threatened the retailer before its best year yet",
-   "s": "Spirit Halloween's chief executive says tariffs once looked like an existential threat, yet the seasonal chain went on to post its strongest year.",
+   "t": "Why investors wiped out $280 billion in Alphabet market value",
+   "s": "Google Cloud revenue more than doubled, but slower-than-expected Search growth, rising capex and AI disruption fears sent Alphabet shares down over 11% after hours.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/spirit-halloween-ceo-tariffs-covid-charity/",
-   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/29/why-investors-wiped-out-280-billion-alphabet-market-value/",
+   "tp": "Markets",
    "m": [
-    "MACRO",
-    "VNDR"
+    "AI",
+    "MACRO"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Anthropic's IPO filing reveals what it spends on Dario Amodei's security",
-   "s": "Anthropic's prospectus discloses executive security costs for its CEO, joining big tech firms in paying heavily to protect leaders amid rising threats.",
+   "t": "Samsung and Google earnings misses drive tech futures lower as the Fed signals hikes ahead",
+   "s": "Nasdaq futures fell more than 1% after Samsung and Alphabet missed estimates, a day after the Fed held rates but hinted at future increases.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/",
-   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/29/samsung-google-earnings-tech-futures-the-fed-rate/",
+   "tp": "Markets",
    "m": [
-    "AI",
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Can Southeast Asia pitch itself as an 'all-in-one' chip hub?",
+   "s": "AI demand and US-China rivalry are steering chip investment to ASEAN, which is trying to link member states into one semiconductor network despite talent gaps and delayed projects.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/southeast-asia-semiconductor-supply-chain/",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "ECB President Lagarde resigns after months of speculation",
+   "s": "Christine Lagarde will leave the European Central Bank in February 2027, months early, as the bank fights energy-driven inflation with rate hikes.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-president-lagarde-resigns-months-101955920.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Bunge beats quarterly profit estimates on strong crush margins",
+   "s": "The grain trader topped earnings forecasts as Iran-war-driven crop price gains pushed farmers to sell stored grain and oilseed processing sales climbed.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/bunge-beats-quarterly-profit-estimates-103711547.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Gen Z activists are organizing against AI data centers",
-   "s": "Young adults are leading local campaigns against new AI data center projects, adding to the growing political backlash over power and water use.",
+   "t": "Flagship combines three biotech startups to form Etcelera",
+   "s": "Flagship Pioneering merged three of its portfolio biotech companies into a single new company called Etcelera.",
+   "src": "BioPharma Dive",
+   "u": "https://finance.yahoo.com/healthcare/articles/flagship-blends-three-biotech-startups-103000784.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "Spirit Halloween's chief executive says tariffs once looked like an existential threat, yet the seasonal chain went on to post its strongest year.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/meet-gen-z-fighting-back-against-data-centers/",
-   "tp": "AI & tech",
+   "t": "Spirit Halloween CEO says tariffs threatened the retailer before its best year yet",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/29/spirit-halloween-ceo-tariffs-covid-charity/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "Anthropic's prospectus discloses executive security costs for its CEO, joining big tech firms in paying heavily to protect leaders amid rising threats.",
+   "src": "Fortune",
+   "t": "Anthropic's IPO filing reveals what it spends on Dario Amodei's security",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/"
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Young adults are leading local campaigns against new AI data center projects, adding to the growing political backlash over power and water use.",
+   "src": "Fortune",
+   "t": "Gen Z activists are organizing against AI data centers",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/meet-gen-z-fighting-back-against-data-centers/"
   },
   {
    "d": "2026-10-28",
@@ -330,40 +400,6 @@
    "t": "Investors eye Brazilian equities after post-election selloff",
    "tp": "Markets",
    "u": "https://www.semafor.com/article/10/28/2026/investors-eye-brazilian-equities-after-election-selloff"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The Congressional Budget Office's new outlook has Treasury interest payments on the national debt topping $20 trillion over ten years.",
-   "src": "Fortune",
-   "t": "CBO projects $20 trillion in federal interest costs over the next decade",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/28/congressional-budget-office-projections-treasury-national-debt-interest-spending/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Britain is rolling out household energy-bill support and a one-time payment as the Iran war keeps fuel and power prices high.",
-   "src": "Fortune",
-   "t": "UK Treasury offers energy bill relief and a one-off payment amid Iran war shock",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/28/uk-treasury-energy-bills-relief-iran-war/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "TNE",
-    "VNDR"
-   ],
-   "s": "Airbnb told guests they no longer have to do certain cleanup tasks, angering hosts who say it pushes cleaning costs onto them.",
-   "src": "Fortune",
-   "t": "Airbnb drops some guest cleaning chores, and hosts threaten a boycott",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/28/airbnb-guests-no-dishes-strip-beds-hosts-boycott-cleaning-fees/"
   },
   {
    "d": "2026-10-28",
@@ -663,31 +699,6 @@
    "d": "2026-10-28",
    "m": [
     "AI",
-    "MACRO"
-   ],
-   "s": "The scale of capital the largest AI companies are seeking is pushing investors to weigh how much risk they are willing to take on the sector.",
-   "src": "Reuters",
-   "t": "AI giants' funding ambitions test investors' appetite for risk",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/news/ai-giants-funding-ambitions-test-141616195.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "SAP is replacing expensive AI models with lower-cost alternatives as part of a push to cut more than €2 billion in costs.",
-   "src": "Reuters",
-   "t": "SAP swaps costly AI models for cheaper ones, targeting over €2 billion in savings",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/news/sap-swaps-costly-ai-models-140807603.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
     "BENCH"
    ],
    "s": "GE Vernova agreed to a roughly $9 billion acquisition of a grid-equipment maker as power demand from data centers strains the electric grid.",
@@ -963,19 +974,7 @@
    "t": "US consumer confidence ticks up in October",
    "tp": "Economy",
    "u": "https://www.semafor.com/article/10/27/2026/us-consumer-confidence-ticks-up-in-october"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Microsoft's voluntary buyouts for roughly 60,000 workers signal which roles the company sees as less essential as it shifts resources to AI.",
-   "src": "Semafor",
-   "t": "Microsoft's buyout offer to employees shows which tech jobs matter",
-   "tp": "Labor",
-   "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter"
   }
  ],
- "updatedAt": "2026-10-29T05:51"
+ "updatedAt": "2026-10-29T06:56"
 }
