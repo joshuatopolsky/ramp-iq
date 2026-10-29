@@ -40,121 +40,156 @@
  ],
  "items": [
   {
-   "t": "US economy grows at a brisk 3.4% pace in the third quarter",
-   "s": "Third-quarter GDP accelerated to a 3.4% annualized rate, powered by solid consumer spending and heavy AI investment.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/economy/articles/us-economy-grew-faster-3-123219292.html",
+   "d": "2026-10-29",
+   "t": "ECB keeps rates unchanged but points to mounting inflation risk",
+   "s": "The European Central Bank held its key rate at 2.5% while flagging rising inflation pressure, as Christine Lagarde announced she will step down early.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-keeps-rates-unchanged-points-132927008.html",
    "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Wall St set for lower open as Alphabet results reignite AI spending fears",
+   "s": "US stock futures slipped after Alphabet's heavy capital spending revived worries about the cost of the AI buildout, even as economic data came in strong.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Reinsurers are the financial engine behind America's construction boom",
+   "s": "Swiss Re and other reinsurers are underwriting the risk on a surge of US building projects, making them a quiet driver of the construction cycle.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/reinsurance-america-construction-boom-swiss-re/",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "MACRO",
     "AI"
    ],
-   "d": "2026-10-29"
+   "s": "Third-quarter GDP accelerated to a 3.4% annualized rate, powered by solid consumer spending and heavy AI investment.",
+   "src": "AP",
+   "t": "US economy grows at a brisk 3.4% pace in the third quarter",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/articles/us-economy-grew-faster-3-123219292.html"
   },
   {
-   "t": "US jobless claims slide to 194,000, lowest since mid-July",
-   "s": "Initial unemployment claims fell to 194,000 last week, near multi-decade lows and a sign layoffs remain scarce.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/economy/articles/us-unemployment-claims-dipped-194-123414074.html",
-   "tp": "Labor",
+   "d": "2026-10-29",
    "m": [
     "MACRO"
    ],
-   "d": "2026-10-29"
+   "s": "Initial unemployment claims fell to 194,000 last week, near multi-decade lows and a sign layoffs remain scarce.",
+   "src": "AP",
+   "t": "US jobless claims slide to 194,000, lowest since mid-July",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/economy/articles/us-unemployment-claims-dipped-194-123414074.html"
   },
   {
-   "t": "US inflation heats up in September as consumer spending rises",
-   "s": "The Fed's preferred PCE gauge ticked higher in September while household spending kept climbing, keeping a year-end rate hike in view.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-inflation-heats-september-consumer-125003275.html",
-   "tp": "Economy",
+   "d": "2026-10-29",
    "m": [
     "MACRO",
     "SPEND"
    ],
-   "d": "2026-10-29"
+   "s": "The Fed's preferred PCE gauge ticked higher in September while household spending kept climbing, keeping a year-end rate hike in view.",
+   "src": "Reuters",
+   "t": "US inflation heats up in September as consumer spending rises",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/us-inflation-heats-september-consumer-125003275.html"
   },
   {
-   "t": "DoorDash strikes $17 billion deal for rival Instacart",
-   "s": "DoorDash agreed to buy Instacart for about $17 billion, doubling down on grocery delivery and consolidating the US delivery market.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/small-business/articles/doordash-strikes-17-billion-deal-122549998.html",
-   "tp": "Companies & deals",
+   "d": "2026-10-29",
    "m": [
     "VNDR",
     "BENCH"
    ],
-   "d": "2026-10-29"
+   "s": "DoorDash agreed to buy Instacart for about $17 billion, doubling down on grocery delivery and consolidating the US delivery market.",
+   "src": "Reuters",
+   "t": "DoorDash strikes $17 billion deal for rival Instacart",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/small-business/articles/doordash-strikes-17-billion-deal-122549998.html"
   },
   {
-   "t": "Fortinet drags down cybersecurity stocks after service revenue forecast misses",
-   "s": "Fortinet's weaker-than-expected service revenue outlook sent its shares and other security vendors lower.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/article/fortinet-drags-down-cybersecurity-stocks-as-the-companys-service-revenue-forecast-misses-estimates-124146969.html",
-   "tp": "Markets",
+   "d": "2026-10-29",
    "m": [
     "VNDR"
    ],
-   "d": "2026-10-29"
+   "s": "Fortinet's weaker-than-expected service revenue outlook sent its shares and other security vendors lower.",
+   "src": "Yahoo Finance",
+   "t": "Fortinet drags down cybersecurity stocks after service revenue forecast misses",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/article/fortinet-drags-down-cybersecurity-stocks-as-the-companys-service-revenue-forecast-misses-estimates-124146969.html"
   },
   {
-   "t": "Hershey CEO offers a grim read on Halloween candy sales",
-   "s": "Hershey's chief executive cautioned that higher prices are weighing on how much shoppers are buying for Halloween.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/article/hershey-ceo-offers-a-ghoulish-warning-on-how-halloween-candy-sales-are-going-125423251.html",
-   "tp": "Companies & deals",
+   "d": "2026-10-29",
    "m": [
     "SPEND",
     "MACRO"
    ],
-   "d": "2026-10-29"
+   "s": "Hershey's chief executive cautioned that higher prices are weighing on how much shoppers are buying for Halloween.",
+   "src": "Yahoo Finance",
+   "t": "Hershey CEO offers a grim read on Halloween candy sales",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/article/hershey-ceo-offers-a-ghoulish-warning-on-how-halloween-candy-sales-are-going-125423251.html"
   },
   {
-   "t": "Fed Chair Warsh warns AI investors that interest rates still matter",
-   "s": "Kevin Warsh signaled that higher rates can reach into the AI investment boom, a message aimed at CFOs and investors betting on cheap financing.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/",
-   "tp": "Economy",
+   "d": "2026-10-29",
    "m": [
     "MACRO",
     "AI"
    ],
-   "d": "2026-10-29"
+   "s": "Kevin Warsh signaled that higher rates can reach into the AI investment boom, a message aimed at CFOs and investors betting on cheap financing.",
+   "src": "Fortune",
+   "t": "Fed Chair Warsh warns AI investors that interest rates still matter",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/"
   },
   {
-   "t": "Etsy's new CEO cracks down on AI-generated listings",
-   "s": "Etsy's incoming chief is restricting AI-made listings in a bid to win back buyers who have drifted away from the marketplace.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return/",
-   "tp": "AI & tech",
+   "d": "2026-10-29",
    "m": [
     "AI",
     "BENCH"
    ],
-   "d": "2026-10-29"
+   "s": "Etsy's incoming chief is restricting AI-made listings in a bid to win back buyers who have drifted away from the marketplace.",
+   "src": "Fortune",
+   "t": "Etsy's new CEO cracks down on AI-generated listings",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return/"
   },
   {
-   "t": "Cyber founders say AI is giving attackers the upper hand",
-   "s": "Dozens of cybersecurity founders told Fortune that AI tools are currently helping hackers more than defenders.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/attackers-winning-cyber-60-founders-ai-giving-hackers-upper-hand/",
-   "tp": "AI & tech",
+   "d": "2026-10-29",
    "m": [
     "AI",
     "VNDR"
    ],
-   "d": "2026-10-29"
+   "s": "Dozens of cybersecurity founders told Fortune that AI tools are currently helping hackers more than defenders.",
+   "src": "Fortune",
+   "t": "Cyber founders say AI is giving attackers the upper hand",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/attackers-winning-cyber-60-founders-ai-giving-hackers-upper-hand/"
   },
   {
-   "t": "Justin Sun's HTX agrees to leave the UK in settlement with financial watchdog",
-   "s": "Crypto exchange HTX will exit the UK market under a settlement with the Financial Conduct Authority.",
-   "src": "Decrypt",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/justin-suns-htx-agrees-leave-125828365.html",
-   "tp": "Companies & deals",
+   "d": "2026-10-29",
    "m": [
     "VNDR"
    ],
-   "d": "2026-10-29"
+   "s": "Crypto exchange HTX will exit the UK market under a settlement with the Financial Conduct Authority.",
+   "src": "Decrypt",
+   "t": "Justin Sun's HTX agrees to leave the UK in settlement with financial watchdog",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/justin-suns-htx-agrees-leave-125828365.html"
   },
   {
    "d": "2026-10-29",
@@ -331,18 +366,6 @@
    "t": "Microsoft discloses Azure revenue in dollars for the first time: $33.2 billion",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "Amazon is warning its engineers against 'token-maxxing,' saying heavier use of AI tools is no proxy for productivity or quality.",
-   "src": "Fortune",
-   "t": "Amazon tells engineers that using more AI tools doesn't mean better work",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/28/amazon-token-maxxing-ai-work/"
   },
   {
    "d": "2026-10-28",
@@ -610,29 +633,6 @@
    "t": "Oil prices rise on Yemen fighting and an attack on a Saudi refinery",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/news/oil-prices-rise-attack-saudi-021422891.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Canadian officials say negotiations with Washington have made only modest headway, leaving tariff uncertainty in place for cross-border businesses.",
-   "src": "Reuters",
-   "t": "Canada reports limited progress in trade talks with the US",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/news/canada-reports-limited-progress-trade-131412397.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Rome's new budget leans on higher levies on lenders and energy companies to fund its spending plans.",
-   "src": "Reuters",
-   "t": "Italy approves 2027 budget with tax hikes on banks and energy firms",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/news/italy-approves-2027-budget-tax-192752957.html"
   },
   {
    "d": "2026-10-28",
@@ -976,5 +976,5 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-downplays-french-debt-103425260.html"
   }
  ],
- "updatedAt": "2026-10-29T09:14"
+ "updatedAt": "2026-10-29T09:58"
 }
