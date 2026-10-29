@@ -41,21 +41,34 @@
  "items": [
   {
    "d": "2026-10-28",
-   "t": "New Zealand central bank governor says chances of a December rate hike are 'high'",
-   "s": "The Reserve Bank of New Zealand's governor signaled a strong likelihood of tightening next month as inflation pressures persist.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/zealand-central-bank-governor-says-002236287.html",
-   "tp": "Economy",
+   "t": "Microsoft discloses Azure revenue in dollars for the first time: $33.2 billion",
+   "s": "Microsoft broke out Azure's quarterly sales as a dollar figure for the first time, extending a run of ten straight record-revenue quarters.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "tp": "AI & tech",
    "m": [
-    "MACRO"
+    "AI",
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-28",
-   "t": "Oil declines as traders parse signs of fresh diplomacy on Iran",
-   "s": "Crude prices eased as hints of renewed diplomatic talks over Iran tempered worries about Middle East supply disruptions.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/energy/articles/oil-declines-traders-parse-signs-220501881.html",
+   "t": "Amazon tells engineers that using more AI tools doesn't mean better work",
+   "s": "Amazon is warning its engineers against 'token-maxxing,' saying heavier use of AI tools is no proxy for productivity or quality.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/amazon-token-maxxing-ai-work/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Cruise ship halts operations in Cambodia as fuel costs surge more than 300%",
+   "s": "A cruise operator disembarked passengers and suspended sailing in Cambodia, blaming a fuel-price spike linked to the Iran war.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/28/cruise-ship-cambodia-strands-passengers-fuel-costs-iran/",
    "tp": "Energy & trade",
    "m": [
     "MACRO",
@@ -64,37 +77,82 @@
   },
   {
    "d": "2026-10-28",
-   "t": "Scan Global Logistics to acquire Oregon-based OIA Global",
-   "s": "Danish freight forwarder Scan Global Logistics agreed to buy OIA Global, expanding its US logistics and supply chain services footprint.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/small-business/articles/scan-global-logistics-acquire-oregon-000726243.html",
-   "tp": "Supply chain",
+   "t": "South Korea's financial industry hit by a fresh wave of cyberattacks",
+   "s": "A new round of cyberattacks struck South Korean financial firms, adding to a string of security incidents in the country's banking sector.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "tp": "AI & tech",
    "m": [
     "VNDR"
    ]
   },
   {
    "d": "2026-10-28",
-   "t": "Oil refineries become prime targets as global fuel shortage worsens",
-   "s": "Attacks on refining infrastructure are tightening already-strained global fuel supplies and pushing product prices higher.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/oil-refineries-become-prime-targets-230000892.html",
-   "tp": "Energy & trade",
+   "t": "Nvidia releases an open transcription model as voice AI heats up",
+   "s": "Nvidia published a new open speech-to-text model, joining a crowded push by tech firms into voice AI tools.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "tp": "AI & tech",
    "m": [
-    "MACRO",
-    "TNE"
+    "AI"
    ]
   },
   {
    "d": "2026-10-28",
-   "t": "General Motors moves its listing from the NYSE to Nasdaq and pitches itself as a tech company",
-   "s": "GM is switching exchanges to recast itself as a technology business, following Walmart and Hilton in making the move.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/28/2026/general-motors-moves-listing-from-nyse-to-nasdaq-and-pitches-itself-as-a-tech-company",
-   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The Reserve Bank of New Zealand's governor signaled a strong likelihood of tightening next month as inflation pressures persist.",
+   "src": "Reuters",
+   "t": "New Zealand central bank governor says chances of a December rate hike are 'high'",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/zealand-central-bank-governor-says-002236287.html"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "Crude prices eased as hints of renewed diplomatic talks over Iran tempered worries about Middle East supply disruptions.",
+   "src": "Bloomberg",
+   "t": "Oil declines as traders parse signs of fresh diplomacy on Iran",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/oil-declines-traders-parse-signs-220501881.html"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Danish freight forwarder Scan Global Logistics agreed to buy OIA Global, expanding its US logistics and supply chain services footprint.",
+   "src": "FreightWaves",
+   "t": "Scan Global Logistics to acquire Oregon-based OIA Global",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/small-business/articles/scan-global-logistics-acquire-oregon-000726243.html"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "Attacks on refining infrastructure are tightening already-strained global fuel supplies and pushing product prices higher.",
+   "src": "Oilprice.com",
+   "t": "Oil refineries become prime targets as global fuel shortage worsens",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/oil-refineries-become-prime-targets-230000892.html"
+  },
+  {
+   "d": "2026-10-28",
    "m": [
     "BENCH"
-   ]
+   ],
+   "s": "GM is switching exchanges to recast itself as a technology business, following Walmart and Hilton in making the move.",
+   "src": "Semafor",
+   "t": "General Motors moves its listing from the NYSE to Nasdaq and pitches itself as a tech company",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/28/2026/general-motors-moves-listing-from-nyse-to-nasdaq-and-pitches-itself-as-a-tech-company"
   },
   {
    "d": "2026-10-28",
@@ -373,29 +431,6 @@
    "m": [
     "MACRO"
    ],
-   "s": "The Fed kept rates unchanged under Chair Kevin Warsh, but two officials broke ranks in favor of a hike, a rare joint dissent that signals pressure to tighten further.",
-   "src": "Fortune",
-   "t": "Fed holds rates steady as a governor and a regional president dissent together for the first time since 1992",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Regulators accuse the discount chain of charging low-income shoppers more at the register than the prices posted on its shelves.",
-   "src": "Fortune",
-   "t": "FTC and 20 states sue Dollar General over alleged shelf-price overcharging",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/28/dollar-general-ftc-lawsuit-overcharging-shelf-prices/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
    "s": "The Fed trimmed its 2027 meeting calendar to seven sessions, meaning each remaining decision carries more weight for borrowing costs and markets.",
    "src": "Yahoo Finance",
    "t": "The Fed just removed a 2027 rate decision, raising the stakes for the remaining seven",
@@ -534,29 +569,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Google is letting more third-party apps plug into Gemini and Search, betting on agents that act across services for users.",
-   "src": "TechCrunch",
-   "t": "Google opens Gemini and Search to more apps as AI agents reshape the web",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI"
-   ],
-   "s": "Reddit is rolling out an algorithmic 'For You' feed, following other social platforms in recommending content beyond the communities users follow.",
-   "src": "TechCrunch",
-   "t": "Reddit adopts a 'For You' feed in its latest platform shift",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "MACRO",
     "AI"
    ],
@@ -625,18 +637,6 @@
    "t": "US consumers look resilient despite higher prices for gas and Halloween candy",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/economy/article/us-consumers-look-resilient-despite-higher-prices-for-gas-halloween-candy-and-more-155545270.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "The Energy Department is financing nuclear projects meant to supply electricity for AI data center demand.",
-   "src": "TechCrunch",
-   "t": "DOE lends $5 billion to nuclear plants that will power data centers",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/trump-doe-loans-5b-nuclear-155321800.html"
   },
   {
    "d": "2026-10-28",
@@ -933,6 +933,17 @@
   },
   {
    "d": "2026-10-27",
+   "t": "Hasbro's AI play: an AI-generated Mr. Potato Head voiced by Don Rickles",
+   "s": "Hasbro is betting on generative AI with a talking Mr. Potato Head that recreates the late comedian's voice.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/27/2026/hasbros-ai-play-involves-an-ai-generated-mr-potato-head-voiced-by-don-rickles",
+   "tp": "Companies & deals",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-27",
    "m": [
     "VNDR"
    ],
@@ -965,19 +976,7 @@
    "t": "Microsoft's buyout offer to employees shows which tech jobs matter",
    "tp": "Labor",
    "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Anthropic's listing will hinge on investors accepting years of heavy spending before its AI business delivers profits.",
-   "src": "Semafor",
-   "t": "Anthropic's IPO needs believers to bridge it to the payoff",
-   "tp": "AI & tech",
-   "u": "https://www.semafor.com/article/10/27/2026/anthropics-ipo-needs-believers-to-bridge-it-to-the-payoff"
   }
  ],
- "updatedAt": "2026-10-28T20:50"
+ "updatedAt": "2026-10-28T21:55"
 }
