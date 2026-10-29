@@ -41,119 +41,130 @@
  "items": [
   {
    "d": "2026-10-29",
-   "t": "Drugmakers shrug off Trump pricing pressure with record revenue",
-   "s": "Big pharma posted record quarterly sales despite the White House's push to lower drug prices.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/healthcare/articles/drugmakers-shrug-off-trump-pricing-164649742.html",
-   "tp": "Companies & deals",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Universal Music's subscription revenue growth improves",
-   "s": "The label's subscription streaming revenue picked up pace in its latest quarter, easing worries about a slowdown.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/media-advertising/articles/universal-music-subscription-revenue-growth-172033698.html",
-   "tp": "Companies & deals",
-   "m": [
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "What to consider if a company that made AI-related job cuts wants you back",
-   "s": "As some employers rehire after AI-driven layoffs, workers are weighing pay, stability and leverage before returning.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/technology/ai/articles/consider-company-made-ai-related-172246414.html",
-   "tp": "Labor",
-   "m": [
-    "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "These are the best and worst states for finding a job, study finds",
-   "s": "A new ranking compares states on openings, unemployment and wages to show where job seekers have the best odds.",
-   "src": "USA Today",
-   "u": "https://finance.yahoo.com/economy/articles/best-worst-states-finding-job-170308514.html",
-   "tp": "Labor",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Fanatics revamps outfit curation tool with OpenAI",
-   "s": "The sports merchandiser rebuilt its styling feature on OpenAI models to drive more personalized shopping.",
-   "src": "Retail Dive",
-   "u": "https://finance.yahoo.com/technology/ai/articles/fanatics-revamps-outfit-curation-tool-165800205.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "$11 billion in bitcoin options expire tomorrow",
-   "s": "A large monthly options expiry could add volatility to bitcoin prices heading into the weekend.",
-   "src": "Decrypt",
-   "u": "https://finance.yahoo.com/markets/options/articles/11-billion-bitcoin-options-expire-171511090.html",
-   "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "These 3 sectors could be in focus in Washington next year, no matter who wins Tuesday",
-   "s": "Analysts flag industries likely to face policy attention after the midterms regardless of which party gains.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/economy/article/these-3-sectors-could-be-in-focus-next-year-in-washington--no-matter-who-wins-on-tuesday-173922303.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Amazon earnings: AI growth takes center stage",
-   "s": "Investors are watching AWS growth and Amazon's roughly $220 billion capex plan as the company reports third-quarter results.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/live/amazon-earnings-live-ai-growth-takes-center-stage-173000277.html",
-   "tp": "Companies & deals",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "US investigated Chinese spy plot aimed at Nvidia CEO",
-   "s": "Federal authorities probed an alleged Chinese intelligence effort targeting Jensen Huang.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-   "tp": "AI & tech",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "SuperMe raised $20 million to grow a network of AI-powered profiles that let people tap the knowledge of experts on demand.",
+   "src": "TechCrunch",
+   "t": "SuperMe raises $20M for its network of AI expert profiles",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/"
   },
   {
    "d": "2026-10-29",
-   "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-   "s": "The startup is applying AI simulation models to construction planning, backed by Andreessen Horowitz.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-   "tp": "AI & tech",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ],
+   "s": "Big pharma posted record quarterly sales despite the White House's push to lower drug prices.",
+   "src": "Bloomberg",
+   "t": "Drugmakers shrug off Trump pricing pressure with record revenue",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/healthcare/articles/drugmakers-shrug-off-trump-pricing-164649742.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "BENCH"
+   ],
+   "s": "The label's subscription streaming revenue picked up pace in its latest quarter, easing worries about a slowdown.",
+   "src": "Bloomberg",
+   "t": "Universal Music's subscription revenue growth improves",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/media-advertising/articles/universal-music-subscription-revenue-growth-172033698.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "As some employers rehire after AI-driven layoffs, workers are weighing pay, stability and leverage before returning.",
+   "src": "AP",
+   "t": "What to consider if a company that made AI-related job cuts wants you back",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/technology/ai/articles/consider-company-made-ai-related-172246414.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ],
+   "s": "A new ranking compares states on openings, unemployment and wages to show where job seekers have the best odds.",
+   "src": "USA Today",
+   "t": "These are the best and worst states for finding a job, study finds",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/economy/articles/best-worst-states-finding-job-170308514.html"
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "The sports merchandiser rebuilt its styling feature on OpenAI models to drive more personalized shopping.",
+   "src": "Retail Dive",
+   "t": "Fanatics revamps outfit curation tool with OpenAI",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/ai/articles/fanatics-revamps-outfit-curation-tool-165800205.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO"
+   ],
+   "s": "A large monthly options expiry could add volatility to bitcoin prices heading into the weekend.",
+   "src": "Decrypt",
+   "t": "$11 billion in bitcoin options expire tomorrow",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/options/articles/11-billion-bitcoin-options-expire-171511090.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Analysts flag industries likely to face policy attention after the midterms regardless of which party gains.",
+   "src": "Yahoo Finance",
+   "t": "These 3 sectors could be in focus in Washington next year, no matter who wins Tuesday",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/article/these-3-sectors-could-be-in-focus-next-year-in-washington--no-matter-who-wins-on-tuesday-173922303.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Investors are watching AWS growth and Amazon's roughly $220 billion capex plan as the company reports third-quarter results.",
+   "src": "Yahoo Finance",
+   "t": "Amazon earnings: AI growth takes center stage",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/live/amazon-earnings-live-ai-growth-takes-center-stage-173000277.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI"
+   ],
+   "s": "Federal authorities probed an alleged Chinese intelligence effort targeting Jensen Huang.",
+   "src": "TechCrunch",
+   "t": "US investigated Chinese spy plot aimed at Nvidia CEO",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "The startup is applying AI simulation models to construction planning, backed by Andreessen Horowitz.",
+   "src": "TechCrunch",
+   "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
   },
   {
    "d": "2026-10-29",
@@ -644,16 +655,52 @@
   },
   {
    "d": "2026-10-28",
-   "t": "Anthropic launches tools to show companies what their AI spending is buying",
-   "s": "New enterprise features let customers track usage and measure the business return on their Claude spend.",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Semafor examines the pressures — including AI and the wind-down of a storied bankruptcy firm — forcing large law firms to rethink their business model.",
+   "src": "Semafor",
+   "t": "Big Law faces its reckoning",
+   "tp": "Labor",
+   "u": "https://www.semafor.com/article/10/28/2026/big-law-faces-its-reckoning"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "AI",
+    "SPEND"
+   ],
+   "s": "Autonomous trucking company Kodiak signed its first commercial agreement to supply self-driving trucks that will run on public highways.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "tp": "AI & tech",
+   "t": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+   "tp": "Supply chain",
+   "u": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/"
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "VNDR",
+    "AI"
+   ],
+   "s": "Cloud security startup Upwind turned down a buyout bid from Datadog and instead raised a $400 million round to stay independent.",
+   "src": "TechCrunch",
+   "t": "Upwind raises $400M after walking away from Datadog acquisition offer",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+  },
+  {
+   "d": "2026-10-28",
    "m": [
     "AI",
     "SPEND",
     "VNDR"
-   ]
+   ],
+   "s": "New enterprise features let customers track usage and measure the business return on their Claude spend.",
+   "src": "TechCrunch",
+   "t": "Anthropic launches tools to show companies what their AI spending is buying",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
   },
   {
    "d": "2026-10-28",
@@ -677,41 +724,6 @@
    "t": "Fed holds rates steady despite dissents",
    "tp": "Economy",
    "u": "https://www.semafor.com/article/10/28/2026/fed-holds-rates-steady-despite-dissents"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Google is letting more third-party apps plug into Gemini and Search, betting that AI agents will become a main way people get things done online.",
-   "src": "TechCrunch",
-   "t": "Google opens Gemini and Search to more apps as AI agents reshape the web",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Microsoft broke out Azure's quarterly sales as a dollar figure for the first time, extending a run of ten straight record-revenue quarters.",
-   "src": "TechCrunch",
-   "t": "Microsoft discloses Azure revenue in dollars for the first time: $33.2 billion",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR"
-   ],
-   "s": "A new round of cyberattacks struck South Korean financial firms, adding to a string of security incidents in the country's banking sector.",
-   "src": "TechCrunch",
-   "t": "South Korea's financial industry hit by a fresh wave of cyberattacks",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
   },
   {
    "d": "2026-10-28",
@@ -957,19 +969,7 @@
    "t": "GE Vernova to buy high-voltage grid equipment maker for about $9 billion",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/energy/articles/ge-vernova-buy-high-voltage-120300675.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Nvidia struck new deals with suppliers aimed at increasing production capacity for its AI chips amid persistent compute shortages.",
-   "src": "Supply Chain Dive",
-   "t": "Nvidia forges supplier agreements to expand AI chip capacity",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-forges-supplier-agreements-expand-142020989.html"
   }
  ],
- "updatedAt": "2026-10-29T13:55"
+ "updatedAt": "2026-10-29T14:56"
 }
