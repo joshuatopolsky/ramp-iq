@@ -41,45 +41,45 @@
  "items": [
   {
    "d": "2026-10-29",
-   "t": "Agent identity startup Mintive raises from Cowboy Ventures and Coatue, with Jeff Dean and Andrej Karpathy as angels",
-   "s": "Mintive, which builds identity and credential management for AI agents, landed backing from top VCs and prominent AI researchers.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+   "t": "AI's appetite for chips drives Samsung to a record $80.5 billion quarterly profit",
+   "s": "Surging demand for memory chips used in AI data centers pushed Samsung's quarterly operating profit to an all-time high.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/",
    "tp": "AI & tech",
    "m": [
     "AI",
-    "VNDR"
+    "MACRO"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Wabi, the AI agent that builds mini apps, valued at $1.25 billion after latest round",
-   "s": "Wabi's new funding round makes the consumer app-building AI agent the latest startup to cross a billion-dollar valuation.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-   "tp": "AI & tech",
+   "t": "Mongolia's copper exports drop $300 million after China border restrictions",
+   "s": "Chinese limits at the border have cut Mongolia's copper shipments, with losses projected to reach $1.2 billion by year-end.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/mongolia-300-million-copper-exports-china-border-1-2-billion/",
+   "tp": "Energy & trade",
    "m": [
-    "AI"
+    "MACRO"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Deepgram acquires Pipecat maker Daily to bolster its voice AI infrastructure",
-   "s": "Speech AI company Deepgram is buying Daily, the real-time video and audio firm behind the open-source Pipecat voice-agent framework.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+   "t": "FTC orders Target and Walmart to provide details in personalized pricing inquiry",
+   "s": "The FTC is demanding information from the two big-box retailers as it probes whether shoppers are charged different prices based on their data.",
+   "src": "Retail Dive",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ftc-orders-target-walmart-details-154900533.html",
    "tp": "Companies & deals",
    "m": [
-    "AI",
-    "VNDR"
+    "VNDR",
+    "MACRO"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Apollo's twin deals reveal Wall Street's AI money problem",
-   "s": "A pair of Apollo financings shows how private credit is stretching to meet the enormous capital needs of AI infrastructure.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/29/2026/apollos-twin-deals-reveal-wall-streets-ai-money-problem",
+   "t": "Cash is king as investors draw new battle lines in AI spending boom",
+   "s": "Investors are rewarding tech giants that can fund AI buildouts from cash flow while punishing those leaning on debt or burning cash.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/technology/ai/articles/cash-king-investors-draw-battle-023355229.html",
    "tp": "Markets",
    "m": [
     "AI",
@@ -88,15 +88,109 @@
   },
   {
    "d": "2026-10-29",
-   "t": "Mistral releases Large 4, claiming the top open model for agentic coding and cyber defense",
-   "s": "French AI lab Mistral launched its newest flagship model, pitching it as the leading open-weight option for coding agents and security work.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/mistral-releases-new-model-large-4-and-claims-top-open-model-for-agentic-coding-and-cyber-defense/",
-   "tp": "AI & tech",
+   "t": "FedEx draws parcel-focused shippers to its air freight services",
+   "s": "FedEx is pulling more parcel shippers onto its air freight offerings as it looks to fill capacity in its network.",
+   "src": "Supply Chain Dive",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-drawing-parcel-focused-shippers-153600494.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Caterpillar sales jump on growing AI demand, but Wall Street wanted more",
+   "s": "Data center power equipment lifted Caterpillar's sales, yet the results fell short of lofty investor expectations and the stock slid.",
+   "src": "The Wall Street Journal",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-sales-jump-wall-street-110100412.html",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "2026 holiday travel costs could reach a 10-year high",
+   "s": "Airfares and other travel expenses for the coming holidays are on track to be the most expensive in a decade.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/2026-holiday-travel-costs-could-reach-a-10-year-high-152853932.html",
+   "tp": "Economy",
+   "m": [
+    "TNE",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Three reasons home prices keep rising even as fewer people buy",
+   "s": "Tight inventory and other structural factors are keeping US home prices climbing despite a slowdown in sales.",
+   "src": "MarketWatch",
+   "u": "https://finance.yahoo.com/real-estate/articles/3-reasons-home-prices-keep-153300825.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Mintive, which builds identity and credential management for AI agents, landed backing from top VCs and prominent AI researchers.",
+   "src": "TechCrunch",
+   "t": "Agent identity startup Mintive raises from Cowboy Ventures and Coatue, with Jeff Dean and Andrej Karpathy as angels",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI"
+   ],
+   "s": "Wabi's new funding round makes the consumer app-building AI agent the latest startup to cross a billion-dollar valuation.",
+   "src": "TechCrunch",
+   "t": "Wabi, the AI agent that builds mini apps, valued at $1.25 billion after latest round",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Speech AI company Deepgram is buying Daily, the real-time video and audio firm behind the open-source Pipecat voice-agent framework.",
+   "src": "TechCrunch",
+   "t": "Deepgram acquires Pipecat maker Daily to bolster its voice AI infrastructure",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "A pair of Apollo financings shows how private credit is stretching to meet the enormous capital needs of AI infrastructure.",
+   "src": "Semafor",
+   "t": "Apollo's twin deals reveal Wall Street's AI money problem",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/29/2026/apollos-twin-deals-reveal-wall-streets-ai-money-problem"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "French AI lab Mistral launched its newest flagship model, pitching it as the leading open-weight option for coding agents and security work.",
+   "src": "Fortune",
+   "t": "Mistral releases Large 4, claiming the top open model for agentic coding and cyber defense",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/mistral-releases-new-model-large-4-and-claims-top-open-model-for-agentic-coding-and-cyber-defense/"
   },
   {
    "d": "2026-10-29",
@@ -342,30 +436,6 @@
    "t": "Flagship combines three biotech startups to form Etcelera",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/healthcare/articles/flagship-blends-three-biotech-startups-103000784.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Spirit Halloween's chief executive says tariffs once looked like an existential threat, yet the seasonal chain went on to post its strongest year.",
-   "src": "Fortune",
-   "t": "Spirit Halloween CEO says tariffs threatened the retailer before its best year yet",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/29/spirit-halloween-ceo-tariffs-covid-charity/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Anthropic's prospectus discloses executive security costs for its CEO, joining big tech firms in paying heavily to protect leaders amid rising threats.",
-   "src": "Fortune",
-   "t": "Anthropic's IPO filing reveals what it spends on Dario Amodei's security",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/"
   },
   {
    "d": "2026-10-28",
@@ -638,18 +708,6 @@
     "MACRO",
     "TNE"
    ],
-   "s": "Crude climbed as new fighting in Yemen and a strike on Saudi refining capacity added to supply worries already elevated by the Iran war.",
-   "src": "Reuters",
-   "t": "Oil prices rise on Yemen fighting and an attack on a Saudi refinery",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/news/oil-prices-rise-attack-saudi-021422891.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
    "s": "The refiner's quarterly profit hit a record as war-driven fuel shortages widened the gap between crude costs and product prices.",
    "src": "Oilprice.com",
    "t": "Phillips 66 posts record $5.6 billion profit as refining margins soar",
@@ -762,18 +820,6 @@
    "t": "From Texas to Ohio, the data center backlash is spilling into the midterms",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/economy/article/from-texas-to-ohio-the-data-center-backlash-is-spilling-over-into-the-midterms-155954881.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Spending is holding up even as shoppers face steeper prices on fuel, candy and other seasonal goods.",
-   "src": "Yahoo Finance",
-   "t": "US consumers look resilient despite higher prices for gas and Halloween candy",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/article/us-consumers-look-resilient-despite-higher-prices-for-gas-halloween-candy-and-more-155545270.html"
   },
   {
    "d": "2026-10-28",
@@ -927,52 +973,7 @@
    "t": "Wall Street's AI debt machine is running short on supply",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/ai/articles/wall-street-ai-debt-machine-103000166.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "The project aims to restart domestic output of titanium sponge, a key aerospace and defense input the US now imports.",
-   "src": "Bloomberg",
-   "t": "Jake Paul backs a project to revive US titanium sponge production",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/energy/articles/jake-paul-backs-project-revive-110000084.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR"
-   ],
-   "s": "The freight brokerage's creator is supporting the proposed deal that would combine two of the largest US truckload brokers.",
-   "src": "FreightWaves",
-   "t": "RXO founder Brad Jacobs backs C.H. Robinson's acquisition of RXO",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jacobs-rxo-creator-backs-acquisition-110000283.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "China's installed wind and solar generation has topped 2 TW, widening its lead in renewable buildout.",
-   "src": "Oilprice.com",
-   "t": "China's wind and solar capacity passes 2 terawatts",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/china-wind-solar-power-capacity-102000839.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR"
-   ],
-   "s": "South Korean regulators penalized both companies over app store practices they said disadvantaged developers.",
-   "src": "AP",
-   "t": "South Korea fines Google and Apple over unfair app market practices",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/articles/south-korea-fines-google-apple-095158608.html"
   }
  ],
- "updatedAt": "2026-10-29T11:03"
+ "updatedAt": "2026-10-29T12:10"
 }
