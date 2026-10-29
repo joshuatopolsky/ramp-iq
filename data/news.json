@@ -41,97 +41,222 @@
  "items": [
   {
    "d": "2026-10-29",
-   "t": "AI's appetite for chips drives Samsung to a record $80.5 billion quarterly profit",
-   "s": "Surging demand for memory chips used in AI data centers pushed Samsung's quarterly operating profit to an all-time high.",
+   "t": "Anthropic spent $2.75 million guarding Dario Amodei last year, its IPO filing shows",
+   "s": "Anthropic's prospectus shows the company spent more than four times the CEO's salary on his personal security, though far less than Meta spends protecting Mark Zuckerberg.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/",
+   "u": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "The neocloud shakeout is coming, and the neoclouds seem to know it",
+   "s": "AI cloud providers like CoreWeave and Nebius face growing pressure to consolidate as financing costs rise and investors question the AI infrastructure buildout.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/elon-musk-neoclouds-ai-bubble-coreweave-nebius-consolidation/",
    "tp": "AI & tech",
    "m": [
     "AI",
-    "MACRO"
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Mongolia's copper exports drop $300 million after China border restrictions",
-   "s": "Chinese limits at the border have cut Mongolia's copper shipments, with losses projected to reach $1.2 billion by year-end.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/mongolia-300-million-copper-exports-china-border-1-2-billion/",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "FTC orders Target and Walmart to provide details in personalized pricing inquiry",
-   "s": "The FTC is demanding information from the two big-box retailers as it probes whether shoppers are charged different prices based on their data.",
-   "src": "Retail Dive",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ftc-orders-target-walmart-details-154900533.html",
-   "tp": "Companies & deals",
-   "m": [
-    "VNDR",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Cash is king as investors draw new battle lines in AI spending boom",
-   "s": "Investors are rewarding tech giants that can fund AI buildouts from cash flow while punishing those leaning on debt or burning cash.",
+   "t": "Lilly's obesity drug strength fuels record rally and Wall Street optimism",
+   "s": "Eli Lilly shares hit a record after strong sales of its obesity drugs lifted results and analysts raised their outlook.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cash-king-investors-draw-battle-023355229.html",
-   "tp": "Markets",
-   "m": [
-    "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "FedEx draws parcel-focused shippers to its air freight services",
-   "s": "FedEx is pulling more parcel shippers onto its air freight offerings as it looks to fill capacity in its network.",
-   "src": "Supply Chain Dive",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-drawing-parcel-focused-shippers-153600494.html",
-   "tp": "Supply chain",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Caterpillar sales jump on growing AI demand, but Wall Street wanted more",
-   "s": "Data center power equipment lifted Caterpillar's sales, yet the results fell short of lofty investor expectations and the stock slid.",
-   "src": "The Wall Street Journal",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-sales-jump-wall-street-110100412.html",
+   "u": "https://finance.yahoo.com/news/lillys-obesity-drug-strength-fuels-162624939.html",
    "tp": "Companies & deals",
    "m": [
-    "AI",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "2026 holiday travel costs could reach a 10-year high",
-   "s": "Airfares and other travel expenses for the coming holidays are on track to be the most expensive in a decade.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/2026-holiday-travel-costs-could-reach-a-10-year-high-152853932.html",
-   "tp": "Economy",
+   "t": "First Russian diesel from Putin-Trump deal heading for the US, data shows",
+   "s": "Ship-tracking data shows a tanker carrying Russian diesel is bound for the US, the first cargo under the new deal between the two governments, as fuel supplies stay tight.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/exclusive-tanker-carrying-40-000-062736177.html",
+   "tp": "Energy & trade",
    "m": [
-    "TNE",
-    "SPEND"
+    "MACRO",
+    "TNE"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Three reasons home prices keep rising even as fewer people buy",
-   "s": "Tight inventory and other structural factors are keeping US home prices climbing despite a slowdown in sales.",
-   "src": "MarketWatch",
-   "u": "https://finance.yahoo.com/real-estate/articles/3-reasons-home-prices-keep-153300825.html",
+   "t": "Oil prices fall as diplomacy hopes outweigh escalation fears in Middle East war",
+   "s": "Crude prices slipped as traders bet on diplomatic progress in the Middle East conflict over the risk of further supply disruption.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/us-oil-prices-fall-investors-002744802.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Crocs stock soars 25% as HeyDude sales return to growth",
+   "s": "Crocs shares jumped after its struggling HeyDude brand returned to sales growth and quarterly results beat expectations.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/stocks/article/crocs-stock-soars-25-as-heydude-sales-return-to-growth-163948185.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Many Americans don't know a 22% Social Security cut is looming in 2032",
+   "s": "Surveys show most Americans are unaware that Social Security's trust fund is projected to run short around 2032, which would trigger an automatic benefit cut of roughly 22%.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/economy/article/the-2032-blind-spot-many-americans-dont-know-a-22-social-security-cut-is-looming-164636093.html",
    "tp": "Economy",
    "m": [
     "MACRO"
    ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Average 30-year US mortgage rate dips to 7.24%, lowest in more than a month",
+   "s": "Mortgage rates eased this week to their lowest level in over a month, offering slight relief to homebuyers.",
+   "src": "AP",
+   "u": "https://finance.yahoo.com/real-estate/articles/average-30-us-mortgage-rate-160112914.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "The AI buildout is this era's central economic narrative",
+   "s": "Spending on data centers, chips and power for AI has become the main force shaping growth, investment and policy debates in the US economy.",
+   "src": "Axios",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ai-buildout-eras-central-economic-155506088.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Most consumers aren't using AI for product discovery, yet",
+   "s": "A new survey finds only a minority of shoppers use AI assistants to find products, though retailers keep investing in the channel.",
+   "src": "Retail Dive",
+   "u": "https://finance.yahoo.com/technology/ai/articles/most-consumers-aren-t-using-163200051.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Galaxy Digital applies for an OCC national trust bank charter",
+   "s": "Mike Novogratz's crypto firm Galaxy Digital has applied for a federal charter from the Office of the Comptroller of the Currency, joining other crypto firms seeking bank status.",
+   "src": "Banking Dive",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/galaxy-digital-applies-occ-charter-162831746.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Surging demand for memory chips used in AI data centers pushed Samsung's quarterly operating profit to an all-time high.",
+   "src": "Fortune",
+   "t": "AI's appetite for chips drives Samsung to a record $80.5 billion quarterly profit",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Chinese limits at the border have cut Mongolia's copper shipments, with losses projected to reach $1.2 billion by year-end.",
+   "src": "Fortune",
+   "t": "Mongolia's copper exports drop $300 million after China border restrictions",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/29/mongolia-300-million-copper-exports-china-border-1-2-billion/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "The FTC is demanding information from the two big-box retailers as it probes whether shoppers are charged different prices based on their data.",
+   "src": "Retail Dive",
+   "t": "FTC orders Target and Walmart to provide details in personalized pricing inquiry",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ftc-orders-target-walmart-details-154900533.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Investors are rewarding tech giants that can fund AI buildouts from cash flow while punishing those leaning on debt or burning cash.",
+   "src": "Reuters",
+   "t": "Cash is king as investors draw new battle lines in AI spending boom",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/technology/ai/articles/cash-king-investors-draw-battle-023355229.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ],
+   "s": "FedEx is pulling more parcel shippers onto its air freight offerings as it looks to fill capacity in its network.",
+   "src": "Supply Chain Dive",
+   "t": "FedEx draws parcel-focused shippers to its air freight services",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fedex-drawing-parcel-focused-shippers-153600494.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "Data center power equipment lifted Caterpillar's sales, yet the results fell short of lofty investor expectations and the stock slid.",
+   "src": "The Wall Street Journal",
+   "t": "Caterpillar sales jump on growing AI demand, but Wall Street wanted more",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-sales-jump-wall-street-110100412.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "TNE",
+    "SPEND"
+   ],
+   "s": "Airfares and other travel expenses for the coming holidays are on track to be the most expensive in a decade.",
+   "src": "Yahoo Finance",
+   "t": "2026 holiday travel costs could reach a 10-year high",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/2026-holiday-travel-costs-could-reach-a-10-year-high-152853932.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Tight inventory and other structural factors are keeping US home prices climbing despite a slowdown in sales.",
+   "src": "MarketWatch",
+   "t": "Three reasons home prices keep rising even as fewer people buy",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/real-estate/articles/3-reasons-home-prices-keep-153300825.html"
   },
   {
    "d": "2026-10-29",
@@ -382,30 +507,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Nasdaq futures fell more than 1% after Samsung and Alphabet missed estimates, a day after the Fed held rates but hinted at future increases.",
-   "src": "Fortune",
-   "t": "Samsung and Google earnings misses drive tech futures lower as the Fed signals hikes ahead",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/29/samsung-google-earnings-tech-futures-the-fed-rate/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "VNDR",
-    "AI"
-   ],
-   "s": "AI demand and US-China rivalry are steering chip investment to ASEAN, which is trying to link member states into one semiconductor network despite talent gaps and delayed projects.",
-   "src": "Fortune",
-   "t": "Can Southeast Asia pitch itself as an 'all-in-one' chip hub?",
-   "tp": "Supply chain",
-   "u": "https://fortune.com/2026/10/29/southeast-asia-semiconductor-supply-chain/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "MACRO"
    ],
    "s": "Christine Lagarde will leave the European Central Bank in February 2027, months early, as the bank fights energy-driven inflation with rate hikes.",
@@ -413,18 +514,6 @@
    "t": "ECB President Lagarde resigns after months of speculation",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/economy/policy/articles/ecb-president-lagarde-resigns-months-101955920.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "The grain trader topped earnings forecasts as Iran-war-driven crop price gains pushed farmers to sell stored grain and oilseed processing sales climbed.",
-   "src": "Reuters",
-   "t": "Bunge beats quarterly profit estimates on strong crush margins",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/bunge-beats-quarterly-profit-estimates-103711547.html"
   },
   {
    "d": "2026-10-29",
@@ -505,17 +594,6 @@
    "t": "Nvidia releases an open transcription model as voice AI heats up",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The Reserve Bank of New Zealand's governor signaled a strong likelihood of tightening next month as inflation pressures persist.",
-   "src": "Reuters",
-   "t": "New Zealand central bank governor says chances of a December rate hike are 'high'",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/zealand-central-bank-governor-says-002236287.html"
   },
   {
    "d": "2026-10-28",
@@ -674,17 +752,6 @@
    "m": [
     "MACRO"
    ],
-   "s": "The U.S. dollar weakened after the Federal Reserve left interest rates unchanged at its October meeting.",
-   "src": "Reuters",
-   "t": "Dollar falls after Fed holds rates steady",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-ahead-fed-decision-013404880.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
    "s": "Fed Chair Kevin Warsh said politics never came up in the committee's deliberations as the central bank held rates days before the midterm elections.",
    "src": "Yahoo Finance",
    "t": "Warsh bats away midterm politics questions after rate decision",
@@ -765,17 +832,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "MACRO"
-   ],
-   "s": "SpaceX shares gave back recent gains while smaller space stocks kept rallying.",
-   "src": "Yahoo Finance",
-   "t": "SpaceX stock slides back toward $140 as smaller space names leave it behind",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/article/spacex-stock-slides-back-toward-140-as-smaller-space-names-leave-it-behind-171331237.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "MACRO",
     "TNE"
    ],
@@ -808,18 +864,6 @@
    "t": "Malaysia intercepts $12.2 million shipment of AI-chip servers over export-control concerns",
    "tp": "Energy & trade",
    "u": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Local opposition to power-hungry AI data centers over electricity costs and land use is becoming a campaign issue in several states.",
-   "src": "Yahoo Finance",
-   "t": "From Texas to Ohio, the data center backlash is spilling into the midterms",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/economy/article/from-texas-to-ohio-the-data-center-backlash-is-spilling-over-into-the-midterms-155954881.html"
   },
   {
    "d": "2026-10-28",
@@ -925,55 +969,7 @@
    "t": "Wealthsimple raises funds at a $9.8 billion valuation",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/stocks/articles/canada-wealthsimple-raises-funds-9-124645520.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI"
-   ],
-   "s": "Anthropic's IPO filing details friction with the White House over AI policy, a risk investors will weigh ahead of the listing.",
-   "src": "Bloomberg",
-   "t": "Anthropic's tensions with the Trump administration laid bare ahead of IPO",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-tensions-trump-laid-bare-124500134.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "TNE",
-    "SPEND"
-   ],
-   "s": "Fuel industry executives expect tight distillate supply to keep diesel prices high for months, raising costs for truckers and shippers.",
-   "src": "FreightWaves",
-   "t": "Diesel prices may stay elevated into spring 2027, fuel executives warn",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/diesel-prices-may-stay-elevated-133000710.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "The collapse of Weil has rattled other big corporate law firms, which now worry about their own partner retention and finances.",
-   "src": "Semafor",
-   "t": "Big Law faces its reckoning",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/28/2026/big-law-faces-its-reckoning"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Lenders financing the AI data center buildout are finding fewer deals and investors to absorb the borrowing, testing the credit-fueled boom.",
-   "src": "Bloomberg",
-   "t": "Wall Street's AI debt machine is running short on supply",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/wall-street-ai-debt-machine-103000166.html"
   }
  ],
- "updatedAt": "2026-10-29T12:10"
+ "updatedAt": "2026-10-29T12:51"
 }
