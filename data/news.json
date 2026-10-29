@@ -1,67 +1,66 @@
 {
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ],
+ "updatedAt": "2026-10-29T18:58",
  "items": [
   {
    "d": "2026-10-29",
-   "t": "As search traffic dries up, Reddit shifts to a logged-in experience",
-   "s": "Reddit is moving toward requiring users to sign in as referral traffic from search engines declines in the AI era.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-   "tp": "AI & tech",
+   "t": "US and EU tariff truce at risk over $3.4 billion Airbus loan dispute",
+   "s": "A long-running aviation subsidy fight over a European loan to Airbus threatens to unravel the transatlantic tariff truce.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/us-eu-tariff-truce-aviation-manufacturing-subsidies-dispute-3-4-trillion-dollar-loan-airbus/",
+   "tp": "Energy & trade",
    "m": [
-    "AI",
+    "MACRO",
     "VNDR"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Rivian expands joint venture with VW to include AI assistant",
-   "s": "Rivian and Volkswagen are broadening their software partnership so the joint venture also builds an in-car AI assistant.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-   "tp": "Companies & deals",
+   "t": "US tells Middle East allies to prepare for possible Iran strikes after the midterms",
+   "s": "Washington has warned regional partners to brace for potential military action against Iran following next week's elections, adding to oil-market risk.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/us-allies-prepare-iran-strikes-after-midterms-trump/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Fed Chair Warsh warns AI investors about interest rates",
+   "s": "Kevin Warsh cautioned that the AI investment boom is not immune to higher rates, a message aimed at companies and CFOs financing heavy capex.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "AI",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Reddit is moving toward requiring users to sign in as referral traffic from search engines declines in the AI era.",
+   "src": "TechCrunch",
+   "t": "As search traffic dries up, Reddit shifts to a logged-in experience",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Rivian and Volkswagen are broadening their software partnership so the joint venture also builds an in-car AI assistant.",
+   "src": "TechCrunch",
+   "t": "Rivian expands joint venture with VW to include AI assistant",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
   },
   {
    "d": "2026-10-29",
@@ -504,17 +503,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "MACRO"
-   ],
-   "s": "Chinese limits at the border have cut Mongolia's copper shipments, with losses projected to reach $1.2 billion by year-end.",
-   "src": "Fortune",
-   "t": "Mongolia's copper exports drop $300 million after China border restrictions",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/29/mongolia-300-million-copper-exports-china-border-1-2-billion/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "VNDR",
     "MACRO"
    ],
@@ -633,18 +621,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "French AI lab Mistral launched its newest flagship model, pitching it as the leading open-weight option for coding agents and security work.",
-   "src": "Fortune",
-   "t": "Mistral releases Large 4, claiming the top open model for agentic coding and cyber defense",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/mistral-releases-new-model-large-4-and-claims-top-open-model-for-agentic-coding-and-cyber-defense/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "MACRO"
    ],
    "s": "The European Central Bank held its key rate at 2.5% while flagging rising inflation pressure, as Christine Lagarde announced she will step down early.",
@@ -652,18 +628,6 @@
    "t": "ECB keeps rates unchanged but points to mounting inflation risk",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/economy/policy/articles/ecb-keeps-rates-unchanged-points-132927008.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Swiss Re and other reinsurers are underwriting the risk on a surge of US building projects, making them a quiet driver of the construction cycle.",
-   "src": "Fortune",
-   "t": "Reinsurers are the financial engine behind America's construction boom",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/29/reinsurance-america-construction-boom-swiss-re/"
   },
   {
    "d": "2026-10-29",
@@ -759,16 +723,16 @@
   },
   {
    "d": "2026-10-28",
-   "t": "Anthropic launches tools to show companies what their AI spending is buying",
-   "s": "Anthropic released new tools that help enterprises track usage and measure the return on their AI spend.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "SPEND",
     "VNDR"
-   ]
+   ],
+   "s": "Anthropic released new tools that help enterprises track usage and measure the return on their AI spend.",
+   "src": "TechCrunch",
+   "t": "Anthropic launches tools to show companies what their AI spending is buying",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
   },
   {
    "d": "2026-10-28",
@@ -969,5 +933,43 @@
    "u": "https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant"
   }
  ],
- "updatedAt": "2026-10-29T17:53"
+ "excl": [
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  }
+ ]
 }
