@@ -1,13 +1,51 @@
 {
- "updatedAt": "2026-10-29T18:58",
+ "excl": [
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  }
+ ],
  "items": [
   {
    "d": "2026-10-29",
-   "t": "US and EU tariff truce at risk over $3.4 billion Airbus loan dispute",
-   "s": "A long-running aviation subsidy fight over a European loan to Airbus threatens to unravel the transatlantic tariff truce.",
+   "t": "Drones strike a container ship off Bulgaria in the Black Sea",
+   "s": "A drone attack on a container vessel near Bulgaria raises fresh concerns about shipping security and insurance costs in the Black Sea.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/us-eu-tariff-truce-aviation-manufacturing-subsidies-dispute-3-4-trillion-dollar-loan-airbus/",
-   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/29/drones-strike-container-ship-bulgaria-black-sea-shipping-nato/",
+   "tp": "Supply chain",
    "m": [
     "MACRO",
     "VNDR"
@@ -15,10 +53,44 @@
   },
   {
    "d": "2026-10-29",
-   "t": "US tells Middle East allies to prepare for possible Iran strikes after the midterms",
-   "s": "Washington has warned regional partners to brace for potential military action against Iran following next week's elections, adding to oil-market risk.",
+   "t": "Cyclone Arnab hits India's data-center coast",
+   "s": "A cyclone is bearing down on the Indian coastline where Google, Adani and Airtel are building out major data-center capacity.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/us-allies-prepare-iran-strikes-after-midterms-trump/",
+   "u": "https://fortune.com/2026/10/29/cyclone-arnab-india-data-centers-google-adani-airtel/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Binance reports a 'potential security issue' as stablecoin issuers freeze millions",
+   "s": "The crypto exchange said it is investigating a possible breach while stablecoin issuers moved to freeze funds tied to the incident.",
+   "src": "AP",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-binance-says-investigating-232849281.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Colombia proposes steep spending cut as fiscal woes deepen",
+   "s": "Colombia's government is seeking sharp budget reductions as its deficit and debt pressures worsen.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/colombia-government-proposes-steep-spending-225400458.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Oil climbs on signs the US may resume military strikes against Iran",
+   "s": "Crude prices rose after reports that Washington is preparing allies for possible renewed strikes on Iran.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/energy/articles/oil-climbs-signs-us-may-220217351.html",
    "tp": "Energy & trade",
    "m": [
     "MACRO",
@@ -27,16 +99,75 @@
   },
   {
    "d": "2026-10-29",
-   "t": "Fed Chair Warsh warns AI investors about interest rates",
-   "s": "Kevin Warsh cautioned that the AI investment boom is not immune to higher rates, a message aimed at companies and CFOs financing heavy capex.",
+   "t": "Gilead raises 2026 sales outlook, says Medicare will cut Biktarvy price 38% from 2028",
+   "s": "Gilead lifted its full-year revenue forecast while disclosing a negotiated Medicare price cut for its top HIV drug starting in 2028.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/healthcare/articles/gilead-hikes-full-sales-outlook-200623038.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "First look: TFI's truckload unit shines while its LTL operating ratio slips",
+   "s": "TFI International's quarterly results showed strength in truckload but weaker efficiency in its less-than-truckload business.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/first-look-tfi-truckload-sparkles-213824631.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Mistral releases Large 4, claiming the top open model for agentic coding and cyber defense",
+   "s": "French AI lab Mistral launched its newest flagship model, pitching it as the leading open-weight option for coding agents and security work.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/",
-   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/29/mistral-releases-new-model-large-4-and-claims-top-open-model-for-agentic-coding-and-cyber-defense/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "A long-running aviation subsidy fight over a European loan to Airbus threatens to unravel the transatlantic tariff truce.",
+   "src": "Fortune",
+   "t": "US and EU tariff truce at risk over $3.4 billion Airbus loan dispute",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/29/us-eu-tariff-truce-aviation-manufacturing-subsidies-dispute-3-4-trillion-dollar-loan-airbus/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "Washington has warned regional partners to brace for potential military action against Iran following next week's elections, adding to oil-market risk.",
+   "src": "Fortune",
+   "t": "US tells Middle East allies to prepare for possible Iran strikes after the midterms",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/29/us-allies-prepare-iran-strikes-after-midterms-trump/"
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "MACRO",
     "AI",
     "SPEND"
-   ]
+   ],
+   "s": "Kevin Warsh cautioned that the AI investment boom is not immune to higher rates, a message aimed at companies and CFOs financing heavy capex.",
+   "src": "Fortune",
+   "t": "Fed Chair Warsh warns AI investors about interest rates",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/"
   },
   {
    "d": "2026-10-29",
@@ -366,29 +497,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "AI"
-   ],
-   "s": "Anthropic's prospectus shows the company spent more than four times the CEO's salary on his personal security, though far less than Meta spends protecting Mark Zuckerberg.",
-   "src": "Fortune",
-   "t": "Anthropic spent $2.75 million guarding Dario Amodei last year, its IPO filing shows",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "AI cloud providers like CoreWeave and Nebius face growing pressure to consolidate as financing costs rise and investors question the AI infrastructure buildout.",
-   "src": "Fortune",
-   "t": "The neocloud shakeout is coming, and the neoclouds seem to know it",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/elon-musk-neoclouds-ai-bubble-coreweave-nebius-consolidation/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "BENCH"
    ],
    "s": "Eli Lilly shares hit a record after strong sales of its obesity drugs lifted results and analysts raised their outlook.",
@@ -487,18 +595,6 @@
    "t": "Galaxy Digital applies for an OCC national trust bank charter",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/crypto/articles/galaxy-digital-applies-occ-charter-162831746.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Surging demand for memory chips used in AI data centers pushed Samsung's quarterly operating profit to an all-time high.",
-   "src": "Fortune",
-   "t": "AI's appetite for chips drives Samsung to a record $80.5 billion quarterly profit",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/"
   },
   {
    "d": "2026-10-29",
@@ -621,17 +717,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "MACRO"
-   ],
-   "s": "The European Central Bank held its key rate at 2.5% while flagging rising inflation pressure, as Christine Lagarde announced she will step down early.",
-   "src": "Reuters",
-   "t": "ECB keeps rates unchanged but points to mounting inflation risk",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-keeps-rates-unchanged-points-132927008.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "MACRO",
     "AI"
    ],
@@ -651,18 +736,6 @@
    "t": "US jobless claims slide to 194,000, lowest since mid-July",
    "tp": "Labor",
    "u": "https://finance.yahoo.com/economy/articles/us-unemployment-claims-dipped-194-123414074.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "The Fed's preferred PCE gauge ticked higher in September while household spending kept climbing, keeping a year-end rate hike in view.",
-   "src": "Reuters",
-   "t": "US inflation heats up in September as consumer spending rises",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-inflation-heats-september-consumer-125003275.html"
   },
   {
    "d": "2026-10-29",
@@ -895,81 +968,7 @@
    "t": "Warsh bats away midterm politics questions after rate decision",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/economy/policy/article/i-didnt-hear-an-utterance-about-politics-warsh-bats-away-midterm-talk-following-rate-decision-203737154.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "The refiner's quarterly profit hit a record as war-driven fuel shortages widened the gap between crude costs and product prices.",
-   "src": "Oilprice.com",
-   "t": "Phillips 66 posts record $5.6 billion profit as refining margins soar",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/phillips-66-posts-record-5-193244302.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "OpenAI is reportedly lining up purchases of Google's TPUs to diversify its compute supply away from Nvidia.",
-   "src": "Decrypt",
-   "t": "OpenAI plans to buy Google's AI chips as it looks beyond Nvidia",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/openai-plans-buy-googles-ai-191602020.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "A faction of BP's board is said to back splitting the company as pressure mounts to unlock value from its oil, gas and low-carbon businesses.",
-   "src": "Semafor",
-   "t": "Some BP board members favor breaking up the $129 billion oil giant",
-   "tp": "Energy & trade",
-   "u": "https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant"
   }
  ],
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ]
+ "updatedAt": "2026-10-29T19:51"
 }
