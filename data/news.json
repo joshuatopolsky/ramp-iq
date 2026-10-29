@@ -40,27 +40,63 @@
  ],
  "items": [
   {
-   "d": "2026-10-28",
-   "t": "Fed holds rates steady despite dissents",
-   "s": "The Federal Reserve left interest rates unchanged as some officials pushed back and policymakers debated whether more hikes may be needed to tame inflation.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/28/2026/fed-holds-rates-steady-despite-dissents",
-   "tp": "Economy",
+   "d": "2026-10-29",
+   "t": "Spirit Halloween CEO says tariffs threatened the retailer before its best year yet",
+   "s": "Spirit Halloween's chief executive says tariffs once looked like an existential threat, yet the seasonal chain went on to post its strongest year.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/spirit-halloween-ceo-tariffs-covid-charity/",
+   "tp": "Energy & trade",
    "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Anthropic's IPO filing reveals what it spends on Dario Amodei's security",
+   "s": "Anthropic's prospectus discloses executive security costs for its CEO, joining big tech firms in paying heavily to protect leaders amid rising threats.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Gen Z activists are organizing against AI data centers",
+   "s": "Young adults are leading local campaigns against new AI data center projects, adding to the growing political backlash over power and water use.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/meet-gen-z-fighting-back-against-data-centers/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
     "MACRO"
    ]
   },
   {
    "d": "2026-10-28",
-   "t": "Google opens Gemini and Search to more apps as AI agents reshape the web",
-   "s": "Google is letting more third-party apps plug into Gemini and Search, betting that AI agents will become a main way people get things done online.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-   "tp": "AI & tech",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The Federal Reserve left interest rates unchanged as some officials pushed back and policymakers debated whether more hikes may be needed to tame inflation.",
+   "src": "Semafor",
+   "t": "Fed holds rates steady despite dissents",
+   "tp": "Economy",
+   "u": "https://www.semafor.com/article/10/28/2026/fed-holds-rates-steady-despite-dissents"
+  },
+  {
+   "d": "2026-10-28",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Google is letting more third-party apps plug into Gemini and Search, betting that AI agents will become a main way people get things done online.",
+   "src": "TechCrunch",
+   "t": "Google opens Gemini and Search to more apps as AI agents reshape the web",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
   },
   {
    "d": "2026-10-28",
@@ -352,44 +388,6 @@
    "t": "Google expands AI Search ads globally as core ad growth slows",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "Google Cloud sales roughly doubled to about $31 billion, yet heavy AI infrastructure spending pushed Alphabet's free cash flow below zero and weighed on the stock.",
-   "src": "Fortune",
-   "t": "Alphabet slips as Google Cloud revenue doubles but free cash flow turns negative",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Microsoft reported faster Azure-driven cloud growth alongside a further jump in capital spending on AI data centers.",
-   "src": "Fortune",
-   "t": "Microsoft's cloud growth accelerates, and so does its spending",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/28/microsofts-cloud-growth-accelerates-and-so-too-does-the-spending/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "The chipmaker says more than half of its output is already booked for the next two years as AI demand keeps memory supply tight.",
-   "src": "Fortune",
-   "t": "SK Hynix expects the memory-chip shortage to last until 2030",
-   "tp": "Supply chain",
-   "u": "https://fortune.com/2026/10/28/sk-hynix-memory-shortage-2030/"
   },
   {
    "d": "2026-10-28",
@@ -979,5 +977,5 @@
    "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter"
   }
  ],
- "updatedAt": "2026-10-29T04:53"
+ "updatedAt": "2026-10-29T05:51"
 }
