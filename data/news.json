@@ -41,10 +41,21 @@
  "items": [
   {
    "d": "2026-10-28",
-   "t": "Microsoft discloses Azure revenue in dollars for the first time: $33.2 billion",
-   "s": "Microsoft broke out Azure's quarterly sales as a dollar figure for the first time, extending a run of ten straight record-revenue quarters.",
+   "t": "Fed holds rates steady despite dissents",
+   "s": "The Federal Reserve left interest rates unchanged as some officials pushed back and policymakers debated whether more hikes may be needed to tame inflation.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/28/2026/fed-holds-rates-steady-despite-dissents",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Google opens Gemini and Search to more apps as AI agents reshape the web",
+   "s": "Google is letting more third-party apps plug into Gemini and Search, betting that AI agents will become a main way people get things done online.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "u": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -53,49 +64,61 @@
   },
   {
    "d": "2026-10-28",
-   "t": "Amazon tells engineers that using more AI tools doesn't mean better work",
-   "s": "Amazon is warning its engineers against 'token-maxxing,' saying heavier use of AI tools is no proxy for productivity or quality.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/amazon-token-maxxing-ai-work/",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Microsoft broke out Azure's quarterly sales as a dollar figure for the first time, extending a run of ten straight record-revenue quarters.",
+   "src": "TechCrunch",
+   "t": "Microsoft discloses Azure revenue in dollars for the first time: $33.2 billion",
    "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+  },
+  {
+   "d": "2026-10-28",
    "m": [
     "AI",
     "SPEND"
-   ]
+   ],
+   "s": "Amazon is warning its engineers against 'token-maxxing,' saying heavier use of AI tools is no proxy for productivity or quality.",
+   "src": "Fortune",
+   "t": "Amazon tells engineers that using more AI tools doesn't mean better work",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/28/amazon-token-maxxing-ai-work/"
   },
   {
    "d": "2026-10-28",
-   "t": "Cruise ship halts operations in Cambodia as fuel costs surge more than 300%",
-   "s": "A cruise operator disembarked passengers and suspended sailing in Cambodia, blaming a fuel-price spike linked to the Iran war.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/28/cruise-ship-cambodia-strands-passengers-fuel-costs-iran/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "A cruise operator disembarked passengers and suspended sailing in Cambodia, blaming a fuel-price spike linked to the Iran war.",
+   "src": "Fortune",
+   "t": "Cruise ship halts operations in Cambodia as fuel costs surge more than 300%",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/28/cruise-ship-cambodia-strands-passengers-fuel-costs-iran/"
   },
   {
    "d": "2026-10-28",
-   "t": "South Korea's financial industry hit by a fresh wave of cyberattacks",
-   "s": "A new round of cyberattacks struck South Korean financial firms, adding to a string of security incidents in the country's banking sector.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-   "tp": "AI & tech",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "A new round of cyberattacks struck South Korean financial firms, adding to a string of security incidents in the country's banking sector.",
+   "src": "TechCrunch",
+   "t": "South Korea's financial industry hit by a fresh wave of cyberattacks",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
   },
   {
    "d": "2026-10-28",
-   "t": "Nvidia releases an open transcription model as voice AI heats up",
-   "s": "Nvidia published a new open speech-to-text model, joining a crowded push by tech firms into voice AI tools.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-   "tp": "AI & tech",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "Nvidia published a new open speech-to-text model, joining a crowded push by tech firms into voice AI tools.",
+   "src": "TechCrunch",
+   "t": "Nvidia releases an open transcription model as voice AI heats up",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
   },
   {
    "d": "2026-10-28",
@@ -418,17 +441,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "VNDR"
-   ],
-   "s": "A breach exposed personnel records for thousands of DHS staff, including CBP and ICE agents.",
-   "src": "TechCrunch",
-   "t": "Hacker steals personnel data on thousands of Homeland Security employees",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "MACRO"
    ],
    "s": "The Fed trimmed its 2027 meeting calendar to seven sessions, meaning each remaining decision carries more weight for borrowing costs and markets.",
@@ -507,17 +519,6 @@
    "t": "Some BP board members favor breaking up the $129 billion oil giant",
    "tp": "Energy & trade",
    "u": "https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI"
-   ],
-   "s": "Google is letting Chrome's AI autofill draw on users' Gmail data to complete web forms, extending its agentic browser features.",
-   "src": "TechCrunch",
-   "t": "Chrome's AI-powered Autofill can now pull from Gmail to fill out forms",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
   },
   {
    "d": "2026-10-28",
@@ -933,14 +934,14 @@
   },
   {
    "d": "2026-10-27",
-   "t": "Hasbro's AI play: an AI-generated Mr. Potato Head voiced by Don Rickles",
-   "s": "Hasbro is betting on generative AI with a talking Mr. Potato Head that recreates the late comedian's voice.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/27/2026/hasbros-ai-play-involves-an-ai-generated-mr-potato-head-voiced-by-don-rickles",
-   "tp": "Companies & deals",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "Hasbro is betting on generative AI with a talking Mr. Potato Head that recreates the late comedian's voice.",
+   "src": "Semafor",
+   "t": "Hasbro's AI play: an AI-generated Mr. Potato Head voiced by Don Rickles",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/27/2026/hasbros-ai-play-involves-an-ai-generated-mr-potato-head-voiced-by-don-rickles"
   },
   {
    "d": "2026-10-27",
@@ -978,5 +979,5 @@
    "u": "https://www.semafor.com/article/10/27/2026/microsofts-buyout-offer-to-employees-shows-which-tech-jobs-matter"
   }
  ],
- "updatedAt": "2026-10-28T21:55"
+ "updatedAt": "2026-10-29T04:53"
 }
