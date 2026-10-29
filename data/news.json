@@ -41,38 +41,97 @@
  "items": [
   {
    "d": "2026-10-29",
-   "t": "ECB keeps rates unchanged but points to mounting inflation risk",
-   "s": "The European Central Bank held its key rate at 2.5% while flagging rising inflation pressure, as Christine Lagarde announced she will step down early.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-keeps-rates-unchanged-points-132927008.html",
-   "tp": "Economy",
+   "t": "Agent identity startup Mintive raises from Cowboy Ventures and Coatue, with Jeff Dean and Andrej Karpathy as angels",
+   "s": "Mintive, which builds identity and credential management for AI agents, landed backing from top VCs and prominent AI researchers.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+   "tp": "AI & tech",
    "m": [
-    "MACRO"
+    "AI",
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Wall St set for lower open as Alphabet results reignite AI spending fears",
-   "s": "US stock futures slipped after Alphabet's heavy capital spending revived worries about the cost of the AI buildout, even as economic data came in strong.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html",
-   "tp": "Markets",
+   "t": "Wabi, the AI agent that builds mini apps, valued at $1.25 billion after latest round",
+   "s": "Wabi's new funding round makes the consumer app-building AI agent the latest startup to cross a billion-dollar valuation.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+   "tp": "AI & tech",
    "m": [
-    "MACRO",
     "AI"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Reinsurers are the financial engine behind America's construction boom",
-   "s": "Swiss Re and other reinsurers are underwriting the risk on a surge of US building projects, making them a quiet driver of the construction cycle.",
+   "t": "Deepgram acquires Pipecat maker Daily to bolster its voice AI infrastructure",
+   "s": "Speech AI company Deepgram is buying Daily, the real-time video and audio firm behind the open-source Pipecat voice-agent framework.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Apollo's twin deals reveal Wall Street's AI money problem",
+   "s": "A pair of Apollo financings shows how private credit is stretching to meet the enormous capital needs of AI infrastructure.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/29/2026/apollos-twin-deals-reveal-wall-streets-ai-money-problem",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Mistral releases Large 4, claiming the top open model for agentic coding and cyber defense",
+   "s": "French AI lab Mistral launched its newest flagship model, pitching it as the leading open-weight option for coding agents and security work.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/reinsurance-america-construction-boom-swiss-re/",
+   "u": "https://fortune.com/2026/10/29/mistral-releases-new-model-large-4-and-claims-top-open-model-for-agentic-coding-and-cyber-defense/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The European Central Bank held its key rate at 2.5% while flagging rising inflation pressure, as Christine Lagarde announced she will step down early.",
+   "src": "Reuters",
+   "t": "ECB keeps rates unchanged but points to mounting inflation risk",
    "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-keeps-rates-unchanged-points-132927008.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "US stock futures slipped after Alphabet's heavy capital spending revived worries about the cost of the AI buildout, even as economic data came in strong.",
+   "src": "Reuters",
+   "t": "Wall St set for lower open as Alphabet results reignite AI spending fears",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "MACRO",
     "BENCH"
-   ]
+   ],
+   "s": "Swiss Re and other reinsurers are underwriting the risk on a surge of US building projects, making them a quiet driver of the construction cycle.",
+   "src": "Fortune",
+   "t": "Reinsurers are the financial engine behind America's construction boom",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/29/reinsurance-america-construction-boom-swiss-re/"
   },
   {
    "d": "2026-10-29",
@@ -309,18 +368,6 @@
    "u": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/"
   },
   {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Young adults are leading local campaigns against new AI data center projects, adding to the growing political backlash over power and water use.",
-   "src": "Fortune",
-   "t": "Gen Z activists are organizing against AI data centers",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/meet-gen-z-fighting-back-against-data-centers/"
-  },
-  {
    "d": "2026-10-28",
    "m": [
     "AI",
@@ -555,18 +602,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "Google is rolling out ads inside its AI-powered search experiences worldwide as growth in its traditional search advertising business cools.",
-   "src": "TechCrunch",
-   "t": "Google expands AI Search ads globally as core ad growth slows",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "MACRO"
    ],
    "s": "The U.S. dollar weakened after the Federal Reserve left interest rates unchanged at its October meeting.",
@@ -585,31 +620,6 @@
    "t": "Warsh bats away midterm politics questions after rate decision",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/economy/policy/article/i-didnt-hear-an-utterance-about-politics-warsh-bats-away-midterm-talk-following-rate-decision-203737154.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "New Anthropic tools aim to help businesses measure the return on their AI usage and spending across teams.",
-   "src": "TechCrunch",
-   "t": "Anthropic launches tools to show companies what their AI spending buys",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Autonomous trucking firm Kodiak signed its first commercial agreement to deliver self-driving trucks that will run on public highways.",
-   "src": "TechCrunch",
-   "t": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-   "tp": "Supply chain",
-   "u": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/"
   },
   {
    "d": "2026-10-28",
@@ -962,19 +972,7 @@
    "t": "South Korea fines Google and Apple over unfair app market practices",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/articles/south-korea-fines-google-apple-095158608.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "France's largest bank posted higher profit on strong equity trading and sought to calm concern over its holdings of French government debt.",
-   "src": "Euronews",
-   "t": "BNP Paribas downplays French debt exposure as stock trading lifts profit",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-downplays-french-debt-103425260.html"
   }
  ],
- "updatedAt": "2026-10-29T09:58"
+ "updatedAt": "2026-10-29T11:03"
 }
