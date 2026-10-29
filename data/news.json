@@ -41,6 +41,109 @@
  "items": [
   {
    "d": "2026-10-29",
+   "t": "Serval raises $150 million at a $3 billion valuation to take on ServiceNow",
+   "s": "The IT-automation startup closed a Sequoia-backed Series C as AI agents push into enterprise service-desk software.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Depop sales hit $9 billion for eBay as Gen Z leans into secondhand fashion",
+   "s": "eBay's resale app is growing quickly as younger shoppers trade new clothing for thrifted pieces.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/gen-z-depop-ebay-thrifting-fashion-clothes/",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Polymarket halts trading on its international platform after third-party provider is compromised",
+   "s": "The prediction market paused trading after a security breach at an outside vendor, while separately probing suspicious bets around Israel's election.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/polymarket-halts-trading-international-platform-184917323.html",
+   "tp": "AI & tech",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "GM to pay $220 million to settle allegations it violated drivers' privacy",
+   "s": "General Motors agreed to the settlement over claims it shared drivers' data without proper consent.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/technology/articles/gm-pay-220-million-settle-180213819.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Brazil's interest burden climbs to 9% of GDP, highest since 2016",
+   "s": "High borrowing costs are pushing Brazil's government interest payments to a decade high as markets digest the election outcome.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/brazil-interest-burden-climbs-9-180802338.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "ADT stock surges to five-year high after Thrive Holdings agrees to $7.6 billion buyout",
+   "s": "The home-security company agreed to be taken private, sending its shares to their highest level since 2021.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/stocks/article/adt-stock-surges-to-5-year-high-after-thrive-holdings-agrees-to-76-billion-buyout-deal-190630046.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Why container rates are climbing despite cooling demand",
+   "s": "Carriers' capacity cuts and rerouting are lifting ocean freight prices even as shipping volumes soften.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/why-container-rates-climbing-despite-183934773.html",
+   "tp": "Supply chain",
+   "m": [
+    "SPEND",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Fresno carrier DTL to run 75 Kodiak driverless trucks",
+   "s": "A California trucking firm plans one of the larger autonomous-truck rollouts so far using Kodiak's self-driving system.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/technology/ai/articles/fresno-carrier-dtl-run-75-174239660.html",
+   "tp": "Supply chain",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Indeed lists its Austin tower for sublease as Meta chips away at the office glut",
+   "s": "The job site is offering its namesake downtown Austin headquarters to subtenants, while Meta absorbs other surplus space.",
+   "src": "The Real Deal",
+   "u": "https://finance.yahoo.com/real-estate/articles/indeed-lists-namesake-tower-downtown-184000809.html",
+   "tp": "Companies & deals",
+   "m": [
+    "SPEND",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI"
    ],
@@ -517,18 +620,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "DoorDash agreed to buy Instacart for about $17 billion, doubling down on grocery delivery and consolidating the US delivery market.",
-   "src": "Reuters",
-   "t": "DoorDash strikes $17 billion deal for rival Instacart",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/small-business/articles/doordash-strikes-17-billion-deal-122549998.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "VNDR"
    ],
    "s": "Fortinet's weaker-than-expected service revenue outlook sent its shares and other security vendors lower.",
@@ -576,18 +667,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Dozens of cybersecurity founders told Fortune that AI tools are currently helping hackers more than defenders.",
-   "src": "Fortune",
-   "t": "Cyber founders say AI is giving attackers the upper hand",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/attackers-winning-cyber-60-founders-ai-giving-hackers-upper-hand/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "VNDR"
    ],
    "s": "Crypto exchange HTX will exit the UK market under a settlement with the Financial Conduct Authority.",
@@ -607,40 +686,6 @@
    "t": "Volkswagen reports its worst results in a decade",
    "tp": "Companies & deals",
    "u": "https://www.semafor.com/article/10/29/2026/volkswagen-reports-its-worst-results-in-a-decade"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The euro held steady ahead of the ECB's rate decision while traders recalibrated expectations for the Fed after it held rates and hinted at hikes.",
-   "src": "Reuters",
-   "t": "Euro stable ahead of ECB decision as investors adjust Fed view",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-fed-hold-leaves-015532151.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Google Cloud revenue more than doubled, but slower-than-expected Search growth, rising capex and AI disruption fears sent Alphabet shares down over 11% after hours.",
-   "src": "Fortune",
-   "t": "Why investors wiped out $280 billion in Alphabet market value",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/29/why-investors-wiped-out-280-billion-alphabet-market-value/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Christine Lagarde will leave the European Central Bank in February 2027, months early, as the bank fights energy-driven inflation with rate hikes.",
-   "src": "Reuters",
-   "t": "ECB President Lagarde resigns after months of speculation",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-president-lagarde-resigns-months-101955920.html"
   },
   {
    "d": "2026-10-29",
@@ -867,17 +912,6 @@
   {
    "d": "2026-10-28",
    "m": [
-    "MACRO"
-   ],
-   "s": "The Fed trimmed its 2027 meeting calendar to seven sessions, meaning each remaining decision carries more weight for borrowing costs and markets.",
-   "src": "Yahoo Finance",
-   "t": "The Fed just removed a 2027 rate decision, raising the stakes for the remaining seven",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/article/the-fed-just-removed-a-2027-rate-decision--making-the-remaining-7-even-more-important-194159258.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
     "MACRO",
     "TNE"
    ],
@@ -934,42 +968,7 @@
    "t": "S&P 500 nears record high as AI chip stocks rally",
    "tp": "Markets",
    "u": "https://fortune.com/2026/10/28/sp-500-1-2-all-time-high-broadcom-nvidia-ai-stock/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Malaysian authorities seized servers carrying advanced AI chips suspected of being routed to China in breach of US export controls.",
-   "src": "AP",
-   "t": "Malaysia intercepts $12.2 million shipment of AI-chip servers over export-control concerns",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "BENCH"
-   ],
-   "s": "First Community agreed to a $243 million bank acquisition that extends its footprint into Ohio amid a pickup in regional bank M&A.",
-   "src": "Banking Dive",
-   "t": "Virginia lender First Community expands into Ohio with $243M deal",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/virginia-lender-first-community-expand-162328677.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "GE Vernova agreed to a roughly $9 billion acquisition of a grid-equipment maker as power demand from data centers strains the electric grid.",
-   "src": "The Wall Street Journal",
-   "t": "GE Vernova to buy high-voltage grid equipment maker for about $9 billion",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/energy/articles/ge-vernova-buy-high-voltage-120300675.html"
   }
  ],
- "updatedAt": "2026-10-29T14:56"
+ "updatedAt": "2026-10-29T15:51"
 }
