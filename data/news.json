@@ -41,45 +41,10 @@
  "items": [
   {
    "d": "2026-10-29",
-   "t": "Drones strike a container ship off Bulgaria in the Black Sea",
-   "s": "A drone attack on a container vessel near Bulgaria raises fresh concerns about shipping security and insurance costs in the Black Sea.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/drones-strike-container-ship-bulgaria-black-sea-shipping-nato/",
-   "tp": "Supply chain",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Cyclone Arnab hits India's data-center coast",
-   "s": "A cyclone is bearing down on the Indian coastline where Google, Adani and Airtel are building out major data-center capacity.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/cyclone-arnab-india-data-centers-google-adani-airtel/",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Binance reports a 'potential security issue' as stablecoin issuers freeze millions",
-   "s": "The crypto exchange said it is investigating a possible breach while stablecoin issuers moved to freeze funds tied to the incident.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-binance-says-investigating-232849281.html",
-   "tp": "Companies & deals",
-   "m": [
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Colombia proposes steep spending cut as fiscal woes deepen",
-   "s": "Colombia's government is seeking sharp budget reductions as its deficit and debt pressures worsen.",
+   "t": "Bank of Japan expected to hold rates while signaling further hikes",
+   "s": "The BOJ is set to keep its policy rate unchanged this week but flag that more tightening is coming as inflation stays above target.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/colombia-government-proposes-steep-spending-225400458.html",
+   "u": "https://finance.yahoo.com/economy/policy/articles/bank-japan-hold-rates-signal-210126915.html",
    "tp": "Economy",
    "m": [
     "MACRO"
@@ -87,50 +52,155 @@
   },
   {
    "d": "2026-10-29",
-   "t": "Oil climbs on signs the US may resume military strikes against Iran",
-   "s": "Crude prices rose after reports that Washington is preparing allies for possible renewed strikes on Iran.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/energy/articles/oil-climbs-signs-us-may-220217351.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "TNE"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Gilead raises 2026 sales outlook, says Medicare will cut Biktarvy price 38% from 2028",
-   "s": "Gilead lifted its full-year revenue forecast while disclosing a negotiated Medicare price cut for its top HIV drug starting in 2028.",
+   "t": "Tokyo core inflation exceeds BOJ target in October",
+   "s": "Core consumer prices in Japan's capital rose faster than the central bank's 2% goal, adding pressure for another rate increase.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/healthcare/articles/gilead-hikes-full-sales-outlook-200623038.html",
-   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/economy/policy/articles/tokyo-core-inflation-exceeds-boj-235216138.html",
+   "tp": "Economy",
    "m": [
-    "BENCH"
+    "MACRO"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "First look: TFI's truckload unit shines while its LTL operating ratio slips",
-   "s": "TFI International's quarterly results showed strength in truckload but weaker efficiency in its less-than-truckload business.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/first-look-tfi-truckload-sparkles-213824631.html",
-   "tp": "Supply chain",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "Mistral releases Large 4, claiming the top open model for agentic coding and cyber defense",
-   "s": "French AI lab Mistral launched its newest flagship model, pitching it as the leading open-weight option for coding agents and security work.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/mistral-releases-new-model-large-4-and-claims-top-open-model-for-agentic-coding-and-cyber-defense/",
+   "t": "AWS will be a $1 trillion business, Jassy says, but first it will spend big",
+   "s": "Amazon's CEO laid out a long-term trillion-dollar ambition for AWS while warning that AI infrastructure spending will keep climbing.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
    "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
    ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Granola adds a dictation feature to compete with Wispr",
+   "s": "The AI meeting-notes app is expanding into voice dictation, pushing into a crowded market for AI productivity tools.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
+   "s": "Amazon's third-quarter shipping costs rose 11% from a year earlier, showing how higher freight rates are squeezing even the largest shippers.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-battles-freight-inflation-shipping-232652527.html",
+   "tp": "Supply chain",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Alphabet shares just had their worst day ever",
+   "s": "Alphabet stock fell about 13% and erased roughly $500 billion in market value after search growth slowed and AI spending rose.",
+   "src": "CNN Business",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shares-google-parent-company-just-221533118.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "A drone attack on a container vessel near Bulgaria raises fresh concerns about shipping security and insurance costs in the Black Sea.",
+   "src": "Fortune",
+   "t": "Drones strike a container ship off Bulgaria in the Black Sea",
+   "tp": "Supply chain",
+   "u": "https://fortune.com/2026/10/29/drones-strike-container-ship-bulgaria-black-sea-shipping-nato/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "A cyclone is bearing down on the Indian coastline where Google, Adani and Airtel are building out major data-center capacity.",
+   "src": "Fortune",
+   "t": "Cyclone Arnab hits India's data-center coast",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/cyclone-arnab-india-data-centers-google-adani-airtel/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "VNDR"
+   ],
+   "s": "The crypto exchange said it is investigating a possible breach while stablecoin issuers moved to freeze funds tied to the incident.",
+   "src": "AP",
+   "t": "Binance reports a 'potential security issue' as stablecoin issuers freeze millions",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-binance-says-investigating-232849281.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Colombia's government is seeking sharp budget reductions as its deficit and debt pressures worsen.",
+   "src": "Reuters",
+   "t": "Colombia proposes steep spending cut as fiscal woes deepen",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/colombia-government-proposes-steep-spending-225400458.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "Crude prices rose after reports that Washington is preparing allies for possible renewed strikes on Iran.",
+   "src": "Bloomberg",
+   "t": "Oil climbs on signs the US may resume military strikes against Iran",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/oil-climbs-signs-us-may-220217351.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Gilead lifted its full-year revenue forecast while disclosing a negotiated Medicare price cut for its top HIV drug starting in 2028.",
+   "src": "Reuters",
+   "t": "Gilead raises 2026 sales outlook, says Medicare will cut Biktarvy price 38% from 2028",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/healthcare/articles/gilead-hikes-full-sales-outlook-200623038.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ],
+   "s": "TFI International's quarterly results showed strength in truckload but weaker efficiency in its less-than-truckload business.",
+   "src": "FreightWaves",
+   "t": "First look: TFI's truckload unit shines while its LTL operating ratio slips",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/first-look-tfi-truckload-sparkles-213824631.html"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "French AI lab Mistral launched its newest flagship model, pitching it as the leading open-weight option for coding agents and security work.",
+   "src": "Fortune",
+   "t": "Mistral releases Large 4, claiming the top open model for agentic coding and cyber defense",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/mistral-releases-new-model-large-4-and-claims-top-open-model-for-agentic-coding-and-cyber-defense/"
   },
   {
    "d": "2026-10-29",
@@ -520,18 +590,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Crude prices slipped as traders bet on diplomatic progress in the Middle East conflict over the risk of further supply disruption.",
-   "src": "Reuters",
-   "t": "Oil prices fall as diplomacy hopes outweigh escalation fears in Middle East war",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/news/us-oil-prices-fall-investors-002744802.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "BENCH"
    ],
    "s": "Crocs shares jumped after its struggling HeyDude brand returned to sales growth and quarterly results beat expectations.",
@@ -611,18 +669,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Investors are rewarding tech giants that can fund AI buildouts from cash flow while punishing those leaning on debt or burning cash.",
-   "src": "Reuters",
-   "t": "Cash is king as investors draw new battle lines in AI spending boom",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cash-king-investors-draw-battle-023355229.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "VNDR",
     "SPEND"
    ],
@@ -689,18 +735,6 @@
    "t": "Wabi, the AI agent that builds mini apps, valued at $1.25 billion after latest round",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Speech AI company Deepgram is buying Daily, the real-time video and audio firm behind the open-source Pipecat voice-agent framework.",
-   "src": "TechCrunch",
-   "t": "Deepgram acquires Pipecat maker Daily to bolster its voice AI infrastructure",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
   },
   {
    "d": "2026-10-29",
@@ -796,16 +830,14 @@
   },
   {
    "d": "2026-10-28",
+   "t": "Some BP board members favor a breakup of the $129 billion oil giant",
+   "s": "Some BP directors are open to splitting up the company, a move that could reshape the oil industry and upset UK stakeholders.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant",
+   "tp": "Energy & trade",
    "m": [
-    "AI",
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Anthropic released new tools that help enterprises track usage and measure the return on their AI spend.",
-   "src": "TechCrunch",
-   "t": "Anthropic launches tools to show companies what their AI spending is buying",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+    "MACRO"
+   ]
   },
   {
    "d": "2026-10-28",
@@ -934,41 +966,7 @@
    "t": "Aurora adds 500-truck Charger deal toward its 30,000-truck goal",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/technology/ai/articles/aurora-adds-500-truck-charger-215006608.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Treasury Secretary Scott Bessent brushed off worries about debt-fueled AI buildouts and the Fed's decision to hold rates steady.",
-   "src": "Bloomberg",
-   "t": "Bessent plays down concerns over AI financing and Fed rate policy",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/technology/ai/articles/bessent-plays-down-concerns-over-212625395.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "After markets slumped on Lula's surprise win, some investors see the drop in Brazilian stocks as a buying opportunity.",
-   "src": "Semafor",
-   "t": "Investors eye Brazilian equities after post-election selloff",
-   "tp": "Markets",
-   "u": "https://www.semafor.com/article/10/28/2026/investors-eye-brazilian-equities-after-election-selloff"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Fed Chair Kevin Warsh said politics never came up in the committee's deliberations as the central bank held rates days before the midterm elections.",
-   "src": "Yahoo Finance",
-   "t": "Warsh bats away midterm politics questions after rate decision",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/article/i-didnt-hear-an-utterance-about-politics-warsh-bats-away-midterm-talk-following-rate-decision-203737154.html"
   }
  ],
- "updatedAt": "2026-10-29T19:51"
+ "updatedAt": "2026-10-29T20:51"
 }
