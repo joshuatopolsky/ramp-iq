@@ -41,35 +41,11 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "Foxconn hopes to own 50% of the global AI server market within a couple years",
-   "s": "Foxconn's chairman says the Taiwanese manufacturer aims to build half of the world's AI servers as hyperscaler demand keeps climbing.",
+   "t": "Meta outlook revised to negative by S&P on cash flow and capex concerns",
+   "s": "S&P Global cut Meta's credit outlook to negative, citing negative free cash flow as the company keeps pouring money into AI infrastructure.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
-   "tp": "Supply chain",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Tech giants need legacy businesses to grow as they pour trillions into the AI buildout",
-   "s": "Alphabet, Meta, Microsoft and Amazon are leaning on their core ad, software and retail profits to fund ballooning AI infrastructure bills.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Cracks are emerging in the AI spending boom",
-   "s": "Investor pushback on Big Tech capex this earnings season suggests the AI infrastructure spending surge is starting to show strain.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+   "tp": "Markets",
    "m": [
     "AI",
     "MACRO"
@@ -77,14 +53,74 @@
   },
   {
    "d": "2026-10-30",
-   "t": "Musk and Zuckerberg swap 'AI' for 'superintelligence' on earnings calls",
-   "s": "Executives at Tesla and Meta increasingly framed their spending around 'superintelligence' rather than AI as investors question returns.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-   "tp": "AI & tech",
+   "t": "Canada expects to seal a deal in June to become the EU's first 'associate member'",
+   "s": "Ottawa is aiming to finalize a new associate-member arrangement with the European Union by June, deepening trade ties as it pulls away from the U.S.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/canada-eu-associate-member-june-carney/",
+   "tp": "Energy & trade",
    "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Gen Z doesn't think their degrees will land them work anymore, so they're becoming their own bosses",
+   "s": "GoDaddy data shows a jump in new small businesses started in college towns as young graduates face an AI-squeezed entry-level job market.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/college-town-entrepreneurship-godaddy-exclusive-data-gen-z-starting-businesses-in-wake-of-ai/",
+   "tp": "Labor",
+   "m": [
+    "MACRO",
     "AI"
    ]
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Foxconn's chairman says the Taiwanese manufacturer aims to build half of the world's AI servers as hyperscaler demand keeps climbing.",
+   "src": "CNBC",
+   "t": "Foxconn hopes to own 50% of the global AI server market within a couple years",
+   "tp": "Supply chain",
+   "u": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "SPEND"
+   ],
+   "s": "Alphabet, Meta, Microsoft and Amazon are leaning on their core ad, software and retail profits to fund ballooning AI infrastructure bills.",
+   "src": "CNBC",
+   "t": "Tech giants need legacy businesses to grow as they pour trillions into the AI buildout",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Investor pushback on Big Tech capex this earnings season suggests the AI infrastructure spending surge is starting to show strain.",
+   "src": "TechCrunch",
+   "t": "Cracks are emerging in the AI spending boom",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI"
+   ],
+   "s": "Executives at Tesla and Meta increasingly framed their spending around 'superintelligence' rather than AI as investors question returns.",
+   "src": "CNBC",
+   "t": "Musk and Zuckerberg swap 'AI' for 'superintelligence' on earnings calls",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html"
   },
   {
    "d": "2026-10-30",
@@ -615,31 +651,6 @@
     "AI",
     "VNDR"
    ],
-   "s": "Fortune examines how Anthropic's IPO prospectus discloses AI-related risks to shareholders while saying less about broader societal costs.",
-   "src": "Fortune",
-   "t": "Anthropic's IPO filing spells out AI risks for investors, less so for the public",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/30/anthropic-ipo-public-risk-statement-ai-hidden-costs/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Goldman Sachs economists say workers cut because of AI, especially older ones, may face longer-lasting earnings hits, based on past waves of tech disruption.",
-   "src": "Fortune",
-   "t": "Goldman Sachs warns AI layoffs may leave lasting scars on displaced workers",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
    "s": "A startup is trying to factory-build AI data centers on an assembly line so they can be deployed and running within two days.",
    "src": "TechCrunch",
    "t": "Can AI data centers be mass-produced like cars and online in 48 hours? This startup aims to find out",
@@ -872,14 +883,39 @@
   },
   {
    "d": "2026-10-29",
-   "t": "The R2 SUV is already Rivian's best-selling vehicle",
-   "s": "Rivian says its cheaper R2 SUV has quickly overtaken its other models in sales, a key test of the EV maker's push into the mass market.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-   "tp": "Companies & deals",
+   "t": "ServiceNow shares plunge 27% to worst day ever amid AI disruption fears",
+   "s": "The enterprise software maker suffered its biggest one-day drop on record as investors worried AI agents will erode demand for seat-based SaaS.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+   "tp": "AI & tech",
    "m": [
+    "AI",
+    "VNDR",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "U.S. worker engagement sinks to a 15-year low, new Gallup poll shows",
+   "s": "Gallup found the share of engaged U.S. employees has fallen to its lowest level in 15 years, a warning sign for productivity and retention.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
+   "tp": "Labor",
+   "m": [
+    "MACRO",
     "BENCH"
    ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Rivian says its cheaper R2 SUV has quickly overtaken its other models in sales, a key test of the EV maker's push into the mass market.",
+   "src": "TechCrunch",
+   "t": "The R2 SUV is already Rivian's best-selling vehicle",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
   },
   {
    "d": "2026-10-29",
@@ -938,42 +974,7 @@
    "t": "Mastercard's Q3 profit and revenue rise as US credit card spending grows",
    "tp": "Companies & deals",
    "u": "https://qz.com/mastercard-q3-earnings-profit-revenue-payment-network-services-102926"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "SPEND",
-    "VNDR"
-   ],
-   "s": "Amazon's third-quarter shipping costs rose 11% from a year earlier, showing how higher freight rates are squeezing even the largest shippers.",
-   "src": "FreightWaves",
-   "t": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-battles-freight-inflation-shipping-232652527.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Alphabet stock fell about 13% and erased roughly $500 billion in market value after search growth slowed and AI spending rose.",
-   "src": "CNN Business",
-   "t": "Alphabet shares just had their worst day ever",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shares-google-parent-company-just-221533118.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "VNDR"
-   ],
-   "s": "The crypto exchange said it is investigating a possible breach while stablecoin issuers moved to freeze funds tied to the incident.",
-   "src": "AP",
-   "t": "Binance reports a 'potential security issue' as stablecoin issuers freeze millions",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-binance-says-investigating-232849281.html"
   }
  ],
- "updatedAt": "2026-10-30T17:52"
+ "updatedAt": "2026-10-30T18:51"
 }
