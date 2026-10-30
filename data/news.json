@@ -1,50 +1,12 @@
 {
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ],
+ "updatedAt": "2026-10-30T04:55",
  "items": [
   {
-   "d": "2026-10-29",
-   "t": "Samsung posts a record $80.5 billion quarterly profit on AI chip demand",
-   "s": "Surging demand for memory chips used in AI data centers drove Samsung to its biggest quarterly profit ever.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/",
+   "d": "2026-10-30",
+   "t": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+   "s": "Waymo's next robotaxi will be built on Toyota's bZ4X as the Alphabet unit prepares launches in Japan and the United Kingdom.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -53,51 +15,87 @@
   },
   {
    "d": "2026-10-29",
-   "t": "Neocloud consolidation looms as AI infrastructure firms come under pressure",
-   "s": "Analysts expect GPU cloud providers like CoreWeave and Nebius to merge or fold as financing tightens and AI bubble worries grow.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/elon-musk-neoclouds-ai-bubble-coreweave-nebius-consolidation/",
-   "tp": "AI & tech",
+   "t": "Mastercard's Q3 profit and revenue rise as US credit card spending grows",
+   "s": "Mastercard beat estimates with revenue up 14%, helped by US credit card spending and some deals pulled forward from the fourth quarter.",
+   "src": "Quartz",
+   "u": "https://qz.com/mastercard-q3-earnings-profit-revenue-payment-network-services-102926",
+   "tp": "Companies & deals",
    "m": [
-    "AI",
-    "VNDR",
+    "SPEND",
     "MACRO"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Etsy's new CEO cracks down on AI-generated listings, and buyers start coming back",
-   "s": "Etsy is restricting AI-made product listings, and early signs show shoppers returning to the marketplace.",
+   "t": "Agent identity startup Mintive lands backing from Cowboy Ventures and Coatue",
+   "s": "Mintive, which builds identity and access controls for AI agents, raised funding from Cowboy Ventures, Coatue and angels including Jeff Dean and Andrej Karpathy.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Surging demand for memory chips used in AI data centers drove Samsung to its biggest quarterly profit ever.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return/",
-   "tp": "Companies & deals",
+   "t": "Samsung posts a record $80.5 billion quarterly profit on AI chip demand",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Analysts expect GPU cloud providers like CoreWeave and Nebius to merge or fold as financing tightens and AI bubble worries grow.",
+   "src": "Fortune",
+   "t": "Neocloud consolidation looms as AI infrastructure firms come under pressure",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/elon-musk-neoclouds-ai-bubble-coreweave-nebius-consolidation/"
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI",
     "BENCH"
-   ]
+   ],
+   "s": "Etsy is restricting AI-made product listings, and early signs show shoppers returning to the marketplace.",
+   "src": "Fortune",
+   "t": "Etsy's new CEO cracks down on AI-generated listings, and buyers start coming back",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return/"
   },
   {
    "d": "2026-10-29",
-   "t": "Andy Jassy says Prime Video is on track to earn tens of billions of dollars",
-   "s": "Amazon's CEO told investors its streaming and ad business is scaling into a major profit driver.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-   "tp": "Companies & deals",
    "m": [
     "VNDR",
     "BENCH"
-   ]
+   ],
+   "s": "Amazon's CEO told investors its streaming and ad business is scaling into a major profit driver.",
+   "src": "TechCrunch",
+   "t": "Andy Jassy says Prime Video is on track to earn tens of billions of dollars",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/"
   },
   {
    "d": "2026-10-29",
-   "t": "The R2 SUV is already Rivian's best-selling vehicle",
-   "s": "Rivian's cheaper R2 has overtaken its older models in sales shortly after launch, a key test for the EV maker's finances.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-   "tp": "Companies & deals",
    "m": [
     "BENCH"
-   ]
+   ],
+   "s": "Rivian's cheaper R2 has overtaken its older models in sales shortly after launch, a key test for the EV maker's finances.",
+   "src": "TechCrunch",
+   "t": "The R2 SUV is already Rivian's best-selling vehicle",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
   },
   {
    "d": "2026-10-29",
@@ -570,29 +568,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "AI"
-   ],
-   "s": "Federal authorities probed an alleged Chinese intelligence effort targeting Jensen Huang.",
-   "src": "TechCrunch",
-   "t": "US investigated Chinese spy plot aimed at Nvidia CEO",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "The startup is applying AI simulation models to construction planning, backed by Andreessen Horowitz.",
-   "src": "TechCrunch",
-   "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "BENCH"
    ],
    "s": "Eli Lilly shares hit a record after strong sales of its obesity drugs lifted results and analysts raised their outlook.",
@@ -833,14 +808,14 @@
   },
   {
    "d": "2026-10-28",
-   "t": "Investors eye Brazilian equities after election selloff",
-   "s": "Brazilian stocks have kept sliding after Lula's re-election, though some analysts now say they look undervalued.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/28/2026/investors-eye-brazilian-equities-after-election-selloff",
-   "tp": "Markets",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Brazilian stocks have kept sliding after Lula's re-election, though some analysts now say they look undervalued.",
+   "src": "Semafor",
+   "t": "Investors eye Brazilian equities after election selloff",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/10/28/2026/investors-eye-brazilian-equities-after-election-selloff"
   },
   {
    "d": "2026-10-28",
@@ -956,19 +931,45 @@
    "t": "US natural gas production hits new records as demand surges",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/u-natural-gas-production-hits-220000556.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "Freight brokers C.H. Robinson and Landstar sold off after results, with rising insurance costs among the pressures on trucking margins.",
-   "src": "FreightWaves",
-   "t": "C.H. Robinson and Landstar shares slammed as insurance costs weigh",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/c-h-robinson-landstar-stock-214055979.html"
   }
  ],
- "updatedAt": "2026-10-29T21:55"
+ "excl": [
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  }
+ ]
 }
