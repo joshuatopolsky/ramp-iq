@@ -41,119 +41,119 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "Fed needs at least two more rate hikes, Logan says",
+   "m": [
+    "MACRO"
+   ],
    "s": "Dallas Fed President Lorie Logan argued the central bank must raise rates at least twice more to get inflation under control.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-needs-least-two-more-173445281.html",
+   "t": "Fed needs at least two more rate hikes, Logan says",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-needs-least-two-more-173445281.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Rates need to be higher, 3 Fed members say. The question is how much.",
+   "m": [
+    "MACRO"
+   ],
    "s": "Three Fed officials have now signaled that further tightening is coming, and the debate has moved to the size and pace of hikes.",
    "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/economy/policy/article/rates-need-to-be-higher-3-fed-members-say-the-question-is-how-much-173755732.html",
+   "t": "Rates need to be higher, 3 Fed members say. The question is how much.",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/article/rates-need-to-be-higher-3-fed-members-say-the-question-is-how-much-173755732.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Wall Street sell-off deepens as investors question returns on 'monster AI splurge'",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
    "s": "US stocks extended losses as investors questioned whether Big Tech's huge AI capital spending will pay off.",
    "src": "CNN Business",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sell-off-continues-120803903.html",
+   "t": "Wall Street sell-off deepens as investors question returns on 'monster AI splurge'",
    "tp": "Markets",
-   "m": [
-    "MACRO",
-    "AI"
-   ]
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sell-off-continues-120803903.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Social Security's fate, and your benefits, are in the hands of the candidates elected this year",
-   "s": "With the trust fund's depletion date approaching, the lawmakers chosen in next week's midterms will shape any fix to benefits or payroll taxes.",
-   "src": "MarketWatch",
-   "u": "https://finance.yahoo.com/economy/policy/articles/midterms-crucial-future-social-security-220100923.html",
-   "tp": "Economy",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "With the trust fund's depletion date approaching, the lawmakers chosen in next week's midterms will shape any fix to benefits or payroll taxes.",
+   "src": "MarketWatch",
+   "t": "Social Security's fate, and your benefits, are in the hands of the candidates elected this year",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/midterms-crucial-future-social-security-220100923.html"
   },
   {
    "d": "2026-10-30",
-   "t": "European shares stumble at end of best month since June on AI worries",
-   "s": "European stocks slipped on the final day of a strong October as global anxiety over AI spending weighed on tech names.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/european-shares-ease-ai-driven-082535937.html",
-   "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "European stocks slipped on the final day of a strong October as global anxiety over AI spending weighed on tech names.",
+   "src": "Reuters",
+   "t": "European shares stumble at end of best month since June on AI worries",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/european-shares-ease-ai-driven-082535937.html"
   },
   {
    "d": "2026-10-30",
-   "t": "King Yuan Electronics advances $1.3B Fort Worth chip testing facility",
-   "s": "The Taiwanese chip-testing company is moving forward with a $1.3 billion facility in Fort Worth, adding to US semiconductor supply chain buildout.",
-   "src": "The Real Deal",
-   "u": "https://finance.yahoo.com/technology/articles/king-yuan-electronics-advances-1-165446873.html",
-   "tp": "Supply chain",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "The Taiwanese chip-testing company is moving forward with a $1.3 billion facility in Fort Worth, adding to US semiconductor supply chain buildout.",
+   "src": "The Real Deal",
+   "t": "King Yuan Electronics advances $1.3B Fort Worth chip testing facility",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/technology/articles/king-yuan-electronics-advances-1-165446873.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Google's first data center satellite is online and writing poetry",
-   "s": "Google says its first orbital data center satellite is working, an early test of moving AI compute into space.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-   "tp": "AI & tech",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "Google says its first orbital data center satellite is working, an early test of moving AI compute into space.",
+   "src": "TechCrunch",
+   "t": "Google's first data center satellite is online and writing poetry",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
   },
   {
    "d": "2026-10-30",
-   "t": "Stocks fall on AI cash burn worries while bonds rally with oil",
-   "s": "Global equities fell on worries about how much cash tech companies are burning on AI, while Treasuries and crude both rallied.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-bonds-leap-ai-024810978.html",
-   "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "Global equities fell on worries about how much cash tech companies are burning on AI, while Treasuries and crude both rallied.",
+   "src": "Reuters",
+   "t": "Stocks fall on AI cash burn worries while bonds rally with oil",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-bonds-leap-ai-024810978.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Oil traders brace for a wild week as Brent approaches $120",
-   "s": "Brent crude is closing in on $120 a barrel, and traders are positioning for sharp swings tied to Middle East supply risks.",
-   "src": "Oilprice.com",
-   "u": "https://finance.yahoo.com/energy/articles/oil-traders-brace-wild-week-165100085.html",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "Brent crude is closing in on $120 a barrel, and traders are positioning for sharp swings tied to Middle East supply risks.",
+   "src": "Oilprice.com",
+   "t": "Oil traders brace for a wild week as Brent approaches $120",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/oil-traders-brace-wild-week-165100085.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people'",
-   "s": "Tyler Shultz cautioned that hype around AI startups creates fertile ground for Theranos-style fraud and urged investors to do more diligence.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Tyler Shultz cautioned that hype around AI startups creates fertile ground for Theranos-style fraud and urged investors to do more diligence.",
+   "src": "TechCrunch",
+   "t": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people'",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
   },
   {
    "d": "2026-10-30",
@@ -753,14 +753,14 @@
   },
   {
    "d": "2026-10-29",
-   "t": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
-   "s": "Reddit will push users to sign in as AI search answers cut into the referral traffic it gets from Google.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-   "tp": "AI & tech",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "Reddit will push users to sign in as AI search answers cut into the referral traffic it gets from Google.",
+   "src": "TechCrunch",
+   "t": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
   },
   {
    "d": "2026-10-29",
@@ -976,5 +976,5 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/fresno-carrier-dtl-run-75-174239660.html"
   }
  ],
- "updatedAt": "2026-10-30T13:51"
+ "updatedAt": "2026-10-30T14:50"
 }
