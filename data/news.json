@@ -41,10 +41,10 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "Fed's Musalem says a rate hike is needed 'soon'",
-   "s": "St. Louis Fed President Alberto Musalem argued that the central bank should raise interest rates in the near term, adding to signs of a hawkish turn among policymakers.",
+   "t": "Fed needs at least two more rate hikes, Logan says",
+   "s": "Dallas Fed President Lorie Logan argued the central bank must raise rates at least twice more to get inflation under control.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/feds-musalem-says-rate-hike-163223128.html",
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-needs-least-two-more-173445281.html",
    "tp": "Economy",
    "m": [
     "MACRO"
@@ -52,10 +52,10 @@
   },
   {
    "d": "2026-10-30",
-   "t": "Canada's budget deficit nearly halves to C$5.36 billion over first five months of fiscal year",
-   "s": "Ottawa's shortfall for the first five months of fiscal 2026/27 was almost half what it was a year earlier, even as the Canadian economy stalls.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/canadas-budget-deficit-over-first-151207533.html",
+   "t": "Rates need to be higher, 3 Fed members say. The question is how much.",
+   "s": "Three Fed officials have now signaled that further tightening is coming, and the debate has moved to the size and pace of hikes.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/economy/policy/article/rates-need-to-be-higher-3-fed-members-say-the-question-is-how-much-173755732.html",
    "tp": "Economy",
    "m": [
     "MACRO"
@@ -63,10 +63,92 @@
   },
   {
    "d": "2026-10-30",
-   "t": "Nvidia to prop up British AI giant as data centre boom unwinds",
-   "s": "Nvidia is reportedly stepping in to support a major UK AI infrastructure company as demand for data centre capacity cools.",
-   "src": "The Telegraph",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-prop-british-ai-giant-153434111.html",
+   "t": "Wall Street sell-off deepens as investors question returns on 'monster AI splurge'",
+   "s": "US stocks extended losses as investors questioned whether Big Tech's huge AI capital spending will pay off.",
+   "src": "CNN Business",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sell-off-continues-120803903.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Social Security's fate, and your benefits, are in the hands of the candidates elected this year",
+   "s": "With the trust fund's depletion date approaching, the lawmakers chosen in next week's midterms will shape any fix to benefits or payroll taxes.",
+   "src": "MarketWatch",
+   "u": "https://finance.yahoo.com/economy/policy/articles/midterms-crucial-future-social-security-220100923.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "European shares stumble at end of best month since June on AI worries",
+   "s": "European stocks slipped on the final day of a strong October as global anxiety over AI spending weighed on tech names.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/european-shares-ease-ai-driven-082535937.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "King Yuan Electronics advances $1.3B Fort Worth chip testing facility",
+   "s": "The Taiwanese chip-testing company is moving forward with a $1.3 billion facility in Fort Worth, adding to US semiconductor supply chain buildout.",
+   "src": "The Real Deal",
+   "u": "https://finance.yahoo.com/technology/articles/king-yuan-electronics-advances-1-165446873.html",
+   "tp": "Supply chain",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Google's first data center satellite is online and writing poetry",
+   "s": "Google says its first orbital data center satellite is working, an early test of moving AI compute into space.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Stocks fall on AI cash burn worries while bonds rally with oil",
+   "s": "Global equities fell on worries about how much cash tech companies are burning on AI, while Treasuries and crude both rallied.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-bonds-leap-ai-024810978.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Oil traders brace for a wild week as Brent approaches $120",
+   "s": "Brent crude is closing in on $120 a barrel, and traders are positioning for sharp swings tied to Middle East supply risks.",
+   "src": "Oilprice.com",
+   "u": "https://finance.yahoo.com/energy/articles/oil-traders-brace-wild-week-165100085.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people'",
+   "s": "Tyler Shultz cautioned that hype around AI startups creates fertile ground for Theranos-style fraud and urged investors to do more diligence.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -75,49 +157,83 @@
   },
   {
    "d": "2026-10-30",
-   "t": "Warren urges DOJ to probe Bank of America's anti-money-laundering issues",
-   "s": "Sen. Elizabeth Warren asked the Justice Department to investigate compliance lapses in Bank of America's anti-money-laundering controls.",
-   "src": "Banking Dive",
-   "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-doj-probe-bofa-154540520.html",
-   "tp": "Companies & deals",
    "m": [
-    "VNDR"
-   ]
+    "MACRO"
+   ],
+   "s": "St. Louis Fed President Alberto Musalem argued that the central bank should raise interest rates in the near term, adding to signs of a hawkish turn among policymakers.",
+   "src": "Reuters",
+   "t": "Fed's Musalem says a rate hike is needed 'soon'",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/feds-musalem-says-rate-hike-163223128.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Amazon CEO says the retail business is being slept on",
-   "s": "Andy Jassy argued that investors focused on AWS and AI spending are overlooking momentum in Amazon's retail operations.",
-   "src": "Retail Dive",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-ceo-says-retail-business-160500201.html",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Ottawa's shortfall for the first five months of fiscal 2026/27 was almost half what it was a year earlier, even as the Canadian economy stalls.",
+   "src": "Reuters",
+   "t": "Canada's budget deficit nearly halves to C$5.36 billion over first five months of fiscal year",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/canadas-budget-deficit-over-first-151207533.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Nvidia is reportedly stepping in to support a major UK AI infrastructure company as demand for data centre capacity cools.",
+   "src": "The Telegraph",
+   "t": "Nvidia to prop up British AI giant as data centre boom unwinds",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-prop-british-ai-giant-153434111.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Sen. Elizabeth Warren asked the Justice Department to investigate compliance lapses in Bank of America's anti-money-laundering controls.",
+   "src": "Banking Dive",
+   "t": "Warren urges DOJ to probe Bank of America's anti-money-laundering issues",
    "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/economy/policy/articles/warren-urges-doj-probe-bofa-154540520.html"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "VNDR",
     "SPEND"
-   ]
+   ],
+   "s": "Andy Jassy argued that investors focused on AWS and AI spending are overlooking momentum in Amazon's retail operations.",
+   "src": "Retail Dive",
+   "t": "Amazon CEO says the retail business is being slept on",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-ceo-says-retail-business-160500201.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Canada's economic break with the US in 5 charts",
-   "s": "A set of charts tracks how Canada's trade, investment and growth have been decoupling from the US amid tariff tensions.",
-   "src": "CNN Business",
-   "u": "https://finance.yahoo.com/economy/policy/articles/canada-economic-break-us-5-090016312.html",
-   "tp": "Energy & trade",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "A set of charts tracks how Canada's trade, investment and growth have been decoupling from the US amid tariff tensions.",
+   "src": "CNN Business",
+   "t": "Canada's economic break with the US in 5 charts",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/economy/policy/articles/canada-economic-break-us-5-090016312.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Trump rolls back Biden-era energy rules as gas tops $4 a gallon",
-   "s": "The administration is unwinding oil and gas regulations from the previous administration as pump prices climb above $4.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/donald-trump-biden-harris-2024-regulations-oil-gas/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "The administration is unwinding oil and gas regulations from the previous administration as pump prices climb above $4.",
+   "src": "Fortune",
+   "t": "Trump rolls back Biden-era energy rules as gas tops $4 a gallon",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/30/donald-trump-biden-harris-2024-regulations-oil-gas/"
   },
   {
    "d": "2026-10-30",
@@ -427,18 +543,6 @@
   {
    "d": "2026-10-30",
    "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Nasdaq futures slid before the open as heavy AI spending plans from Amazon and a weak Intel report deepened investor doubts about returns on the AI build-out.",
-   "src": "Reuters",
-   "t": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
     "AI",
     "VNDR"
    ],
@@ -459,28 +563,6 @@
    "t": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/exxonmobil-chevron-top-q3-estimates-124049676.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The yen strengthened following the Bank of Japan's policy decision while the dollar softened as the tech-led selloff rippled through currency markets.",
-   "src": "Reuters",
-   "t": "Yen gains after BOJ; AI selloff weighs on dollar",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-steady-boj-ai-jitters-015222078.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "European Central Bank officials are now openly discussing whether higher rates are needed as energy-driven inflation picks up across the euro zone.",
-   "src": "Reuters",
-   "t": "ECB policymakers bring rate hike debate into the open",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-policymakers-bring-rate-hike-115428804.html"
   },
   {
    "d": "2026-10-30",
@@ -671,26 +753,37 @@
   },
   {
    "d": "2026-10-29",
-   "t": "ECB President Christine Lagarde to step down nine months early",
-   "s": "Lagarde's early exit gives EU leaders room to pick her successor at the European Central Bank before France's elections.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/christine-lagarde-resigns-early-france-macron-eu-ecb/",
-   "tp": "Economy",
+   "t": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
+   "s": "Reddit will push users to sign in as AI search answers cut into the referral traffic it gets from Google.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+   "tp": "AI & tech",
    "m": [
-    "MACRO"
+    "AI"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Apollo's twin deals reveal Wall Street's AI money problem",
-   "s": "Two Apollo financings show how private credit is being stretched to fund the enormous capital needs of the AI buildout.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/29/2026/apollos-twin-deals-reveal-wall-streets-ai-money-problem",
-   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Lagarde's early exit gives EU leaders room to pick her successor at the European Central Bank before France's elections.",
+   "src": "Fortune",
+   "t": "ECB President Christine Lagarde to step down nine months early",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/29/christine-lagarde-resigns-early-france-macron-eu-ecb/"
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Two Apollo financings show how private credit is being stretched to fund the enormous capital needs of the AI buildout.",
+   "src": "Semafor",
+   "t": "Apollo's twin deals reveal Wall Street's AI money problem",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/29/2026/apollos-twin-deals-reveal-wall-streets-ai-money-problem"
   },
   {
    "d": "2026-10-29",
@@ -762,41 +855,6 @@
    "t": "Andy Jassy says Prime Video is on track to earn tens of billions of dollars",
    "tp": "Companies & deals",
    "u": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Rivian's cheaper R2 has overtaken its older models in sales shortly after launch, a key test for the EV maker's finances.",
-   "src": "TechCrunch",
-   "t": "The R2 SUV is already Rivian's best-selling vehicle",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Amazon's CEO laid out a long-term trillion-dollar ambition for AWS while warning that AI infrastructure spending will keep climbing.",
-   "src": "TechCrunch",
-   "t": "AWS will be a $1 trillion business, Jassy says, but first it will spend big",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "The AI meeting-notes app is expanding into voice dictation, pushing into a crowded market for AI productivity tools.",
-   "src": "TechCrunch",
-   "t": "Granola adds a dictation feature to compete with Wispr",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
   },
   {
    "d": "2026-10-29",
@@ -916,66 +974,7 @@
    "t": "Fresno carrier DTL to run 75 Kodiak driverless trucks",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/technology/ai/articles/fresno-carrier-dtl-run-75-174239660.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "SPEND",
-    "BENCH"
-   ],
-   "s": "The job site is offering its namesake downtown Austin headquarters to subtenants, while Meta absorbs other surplus space.",
-   "src": "The Real Deal",
-   "t": "Indeed lists its Austin tower for sublease as Meta chips away at the office glut",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/real-estate/articles/indeed-lists-namesake-tower-downtown-184000809.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Big pharma posted record quarterly sales despite the White House's push to lower drug prices.",
-   "src": "Bloomberg",
-   "t": "Drugmakers shrug off Trump pricing pressure with record revenue",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/healthcare/articles/drugmakers-shrug-off-trump-pricing-164649742.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH"
-   ],
-   "s": "The label's subscription streaming revenue picked up pace in its latest quarter, easing worries about a slowdown.",
-   "src": "Bloomberg",
-   "t": "Universal Music's subscription revenue growth improves",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/media-advertising/articles/universal-music-subscription-revenue-growth-172033698.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "As some employers rehire after AI-driven layoffs, workers are weighing pay, stability and leverage before returning.",
-   "src": "AP",
-   "t": "What to consider if a company that made AI-related job cuts wants you back",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/technology/ai/articles/consider-company-made-ai-related-172246414.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "A new ranking compares states on openings, unemployment and wages to show where job seekers have the best odds.",
-   "src": "USA Today",
-   "t": "These are the best and worst states for finding a job, study finds",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/economy/articles/best-worst-states-finding-job-170308514.html"
   }
  ],
- "updatedAt": "2026-10-30T13:05"
+ "updatedAt": "2026-10-30T13:51"
 }
