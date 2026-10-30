@@ -41,11 +41,80 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "Meta outlook revised to negative by S&P on cash flow and capex concerns",
-   "s": "S&P Global cut Meta's credit outlook to negative, citing negative free cash flow as the company keeps pouring money into AI infrastructure.",
+   "t": "The big questions remaining after Anthropic's blockbuster IPO prospectus",
+   "s": "Anthropic's S-1 leaves investors weighing how durable its revenue growth is against the enormous cost of the compute it needs.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
-   "tp": "Markets",
+   "u": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Anthropic expected to receive a junk credit rating after its IPO",
+   "s": "Citing the FT, the report says ratings agencies are likely to put Anthropic's debt below investment grade given its heavy cash burn.",
+   "src": "TechCrunch",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-expected-receive-high-junk-215203788.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Salesforce's acquisition spree continues with reported $375M Rune deal",
+   "s": "Salesforce has reportedly agreed to buy defense tech startup Rune for about $375 million, extending a run of acquisitions.",
+   "src": "TechCrunch",
+   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-m-spree-continues-reported-232123064.html",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Fitch revises France's outlook to negative",
+   "s": "Fitch moved France's credit outlook to negative, pointing to deteriorating debt dynamics amid a budget standoff.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/fitch-revises-frances-outlook-negative-221851434.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Early results of Trump-touted Venezuela oil deal raise doubts",
+   "s": "The first results from a Venezuela oil arrangement the president hailed as a record are falling short of the promises.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/energy/articles/trump-touted-record-venezuela-oil-101849012.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "SpaceX's Shotwell says 2 million shares will go to children's Trump Accounts",
+   "s": "SpaceX's president said the company will donate 2 million shares to the government-backed savings accounts for children.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacexs-shotwell-says-2-million-214100331.html",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Goldman warns AI layoffs could leave lasting scars on displaced workers",
+   "s": "Goldman Sachs says workers pushed out by AI, especially older ones, may suffer long-term earnings losses like those seen in past tech shifts.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/",
+   "tp": "Labor",
    "m": [
     "AI",
     "MACRO"
@@ -53,27 +122,98 @@
   },
   {
    "d": "2026-10-30",
-   "t": "Canada expects to seal a deal in June to become the EU's first 'associate member'",
-   "s": "Ottawa is aiming to finalize a new associate-member arrangement with the European Union by June, deepening trade ties as it pulls away from the U.S.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/canada-eu-associate-member-june-carney/",
-   "tp": "Energy & trade",
+   "t": "Cheaper cars are selling considerably faster than at the beginning of the year",
+   "s": "Lower-priced vehicles are moving off dealer lots much more quickly than in early 2026 as buyers hunt for affordability.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+   "tp": "Economy",
    "m": [
     "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Employers rethink AI's role in entry-level work",
+   "s": "Companies are reconsidering whether AI should replace or support junior roles as they plan future hiring.",
+   "src": "Axios",
+   "u": "https://finance.yahoo.com/technology/ai/articles/axios-live-employers-rethinking-ais-211016358.html",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "The PC industry's painful path to AI",
+   "s": "PC makers are struggling to turn AI features into a reason for customers to upgrade, even as demand weakens.",
+   "src": "Axios",
+   "u": "https://finance.yahoo.com/technology/ai/articles/pc-industrys-painful-path-ai-214933271.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
     "VNDR"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "Gen Z doesn't think their degrees will land them work anymore, so they're becoming their own bosses",
-   "s": "GoDaddy data shows a jump in new small businesses started in college towns as young graduates face an AI-squeezed entry-level job market.",
+   "t": "DEA approvals could bring big tax benefits for medical marijuana firms",
+   "s": "Rescheduling approvals from the DEA could ease the heavy federal tax burden that medical cannabis companies have carried.",
+   "src": "AP",
+   "u": "https://finance.yahoo.com/healthcare/articles/dea-approvals-could-bring-big-214225812.html",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Alphabet in talks to join Trump's Golden Dome missile defense program",
+   "s": "Alphabet is reportedly negotiating a role in the administration's Golden Dome initiative, a deeper move into defense work.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "S&P Global cut Meta's credit outlook to negative, citing negative free cash flow as the company keeps pouring money into AI infrastructure.",
+   "src": "CNBC",
+   "t": "Meta outlook revised to negative by S&P on cash flow and capex concerns",
+   "tp": "Markets",
+   "u": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "Ottawa is aiming to finalize a new associate-member arrangement with the European Union by June, deepening trade ties as it pulls away from the U.S.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/college-town-entrepreneurship-godaddy-exclusive-data-gen-z-starting-businesses-in-wake-of-ai/",
-   "tp": "Labor",
+   "t": "Canada expects to seal a deal in June to become the EU's first 'associate member'",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/30/canada-eu-associate-member-june-carney/"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "GoDaddy data shows a jump in new small businesses started in college towns as young graduates face an AI-squeezed entry-level job market.",
+   "src": "Fortune",
+   "t": "Gen Z doesn't think their degrees will land them work anymore, so they're becoming their own bosses",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/30/college-town-entrepreneurship-godaddy-exclusive-data-gen-z-starting-businesses-in-wake-of-ai/"
   },
   {
    "d": "2026-10-30",
@@ -356,18 +496,6 @@
   {
    "d": "2026-10-30",
    "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "European stocks slipped on the final day of a strong October as global anxiety over AI spending weighed on tech names.",
-   "src": "Reuters",
-   "t": "European shares stumble at end of best month since June on AI worries",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/european-shares-ease-ai-driven-082535937.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
     "AI",
     "VNDR"
    ],
@@ -392,18 +520,6 @@
    "d": "2026-10-30",
    "m": [
     "MACRO",
-    "AI"
-   ],
-   "s": "Global equities fell on worries about how much cash tech companies are burning on AI, while Treasuries and crude both rallied.",
-   "src": "Reuters",
-   "t": "Stocks fall on AI cash burn worries while bonds rally with oil",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-bonds-leap-ai-024810978.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
     "TNE"
    ],
    "s": "Brent crude is closing in on $120 a barrel, and traders are positioning for sharp swings tied to Middle East supply risks.",
@@ -423,17 +539,6 @@
    "t": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people'",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "St. Louis Fed President Alberto Musalem argued that the central bank should raise interest rates in the near term, adding to signs of a hawkish turn among policymakers.",
-   "src": "Reuters",
-   "t": "Fed's Musalem says a rate hike is needed 'soon'",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/feds-musalem-says-rate-hike-163223128.html"
   },
   {
    "d": "2026-10-30",
@@ -504,18 +609,6 @@
    "t": "Third-quarter GDP's 3.4% gain masks a haunted housing market and a September stall",
    "tp": "Economy",
    "u": "https://fortune.com/2026/10/30/gdp-third-quarter-haunted-housing-market-ai-spending-september-stall/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Microsoft's voluntary exit program signals how big employers are reshaping headcount around AI.",
-   "src": "Fortune",
-   "t": "Microsoft's 60,000-person buyout offer points to a leaner workforce",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/30/microsoft-voluntary-exit-offer-buyout-60000-employees/"
   },
   {
    "d": "2026-10-30",
@@ -880,101 +973,7 @@
    "t": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
-  },
-  {
-   "d": "2026-10-29",
-   "t": "ServiceNow shares plunge 27% to worst day ever amid AI disruption fears",
-   "s": "The enterprise software maker suffered its biggest one-day drop on record as investors worried AI agents will erode demand for seat-based SaaS.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "t": "U.S. worker engagement sinks to a 15-year low, new Gallup poll shows",
-   "s": "Gallup found the share of engaged U.S. employees has fallen to its lowest level in 15 years, a warning sign for productivity and retention.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
-   "tp": "Labor",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Rivian says its cheaper R2 SUV has quickly overtaken its other models in sales, a key test of the EV maker's push into the mass market.",
-   "src": "TechCrunch",
-   "t": "The R2 SUV is already Rivian's best-selling vehicle",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI"
-   ],
-   "s": "Reddit will push users to sign in as AI search answers cut into the referral traffic it gets from Google.",
-   "src": "TechCrunch",
-   "t": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Two Apollo financings show how private credit is being stretched to fund the enormous capital needs of the AI buildout.",
-   "src": "Semafor",
-   "t": "Apollo's twin deals reveal Wall Street's AI money problem",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/29/2026/apollos-twin-deals-reveal-wall-streets-ai-money-problem"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Europe's largest carmaker posted its weakest results in ten years, underscoring the pressure on legacy automakers.",
-   "src": "Semafor",
-   "t": "Volkswagen reports its worst results in a decade",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/29/2026/volkswagen-reports-its-worst-results-in-a-decade"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "VNDR"
-   ],
-   "s": "General Motors agreed to pay $220 million to resolve claims that it sold drivers' location and driving-behavior data without proper consent.",
-   "src": "TechCrunch",
-   "t": "GM reaches $220M settlement over selling drivers' private data",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "SPEND",
-    "MACRO"
-   ],
-   "s": "Mastercard beat estimates with revenue up 14%, helped by US credit card spending and some deals pulled forward from the fourth quarter.",
-   "src": "Quartz",
-   "t": "Mastercard's Q3 profit and revenue rise as US credit card spending grows",
-   "tp": "Companies & deals",
-   "u": "https://qz.com/mastercard-q3-earnings-profit-revenue-payment-network-services-102926"
   }
  ],
- "updatedAt": "2026-10-30T18:51"
+ "updatedAt": "2026-10-30T19:51"
 }
