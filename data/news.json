@@ -41,73 +41,133 @@
  "items": [
   {
    "d": "2026-10-29",
-   "t": "Bank of Japan expected to hold rates while signaling further hikes",
+   "t": "Samsung posts a record $80.5 billion quarterly profit on AI chip demand",
+   "s": "Surging demand for memory chips used in AI data centers drove Samsung to its biggest quarterly profit ever.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Neocloud consolidation looms as AI infrastructure firms come under pressure",
+   "s": "Analysts expect GPU cloud providers like CoreWeave and Nebius to merge or fold as financing tightens and AI bubble worries grow.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/elon-musk-neoclouds-ai-bubble-coreweave-nebius-consolidation/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Etsy's new CEO cracks down on AI-generated listings, and buyers start coming back",
+   "s": "Etsy is restricting AI-made product listings, and early signs show shoppers returning to the marketplace.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return/",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Andy Jassy says Prime Video is on track to earn tens of billions of dollars",
+   "s": "Amazon's CEO told investors its streaming and ad business is scaling into a major profit driver.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "The R2 SUV is already Rivian's best-selling vehicle",
+   "s": "Rivian's cheaper R2 has overtaken its older models in sales shortly after launch, a key test for the EV maker's finances.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "MACRO"
+   ],
    "s": "The BOJ is set to keep its policy rate unchanged this week but flag that more tightening is coming as inflation stays above target.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bank-japan-hold-rates-signal-210126915.html",
+   "t": "Bank of Japan expected to hold rates while signaling further hikes",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/articles/bank-japan-hold-rates-signal-210126915.html"
   },
   {
    "d": "2026-10-29",
-   "t": "Tokyo core inflation exceeds BOJ target in October",
+   "m": [
+    "MACRO"
+   ],
    "s": "Core consumer prices in Japan's capital rose faster than the central bank's 2% goal, adding pressure for another rate increase.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/tokyo-core-inflation-exceeds-boj-235216138.html",
+   "t": "Tokyo core inflation exceeds BOJ target in October",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/articles/tokyo-core-inflation-exceeds-boj-235216138.html"
   },
   {
    "d": "2026-10-29",
-   "t": "AWS will be a $1 trillion business, Jassy says, but first it will spend big",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
    "s": "Amazon's CEO laid out a long-term trillion-dollar ambition for AWS while warning that AI infrastructure spending will keep climbing.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "t": "AWS will be a $1 trillion business, Jassy says, but first it will spend big",
    "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
+   "u": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
   },
   {
    "d": "2026-10-29",
-   "t": "Granola adds a dictation feature to compete with Wispr",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
    "s": "The AI meeting-notes app is expanding into voice dictation, pushing into a crowded market for AI productivity tools.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "t": "Granola adds a dictation feature to compete with Wispr",
    "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
+   "u": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
   },
   {
    "d": "2026-10-29",
-   "t": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
-   "s": "Amazon's third-quarter shipping costs rose 11% from a year earlier, showing how higher freight rates are squeezing even the largest shippers.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-battles-freight-inflation-shipping-232652527.html",
-   "tp": "Supply chain",
    "m": [
     "SPEND",
     "VNDR"
-   ]
+   ],
+   "s": "Amazon's third-quarter shipping costs rose 11% from a year earlier, showing how higher freight rates are squeezing even the largest shippers.",
+   "src": "FreightWaves",
+   "t": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-battles-freight-inflation-shipping-232652527.html"
   },
   {
    "d": "2026-10-29",
-   "t": "Alphabet shares just had their worst day ever",
-   "s": "Alphabet stock fell about 13% and erased roughly $500 billion in market value after search growth slowed and AI spending rose.",
-   "src": "CNN Business",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shares-google-parent-company-just-221533118.html",
-   "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "Alphabet stock fell about 13% and erased roughly $500 billion in market value after search growth slowed and AI spending rose.",
+   "src": "CNN Business",
+   "t": "Alphabet shares just had their worst day ever",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shares-google-parent-company-just-221533118.html"
   },
   {
    "d": "2026-10-29",
@@ -314,17 +374,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "MACRO"
-   ],
-   "s": "The prediction market now lets users bet on whether gold rises or falls in the next 15 minutes and plans to extend short-term contracts to stocks and currencies.",
-   "src": "Fortune",
-   "t": "Polymarket launches 15-minute gold price contracts, with stocks and forex next",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/29/polymarket-now-lets-you-bet-on-golds-price-going-up-or-down-in-the-next-15-minutes/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "BENCH",
     "MACRO"
    ],
@@ -333,29 +382,6 @@
    "t": "Coinbase swings to $719 million Q3 profit on crypto gains",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-swings-719-million-q3-204643193.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "The IT-automation startup closed a Sequoia-backed Series C as AI agents push into enterprise service-desk software.",
-   "src": "Fortune",
-   "t": "Serval raises $150 million at a $3 billion valuation to take on ServiceNow",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH"
-   ],
-   "s": "eBay's resale app is growing quickly as younger shoppers trade new clothing for thrifted pieces.",
-   "src": "Fortune",
-   "t": "Depop sales hit $9 billion for eBay as Gen Z leans into secondhand fashion",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/29/gen-z-depop-ebay-thrifting-fashion-clothes/"
   },
   {
    "d": "2026-10-29",
@@ -717,29 +743,6 @@
    "d": "2026-10-29",
    "m": [
     "AI",
-    "VNDR"
-   ],
-   "s": "Mintive, which builds identity and credential management for AI agents, landed backing from top VCs and prominent AI researchers.",
-   "src": "TechCrunch",
-   "t": "Agent identity startup Mintive raises from Cowboy Ventures and Coatue, with Jeff Dean and Andrej Karpathy as angels",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI"
-   ],
-   "s": "Wabi's new funding round makes the consumer app-building AI agent the latest startup to cross a billion-dollar valuation.",
-   "src": "TechCrunch",
-   "t": "Wabi, the AI agent that builds mini apps, valued at $1.25 billion after latest round",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
     "MACRO"
    ],
    "s": "A pair of Apollo financings shows how private credit is stretching to meet the enormous capital needs of AI infrastructure.",
@@ -830,14 +833,25 @@
   },
   {
    "d": "2026-10-28",
-   "t": "Some BP board members favor a breakup of the $129 billion oil giant",
-   "s": "Some BP directors are open to splitting up the company, a move that could reshape the oil industry and upset UK stakeholders.",
+   "t": "Investors eye Brazilian equities after election selloff",
+   "s": "Brazilian stocks have kept sliding after Lula's re-election, though some analysts now say they look undervalued.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant",
-   "tp": "Energy & trade",
+   "u": "https://www.semafor.com/article/10/28/2026/investors-eye-brazilian-equities-after-election-selloff",
+   "tp": "Markets",
    "m": [
     "MACRO"
    ]
+  },
+  {
+   "d": "2026-10-28",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Some BP directors are open to splitting up the company, a move that could reshape the oil industry and upset UK stakeholders.",
+   "src": "Semafor",
+   "t": "Some BP board members favor a breakup of the $129 billion oil giant",
+   "tp": "Energy & trade",
+   "u": "https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant"
   },
   {
    "d": "2026-10-28",
@@ -954,19 +968,7 @@
    "t": "C.H. Robinson and Landstar shares slammed as insurance costs weigh",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/markets/stocks/articles/c-h-robinson-landstar-stock-214055979.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Autonomous trucking firm Aurora signed a memorandum with carrier Charger for 500 driverless trucks as it builds toward a 30,000-truck target.",
-   "src": "FreightWaves",
-   "t": "Aurora adds 500-truck Charger deal toward its 30,000-truck goal",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/technology/ai/articles/aurora-adds-500-truck-charger-215006608.html"
   }
  ],
- "updatedAt": "2026-10-29T20:51"
+ "updatedAt": "2026-10-29T21:55"
 }
