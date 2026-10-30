@@ -40,97 +40,190 @@
  ],
  "items": [
   {
-   "d": "2026-10-30",
-   "t": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
-   "s": "Nasdaq futures slid before the open as heavy AI spending plans from Amazon and a weak Intel report deepened investor doubts about returns on the AI build-out.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html",
+   "t": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+   "s": "The Nasdaq slid sharply at the open as disappointing results from Amazon and Intel deepened investor worries about the payoff from heavy AI spending.",
+   "src": "CBS News",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html",
    "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Intel's stock drop shaves about $10 billion off the US government's equity stake",
+   "s": "Intel's steep post-earnings decline cut roughly $10 billion from Washington's stake in the chipmaker, though the position is still worth about triple its cost.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/stocks/article/intels-stock-drop-shaves-about-10-billion-off-the-us-governments-equity-stake-its-still-up-3x-134522639.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Reddit, Pinterest, and Roblox stocks tank after Q3 earnings",
+   "s": "Shares of three consumer internet platforms fell sharply after their third-quarter reports failed to reassure investors on growth and outlook.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/reddit-pinterest-and-roblox-stocks-tank-after-q3-earnings-134009780.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH",
+    "VNDR"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "General Dynamics tops quarterly estimates on robust Gulfstream, marine bookings",
+   "s": "The defense contractor beat profit forecasts as demand for Gulfstream business jets and naval shipbuilding orders stayed strong.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/general-dynamics-posts-higher-profit-110649009.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "German inflation slows more than expected in October",
+   "s": "Price growth in Europe's largest economy eased by more than forecast this month, complicating the ECB's debate over raising rates.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/german-inflation-slows-october-131322913.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Canada's economy stalls again in August, likely lost ground in September",
+   "s": "Canadian GDP was flat for a second month in August and a preliminary estimate points to a contraction in September.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/canadas-economic-growth-stalls-again-123540404.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Schneider to shift eastern rail business to Norfolk Southern from CSX",
+   "s": "Trucking and logistics firm Schneider is moving its eastern intermodal rail volumes from CSX to Norfolk Southern, reshaping a major freight partnership.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/economy/policy/articles/schneider-shift-eastern-rail-business-124028597.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "DoorDash said it's only received 'several hundred' orders from AI agents",
+   "s": "DoorDash disclosed that AI shopping agents have placed just a few hundred orders on its platform so far, a sign agentic commerce remains nascent.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "SPEND"
+   ],
+   "d": "2026-10-30"
   },
   {
    "d": "2026-10-30",
-   "t": "Intel plunges as much as 26%, briefly on pace for its worst day since 1974",
-   "s": "Intel shares cratered after its quarterly results, at one point tracking toward the chipmaker's steepest one-day drop in more than five decades.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-day-since-1974-122551272.html",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Nasdaq futures slid before the open as heavy AI spending plans from Amazon and a weak Intel report deepened investor doubts about returns on the AI build-out.",
+   "src": "Reuters",
+   "t": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
    "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Intel shares cratered after its quarterly results, at one point tracking toward the chipmaker's steepest one-day drop in more than five decades.",
+   "src": "Yahoo Finance",
+   "t": "Intel plunges as much as 26%, briefly on pace for its worst day since 1974",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-day-since-1974-122551272.html"
   },
   {
    "d": "2026-10-30",
-   "t": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
-   "s": "The two largest US oil producers beat third-quarter forecasts, helped by elevated crude prices and robust production volumes.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/energy/articles/exxonmobil-chevron-top-q3-estimates-124049676.html",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "BENCH"
-   ]
+   ],
+   "s": "The two largest US oil producers beat third-quarter forecasts, helped by elevated crude prices and robust production volumes.",
+   "src": "AP",
+   "t": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/exxonmobil-chevron-top-q3-estimates-124049676.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Yen gains after BOJ; AI selloff weighs on dollar",
+   "m": [
+    "MACRO"
+   ],
    "s": "The yen strengthened following the Bank of Japan's policy decision while the dollar softened as the tech-led selloff rippled through currency markets.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-steady-boj-ai-jitters-015222078.html",
+   "t": "Yen gains after BOJ; AI selloff weighs on dollar",
    "tp": "Markets",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-steady-boj-ai-jitters-015222078.html"
   },
   {
    "d": "2026-10-30",
-   "t": "ECB policymakers bring rate hike debate into the open",
+   "m": [
+    "MACRO"
+   ],
    "s": "European Central Bank officials are now openly discussing whether higher rates are needed as energy-driven inflation picks up across the euro zone.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-policymakers-bring-rate-hike-115428804.html",
+   "t": "ECB policymakers bring rate hike debate into the open",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-policymakers-bring-rate-hike-115428804.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Italy inflation surges to 5.4% in October as energy costs bite",
+   "m": [
+    "MACRO"
+   ],
    "s": "Italian consumer prices jumped to a 5.4% annual rate this month, driven largely by rising energy costs.",
    "src": "Euronews",
-   "u": "https://finance.yahoo.com/economy/articles/italy-inflation-surges-5-4-122951833.html",
+   "t": "Italy inflation surges to 5.4% in October as energy costs bite",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
+   "u": "https://finance.yahoo.com/economy/articles/italy-inflation-surges-5-4-122951833.html"
   },
   {
    "d": "2026-10-30",
-   "t": "AstraZeneca profit jumps 23% on cancer drugs as it unveils major savings plan",
-   "s": "AstraZeneca's profit rose 23% on strong oncology sales, and the drugmaker paired the results with a large cost-savings program.",
-   "src": "Euronews",
-   "u": "https://finance.yahoo.com/healthcare/articles/astrazeneca-profit-jumps-23-cancer-121741364.html",
-   "tp": "Companies & deals",
    "m": [
     "SPEND",
     "BENCH"
-   ]
+   ],
+   "s": "AstraZeneca's profit rose 23% on strong oncology sales, and the drugmaker paired the results with a large cost-savings program.",
+   "src": "Euronews",
+   "t": "AstraZeneca profit jumps 23% on cancer drugs as it unveils major savings plan",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/healthcare/articles/astrazeneca-profit-jumps-23-cancer-121741364.html"
   },
   {
    "d": "2026-10-30",
-   "t": "A Kentucky worker invokes religious-belief protections to opt out of employer-mandated AI",
-   "s": "A Kentucky administrator is using Title VII's religious-accommodation rules to refuse AI tools pushed by his employer, a novel test of workplace AI mandates.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/",
-   "tp": "Labor",
    "m": [
     "AI",
     "TNE"
-   ]
+   ],
+   "s": "A Kentucky administrator is using Title VII's religious-accommodation rules to refuse AI tools pushed by his employer, a novel test of workplace AI mandates.",
+   "src": "Fortune",
+   "t": "A Kentucky worker invokes religious-belief protections to opt out of employer-mandated AI",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/"
   },
   {
    "d": "2026-10-30",
@@ -238,19 +331,6 @@
   {
    "d": "2026-10-30",
    "m": [
-    "TNE",
-    "AI",
-    "SPEND"
-   ],
-   "s": "Carriers are leaning on AI to set fares dynamically, and a crop of startups is helping travelers rebook when prices fall.",
-   "src": "Reuters",
-   "t": "As US airlines deploy AI pricing tools, startups help travelers cash in on fare drops",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/news/us-airlines-deploy-ai-pricing-100430095.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
     "AI",
     "MACRO"
    ],
@@ -344,27 +424,27 @@
   },
   {
    "d": "2026-10-29",
-   "t": "Fed Chair Kevin Warsh's warning to AI investors: 'Interest rates get in the cracks'",
-   "s": "After the Fed held rates steady, Chair Kevin Warsh cautioned that borrowing costs can expose weak spots in the debt-fueled AI investment boom.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/",
-   "tp": "Economy",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "After the Fed held rates steady, Chair Kevin Warsh cautioned that borrowing costs can expose weak spots in the debt-fueled AI investment boom.",
+   "src": "Fortune",
+   "t": "Fed Chair Kevin Warsh's warning to AI investors: 'Interest rates get in the cracks'",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/"
   },
   {
    "d": "2026-10-29",
-   "t": "China's record clean-energy tech exports could avert 24% of global CO2 emissions",
-   "s": "China is shipping record volumes of solar, battery and EV technology abroad, exports projected to offset nearly a quarter of global carbon emissions.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/china-clean-energy-export-24-global-co2-emissions/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "VNDR"
-   ]
+   ],
+   "s": "China is shipping record volumes of solar, battery and EV technology abroad, exports projected to offset nearly a quarter of global carbon emissions.",
+   "src": "Fortune",
+   "t": "China's record clean-energy tech exports could avert 24% of global CO2 emissions",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/29/china-clean-energy-export-24-global-co2-emissions/"
   },
   {
    "d": "2026-10-29",
@@ -471,28 +551,6 @@
    "t": "The R2 SUV is already Rivian's best-selling vehicle",
    "tp": "Companies & deals",
    "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The BOJ is set to keep its policy rate unchanged this week but flag that more tightening is coming as inflation stays above target.",
-   "src": "Reuters",
-   "t": "Bank of Japan expected to hold rates while signaling further hikes",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bank-japan-hold-rates-signal-210126915.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Core consumer prices in Japan's capital rose faster than the central bank's 2% goal, adding pressure for another rate increase.",
-   "src": "Reuters",
-   "t": "Tokyo core inflation exceeds BOJ target in October",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/tokyo-core-inflation-exceeds-boj-235216138.html"
   },
   {
    "d": "2026-10-29",
@@ -613,18 +671,6 @@
    "t": "Amazon's third-quarter results miss estimates, but AWS posts its fastest growth in nearly five years",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/stocks/articles/amazons-3q-results-miss-analysts-202736981.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "VNDR",
-    "TNE"
-   ],
-   "s": "DoorDash agreed to buy grocery-delivery rival Instacart at $65 a share, a deal expected to close between late 2027 and mid-2028, with Instacart keeping its brand until then.",
-   "src": "TechCrunch",
-   "t": "DoorDash to acquire Instacart for $17B",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
   },
   {
    "d": "2026-10-29",
@@ -794,17 +840,6 @@
    "m": [
     "MACRO"
    ],
-   "s": "Surveys show most Americans are unaware that Social Security's trust fund is projected to run short around 2032, which would trigger an automatic benefit cut of roughly 22%.",
-   "src": "Yahoo Finance",
-   "t": "Many Americans don't know a 22% Social Security cut is looming in 2032",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/article/the-2032-blind-spot-many-americans-dont-know-a-22-social-security-cut-is-looming-164636093.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
    "s": "Mortgage rates eased this week to their lowest level in over a month, offering slight relief to homebuyers.",
    "src": "AP",
    "t": "Average 30-year US mortgage rate dips to 7.24%, lowest in more than a month",
@@ -884,18 +919,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "TNE",
-    "SPEND"
-   ],
-   "s": "Airfares and other travel expenses for the coming holidays are on track to be the most expensive in a decade.",
-   "src": "Yahoo Finance",
-   "t": "2026 holiday travel costs could reach a 10-year high",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/2026-holiday-travel-costs-could-reach-a-10-year-high-152853932.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "MACRO"
    ],
    "s": "Tight inventory and other structural factors are keeping US home prices climbing despite a slowdown in sales.",
@@ -949,30 +972,7 @@
    "t": "Justin Sun's HTX agrees to leave the UK in settlement with financial watchdog",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/crypto/articles/justin-suns-htx-agrees-leave-125828365.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "Volkswagen posted its weakest quarterly results in ten years, following German rivals Mercedes-Benz and BMW in cutting outlooks over slumping China sales.",
-   "src": "Semafor",
-   "t": "Volkswagen reports its worst results in a decade",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/29/2026/volkswagen-reports-its-worst-results-in-a-decade"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Flagship Pioneering merged three of its portfolio biotech companies into a single new company called Etcelera.",
-   "src": "BioPharma Dive",
-   "t": "Flagship combines three biotech startups to form Etcelera",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/healthcare/articles/flagship-blends-three-biotech-startups-103000784.html"
   }
  ],
- "updatedAt": "2026-10-30T09:12"
+ "updatedAt": "2026-10-30T10:05"
 }
