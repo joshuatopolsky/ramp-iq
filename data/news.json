@@ -1,41 +1,125 @@
 {
- "updatedAt": "2026-10-30T04:55",
- "items": [
+ "excl": [
   {
-   "d": "2026-10-30",
-   "t": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-   "s": "Waymo's next robotaxi will be built on Toyota's bZ4X as the Alphabet unit prepares launches in Japan and the United Kingdom.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-   "tp": "AI & tech",
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  },
+  {
+   "d": "2026-10-13",
    "m": [
     "AI",
     "VNDR"
-   ]
-  },
+   ],
+   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
+   "src": "Ramp Leading Indicators",
+   "t": "AI's pricing power problem",
+   "tp": "AI & tech",
+   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
+  }
+ ],
+ "items": [
   {
-   "d": "2026-10-29",
-   "t": "Mastercard's Q3 profit and revenue rise as US credit card spending grows",
-   "s": "Mastercard beat estimates with revenue up 14%, helped by US credit card spending and some deals pulled forward from the fourth quarter.",
-   "src": "Quartz",
-   "u": "https://qz.com/mastercard-q3-earnings-profit-revenue-payment-network-services-102926",
-   "tp": "Companies & deals",
+   "d": "2026-10-30",
+   "t": "The $6.3 billion Binance hack: what we know about the biggest crypto heist in history",
+   "s": "Binance's security breach has grown into an estimated $6.3 billion theft, the largest crypto heist on record, rattling exchanges and stablecoin issuers.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/",
+   "tp": "Markets",
    "m": [
-    "SPEND",
     "MACRO"
    ]
   },
   {
-   "d": "2026-10-29",
-   "t": "Agent identity startup Mintive lands backing from Cowboy Ventures and Coatue",
-   "s": "Mintive, which builds identity and access controls for AI agents, raised funding from Cowboy Ventures, Coatue and angels including Jeff Dean and Andrej Karpathy.",
+   "d": "2026-10-30",
+   "t": "Cisco's president hands a 27-year-old ex-founder unlimited AI tokens to rewrite legacy code",
+   "s": "Cisco says a young former founder using AI coding tools is rewriting most of a legacy codebase, a sign of how AI is reshaping entry-level engineering work.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "'Will business stand up?': Ken Chenault on CEO courage and the US midterms",
+   "s": "Former American Express chief Ken Chenault argues corporate leaders need to speak up more on political and economic stakes ahead of the midterm elections.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/30/2026/will-business-stand-up-ken-chenault-on-ceo-courage-and-the-us-midterms",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Waymo's next robotaxi will be built on Toyota's bZ4X as the Alphabet unit prepares launches in Japan and the United Kingdom.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+   "t": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Serval raises $150 million at a $3 billion valuation to take on ServiceNow",
+   "s": "IT-automation startup Serval closed a Sequoia-backed Series C at a $3 billion valuation as it aims AI agents squarely at ServiceNow's enterprise service market.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/",
    "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
    ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "SPEND",
+    "MACRO"
+   ],
+   "s": "Mastercard beat estimates with revenue up 14%, helped by US credit card spending and some deals pulled forward from the fourth quarter.",
+   "src": "Quartz",
+   "t": "Mastercard's Q3 profit and revenue rise as US credit card spending grows",
+   "tp": "Companies & deals",
+   "u": "https://qz.com/mastercard-q3-earnings-profit-revenue-payment-network-services-102926"
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Mintive, which builds identity and access controls for AI agents, raised funding from Cowboy Ventures, Coatue and angels including Jeff Dean and Andrej Karpathy.",
+   "src": "TechCrunch",
+   "t": "Agent identity startup Mintive lands backing from Cowboy Ventures and Coatue",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/"
   },
   {
    "d": "2026-10-29",
@@ -275,31 +359,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Washington has warned regional partners to brace for potential military action against Iran following next week's elections, adding to oil-market risk.",
-   "src": "Fortune",
-   "t": "US tells Middle East allies to prepare for possible Iran strikes after the midterms",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/29/us-allies-prepare-iran-strikes-after-midterms-trump/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "AI",
-    "SPEND"
-   ],
-   "s": "Kevin Warsh cautioned that the AI investment boom is not immune to higher rates, a message aimed at companies and CFOs financing heavy capex.",
-   "src": "Fortune",
-   "t": "Fed Chair Warsh warns AI investors about interest rates",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "AI",
     "VNDR"
    ],
@@ -357,17 +416,6 @@
    "t": "DoorDash to acquire Instacart for $17B",
    "tp": "Companies & deals",
    "u": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The ECB president will leave on February 7, nine months early, so a successor can be chosen while Macron is still in office; Klaas Knot and Pablo Hernandez de Cos are seen as contenders.",
-   "src": "Fortune",
-   "t": "Christine Lagarde is resigning early to let EU leaders pick a successor before France's elections",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/29/christine-lagarde-resigns-early-france-macron-eu-ecb/"
   },
   {
    "d": "2026-10-29",
@@ -919,57 +967,7 @@
    "t": "What Robinhood's CFO found interesting in Anthropic's IPO prospectus",
    "tp": "Markets",
    "u": "https://finance.yahoo.com/markets/article/what-robinhoods-cfo-found-interesting-about-anthropics-ipo-prospectus-223910657.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "American gas output keeps setting highs as LNG exports and power demand from data centers pull on supply.",
-   "src": "Oilprice.com",
-   "t": "US natural gas production hits new records as demand surges",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/u-natural-gas-production-hits-220000556.html"
   }
  ],
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ]
+ "updatedAt": "2026-10-30T05:50"
 }
