@@ -41,37 +41,120 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "The $6.3 billion Binance hack: what we know about the biggest crypto heist in history",
-   "s": "Binance's security breach has grown into an estimated $6.3 billion theft, the largest crypto heist on record, rattling exchanges and stablecoin issuers.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/",
-   "tp": "Markets",
+   "t": "Euro zone growth beats projections again",
+   "s": "The euro area economy expanded faster than forecast in the third quarter, extending a run of upside surprises despite trade frictions.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/articles/euro-zone-growth-beats-projections-100626401.html",
+   "tp": "Economy",
    "m": [
     "MACRO"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "Cisco's president hands a 27-year-old ex-founder unlimited AI tokens to rewrite legacy code",
-   "s": "Cisco says a young former founder using AI coding tools is rewriting most of a legacy codebase, a sign of how AI is reshaping entry-level engineering work.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-   "tp": "Labor",
+   "t": "Trump touted a record Venezuela oil deal. Now reality is setting in",
+   "s": "The much-promoted Venezuelan oil agreement is running into practical hurdles on output, infrastructure and financing.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/energy/articles/trump-touted-record-venezuela-oil-101849012.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "As US airlines deploy AI pricing tools, startups help travelers cash in on fare drops",
+   "s": "Carriers are leaning on AI to set fares dynamically, and a crop of startups is helping travelers rebook when prices fall.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/us-airlines-deploy-ai-pricing-100430095.html",
+   "tp": "AI & tech",
+   "m": [
+    "TNE",
+    "AI",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Amazon's AI build-out just pushed its cash burn to a record",
+   "s": "Heavy spending on AI data centers drove Amazon's quarterly cash outflow to an all-time high, sharpening questions about capex payback.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html",
+   "tp": "AI & tech",
    "m": [
     "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Google is happy AI is cannibalizing its most profitable business",
+   "s": "Alphabet is embracing AI answers that eat into classic search ads, betting the new formats will monetize just as well over time.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/technology/article/google-is-happy-ai-is-cannibalizing-its-most-profitable-business-100000654.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Tech firms take fresh hit as disappointing earnings fan AI fears",
+   "s": "European technology shares fell after a string of weak results revived worries that heavy AI spending won't pay off soon.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-fresh-hit-disappointing-093652103.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "What CEOs can learn from the collapse of Weil Gotshal",
+   "s": "The unraveling of the elite law firm offers lessons for business leaders on partner defections, culture and financial fragility.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/weil-gotshal-collapse-lessons-ceos/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "'Will business stand up?': Ken Chenault on CEO courage and the US midterms",
-   "s": "Former American Express chief Ken Chenault argues corporate leaders need to speak up more on political and economic stakes ahead of the midterm elections.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/30/2026/will-business-stand-up-ken-chenault-on-ceo-courage-and-the-us-midterms",
-   "tp": "Companies & deals",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Binance's security breach has grown into an estimated $6.3 billion theft, the largest crypto heist on record, rattling exchanges and stablecoin issuers.",
+   "src": "Fortune",
+   "t": "The $6.3 billion Binance hack: what we know about the biggest crypto heist in history",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "Cisco says a young former founder using AI coding tools is rewriting most of a legacy codebase, a sign of how AI is reshaping entry-level engineering work.",
+   "src": "Fortune",
+   "t": "Cisco's president hands a 27-year-old ex-founder unlimited AI tokens to rewrite legacy code",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Former American Express chief Ken Chenault argues corporate leaders need to speak up more on political and economic stakes ahead of the midterm elections.",
+   "src": "Semafor",
+   "t": "'Will business stand up?': Ken Chenault on CEO courage and the US midterms",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/10/30/2026/will-business-stand-up-ken-chenault-on-ceo-courage-and-the-us-midterms"
   },
   {
    "d": "2026-10-30",
@@ -87,15 +170,38 @@
   },
   {
    "d": "2026-10-29",
-   "t": "Serval raises $150 million at a $3 billion valuation to take on ServiceNow",
-   "s": "IT-automation startup Serval closed a Sequoia-backed Series C at a $3 billion valuation as it aims AI agents squarely at ServiceNow's enterprise service market.",
+   "t": "Christine Lagarde resigns early from the ECB ahead of France's elections",
+   "s": "The ECB president is stepping down before her term ends, opening a leadership race at the central bank amid French political uncertainty.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/",
+   "u": "https://fortune.com/2026/10/29/christine-lagarde-resigns-early-france-macron-eu-ecb/",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Amazon's CEO says shopping agents like Meta's Muse aren't great yet",
+   "s": "Andy Jassy voiced skepticism about third-party AI shopping agents, arguing they still deliver a poor customer experience.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
    "tp": "AI & tech",
    "m": [
     "AI",
-    "VNDR"
+    "SPEND"
    ]
+  },
+  {
+   "d": "2026-10-29",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "IT-automation startup Serval closed a Sequoia-backed Series C at a $3 billion valuation as it aims AI agents squarely at ServiceNow's enterprise service market.",
+   "src": "Fortune",
+   "t": "Serval raises $150 million at a $3 billion valuation to take on ServiceNow",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
   },
   {
    "d": "2026-10-29",
@@ -266,18 +372,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "A cyclone is bearing down on the Indian coastline where Google, Adani and Airtel are building out major data-center capacity.",
-   "src": "Fortune",
-   "t": "Cyclone Arnab hits India's data-center coast",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/cyclone-arnab-india-data-centers-google-adani-airtel/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "VNDR"
    ],
    "s": "The crypto exchange said it is investigating a possible breach while stablecoin issuers moved to freeze funds tied to the incident.",
@@ -331,30 +425,6 @@
    "t": "First look: TFI's truckload unit shines while its LTL operating ratio slips",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/markets/stocks/articles/first-look-tfi-truckload-sparkles-213824631.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "French AI lab Mistral launched its newest flagship model, pitching it as the leading open-weight option for coding agents and security work.",
-   "src": "Fortune",
-   "t": "Mistral releases Large 4, claiming the top open model for agentic coding and cyber defense",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/mistral-releases-new-model-large-4-and-claims-top-open-model-for-agentic-coding-and-cyber-defense/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "A long-running aviation subsidy fight over a European loan to Airbus threatens to unravel the transatlantic tariff truce.",
-   "src": "Fortune",
-   "t": "US and EU tariff truce at risk over $3.4 billion Airbus loan dispute",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/29/us-eu-tariff-truce-aviation-manufacturing-subsidies-dispute-3-4-trillion-dollar-loan-airbus/"
   },
   {
    "d": "2026-10-29",
@@ -450,17 +520,6 @@
    "t": "GM to pay $220 million to settle allegations it violated drivers' privacy",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/technology/articles/gm-pay-220-million-settle-180213819.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "High borrowing costs are pushing Brazil's government interest payments to a decade high as markets digest the election outcome.",
-   "src": "Reuters",
-   "t": "Brazil's interest burden climbs to 9% of GDP, highest since 2016",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/brazil-interest-burden-climbs-9-180802338.html"
   },
   {
    "d": "2026-10-29",
@@ -612,29 +671,6 @@
    "t": "Amazon earnings: AI growth takes center stage",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/stocks/live/amazon-earnings-live-ai-growth-takes-center-stage-173000277.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Eli Lilly shares hit a record after strong sales of its obesity drugs lifted results and analysts raised their outlook.",
-   "src": "Reuters",
-   "t": "Lilly's obesity drug strength fuels record rally and Wall Street optimism",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/news/lillys-obesity-drug-strength-fuels-162624939.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Ship-tracking data shows a tanker carrying Russian diesel is bound for the US, the first cargo under the new deal between the two governments, as fuel supplies stay tight.",
-   "src": "Reuters",
-   "t": "First Russian diesel from Putin-Trump deal heading for the US, data shows",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/news/exclusive-tanker-carrying-40-000-062736177.html"
   },
   {
    "d": "2026-10-29",
@@ -933,41 +969,7 @@
    "t": "Oil refineries become prime targets as global fuel shortage worsens",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/oil-refineries-become-prime-targets-230000892.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "BENCH"
-   ],
-   "s": "GM is switching exchanges to recast itself as a technology business, following Walmart and Hilton in making the move.",
-   "src": "Semafor",
-   "t": "General Motors moves its listing from the NYSE to Nasdaq and pitches itself as a tech company",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/28/2026/general-motors-moves-listing-from-nyse-to-nasdaq-and-pitches-itself-as-a-tech-company"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR"
-   ],
-   "s": "A storied restructuring law firm behind some of the largest US bankruptcies says it will close, a notable shake-up in the legal services market.",
-   "src": "CNN Business",
-   "t": "Law firm that handled Lehman and Enron bankruptcies plans to wind down",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/small-business/articles/law-firm-handled-lehman-enron-224627420.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Robinhood's finance chief walks through the details in Anthropic's filing that stood out ahead of its expected mid-November listing.",
-   "src": "Yahoo Finance",
-   "t": "What Robinhood's CFO found interesting in Anthropic's IPO prospectus",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/article/what-robinhoods-cfo-found-interesting-about-anthropics-ipo-prospectus-223910657.html"
   }
  ],
- "updatedAt": "2026-10-30T05:50"
+ "updatedAt": "2026-10-30T06:51"
 }
