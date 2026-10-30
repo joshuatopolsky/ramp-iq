@@ -41,11 +41,23 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "Intel and Sandisk have very different views about what's going on in memory chips",
-   "s": "Intel and Sandisk gave conflicting readings of the memory-chip market in their latest results, underscoring uncertainty over how long AI-driven demand and pricing strength will last.",
+   "t": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
+   "s": "Nasdaq futures slid before the open as heavy AI spending plans from Amazon and a weak Intel report deepened investor doubts about returns on the AI build-out.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Intel plunges as much as 26%, briefly on pace for its worst day since 1974",
+   "s": "Intel shares cratered after its quarterly results, at one point tracking toward the chipmaker's steepest one-day drop in more than five decades.",
    "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/intel-and-sandisk-have-very-different-views-about-whats-going-on-in-memory-chips-114638641.html",
-   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-day-since-1974-122551272.html",
+   "tp": "Markets",
    "m": [
     "AI",
     "VNDR"
@@ -53,10 +65,22 @@
   },
   {
    "d": "2026-10-30",
-   "t": "China's big banks post fastest quarterly profit growth in years as margins stabilise",
-   "s": "China's largest state lenders reported their strongest quarterly profit growth in years as net interest margins stopped shrinking.",
+   "t": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
+   "s": "The two largest US oil producers beat third-quarter forecasts, helped by elevated crude prices and robust production volumes.",
+   "src": "AP",
+   "u": "https://finance.yahoo.com/energy/articles/exxonmobil-chevron-top-q3-estimates-124049676.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Yen gains after BOJ; AI selloff weighs on dollar",
+   "s": "The yen strengthened following the Bank of Japan's policy decision while the dollar softened as the tech-led selloff rippled through currency markets.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chinas-big-banks-post-fastest-111526605.html",
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-steady-boj-ai-jitters-015222078.html",
    "tp": "Markets",
    "m": [
     "MACRO"
@@ -64,61 +88,130 @@
   },
   {
    "d": "2026-10-30",
-   "t": "BP profit quadruples as Iran war sends refining margins soaring and debt tumbles",
-   "s": "BP's quarterly profit roughly quadrupled as the Iran conflict pushed up refining margins, helping the oil major cut its debt.",
-   "src": "Euronews",
-   "u": "https://finance.yahoo.com/energy/articles/bp-profit-quadruples-iran-war-110731619.html",
-   "tp": "Energy & trade",
+   "t": "ECB policymakers bring rate hike debate into the open",
+   "s": "European Central Bank officials are now openly discussing whether higher rates are needed as energy-driven inflation picks up across the euro zone.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/economy/policy/articles/ecb-policymakers-bring-rate-hike-115428804.html",
+   "tp": "Economy",
    "m": [
-    "MACRO",
-    "SPEND"
+    "MACRO"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "AI policy fears grip stock and bond traders with midterms days away",
-   "s": "Investors are hedging against how next week's US midterm results could reshape AI regulation, adding volatility to tech stocks and Treasuries.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-policy-fears-grip-stock-110000621.html",
-   "tp": "Markets",
+   "t": "Italy inflation surges to 5.4% in October as energy costs bite",
+   "s": "Italian consumer prices jumped to a 5.4% annual rate this month, driven largely by rising energy costs.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/economy/articles/italy-inflation-surges-5-4-122951833.html",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "AstraZeneca profit jumps 23% on cancer drugs as it unveils major savings plan",
+   "s": "AstraZeneca's profit rose 23% on strong oncology sales, and the drugmaker paired the results with a large cost-savings program.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/healthcare/articles/astrazeneca-profit-jumps-23-cancer-121741364.html",
+   "tp": "Companies & deals",
+   "m": [
+    "SPEND",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "A Kentucky worker invokes religious-belief protections to opt out of employer-mandated AI",
+   "s": "A Kentucky administrator is using Title VII's religious-accommodation rules to refuse AI tools pushed by his employer, a novel test of workplace AI mandates.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/",
+   "tp": "Labor",
    "m": [
     "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks",
-   "s": "Crude is on track for a fourth straight monthly rise after an attack on a tanker near the Strait of Hormuz renewed worries about Middle East supply.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/oil-rises-supply-concerns-houthis-022725347.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
     "TNE"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "Brazil's economic outlook darkens as debt soars",
-   "s": "Rising public debt is clouding Brazil's growth prospects in the wake of Lula's surprise re-election and the market selloff that followed.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/30/2026/brazils-economic-outlook-darkens-as-debt-soars",
-   "tp": "Economy",
    "m": [
-    "MACRO"
-   ]
+    "AI",
+    "VNDR"
+   ],
+   "s": "Intel and Sandisk gave conflicting readings of the memory-chip market in their latest results, underscoring uncertainty over how long AI-driven demand and pricing strength will last.",
+   "src": "Yahoo Finance",
+   "t": "Intel and Sandisk have very different views about what's going on in memory chips",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/article/intel-and-sandisk-have-very-different-views-about-whats-going-on-in-memory-chips-114638641.html"
   },
   {
    "d": "2026-10-30",
-   "t": "French economy unexpectedly shrank last quarter",
-   "s": "France's GDP contracted in the third quarter against forecasts for modest growth, a weak spot in an otherwise resilient euro zone.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/30/2026/french-economy-unexpectedly-shrank-last-quarter",
-   "tp": "Economy",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "China's largest state lenders reported their strongest quarterly profit growth in years as net interest margins stopped shrinking.",
+   "src": "Reuters",
+   "t": "China's big banks post fastest quarterly profit growth in years as margins stabilise",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chinas-big-banks-post-fastest-111526605.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "s": "BP's quarterly profit roughly quadrupled as the Iran conflict pushed up refining margins, helping the oil major cut its debt.",
+   "src": "Euronews",
+   "t": "BP profit quadruples as Iran war sends refining margins soaring and debt tumbles",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/bp-profit-quadruples-iran-war-110731619.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Investors are hedging against how next week's US midterm results could reshape AI regulation, adding volatility to tech stocks and Treasuries.",
+   "src": "Bloomberg",
+   "t": "AI policy fears grip stock and bond traders with midterms days away",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-policy-fears-grip-stock-110000621.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO",
+    "TNE"
+   ],
+   "s": "Crude is on track for a fourth straight monthly rise after an attack on a tanker near the Strait of Hormuz renewed worries about Middle East supply.",
+   "src": "Reuters",
+   "t": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/news/oil-rises-supply-concerns-houthis-022725347.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Rising public debt is clouding Brazil's growth prospects in the wake of Lula's surprise re-election and the market selloff that followed.",
+   "src": "Semafor",
+   "t": "Brazil's economic outlook darkens as debt soars",
+   "tp": "Economy",
+   "u": "https://www.semafor.com/article/10/30/2026/brazils-economic-outlook-darkens-as-debt-soars"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO"
+   ],
+   "s": "France's GDP contracted in the third quarter against forecasts for modest growth, a weak spot in an otherwise resilient euro zone.",
+   "src": "Semafor",
+   "t": "French economy unexpectedly shrank last quarter",
+   "tp": "Economy",
+   "u": "https://www.semafor.com/article/10/30/2026/french-economy-unexpectedly-shrank-last-quarter"
   },
   {
    "d": "2026-10-30",
@@ -251,15 +344,39 @@
   },
   {
    "d": "2026-10-29",
-   "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-   "s": "Former Palantir executives raised $17 million from Andreessen Horowitz for a startup applying AI world models to construction projects.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-   "tp": "AI & tech",
+   "t": "Fed Chair Kevin Warsh's warning to AI investors: 'Interest rates get in the cracks'",
+   "s": "After the Fed held rates steady, Chair Kevin Warsh cautioned that borrowing costs can expose weak spots in the debt-fueled AI investment boom.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "China's record clean-energy tech exports could avert 24% of global CO2 emissions",
+   "s": "China is shipping record volumes of solar, battery and EV technology abroad, exports projected to offset nearly a quarter of global carbon emissions.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/china-clean-energy-export-24-global-co2-emissions/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Former Palantir executives raised $17 million from Andreessen Horowitz for a startup applying AI world models to construction projects.",
+   "src": "TechCrunch",
+   "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
   },
   {
    "d": "2026-10-29",
@@ -331,31 +448,6 @@
    "t": "Samsung posts a record $80.5 billion quarterly profit on AI chip demand",
    "tp": "AI & tech",
    "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Analysts expect GPU cloud providers like CoreWeave and Nebius to merge or fold as financing tightens and AI bubble worries grow.",
-   "src": "Fortune",
-   "t": "Neocloud consolidation looms as AI infrastructure firms come under pressure",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/elon-musk-neoclouds-ai-bubble-coreweave-nebius-consolidation/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Etsy is restricting AI-made product listings, and early signs show shoppers returning to the marketplace.",
-   "src": "Fortune",
-   "t": "Etsy's new CEO cracks down on AI-generated listings, and buyers start coming back",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return/"
   },
   {
    "d": "2026-10-29",
@@ -453,18 +545,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "A drone attack on a container vessel near Bulgaria raises fresh concerns about shipping security and insurance costs in the Black Sea.",
-   "src": "Fortune",
-   "t": "Drones strike a container ship off Bulgaria in the Black Sea",
-   "tp": "Supply chain",
-   "u": "https://fortune.com/2026/10/29/drones-strike-container-ship-bulgaria-black-sea-shipping-nato/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "VNDR"
    ],
    "s": "The crypto exchange said it is investigating a possible breach while stablecoin issuers moved to freeze funds tied to the incident.",
@@ -472,17 +552,6 @@
    "t": "Binance reports a 'potential security issue' as stablecoin issuers freeze millions",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-binance-says-investigating-232849281.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Colombia's government is seeking sharp budget reductions as its deficit and debt pressures worsen.",
-   "src": "Reuters",
-   "t": "Colombia proposes steep spending cut as fiscal woes deepen",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/colombia-government-proposes-steep-spending-225400458.html"
   },
   {
    "d": "2026-10-29",
@@ -495,17 +564,6 @@
    "t": "Oil climbs on signs the US may resume military strikes against Iran",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/oil-climbs-signs-us-may-220217351.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH"
-   ],
-   "s": "Gilead lifted its full-year revenue forecast while disclosing a negotiated Medicare price cut for its top HIV drug starting in 2028.",
-   "src": "Reuters",
-   "t": "Gilead raises 2026 sales outlook, says Medicare will cut Biktarvy price 38% from 2028",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/healthcare/articles/gilead-hikes-full-sales-outlook-200623038.html"
   },
   {
    "d": "2026-10-29",
@@ -542,18 +600,6 @@
    "t": "Rivian expands joint venture with VW to include AI assistant",
    "tp": "Companies & deals",
    "u": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Alphabet fell 12.6% after missing on revenue and stepping up AI-related cash burn, pulling the Nasdaq down 1.4% and the S&P 500 down 0.3% while small caps gained.",
-   "src": "Reuters",
-   "t": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-slides-alphabet-revenue-184007636.html"
   },
   {
    "d": "2026-10-29",
@@ -898,17 +944,6 @@
    "m": [
     "VNDR"
    ],
-   "s": "Fortinet's weaker-than-expected service revenue outlook sent its shares and other security vendors lower.",
-   "src": "Yahoo Finance",
-   "t": "Fortinet drags down cybersecurity stocks after service revenue forecast misses",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/article/fortinet-drags-down-cybersecurity-stocks-as-the-companys-service-revenue-forecast-misses-estimates-124146969.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "VNDR"
-   ],
    "s": "Crypto exchange HTX will exit the UK market under a settlement with the Financial Conduct Authority.",
    "src": "Decrypt",
    "t": "Justin Sun's HTX agrees to leave the UK in settlement with financial watchdog",
@@ -937,40 +972,7 @@
    "t": "Flagship combines three biotech startups to form Etcelera",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/healthcare/articles/flagship-blends-three-biotech-startups-103000784.html"
-  },
-  {
-   "d": "2026-10-28",
-   "t": "General Motors moves its listing from NYSE to Nasdaq and pitches itself as a tech company",
-   "s": "GM is switching its stock listing to Nasdaq as it tries to recast itself to investors as a technology company rather than a traditional automaker.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/10/28/2026/general-motors-moves-listing-from-nyse-to-nasdaq-and-pitches-itself-as-a-tech-company",
-   "tp": "Companies & deals",
-   "m": [
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Brazilian stocks have kept sliding after Lula's re-election, though some analysts now say they look undervalued.",
-   "src": "Semafor",
-   "t": "Investors eye Brazilian equities after election selloff",
-   "tp": "Markets",
-   "u": "https://www.semafor.com/article/10/28/2026/investors-eye-brazilian-equities-after-election-selloff"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Some BP directors are open to splitting up the company, a move that could reshape the oil industry and upset UK stakeholders.",
-   "src": "Semafor",
-   "t": "Some BP board members favor a breakup of the $129 billion oil giant",
-   "tp": "Energy & trade",
-   "u": "https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant"
   }
  ],
- "updatedAt": "2026-10-30T07:52"
+ "updatedAt": "2026-10-30T09:12"
 }
