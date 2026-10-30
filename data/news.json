@@ -41,57 +41,10 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "Euro zone growth beats projections again",
-   "s": "The euro area economy expanded faster than forecast in the third quarter, extending a run of upside surprises despite trade frictions.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/articles/euro-zone-growth-beats-projections-100626401.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Trump touted a record Venezuela oil deal. Now reality is setting in",
-   "s": "The much-promoted Venezuelan oil agreement is running into practical hurdles on output, infrastructure and financing.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/energy/articles/trump-touted-record-venezuela-oil-101849012.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "As US airlines deploy AI pricing tools, startups help travelers cash in on fare drops",
-   "s": "Carriers are leaning on AI to set fares dynamically, and a crop of startups is helping travelers rebook when prices fall.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/us-airlines-deploy-ai-pricing-100430095.html",
-   "tp": "AI & tech",
-   "m": [
-    "TNE",
-    "AI",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Amazon's AI build-out just pushed its cash burn to a record",
-   "s": "Heavy spending on AI data centers drove Amazon's quarterly cash outflow to an all-time high, sharpening questions about capex payback.",
+   "t": "Intel and Sandisk have very different views about what's going on in memory chips",
+   "s": "Intel and Sandisk gave conflicting readings of the memory-chip market in their latest results, underscoring uncertainty over how long AI-driven demand and pricing strength will last.",
    "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Google is happy AI is cannibalizing its most profitable business",
-   "s": "Alphabet is embracing AI answers that eat into classic search ads, betting the new formats will monetize just as well over time.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/article/google-is-happy-ai-is-cannibalizing-its-most-profitable-business-100000654.html",
+   "u": "https://finance.yahoo.com/technology/article/intel-and-sandisk-have-very-different-views-about-whats-going-on-in-memory-chips-114638641.html",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -100,27 +53,155 @@
   },
   {
    "d": "2026-10-30",
-   "t": "Tech firms take fresh hit as disappointing earnings fan AI fears",
-   "s": "European technology shares fell after a string of weak results revived worries that heavy AI spending won't pay off soon.",
-   "src": "Euronews",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-fresh-hit-disappointing-093652103.html",
+   "t": "China's big banks post fastest quarterly profit growth in years as margins stabilise",
+   "s": "China's largest state lenders reported their strongest quarterly profit growth in years as net interest margins stopped shrinking.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chinas-big-banks-post-fastest-111526605.html",
    "tp": "Markets",
    "m": [
-    "MACRO",
-    "AI"
+    "MACRO"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "What CEOs can learn from the collapse of Weil Gotshal",
-   "s": "The unraveling of the elite law firm offers lessons for business leaders on partner defections, culture and financial fragility.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/weil-gotshal-collapse-lessons-ceos/",
-   "tp": "Companies & deals",
+   "t": "BP profit quadruples as Iran war sends refining margins soaring and debt tumbles",
+   "s": "BP's quarterly profit roughly quadrupled as the Iran conflict pushed up refining margins, helping the oil major cut its debt.",
+   "src": "Euronews",
+   "u": "https://finance.yahoo.com/energy/articles/bp-profit-quadruples-iran-war-110731619.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "AI policy fears grip stock and bond traders with midterms days away",
+   "s": "Investors are hedging against how next week's US midterm results could reshape AI regulation, adding volatility to tech stocks and Treasuries.",
+   "src": "Bloomberg",
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-policy-fears-grip-stock-110000621.html",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks",
+   "s": "Crude is on track for a fourth straight monthly rise after an attack on a tanker near the Strait of Hormuz renewed worries about Middle East supply.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/oil-rises-supply-concerns-houthis-022725347.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Brazil's economic outlook darkens as debt soars",
+   "s": "Rising public debt is clouding Brazil's growth prospects in the wake of Lula's surprise re-election and the market selloff that followed.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/30/2026/brazils-economic-outlook-darkens-as-debt-soars",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "French economy unexpectedly shrank last quarter",
+   "s": "France's GDP contracted in the third quarter against forecasts for modest growth, a weak spot in an otherwise resilient euro zone.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/30/2026/french-economy-unexpectedly-shrank-last-quarter",
+   "tp": "Economy",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The euro area economy expanded faster than forecast in the third quarter, extending a run of upside surprises despite trade frictions.",
+   "src": "Reuters",
+   "t": "Euro zone growth beats projections again",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/articles/euro-zone-growth-beats-projections-100626401.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The much-promoted Venezuelan oil agreement is running into practical hurdles on output, infrastructure and financing.",
+   "src": "Reuters",
+   "t": "Trump touted a record Venezuela oil deal. Now reality is setting in",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/trump-touted-record-venezuela-oil-101849012.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "TNE",
+    "AI",
+    "SPEND"
+   ],
+   "s": "Carriers are leaning on AI to set fares dynamically, and a crop of startups is helping travelers rebook when prices fall.",
+   "src": "Reuters",
+   "t": "As US airlines deploy AI pricing tools, startups help travelers cash in on fare drops",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/news/us-airlines-deploy-ai-pricing-100430095.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Heavy spending on AI data centers drove Amazon's quarterly cash outflow to an all-time high, sharpening questions about capex payback.",
+   "src": "Yahoo Finance",
+   "t": "Amazon's AI build-out just pushed its cash burn to a record",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Alphabet is embracing AI answers that eat into classic search ads, betting the new formats will monetize just as well over time.",
+   "src": "Yahoo Finance",
+   "t": "Google is happy AI is cannibalizing its most profitable business",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/article/google-is-happy-ai-is-cannibalizing-its-most-profitable-business-100000654.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "European technology shares fell after a string of weak results revived worries that heavy AI spending won't pay off soon.",
+   "src": "Euronews",
+   "t": "Tech firms take fresh hit as disappointing earnings fan AI fears",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-fresh-hit-disappointing-093652103.html"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "VNDR",
     "BENCH"
-   ]
+   ],
+   "s": "The unraveling of the elite law firm offers lessons for business leaders on partner defections, culture and financial fragility.",
+   "src": "Fortune",
+   "t": "What CEOs can learn from the collapse of Weil Gotshal",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/10/30/weil-gotshal-collapse-lessons-ceos/"
   },
   {
    "d": "2026-10-30",
@@ -170,26 +251,38 @@
   },
   {
    "d": "2026-10-29",
-   "t": "Christine Lagarde resigns early from the ECB ahead of France's elections",
-   "s": "The ECB president is stepping down before her term ends, opening a leadership race at the central bank amid French political uncertainty.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/christine-lagarde-resigns-early-france-macron-eu-ecb/",
-   "tp": "Economy",
+   "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "s": "Former Palantir executives raised $17 million from Andreessen Horowitz for a startup applying AI world models to construction projects.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "tp": "AI & tech",
    "m": [
-    "MACRO"
+    "AI",
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-29",
-   "t": "Amazon's CEO says shopping agents like Meta's Muse aren't great yet",
-   "s": "Andy Jassy voiced skepticism about third-party AI shopping agents, arguing they still deliver a poor customer experience.",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The ECB president is stepping down before her term ends, opening a leadership race at the central bank amid French political uncertainty.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
-   "tp": "AI & tech",
+   "t": "Christine Lagarde resigns early from the ECB ahead of France's elections",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/10/29/christine-lagarde-resigns-early-france-macron-eu-ecb/"
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "AI",
     "SPEND"
-   ]
+   ],
+   "s": "Andy Jassy voiced skepticism about third-party AI shopping agents, arguing they still deliver a poor customer experience.",
+   "src": "Fortune",
+   "t": "Amazon's CEO says shopping agents like Meta's Muse aren't great yet",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/"
   },
   {
    "d": "2026-10-29",
@@ -502,28 +595,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "VNDR"
-   ],
-   "s": "The prediction market paused trading after a security breach at an outside vendor, while separately probing suspicious bets around Israel's election.",
-   "src": "Reuters",
-   "t": "Polymarket halts trading on its international platform after third-party provider is compromised",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/news/polymarket-halts-trading-international-platform-184917323.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "VNDR"
-   ],
-   "s": "General Motors agreed to the settlement over claims it shared drivers' data without proper consent.",
-   "src": "Reuters",
-   "t": "GM to pay $220 million to settle allegations it violated drivers' privacy",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/technology/articles/gm-pay-220-million-settle-180213819.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "BENCH"
    ],
    "s": "The home-security company agreed to be taken private, sending its shares to their highest level since 2021.",
@@ -567,17 +638,6 @@
    "t": "Indeed lists its Austin tower for sublease as Meta chips away at the office glut",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/real-estate/articles/indeed-lists-namesake-tower-downtown-184000809.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI"
-   ],
-   "s": "SuperMe raised $20 million to grow a network of AI-powered profiles that let people tap the knowledge of experts on demand.",
-   "src": "TechCrunch",
-   "t": "SuperMe raises $20M for its network of AI expert profiles",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/"
   },
   {
    "d": "2026-10-29",
@@ -847,18 +907,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "SPEND",
-    "MACRO"
-   ],
-   "s": "Hershey's chief executive cautioned that higher prices are weighing on how much shoppers are buying for Halloween.",
-   "src": "Yahoo Finance",
-   "t": "Hershey CEO offers a grim read on Halloween candy sales",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/article/hershey-ceo-offers-a-ghoulish-warning-on-how-halloween-candy-sales-are-going-125423251.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "VNDR"
    ],
    "s": "Crypto exchange HTX will exit the UK market under a settlement with the Financial Conduct Authority.",
@@ -892,6 +940,17 @@
   },
   {
    "d": "2026-10-28",
+   "t": "General Motors moves its listing from NYSE to Nasdaq and pitches itself as a tech company",
+   "s": "GM is switching its stock listing to Nasdaq as it tries to recast itself to investors as a technology company rather than a traditional automaker.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/28/2026/general-motors-moves-listing-from-nyse-to-nasdaq-and-pitches-itself-as-a-tech-company",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-28",
    "m": [
     "MACRO"
    ],
@@ -911,65 +970,7 @@
    "t": "Some BP board members favor a breakup of the $129 billion oil giant",
    "tp": "Energy & trade",
    "u": "https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Semafor examines the pressures — including AI and the wind-down of a storied bankruptcy firm — forcing large law firms to rethink their business model.",
-   "src": "Semafor",
-   "t": "Big Law faces its reckoning",
-   "tp": "Labor",
-   "u": "https://www.semafor.com/article/10/28/2026/big-law-faces-its-reckoning"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO"
-   ],
-   "s": "The Federal Reserve left interest rates unchanged as some officials pushed back and policymakers debated whether more hikes may be needed to tame inflation.",
-   "src": "Semafor",
-   "t": "Fed holds rates steady despite dissents",
-   "tp": "Economy",
-   "u": "https://www.semafor.com/article/10/28/2026/fed-holds-rates-steady-despite-dissents"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Crude prices eased as hints of renewed diplomatic talks over Iran tempered worries about Middle East supply disruptions.",
-   "src": "Bloomberg",
-   "t": "Oil declines as traders parse signs of fresh diplomacy on Iran",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/oil-declines-traders-parse-signs-220501881.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Danish freight forwarder Scan Global Logistics agreed to buy OIA Global, expanding its US logistics and supply chain services footprint.",
-   "src": "FreightWaves",
-   "t": "Scan Global Logistics to acquire Oregon-based OIA Global",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/small-business/articles/scan-global-logistics-acquire-oregon-000726243.html"
-  },
-  {
-   "d": "2026-10-28",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Attacks on refining infrastructure are tightening already-strained global fuel supplies and pushing product prices higher.",
-   "src": "Oilprice.com",
-   "t": "Oil refineries become prime targets as global fuel shortage worsens",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/oil-refineries-become-prime-targets-230000892.html"
   }
  ],
- "updatedAt": "2026-10-30T06:51"
+ "updatedAt": "2026-10-30T07:52"
 }
