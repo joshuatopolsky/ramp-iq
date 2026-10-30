@@ -40,97 +40,157 @@
  ],
  "items": [
   {
-   "t": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+   "d": "2026-10-30",
+   "t": "Microsoft reaps the benefits of protecting its AAA credit rating",
+   "s": "Semafor says Microsoft's long-standing effort to keep its rare AAA credit rating is now paying off as Big Tech leans on debt to fund AI.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/30/2026/microsoft-reaps-the-benefits-of-protecting-its-aaa-credit-rating",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Prediction markets flop on recent elections",
+   "s": "Betting platforms that pitched themselves as better forecasters than polls misjudged several recent election outcomes, raising questions about their value as signals.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/30/2026/prediction-markets-flop-on-recent-elections",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Anthropic's IPO filing spells out AI risks for investors, less so for the public",
+   "s": "Fortune examines how Anthropic's IPO prospectus discloses AI-related risks to shareholders while saying less about broader societal costs.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/anthropic-ipo-public-risk-statement-ai-hidden-costs/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Goldman Sachs warns AI layoffs may leave lasting scars on displaced workers",
+   "s": "Goldman Sachs economists say workers cut because of AI, especially older ones, may face longer-lasting earnings hits, based on past waves of tech disruption.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Can AI data centers be mass-produced like cars and online in 48 hours? This startup aims to find out",
+   "s": "A startup is trying to factory-build AI data centers on an assembly line so they can be deployed and running within two days.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
    "s": "The Nasdaq slid sharply at the open as disappointing results from Amazon and Intel deepened investor worries about the payoff from heavy AI spending.",
    "src": "CBS News",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html",
+   "t": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
    "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "MACRO",
     "AI"
    ],
-   "d": "2026-10-30"
-  },
-  {
-   "t": "Intel's stock drop shaves about $10 billion off the US government's equity stake",
    "s": "Intel's steep post-earnings decline cut roughly $10 billion from Washington's stake in the chipmaker, though the position is still worth about triple its cost.",
    "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/article/intels-stock-drop-shaves-about-10-billion-off-the-us-governments-equity-stake-its-still-up-3x-134522639.html",
+   "t": "Intel's stock drop shaves about $10 billion off the US government's equity stake",
    "tp": "Markets",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "d": "2026-10-30"
+   "u": "https://finance.yahoo.com/markets/stocks/article/intels-stock-drop-shaves-about-10-billion-off-the-us-governments-equity-stake-its-still-up-3x-134522639.html"
   },
   {
-   "t": "Reddit, Pinterest, and Roblox stocks tank after Q3 earnings",
-   "s": "Shares of three consumer internet platforms fell sharply after their third-quarter reports failed to reassure investors on growth and outlook.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/reddit-pinterest-and-roblox-stocks-tank-after-q3-earnings-134009780.html",
-   "tp": "Companies & deals",
+   "d": "2026-10-30",
    "m": [
     "BENCH",
     "VNDR"
    ],
-   "d": "2026-10-30"
+   "s": "Shares of three consumer internet platforms fell sharply after their third-quarter reports failed to reassure investors on growth and outlook.",
+   "src": "Yahoo Finance",
+   "t": "Reddit, Pinterest, and Roblox stocks tank after Q3 earnings",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/article/reddit-pinterest-and-roblox-stocks-tank-after-q3-earnings-134009780.html"
   },
   {
-   "t": "General Dynamics tops quarterly estimates on robust Gulfstream, marine bookings",
-   "s": "The defense contractor beat profit forecasts as demand for Gulfstream business jets and naval shipbuilding orders stayed strong.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/general-dynamics-posts-higher-profit-110649009.html",
-   "tp": "Companies & deals",
+   "d": "2026-10-30",
    "m": [
     "BENCH"
    ],
-   "d": "2026-10-30"
+   "s": "The defense contractor beat profit forecasts as demand for Gulfstream business jets and naval shipbuilding orders stayed strong.",
+   "src": "Reuters",
+   "t": "General Dynamics tops quarterly estimates on robust Gulfstream, marine bookings",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/news/general-dynamics-posts-higher-profit-110649009.html"
   },
   {
-   "t": "German inflation slows more than expected in October",
+   "d": "2026-10-30",
+   "m": [
+    "MACRO"
+   ],
    "s": "Price growth in Europe's largest economy eased by more than forecast this month, complicating the ECB's debate over raising rates.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/german-inflation-slows-october-131322913.html",
+   "t": "German inflation slows more than expected in October",
    "tp": "Economy",
+   "u": "https://finance.yahoo.com/news/german-inflation-slows-october-131322913.html"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "MACRO"
    ],
-   "d": "2026-10-30"
-  },
-  {
-   "t": "Canada's economy stalls again in August, likely lost ground in September",
    "s": "Canadian GDP was flat for a second month in August and a preliminary estimate points to a contraction in September.",
    "src": "Reuters",
-   "u": "https://finance.yahoo.com/news/canadas-economic-growth-stalls-again-123540404.html",
+   "t": "Canada's economy stalls again in August, likely lost ground in September",
    "tp": "Economy",
-   "m": [
-    "MACRO"
-   ],
-   "d": "2026-10-30"
+   "u": "https://finance.yahoo.com/news/canadas-economic-growth-stalls-again-123540404.html"
   },
   {
-   "t": "Schneider to shift eastern rail business to Norfolk Southern from CSX",
-   "s": "Trucking and logistics firm Schneider is moving its eastern intermodal rail volumes from CSX to Norfolk Southern, reshaping a major freight partnership.",
-   "src": "FreightWaves",
-   "u": "https://finance.yahoo.com/economy/policy/articles/schneider-shift-eastern-rail-business-124028597.html",
-   "tp": "Supply chain",
+   "d": "2026-10-30",
    "m": [
     "VNDR",
     "SPEND"
    ],
-   "d": "2026-10-30"
+   "s": "Trucking and logistics firm Schneider is moving its eastern intermodal rail volumes from CSX to Norfolk Southern, reshaping a major freight partnership.",
+   "src": "FreightWaves",
+   "t": "Schneider to shift eastern rail business to Norfolk Southern from CSX",
+   "tp": "Supply chain",
+   "u": "https://finance.yahoo.com/economy/policy/articles/schneider-shift-eastern-rail-business-124028597.html"
   },
   {
-   "t": "DoorDash said it's only received 'several hundred' orders from AI agents",
-   "s": "DoorDash disclosed that AI shopping agents have placed just a few hundred orders on its platform so far, a sign agentic commerce remains nascent.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-   "tp": "AI & tech",
+   "d": "2026-10-30",
    "m": [
     "AI",
     "SPEND"
    ],
-   "d": "2026-10-30"
+   "s": "DoorDash disclosed that AI shopping agents have placed just a few hundred orders on its platform so far, a sign agentic commerce remains nascent.",
+   "src": "TechCrunch",
+   "t": "DoorDash said it's only received 'several hundred' orders from AI agents",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
   },
   {
    "d": "2026-10-30",
@@ -424,6 +484,41 @@
   },
   {
    "d": "2026-10-29",
+   "t": "Volkswagen reports its worst results in a decade",
+   "s": "Europe's largest carmaker posted its weakest results in ten years, underscoring the pressure on legacy automakers.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/10/29/2026/volkswagen-reports-its-worst-results-in-a-decade",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Musk-style shakeout looms for AI neoclouds like CoreWeave and Nebius",
+   "s": "Fortune reports the crowded field of GPU-rental 'neocloud' providers is expected to consolidate amid growing AI bubble worries.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/29/elon-musk-neoclouds-ai-bubble-coreweave-nebius-consolidation/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "t": "GM reaches $220M settlement over selling drivers' private data",
+   "s": "General Motors agreed to pay $220 million to resolve claims that it sold drivers' location and driving-behavior data without proper consent.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-10-29",
    "m": [
     "MACRO",
     "AI"
@@ -472,30 +567,6 @@
   {
    "d": "2026-10-29",
    "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "Andy Jassy voiced skepticism about third-party AI shopping agents, arguing they still deliver a poor customer experience.",
-   "src": "Fortune",
-   "t": "Amazon's CEO says shopping agents like Meta's Muse aren't great yet",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "IT-automation startup Serval closed a Sequoia-backed Series C at a $3 billion valuation as it aims AI agents squarely at ServiceNow's enterprise service market.",
-   "src": "Fortune",
-   "t": "Serval raises $150 million at a $3 billion valuation to take on ServiceNow",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
     "SPEND",
     "MACRO"
    ],
@@ -516,18 +587,6 @@
    "t": "Agent identity startup Mintive lands backing from Cowboy Ventures and Coatue",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Surging demand for memory chips used in AI data centers drove Samsung to its biggest quarterly profit ever.",
-   "src": "Fortune",
-   "t": "Samsung posts a record $80.5 billion quarterly profit on AI chip demand",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/29/samsung-ai-chip-record-profit-2026/"
   },
   {
    "d": "2026-10-29",
@@ -634,30 +693,6 @@
    "t": "First look: TFI's truckload unit shines while its LTL operating ratio slips",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/markets/stocks/articles/first-look-tfi-truckload-sparkles-213824631.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Reddit is moving toward requiring users to sign in as referral traffic from search engines declines in the AI era.",
-   "src": "TechCrunch",
-   "t": "As search traffic dries up, Reddit shifts to a logged-in experience",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Rivian and Volkswagen are broadening their software partnership so the joint venture also builds an in-car AI assistant.",
-   "src": "TechCrunch",
-   "t": "Rivian expands joint venture with VW to include AI assistant",
-   "tp": "Companies & deals",
-   "u": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
   },
   {
    "d": "2026-10-29",
@@ -938,41 +973,7 @@
    "t": "Apollo's twin deals reveal Wall Street's AI money problem",
    "tp": "Markets",
    "u": "https://www.semafor.com/article/10/29/2026/apollos-twin-deals-reveal-wall-streets-ai-money-problem"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "Third-quarter GDP accelerated to a 3.4% annualized rate, powered by solid consumer spending and heavy AI investment.",
-   "src": "AP",
-   "t": "US economy grows at a brisk 3.4% pace in the third quarter",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/articles/us-economy-grew-faster-3-123219292.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Initial unemployment claims fell to 194,000 last week, near multi-decade lows and a sign layoffs remain scarce.",
-   "src": "AP",
-   "t": "US jobless claims slide to 194,000, lowest since mid-July",
-   "tp": "Labor",
-   "u": "https://finance.yahoo.com/economy/articles/us-unemployment-claims-dipped-194-123414074.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Crypto exchange HTX will exit the UK market under a settlement with the Financial Conduct Authority.",
-   "src": "Decrypt",
-   "t": "Justin Sun's HTX agrees to leave the UK in settlement with financial watchdog",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/justin-suns-htx-agrees-leave-125828365.html"
   }
  ],
- "updatedAt": "2026-10-30T10:05"
+ "updatedAt": "2026-10-30T11:12"
 }
