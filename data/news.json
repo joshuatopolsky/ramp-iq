@@ -40,6 +40,123 @@
  ],
  "items": [
   {
+   "t": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
+   "s": "Crude prices climbed about 2% to their highest settlement in six months as traders priced in the risk of a wider conflict involving Iran.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/news/oil-rises-supply-concerns-houthis-022725347.html",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "US SEC's top cop says agency is monitoring AI corporate disclosures",
+   "s": "The SEC's enforcement chief said the agency is watching how companies describe their use of AI to investors, signaling scrutiny of overstated AI claims.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/technology/ai/articles/us-secs-top-cop-says-175527885.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
+   "s": "A jury sided with Bayer in another Roundup cancer case as the company waits for a court decision on its broader settlement plan.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/healthcare/articles/bayer-wins-roundup-weedkiller-cancer-010345736.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Tesla and 113 other companies paid no current federal income tax",
+   "s": "An analysis finds more than 100 profitable US corporations, including Tesla, owed no current federal income tax, raising questions about tax breaks and the deficit.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/which-us-corporations-getting-tax-breaks-are-biggest-threat-us-federal-deficit/",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "BENCH"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Hershey says gas-squeezed consumers are buying less candy",
+   "s": "Hershey says shoppers hit by $4 gasoline are pulling back on candy purchases heading into Halloween, a sign of pressure on discretionary spending.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/hershey-halloween-candy-sales-gas-prices-inflation-consumers/",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "A Wall Street veteran argues an AI slowdown could extend the boom",
+   "s": "Amid a tech selloff over hyperscaler capex, one longtime strategist argues that slower AI spending could make the cycle more durable rather than end it.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/ai-boom-bust-tech-stock-selloff-hyperscalers-spending-capex/",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Alphabet's October wipeout hits $766 billion, its worst month ever",
+   "s": "Alphabet's market value has fallen by roughly $766 billion in October, the steepest monthly loss in the company's history as AI spending worries mount.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/alphabets-october-wipeout-hits-766-billion-its-worst-month-ever-181407937.html",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Trailer leasing demand hits record highs",
+   "s": "Freight carriers are leasing trailers at record levels rather than buying, reflecting tight capital budgets and uncertain demand.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/real-estate/articles/unexpected-boom-trailer-leasing-demand-184016805.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Saia posts record $982.5 million in third-quarter revenue",
+   "s": "Less-than-truckload carrier Saia reported record quarterly revenue, a bright spot in a soft freight market.",
+   "src": "FreightWaves",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/saia-record-982-5m-q3-183716039.html",
+   "tp": "Supply chain",
+   "m": [
+    "BENCH"
+   ],
+   "d": "2026-10-30"
+  },
+  {
+   "t": "Secret Service and FBI join Binance hack probe as Circle freezes $823 million",
+   "s": "Federal investigators have joined the inquiry into the $6.3 billion Binance theft while stablecoin issuer Circle froze $823 million in linked funds.",
+   "src": "Decrypt",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/secret-fbi-join-binance-hack-175026387.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ],
+   "d": "2026-10-30"
+  },
+  {
    "d": "2026-10-30",
    "m": [
     "MACRO"
@@ -486,39 +603,6 @@
   {
    "d": "2026-10-30",
    "m": [
-    "BENCH"
-   ],
-   "s": "The defense contractor beat profit forecasts as demand for Gulfstream business jets and naval shipbuilding orders stayed strong.",
-   "src": "Reuters",
-   "t": "General Dynamics tops quarterly estimates on robust Gulfstream, marine bookings",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/news/general-dynamics-posts-higher-profit-110649009.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Price growth in Europe's largest economy eased by more than forecast this month, complicating the ECB's debate over raising rates.",
-   "src": "Reuters",
-   "t": "German inflation slows more than expected in October",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/news/german-inflation-slows-october-131322913.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Canadian GDP was flat for a second month in August and a preliminary estimate points to a contraction in September.",
-   "src": "Reuters",
-   "t": "Canada's economy stalls again in August, likely lost ground in September",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/news/canadas-economic-growth-stalls-again-123540404.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
     "VNDR",
     "SPEND"
    ],
@@ -710,29 +794,6 @@
    "m": [
     "MACRO"
    ],
-   "s": "Binance's security breach has grown into an estimated $6.3 billion theft, the largest crypto heist on record, rattling exchanges and stablecoin issuers.",
-   "src": "Fortune",
-   "t": "The $6.3 billion Binance hack: what we know about the biggest crypto heist in history",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Cisco says a young former founder using AI coding tools is rewriting most of a legacy codebase, a sign of how AI is reshaping entry-level engineering work.",
-   "src": "Fortune",
-   "t": "Cisco's president hands a 27-year-old ex-founder unlimited AI tokens to rewrite legacy code",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
    "s": "Former American Express chief Ken Chenault argues corporate leaders need to speak up more on political and economic stakes ahead of the midterm elections.",
    "src": "Semafor",
    "t": "'Will business stand up?': Ken Chenault on CEO courage and the US midterms",
@@ -761,17 +822,6 @@
    "t": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Lagarde's early exit gives EU leaders room to pick her successor at the European Central Bank before France's elections.",
-   "src": "Fortune",
-   "t": "ECB President Christine Lagarde to step down nine months early",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/29/christine-lagarde-resigns-early-france-macron-eu-ecb/"
   },
   {
    "d": "2026-10-29",
@@ -927,54 +977,7 @@
    "t": "Amazon's third-quarter results miss estimates, but AWS posts its fastest growth in nearly five years",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/markets/stocks/articles/amazons-3q-results-miss-analysts-202736981.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH",
-    "MACRO"
-   ],
-   "s": "Coinbase's return to profit came almost entirely from gains on crypto it holds as an investment; adjusted net income was $78 million as revenue fell 35% to $1.22 billion.",
-   "src": "Decrypt",
-   "t": "Coinbase swings to $719 million Q3 profit on crypto gains",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-swings-719-million-q3-204643193.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "BENCH"
-   ],
-   "s": "The home-security company agreed to be taken private, sending its shares to their highest level since 2021.",
-   "src": "Yahoo Finance",
-   "t": "ADT stock surges to five-year high after Thrive Holdings agrees to $7.6 billion buyout",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/markets/stocks/article/adt-stock-surges-to-5-year-high-after-thrive-holdings-agrees-to-76-billion-buyout-deal-190630046.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "SPEND",
-    "MACRO"
-   ],
-   "s": "Carriers' capacity cuts and rerouting are lifting ocean freight prices even as shipping volumes soften.",
-   "src": "FreightWaves",
-   "t": "Why container rates are climbing despite cooling demand",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/why-container-rates-climbing-despite-183934773.html"
-  },
-  {
-   "d": "2026-10-29",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "A California trucking firm plans one of the larger autonomous-truck rollouts so far using Kodiak's self-driving system.",
-   "src": "FreightWaves",
-   "t": "Fresno carrier DTL to run 75 Kodiak driverless trucks",
-   "tp": "Supply chain",
-   "u": "https://finance.yahoo.com/technology/ai/articles/fresno-carrier-dtl-run-75-174239660.html"
   }
  ],
- "updatedAt": "2026-10-30T14:50"
+ "updatedAt": "2026-10-30T15:51"
 }
