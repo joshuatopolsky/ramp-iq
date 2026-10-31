@@ -41,68 +41,22 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "The big questions remaining after Anthropic's blockbuster IPO prospectus",
-   "s": "Anthropic's S-1 leaves investors weighing how durable its revenue growth is against the enormous cost of the compute it needs.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
-   "tp": "AI & tech",
+   "t": "Stocks fall on AI cash-burn worries while bonds rally with oil",
+   "s": "Global equities slid as investors balked at Big Tech's soaring AI spending, while Treasuries rallied and crude climbed on Middle East tensions.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-bonds-leap-ai-024810978.html",
+   "tp": "Markets",
    "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Anthropic expected to receive a junk credit rating after its IPO",
-   "s": "Citing the FT, the report says ratings agencies are likely to put Anthropic's debt below investment grade given its heavy cash burn.",
-   "src": "TechCrunch",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-expected-receive-high-junk-215203788.html",
-   "tp": "AI & tech",
-   "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Salesforce's acquisition spree continues with reported $375M Rune deal",
-   "s": "Salesforce has reportedly agreed to buy defense tech startup Rune for about $375 million, extending a run of acquisitions.",
-   "src": "TechCrunch",
-   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-m-spree-continues-reported-232123064.html",
-   "tp": "Companies & deals",
-   "m": [
-    "VNDR",
+    "MACRO",
     "AI"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "Fitch revises France's outlook to negative",
-   "s": "Fitch moved France's credit outlook to negative, pointing to deteriorating debt dynamics amid a budget standoff.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fitch-revises-frances-outlook-negative-221851434.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Early results of Trump-touted Venezuela oil deal raise doubts",
-   "s": "The first results from a Venezuela oil arrangement the president hailed as a record are falling short of the promises.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/energy/articles/trump-touted-record-venezuela-oil-101849012.html",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "SpaceX's Shotwell says 2 million shares will go to children's Trump Accounts",
-   "s": "SpaceX's president said the company will donate 2 million shares to the government-backed savings accounts for children.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacexs-shotwell-says-2-million-214100331.html",
+   "t": "Hackers just stole $6 billion in crypto, and it won't be the last time",
+   "s": "The Binance heist is the latest in a string of massive crypto thefts, raising fresh questions about security across digital-asset exchanges.",
+   "src": "CNN Business",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/hackers-just-stole-6-billion-200943862.html",
    "tp": "Companies & deals",
    "m": [
     "MACRO"
@@ -110,74 +64,187 @@
   },
   {
    "d": "2026-10-30",
-   "t": "Goldman warns AI layoffs could leave lasting scars on displaced workers",
-   "s": "Goldman Sachs says workers pushed out by AI, especially older ones, may suffer long-term earnings losses like those seen in past tech shifts.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/",
-   "tp": "Labor",
+   "t": "Rivian rallies on strong EV sales",
+   "s": "Rivian shares jumped after the electric-vehicle maker reported stronger-than-expected sales, bucking a broad tech sell-off.",
+   "src": "LA Times",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rivian-rallies-strong-ev-sales-213254196.html",
+   "tp": "Companies & deals",
    "m": [
-    "AI",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Cheaper cars are selling considerably faster than at the beginning of the year",
-   "s": "Lower-priced vehicles are moving off dealer lots much more quickly than in early 2026 as buyers hunt for affordability.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-   "tp": "Economy",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Employers rethink AI's role in entry-level work",
-   "s": "Companies are reconsidering whether AI should replace or support junior roles as they plan future hiring.",
-   "src": "Axios",
-   "u": "https://finance.yahoo.com/technology/ai/articles/axios-live-employers-rethinking-ais-211016358.html",
-   "tp": "Labor",
-   "m": [
-    "AI",
     "BENCH"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "The PC industry's painful path to AI",
-   "s": "PC makers are struggling to turn AI features into a reason for customers to upgrade, even as demand weakens.",
-   "src": "Axios",
-   "u": "https://finance.yahoo.com/technology/ai/articles/pc-industrys-painful-path-ai-214933271.html",
+   "t": "Applebee's exposed customers' personal data after leaving database password in app",
+   "s": "A database credential left inside Applebee's app exposed customer information, a reminder of the security risk in consumer-facing software.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
    "tp": "AI & tech",
    "m": [
-    "AI",
     "VNDR"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "DEA approvals could bring big tax benefits for medical marijuana firms",
-   "s": "Rescheduling approvals from the DEA could ease the heavy federal tax burden that medical cannabis companies have carried.",
-   "src": "AP",
-   "u": "https://finance.yahoo.com/healthcare/articles/dea-approvals-could-bring-big-214225812.html",
+   "t": "McDonald's must face lawsuit over McRib, US judge rules",
+   "s": "A federal judge allowed a consumer lawsuit over McDonald's McRib sandwich to proceed, rejecting the chain's bid to dismiss it.",
+   "src": "Reuters",
+   "u": "https://finance.yahoo.com/media-advertising/articles/mcdonalds-must-face-lawsuit-over-202438862.html",
    "tp": "Companies & deals",
+   "m": [
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Satlyt takes another step toward turning satellites into space data centers",
+   "s": "Startup Satlyt advanced its plan to run computing workloads on orbiting satellites, part of a wave of bets on off-planet AI infrastructure.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Anthropic's S-1 leaves investors weighing how durable its revenue growth is against the enormous cost of the compute it needs.",
+   "src": "CNBC",
+   "t": "The big questions remaining after Anthropic's blockbuster IPO prospectus",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Citing the FT, the report says ratings agencies are likely to put Anthropic's debt below investment grade given its heavy cash burn.",
+   "src": "TechCrunch",
+   "t": "Anthropic expected to receive a junk credit rating after its IPO",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-expected-receive-high-junk-215203788.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "VNDR",
+    "AI"
+   ],
+   "s": "Salesforce has reportedly agreed to buy defense tech startup Rune for about $375 million, extending a run of acquisitions.",
+   "src": "TechCrunch",
+   "t": "Salesforce's acquisition spree continues with reported $375M Rune deal",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-m-spree-continues-reported-232123064.html"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Fitch moved France's credit outlook to negative, pointing to deteriorating debt dynamics amid a budget standoff.",
+   "src": "Reuters",
+   "t": "Fitch revises France's outlook to negative",
+   "tp": "Economy",
+   "u": "https://finance.yahoo.com/economy/policy/articles/fitch-revises-frances-outlook-negative-221851434.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Alphabet in talks to join Trump's Golden Dome missile defense program",
-   "s": "Alphabet is reportedly negotiating a role in the administration's Golden Dome initiative, a deeper move into defense work.",
-   "src": "Bloomberg",
-   "u": "https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The first results from a Venezuela oil arrangement the president hailed as a record are falling short of the promises.",
+   "src": "Reuters",
+   "t": "Early results of Trump-touted Venezuela oil deal raise doubts",
+   "tp": "Energy & trade",
+   "u": "https://finance.yahoo.com/energy/articles/trump-touted-record-venezuela-oil-101849012.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO"
+   ],
+   "s": "SpaceX's president said the company will donate 2 million shares to the government-backed savings accounts for children.",
+   "src": "Reuters",
+   "t": "SpaceX's Shotwell says 2 million shares will go to children's Trump Accounts",
    "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacexs-shotwell-says-2-million-214100331.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Goldman Sachs says workers pushed out by AI, especially older ones, may suffer long-term earnings losses like those seen in past tech shifts.",
+   "src": "Fortune",
+   "t": "Goldman warns AI layoffs could leave lasting scars on displaced workers",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ],
+   "s": "Lower-priced vehicles are moving off dealer lots much more quickly than in early 2026 as buyers hunt for affordability.",
+   "src": "CNBC",
+   "t": "Cheaper cars are selling considerably faster than at the beginning of the year",
+   "tp": "Economy",
+   "u": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "BENCH"
+   ],
+   "s": "Companies are reconsidering whether AI should replace or support junior roles as they plan future hiring.",
+   "src": "Axios",
+   "t": "Employers rethink AI's role in entry-level work",
+   "tp": "Labor",
+   "u": "https://finance.yahoo.com/technology/ai/articles/axios-live-employers-rethinking-ais-211016358.html"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "PC makers are struggling to turn AI features into a reason for customers to upgrade, even as demand weakens.",
+   "src": "Axios",
+   "t": "The PC industry's painful path to AI",
+   "tp": "AI & tech",
+   "u": "https://finance.yahoo.com/technology/ai/articles/pc-industrys-painful-path-ai-214933271.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Rescheduling approvals from the DEA could ease the heavy federal tax burden that medical cannabis companies have carried.",
+   "src": "AP",
+   "t": "DEA approvals could bring big tax benefits for medical marijuana firms",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/healthcare/articles/dea-approvals-could-bring-big-214225812.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Alphabet is reportedly negotiating a role in the administration's Golden Dome initiative, a deeper move into defense work.",
+   "src": "Bloomberg",
+   "t": "Alphabet in talks to join Trump's Golden Dome missile defense program",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html"
   },
   {
    "d": "2026-10-30",
@@ -358,17 +425,6 @@
   {
    "d": "2026-10-30",
    "m": [
-    "BENCH"
-   ],
-   "s": "A jury sided with Bayer in another Roundup cancer case as the company waits for a court decision on its broader settlement plan.",
-   "src": "Reuters",
-   "t": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/healthcare/articles/bayer-wins-roundup-weedkiller-cancer-010345736.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
     "MACRO",
     "BENCH"
    ],
@@ -447,17 +503,6 @@
    "t": "Secret Service and FBI join Binance hack probe as Circle freezes $823 million",
    "tp": "Markets",
    "u": "https://finance.yahoo.com/markets/crypto/articles/secret-fbi-join-binance-hack-175026387.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Dallas Fed President Lorie Logan argued the central bank must raise rates at least twice more to get inflation under control.",
-   "src": "Reuters",
-   "t": "Fed needs at least two more rate hikes, Logan says",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-needs-least-two-more-173445281.html"
   },
   {
    "d": "2026-10-30",
@@ -926,54 +971,7 @@
    "t": "Amazon's AI build-out just pushed its cash burn to a record",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Alphabet is embracing AI answers that eat into classic search ads, betting the new formats will monetize just as well over time.",
-   "src": "Yahoo Finance",
-   "t": "Google is happy AI is cannibalizing its most profitable business",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/article/google-is-happy-ai-is-cannibalizing-its-most-profitable-business-100000654.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "European technology shares fell after a string of weak results revived worries that heavy AI spending won't pay off soon.",
-   "src": "Euronews",
-   "t": "Tech firms take fresh hit as disappointing earnings fan AI fears",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-fresh-hit-disappointing-093652103.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Former American Express chief Ken Chenault argues corporate leaders need to speak up more on political and economic stakes ahead of the midterm elections.",
-   "src": "Semafor",
-   "t": "'Will business stand up?': Ken Chenault on CEO courage and the US midterms",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/10/30/2026/will-business-stand-up-ken-chenault-on-ceo-courage-and-the-us-midterms"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Waymo's next robotaxi will be built on Toyota's bZ4X as the Alphabet unit prepares launches in Japan and the United Kingdom.",
-   "src": "TechCrunch",
-   "t": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
   }
  ],
- "updatedAt": "2026-10-30T19:51"
+ "updatedAt": "2026-10-30T20:55"
 }
