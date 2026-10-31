@@ -41,70 +41,94 @@
  "items": [
   {
    "d": "2026-10-30",
-   "t": "Stocks fall on AI cash-burn worries while bonds rally with oil",
-   "s": "Global equities slid as investors balked at Big Tech's soaring AI spending, while Treasuries rallied and crude climbed on Middle East tensions.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-bonds-leap-ai-024810978.html",
-   "tp": "Markets",
+   "t": "Microsoft offers voluntary buyouts to 60,000 employees",
+   "s": "Microsoft is extending a voluntary exit offer to roughly 60,000 workers, a move that points to a leaner headcount as the company leans harder on AI infrastructure.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/30/microsoft-voluntary-exit-offer-buyout-60000-employees/",
+   "tp": "Labor",
    "m": [
-    "MACRO",
+    "BENCH",
     "AI"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "Hackers just stole $6 billion in crypto, and it won't be the last time",
-   "s": "The Binance heist is the latest in a string of massive crypto thefts, raising fresh questions about security across digital-asset exchanges.",
-   "src": "CNN Business",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/hackers-just-stole-6-billion-200943862.html",
-   "tp": "Companies & deals",
-   "m": [
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Rivian rallies on strong EV sales",
-   "s": "Rivian shares jumped after the electric-vehicle maker reported stronger-than-expected sales, bucking a broad tech sell-off.",
-   "src": "LA Times",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rivian-rallies-strong-ev-sales-213254196.html",
-   "tp": "Companies & deals",
-   "m": [
-    "BENCH"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Applebee's exposed customers' personal data after leaving database password in app",
-   "s": "A database credential left inside Applebee's app exposed customer information, a reminder of the security risk in consumer-facing software.",
+   "t": "Waymo's next robotaxi will be a Toyota bZ4X bound for Japan and the UK",
+   "s": "Waymo will build robotaxis on Toyota's bZ4X electric SUV as it prepares to launch service in Japan and the UK.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+   "tp": "Companies & deals",
    "m": [
+    "AI",
     "VNDR"
    ]
   },
   {
    "d": "2026-10-30",
-   "t": "McDonald's must face lawsuit over McRib, US judge rules",
-   "s": "A federal judge allowed a consumer lawsuit over McDonald's McRib sandwich to proceed, rejecting the chain's bid to dismiss it.",
-   "src": "Reuters",
-   "u": "https://finance.yahoo.com/media-advertising/articles/mcdonalds-must-face-lawsuit-over-202438862.html",
-   "tp": "Companies & deals",
    "m": [
-    "BENCH"
-   ]
+    "MACRO",
+    "AI"
+   ],
+   "s": "Global equities slid as investors balked at Big Tech's soaring AI spending, while Treasuries rallied and crude climbed on Middle East tensions.",
+   "src": "Reuters",
+   "t": "Stocks fall on AI cash-burn worries while bonds rally with oil",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-bonds-leap-ai-024810978.html"
   },
   {
    "d": "2026-10-30",
-   "t": "Satlyt takes another step toward turning satellites into space data centers",
-   "s": "Startup Satlyt advanced its plan to run computing workloads on orbiting satellites, part of a wave of bets on off-planet AI infrastructure.",
+   "m": [
+    "MACRO"
+   ],
+   "s": "The Binance heist is the latest in a string of massive crypto thefts, raising fresh questions about security across digital-asset exchanges.",
+   "src": "CNN Business",
+   "t": "Hackers just stole $6 billion in crypto, and it won't be the last time",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/hackers-just-stole-6-billion-200943862.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Rivian shares jumped after the electric-vehicle maker reported stronger-than-expected sales, bucking a broad tech sell-off.",
+   "src": "LA Times",
+   "t": "Rivian rallies on strong EV sales",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rivian-rallies-strong-ev-sales-213254196.html"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "VNDR"
+   ],
+   "s": "A database credential left inside Applebee's app exposed customer information, a reminder of the security risk in consumer-facing software.",
    "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+   "t": "Applebee's exposed customers' personal data after leaving database password in app",
    "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "BENCH"
+   ],
+   "s": "A federal judge allowed a consumer lawsuit over McDonald's McRib sandwich to proceed, rejecting the chain's bid to dismiss it.",
+   "src": "Reuters",
+   "t": "McDonald's must face lawsuit over McRib, US judge rules",
+   "tp": "Companies & deals",
+   "u": "https://finance.yahoo.com/media-advertising/articles/mcdonalds-must-face-lawsuit-over-202438862.html"
+  },
+  {
+   "d": "2026-10-30",
    "m": [
     "AI"
-   ]
+   ],
+   "s": "Startup Satlyt advanced its plan to run computing workloads on orbiting satellites, part of a wave of bets on off-planet AI infrastructure.",
+   "src": "TechCrunch",
+   "t": "Satlyt takes another step toward turning satellites into space data centers",
+   "tp": "AI & tech",
+   "u": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/"
   },
   {
    "d": "2026-10-30",
@@ -647,18 +671,6 @@
    "d": "2026-10-30",
    "m": [
     "MACRO",
-    "AI"
-   ],
-   "s": "Headline growth was propped up by AI investment while housing weakened and momentum faded late in the quarter.",
-   "src": "Fortune",
-   "t": "Third-quarter GDP's 3.4% gain masks a haunted housing market and a September stall",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/30/gdp-third-quarter-haunted-housing-market-ai-spending-september-stall/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
     "SPEND"
    ],
    "s": "The Energy Department handed out the final barrels from the emergency release as oil supply risks persist.",
@@ -847,18 +859,6 @@
    "d": "2026-10-30",
    "m": [
     "AI",
-    "SPEND"
-   ],
-   "s": "DoorDash disclosed that AI shopping agents have placed just a few hundred orders on its platform so far, a sign agentic commerce remains nascent.",
-   "src": "TechCrunch",
-   "t": "DoorDash said it's only received 'several hundred' orders from AI agents",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
     "VNDR"
    ],
    "s": "Intel shares cratered after its quarterly results, at one point tracking toward the chipmaker's steepest one-day drop in more than five decades.",
@@ -973,5 +973,5 @@
    "u": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html"
   }
  ],
- "updatedAt": "2026-10-30T20:55"
+ "updatedAt": "2026-10-30T21:55"
 }
