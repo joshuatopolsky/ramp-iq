@@ -40,28 +40,98 @@
  ],
  "items": [
   {
-   "d": "2026-10-30",
-   "t": "Microsoft offers voluntary buyouts to 60,000 employees",
-   "s": "Microsoft is extending a voluntary exit offer to roughly 60,000 workers, a move that points to a leaner headcount as the company leans harder on AI infrastructure.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/30/microsoft-voluntary-exit-offer-buyout-60000-employees/",
-   "tp": "Labor",
-   "m": [
-    "BENCH",
-    "AI"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "t": "Waymo's next robotaxi will be a Toyota bZ4X bound for Japan and the UK",
-   "s": "Waymo will build robotaxis on Toyota's bZ4X electric SUV as it prepares to launch service in Japan and the UK.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-   "tp": "Companies & deals",
+   "d": "2026-10-31",
+   "t": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+   "s": "OpenAI has cut the target for its newest funding round from as much as $30 billion to $20 billion as investor appetite for AI cools.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
    ]
+  },
+  {
+   "d": "2026-10-31",
+   "t": "SpaceX loses bid to toss NAACP suit over Memphis data center pollution",
+   "s": "A judge refused to dismiss the NAACP's Clean Air Act lawsuit over turbines powering the xAI data center in Memphis, now owned by SpaceX.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Automakers like Rivian and Ford are using 3D printing to cut costs and boost speed",
+   "s": "Carmakers are bringing 3D printing into tooling and parts production to cut costs and speed up development.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+   "tp": "Supply chain",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Fears over $828 billion AI capex spree help erase $1 trillion in market value",
+   "s": "Investors punished Big Tech after earnings showed AI capital spending heading toward $828 billion, wiping about $1 trillion off market caps.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-31",
+   "t": "US workers' share of income falls to the lowest level on record",
+   "s": "Labor's share of national income has dropped to its lowest point since records began in 1947, while capital takes a growing slice.",
+   "src": "Fortune",
+   "u": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+   "tp": "Labor",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Chevron speeds ahead in Venezuela while Exxon urges caution",
+   "s": "Chevron is expanding its Venezuelan operations quickly, while Exxon's leadership remains skeptical of the country's opening.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/10/31/chevron-speeds-venezuela-exxon-urges-caution-little-pinch-of-salt/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "BENCH",
+    "AI"
+   ],
+   "s": "Microsoft is extending a voluntary exit offer to roughly 60,000 workers, a move that points to a leaner headcount as the company leans harder on AI infrastructure.",
+   "src": "Fortune",
+   "t": "Microsoft offers voluntary buyouts to 60,000 employees",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/10/30/microsoft-voluntary-exit-offer-buyout-60000-employees/"
+  },
+  {
+   "d": "2026-10-30",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Waymo will build robotaxis on Toyota's bZ4X electric SUV as it prepares to launch service in Japan and the UK.",
+   "src": "TechCrunch",
+   "t": "Waymo's next robotaxi will be a Toyota bZ4X bound for Japan and the UK",
+   "tp": "Companies & deals",
+   "u": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
   },
   {
    "d": "2026-10-30",
@@ -438,54 +508,6 @@
    "d": "2026-10-30",
    "m": [
     "AI",
-    "VNDR"
-   ],
-   "s": "The SEC's enforcement chief said the agency is watching how companies describe their use of AI to investors, signaling scrutiny of overstated AI claims.",
-   "src": "Reuters",
-   "t": "US SEC's top cop says agency is monitoring AI corporate disclosures",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/ai/articles/us-secs-top-cop-says-175527885.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "An analysis finds more than 100 profitable US corporations, including Tesla, owed no current federal income tax, raising questions about tax breaks and the deficit.",
-   "src": "Fortune",
-   "t": "Tesla and 113 other companies paid no current federal income tax",
-   "tp": "Economy",
-   "u": "https://fortune.com/2026/10/30/which-us-corporations-getting-tax-breaks-are-biggest-threat-us-federal-deficit/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Hershey says shoppers hit by $4 gasoline are pulling back on candy purchases heading into Halloween, a sign of pressure on discretionary spending.",
-   "src": "Fortune",
-   "t": "Hershey says gas-squeezed consumers are buying less candy",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/30/hershey-halloween-candy-sales-gas-prices-inflation-consumers/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Amid a tech selloff over hyperscaler capex, one longtime strategist argues that slower AI spending could make the cycle more durable rather than end it.",
-   "src": "Fortune",
-   "t": "A Wall Street veteran argues an AI slowdown could extend the boom",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/30/ai-boom-bust-tech-stock-selloff-hyperscalers-spending-capex/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
     "MACRO"
    ],
    "s": "Alphabet's market value has fallen by roughly $766 billion in October, the steepest monthly loss in the company's history as AI spending worries mount.",
@@ -659,18 +681,6 @@
    "d": "2026-10-30",
    "m": [
     "MACRO",
-    "TNE"
-   ],
-   "s": "The administration is unwinding oil and gas regulations from the previous administration as pump prices climb above $4.",
-   "src": "Fortune",
-   "t": "Trump rolls back Biden-era energy rules as gas tops $4 a gallon",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/30/donald-trump-biden-harris-2024-regulations-oil-gas/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
     "SPEND"
    ],
    "s": "The Energy Department handed out the final barrels from the emergency release as oil supply risks persist.",
@@ -794,18 +804,6 @@
    "t": "Prediction markets flop on recent elections",
    "tp": "Markets",
    "u": "https://www.semafor.com/article/10/30/2026/prediction-markets-flop-on-recent-elections"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "A startup is trying to factory-build AI data centers on an assembly line so they can be deployed and running within two days.",
-   "src": "TechCrunch",
-   "t": "Can AI data centers be mass-produced like cars and online in 48 hours? This startup aims to find out",
-   "tp": "AI & tech",
-   "u": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
   },
   {
    "d": "2026-10-30",
@@ -973,5 +971,5 @@
    "u": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html"
   }
  ],
- "updatedAt": "2026-10-30T21:55"
+ "updatedAt": "2026-10-31T18:10"
 }
