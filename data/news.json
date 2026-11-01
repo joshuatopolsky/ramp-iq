@@ -40,11 +40,59 @@
  ],
  "items": [
   {
-   "d": "2026-10-31",
-   "t": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-   "s": "OpenAI has cut the target for its newest funding round from as much as $30 billion to $20 billion as investor appetite for AI cools.",
+   "d": "2026-11-01",
+   "t": "As Trump eyes new attack, Iran vows to retaliate beyond the Mideast and target financial assets",
+   "s": "Iran's supreme leader warned any response to renewed US strikes after the midterms would not be geographically limited, as oil markets brace for lasting damage to confidence in Gulf supply.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/01/iran-war-retaliation-financial-assets-oil-markets-generational-damage-trump-midterm-elections/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Soaring health insurance costs are quietly preventing wages from rising higher",
+   "s": "Employer health-benefit spending has outpaced pay growth, shaving a few tenths of a point off wage gains while workers shoulder a bigger share of premiums and out-of-pocket costs.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/01/health-insurance-costs-wage-gains-premiums-obamacare-aca-plans-open-enrollment/",
+   "tp": "Labor",
+   "m": [
+    "MACRO",
+    "BENCH",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-11-01",
+   "t": "As Americans turn against data centers, Brazil offers tax breaks and cheap power to attract them",
+   "s": "Brazil is courting hyperscalers with equipment tax cuts and cheap, mostly renewable electricity as US communities push back on new data center projects.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/01/data-centers-brazil-lula-redata-amazon-google-microsoft-openai/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Companies promised AI gains — here's how the payoff showed up in earnings",
+   "s": "Firms including Santander, Novartis and Standard Chartered say AI is beginning to lift revenue or cut costs, though others such as Carlsberg say the benefits aren't at scale yet.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+   "u": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-11-01",
+   "t": "Why AI is boosting Meta's ad business while hurting Google search",
+   "s": "Meta's ad revenue grew 26% last quarter on AI-powered ad tools, more than double Google search's 12%, as chatbots pull users away from traditional search.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -52,62 +100,85 @@
    ]
   },
   {
-   "d": "2026-10-31",
-   "t": "SpaceX loses bid to toss NAACP suit over Memphis data center pollution",
-   "s": "A judge refused to dismiss the NAACP's Clean Air Act lawsuit over turbines powering the xAI data center in Memphis, now owned by SpaceX.",
+   "d": "2026-11-01",
+   "t": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+   "s": "Binance restarted bitcoin, Ethereum and BNB Chain withdrawals and says it will absorb the losses from the record theft, which the FBI has attributed to North Korea.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+   "tp": "Companies & deals",
    "m": [
-    "AI"
+    "VNDR"
    ]
   },
   {
    "d": "2026-10-31",
-   "t": "Automakers like Rivian and Ford are using 3D printing to cut costs and boost speed",
-   "s": "Carmakers are bringing 3D printing into tooling and parts production to cut costs and speed up development.",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "OpenAI has cut the target for its newest funding round from as much as $30 billion to $20 billion as investor appetite for AI cools.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-   "tp": "Supply chain",
+   "t": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"
+  },
+  {
+   "d": "2026-10-31",
+   "m": [
+    "AI"
+   ],
+   "s": "A judge refused to dismiss the NAACP's Clean Air Act lawsuit over turbines powering the xAI data center in Memphis, now owned by SpaceX.",
+   "src": "CNBC",
+   "t": "SpaceX loses bid to toss NAACP suit over Memphis data center pollution",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
+  },
+  {
+   "d": "2026-10-31",
    "m": [
     "VNDR",
     "SPEND"
-   ]
+   ],
+   "s": "Carmakers are bringing 3D printing into tooling and parts production to cut costs and speed up development.",
+   "src": "CNBC",
+   "t": "Automakers like Rivian and Ford are using 3D printing to cut costs and boost speed",
+   "tp": "Supply chain",
+   "u": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html"
   },
   {
    "d": "2026-10-31",
-   "t": "Fears over $828 billion AI capex spree help erase $1 trillion in market value",
-   "s": "Investors punished Big Tech after earnings showed AI capital spending heading toward $828 billion, wiping about $1 trillion off market caps.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/",
-   "tp": "Markets",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Investors punished Big Tech after earnings showed AI capital spending heading toward $828 billion, wiping about $1 trillion off market caps.",
+   "src": "Fortune",
+   "t": "Fears over $828 billion AI capex spree help erase $1 trillion in market value",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/"
   },
   {
    "d": "2026-10-31",
-   "t": "US workers' share of income falls to the lowest level on record",
-   "s": "Labor's share of national income has dropped to its lowest point since records began in 1947, while capital takes a growing slice.",
-   "src": "Fortune",
-   "u": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
-   "tp": "Labor",
    "m": [
     "MACRO",
     "TNE"
-   ]
+   ],
+   "s": "Labor's share of national income has dropped to its lowest point since records began in 1947, while capital takes a growing slice.",
+   "src": "Fortune",
+   "t": "US workers' share of income falls to the lowest level on record",
+   "tp": "Labor",
+   "u": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/"
   },
   {
    "d": "2026-10-31",
-   "t": "Chevron speeds ahead in Venezuela while Exxon urges caution",
-   "s": "Chevron is expanding its Venezuelan operations quickly, while Exxon's leadership remains skeptical of the country's opening.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/10/31/chevron-speeds-venezuela-exxon-urges-caution-little-pinch-of-salt/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Chevron is expanding its Venezuelan operations quickly, while Exxon's leadership remains skeptical of the country's opening.",
+   "src": "Fortune",
+   "t": "Chevron speeds ahead in Venezuela while Exxon urges caution",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/10/31/chevron-speeds-venezuela-exxon-urges-caution-little-pinch-of-salt/"
   },
   {
    "d": "2026-10-30",
@@ -392,18 +463,6 @@
    "d": "2026-10-30",
    "m": [
     "AI",
-    "SPEND"
-   ],
-   "s": "Alphabet, Meta, Microsoft and Amazon are leaning on their core ad, software and retail profits to fund ballooning AI infrastructure bills.",
-   "src": "CNBC",
-   "t": "Tech giants need legacy businesses to grow as they pour trillions into the AI buildout",
-   "tp": "AI & tech",
-   "u": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
     "MACRO"
    ],
    "s": "Investor pushback on Big Tech capex this earnings season suggests the AI infrastructure spending surge is starting to show strain.",
@@ -411,17 +470,6 @@
    "t": "Cracks are emerging in the AI spending boom",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI"
-   ],
-   "s": "Executives at Tesla and Meta increasingly framed their spending around 'superintelligence' rather than AI as investors question returns.",
-   "src": "CNBC",
-   "t": "Musk and Zuckerberg swap 'AI' for 'superintelligence' on earnings calls",
-   "tp": "AI & tech",
-   "u": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html"
   },
   {
    "d": "2026-10-30",
@@ -455,30 +503,6 @@
    "t": "Colombia's central bank holds rates, plans $2 billion reserve boost",
    "tp": "Economy",
    "u": "https://finance.yahoo.com/economy/policy/articles/colombia-central-bank-seen-hiking-050500257.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "BENCH"
-   ],
-   "s": "Investors value Waymo at $126 billion even as Alphabet's division housing it posted $372 million in quarterly revenue and a $2.05 billion loss.",
-   "src": "Fortune",
-   "t": "Waymo's $126B valuation contrasts with Alphabet unit's $2.05B loss",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/10/30/waymo-126-billion-alphabet-372-million-2-05-billion-google/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "Amazon's soaring AI and infrastructure outlays are drawing more investor attention than its revenue gains.",
-   "src": "Fortune",
-   "t": "Amazon's huge capital spending is overshadowing its growth",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/10/30/amazons-eye-watering-spending-is-overshadowing-growth/"
   },
   {
    "d": "2026-10-30",
@@ -946,30 +970,7 @@
    "t": "Brazil's economic outlook darkens as debt soars",
    "tp": "Economy",
    "u": "https://www.semafor.com/article/10/30/2026/brazils-economic-outlook-darkens-as-debt-soars"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "France's GDP contracted in the third quarter against forecasts for modest growth, a weak spot in an otherwise resilient euro zone.",
-   "src": "Semafor",
-   "t": "French economy unexpectedly shrank last quarter",
-   "tp": "Economy",
-   "u": "https://www.semafor.com/article/10/30/2026/french-economy-unexpectedly-shrank-last-quarter"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Heavy spending on AI data centers drove Amazon's quarterly cash outflow to an all-time high, sharpening questions about capex payback.",
-   "src": "Yahoo Finance",
-   "t": "Amazon's AI build-out just pushed its cash burn to a record",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html"
   }
  ],
- "updatedAt": "2026-10-31T18:10"
+ "updatedAt": "2026-11-01T18:04"
 }
