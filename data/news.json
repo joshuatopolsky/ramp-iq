@@ -40,75 +40,183 @@
  ],
  "items": [
   {
-   "d": "2026-11-01",
-   "t": "As Trump eyes new attack, Iran vows to retaliate beyond the Mideast and target financial assets",
-   "s": "Iran's supreme leader warned any response to renewed US strikes after the midterms would not be geographically limited, as oil markets brace for lasting damage to confidence in Gulf supply.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/01/iran-war-retaliation-financial-assets-oil-markets-generational-damage-trump-midterm-elections/",
+   "d": "2026-11-02",
+   "t": "US automakers push for ban on Chinese vehicle imports",
+   "s": "Detroit carmakers are lobbying Washington to block Chinese-built vehicles, arguing China's excess production capacity threatens American auto jobs.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/02/2026/us-automakers-push-for-a-chinese-vehicle-import-ban",
    "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Alphabet launches eurobond, testing AI debt markets",
+   "s": "Alphabet's second euro-denominated bond sale gauges how much more debt investors will absorb to fund Big Tech's AI spending.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/02/2026/alphabet-launches-second-euro-bond-sale",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Brazil selloff extends dismal run for Latin American markets",
+   "s": "Brazilian stocks kept sliding after Lula's reelection, adding to a broader pullback of investor capital from Latin America.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/02/2026/stocks-sink-across-latin-america-amidst-brazilian-election-fallout",
+   "tp": "Markets",
    "m": [
     "MACRO"
    ]
   },
   {
-   "d": "2026-11-01",
-   "t": "Soaring health insurance costs are quietly preventing wages from rising higher",
-   "s": "Employer health-benefit spending has outpaced pay growth, shaving a few tenths of a point off wage gains while workers shoulder a bigger share of premiums and out-of-pocket costs.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/01/health-insurance-costs-wage-gains-premiums-obamacare-aca-plans-open-enrollment/",
+   "d": "2026-11-02",
+   "t": "Anthropic reports $17B in Q3 revenue, purchase commitments of $895B in new S-1",
+   "s": "An updated IPO filing shows Anthropic's third-quarter revenue reached $17 billion alongside nearly $900 billion in long-term purchase commitments.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+   "s": "Palantir's U.S. commercial sales overtook its government business for the first time as enterprise AI adoption accelerated.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Half of in-office workers describe their jobs as 'remote,' Fed survey finds",
+   "s": "A New York Fed survey finds that many workers who go into an office still classify their roles as remote, muddying return-to-office data.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
    "tp": "Labor",
    "m": [
+    "TNE",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Apple outpaces sales expectations as it continues to battle surging memory chip costs",
+   "s": "Apple beat revenue forecasts in John Ternus' first quarter as CEO, but rising memory prices are pressuring its margin outlook.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/02/apple-outpaces-sales-expectations-as-it-continues-to-battle-surging-memory-chip-costs/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Americans now spend nearly half of their budgets on food and housing alone, the biggest share in 15 years",
+   "s": "Food and shelter now consume the largest share of household spending since 2011, leaving less room for discretionary purchases.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/02/americans-half-budget-food-housing-share-15-years/",
+   "tp": "Economy",
+   "m": [
     "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Sweetgreen managers could earn more than $200,000 a year under a new pay plan",
+   "s": "Sweetgreen is betting that a richer compensation plan for store managers, with pay potentially topping $200,000, will lift restaurant sales.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/02/sweetgreen-manager-salary-200000-pay-plan/",
+   "tp": "Labor",
+   "m": [
     "BENCH",
     "SPEND"
    ]
   },
   {
    "d": "2026-11-01",
-   "t": "As Americans turn against data centers, Brazil offers tax breaks and cheap power to attract them",
-   "s": "Brazil is courting hyperscalers with equipment tax cuts and cheap, mostly renewable electricity as US communities push back on new data center projects.",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Iran's supreme leader warned any response to renewed US strikes after the midterms would not be geographically limited, as oil markets brace for lasting damage to confidence in Gulf supply.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/11/01/data-centers-brazil-lula-redata-amazon-google-microsoft-openai/",
-   "tp": "AI & tech",
+   "t": "As Trump eyes new attack, Iran vows to retaliate beyond the Mideast and target financial assets",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/11/01/iran-war-retaliation-financial-assets-oil-markets-generational-damage-trump-midterm-elections/"
+  },
+  {
+   "d": "2026-11-01",
+   "m": [
+    "MACRO",
+    "BENCH",
+    "SPEND"
+   ],
+   "s": "Employer health-benefit spending has outpaced pay growth, shaving a few tenths of a point off wage gains while workers shoulder a bigger share of premiums and out-of-pocket costs.",
+   "src": "Fortune",
+   "t": "Soaring health insurance costs are quietly preventing wages from rising higher",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/11/01/health-insurance-costs-wage-gains-premiums-obamacare-aca-plans-open-enrollment/"
+  },
+  {
+   "d": "2026-11-01",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Brazil is courting hyperscalers with equipment tax cuts and cheap, mostly renewable electricity as US communities push back on new data center projects.",
+   "src": "Fortune",
+   "t": "As Americans turn against data centers, Brazil offers tax breaks and cheap power to attract them",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/11/01/data-centers-brazil-lula-redata-amazon-google-microsoft-openai/"
   },
   {
    "d": "2026-11-01",
-   "t": "Companies promised AI gains — here's how the payoff showed up in earnings",
-   "s": "Firms including Santander, Novartis and Standard Chartered say AI is beginning to lift revenue or cut costs, though others such as Carlsberg say the benefits aren't at scale yet.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "BENCH"
-   ]
+   ],
+   "s": "Firms including Santander, Novartis and Standard Chartered say AI is beginning to lift revenue or cut costs, though others such as Carlsberg say the benefits aren't at scale yet.",
+   "src": "CNBC",
+   "t": "Companies promised AI gains — here's how the payoff showed up in earnings",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html"
   },
   {
    "d": "2026-11-01",
-   "t": "Why AI is boosting Meta's ad business while hurting Google search",
-   "s": "Meta's ad revenue grew 26% last quarter on AI-powered ad tools, more than double Google search's 12%, as chatbots pull users away from traditional search.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Meta's ad revenue grew 26% last quarter on AI-powered ad tools, more than double Google search's 12%, as chatbots pull users away from traditional search.",
+   "src": "CNBC",
+   "t": "Why AI is boosting Meta's ad business while hurting Google search",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html"
   },
   {
    "d": "2026-11-01",
-   "t": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-   "s": "Binance restarted bitcoin, Ethereum and BNB Chain withdrawals and says it will absorb the losses from the record theft, which the FBI has attributed to North Korea.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-   "tp": "Companies & deals",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "Binance restarted bitcoin, Ethereum and BNB Chain withdrawals and says it will absorb the losses from the record theft, which the FBI has attributed to North Korea.",
+   "src": "CNBC",
+   "t": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+   "tp": "Companies & deals",
+   "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
   },
   {
    "d": "2026-10-31",
@@ -344,30 +452,6 @@
    "d": "2026-10-30",
    "m": [
     "AI",
-    "MACRO"
-   ],
-   "s": "Goldman Sachs says workers pushed out by AI, especially older ones, may suffer long-term earnings losses like those seen in past tech shifts.",
-   "src": "Fortune",
-   "t": "Goldman warns AI layoffs could leave lasting scars on displaced workers",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "Lower-priced vehicles are moving off dealer lots much more quickly than in early 2026 as buyers hunt for affordability.",
-   "src": "CNBC",
-   "t": "Cheaper cars are selling considerably faster than at the beginning of the year",
-   "tp": "Economy",
-   "u": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
     "BENCH"
    ],
    "s": "Companies are reconsidering whether AI should replace or support junior roles as they plan future hiring.",
@@ -410,54 +494,6 @@
    "t": "Alphabet in talks to join Trump's Golden Dome missile defense program",
    "tp": "Companies & deals",
    "u": "https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "S&P Global cut Meta's credit outlook to negative, citing negative free cash flow as the company keeps pouring money into AI infrastructure.",
-   "src": "CNBC",
-   "t": "Meta outlook revised to negative by S&P on cash flow and capex concerns",
-   "tp": "Markets",
-   "u": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Ottawa is aiming to finalize a new associate-member arrangement with the European Union by June, deepening trade ties as it pulls away from the U.S.",
-   "src": "Fortune",
-   "t": "Canada expects to seal a deal in June to become the EU's first 'associate member'",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/30/canada-eu-associate-member-june-carney/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
-    "AI"
-   ],
-   "s": "GoDaddy data shows a jump in new small businesses started in college towns as young graduates face an AI-squeezed entry-level job market.",
-   "src": "Fortune",
-   "t": "Gen Z doesn't think their degrees will land them work anymore, so they're becoming their own bosses",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/30/college-town-entrepreneurship-godaddy-exclusive-data-gen-z-starting-businesses-in-wake-of-ai/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Foxconn's chairman says the Taiwanese manufacturer aims to build half of the world's AI servers as hyperscaler demand keeps climbing.",
-   "src": "CNBC",
-   "t": "Foxconn hopes to own 50% of the global AI server market within a couple years",
-   "tp": "Supply chain",
-   "u": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html"
   },
   {
    "d": "2026-10-30",
@@ -935,42 +971,7 @@
    "t": "Intel and Sandisk have very different views about what's going on in memory chips",
    "tp": "AI & tech",
    "u": "https://finance.yahoo.com/technology/article/intel-and-sandisk-have-very-different-views-about-whats-going-on-in-memory-chips-114638641.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
-    "SPEND"
-   ],
-   "s": "BP's quarterly profit roughly quadrupled as the Iran conflict pushed up refining margins, helping the oil major cut its debt.",
-   "src": "Euronews",
-   "t": "BP profit quadruples as Iran war sends refining margins soaring and debt tumbles",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/bp-profit-quadruples-iran-war-110731619.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Investors are hedging against how next week's US midterm results could reshape AI regulation, adding volatility to tech stocks and Treasuries.",
-   "src": "Bloomberg",
-   "t": "AI policy fears grip stock and bond traders with midterms days away",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-policy-fears-grip-stock-110000621.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Rising public debt is clouding Brazil's growth prospects in the wake of Lula's surprise re-election and the market selloff that followed.",
-   "src": "Semafor",
-   "t": "Brazil's economic outlook darkens as debt soars",
-   "tp": "Economy",
-   "u": "https://www.semafor.com/article/10/30/2026/brazils-economic-outlook-darkens-as-debt-soars"
   }
  ],
- "updatedAt": "2026-11-01T18:04"
+ "updatedAt": "2026-11-02T18:10"
 }
