@@ -1,151 +1,218 @@
 {
- "excl": [
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  },
-  {
-   "d": "2026-10-13",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Total AI spend on Ramp is falling even as token volumes rise, as OpenAI and Anthropic compete on price. Top-1% spend per employee fell nearly 10% from July to August.",
-   "src": "Ramp Leading Indicators",
-   "t": "AI's pricing power problem",
-   "tp": "AI & tech",
-   "u": "https://ramp.com/leading-indicators/ais-pricing-power-problem"
-  }
- ],
+ "updatedAt": "2026-11-03T18:10",
  "items": [
   {
-   "d": "2026-11-02",
-   "t": "US automakers push for ban on Chinese vehicle imports",
-   "s": "Detroit carmakers are lobbying Washington to block Chinese-built vehicles, arguing China's excess production capacity threatens American auto jobs.",
+   "d": "2026-11-03",
+   "t": "Tech companies rummage for cash to fund the AI buildout",
+   "s": "Big Tech firms are tapping bond markets, cutting buybacks and seeking new financing as AI infrastructure spending outpaces the cash their businesses throw off.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/02/2026/us-automakers-push-for-a-chinese-vehicle-import-ban",
-   "tp": "Energy & trade",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-11-02",
-   "t": "Alphabet launches eurobond, testing AI debt markets",
-   "s": "Alphabet's second euro-denominated bond sale gauges how much more debt investors will absorb to fund Big Tech's AI spending.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/02/2026/alphabet-launches-second-euro-bond-sale",
-   "tp": "Markets",
+   "u": "https://www.semafor.com/article/11/03/2026/tech-companies-rummage-for-cash-to-fund-the-ai-buildout",
+   "tp": "AI & tech",
    "m": [
     "AI",
     "MACRO"
    ]
   },
   {
-   "d": "2026-11-02",
-   "t": "Brazil selloff extends dismal run for Latin American markets",
-   "s": "Brazilian stocks kept sliding after Lula's reelection, adding to a broader pullback of investor capital from Latin America.",
+   "d": "2026-11-03",
+   "t": "Corporate America prepares for post-midterm Democratic backlash",
+   "s": "Companies are bracing for tougher oversight and regulatory scrutiny if Democrats gain ground in Congress in Tuesday's midterm elections.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/02/2026/stocks-sink-across-latin-america-amidst-brazilian-election-fallout",
-   "tp": "Markets",
+   "u": "https://www.semafor.com/article/11/03/2026/corporate-america-prepares-for-post-midterm-democratic-backlash",
+   "tp": "Economy",
    "m": [
     "MACRO"
    ]
   },
   {
-   "d": "2026-11-02",
-   "t": "Anthropic reports $17B in Q3 revenue, purchase commitments of $895B in new S-1",
-   "s": "An updated IPO filing shows Anthropic's third-quarter revenue reached $17 billion alongside nearly $900 billion in long-term purchase commitments.",
+   "d": "2026-11-03",
+   "t": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+   "s": "Meta is going to the bond market for as much as $25 billion to help pay for its fast-rising AI capital expenditures.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "u": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
    "tp": "AI & tech",
    "m": [
     "AI",
-    "VNDR"
+    "MACRO"
    ]
   },
   {
-   "d": "2026-11-02",
-   "t": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-   "s": "Palantir's U.S. commercial sales overtook its government business for the first time as enterprise AI adoption accelerated.",
+   "d": "2026-11-03",
+   "t": "Disney plans several thousand layoffs, seeks to reduce some costs by 20%",
+   "s": "Disney is preparing to cut several thousand jobs as part of a push to trim some operating costs by about a fifth.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+   "tp": "Labor",
    "m": [
-    "AI",
-    "VNDR",
+    "SPEND",
     "BENCH"
    ]
   },
   {
-   "d": "2026-11-02",
-   "t": "Half of in-office workers describe their jobs as 'remote,' Fed survey finds",
-   "s": "A New York Fed survey finds that many workers who go into an office still classify their roles as remote, muddying return-to-office data.",
+   "d": "2026-11-03",
+   "t": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+   "s": "JetBlue is raising checked-bag fees again, its third increase in a year, as higher jet fuel prices squeeze airline margins.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
-   "tp": "Labor",
+   "u": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+   "tp": "Energy & trade",
+   "m": [
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "t": "The Strait of Hormuz closure has cost Europe an extra $142 billion in energy costs",
+   "s": "Europe has paid an estimated $142 billion more for energy since the Strait of Hormuz closed, adding to pressure on the region's economy.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/03/europe-strait-hormuz-closure-costs-energy-142-billion/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Ryanair CEO warns European fares could rise up to 20% due to the Iran war",
+   "s": "Ryanair's chief says fuel costs tied to the Iran conflict could push European airfares as much as 20% higher, ending the era of ultra-cheap flights.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/03/europe-cheap-flights-face-fuel-cost-reckoning-ryanair-ceo-fares-rising-iran-war/",
+   "tp": "Energy & trade",
    "m": [
     "TNE",
     "MACRO"
    ]
   },
   {
-   "d": "2026-11-02",
-   "t": "Apple outpaces sales expectations as it continues to battle surging memory chip costs",
-   "s": "Apple beat revenue forecasts in John Ternus' first quarter as CEO, but rising memory prices are pressuring its margin outlook.",
+   "d": "2026-11-03",
+   "t": "Freshworks CEO on reaching $1 billion ARR with 30% fewer employees",
+   "s": "Freshworks hit $1 billion in annual recurring revenue with a far smaller workforce, and its CEO explains what the company stopped doing as it leaned on AI.",
    "src": "Fortune",
-   "u": "https://fortune.com/2026/11/02/apple-outpaces-sales-expectations-as-it-continues-to-battle-surging-memory-chip-costs/",
+   "u": "https://fortune.com/2026/11/03/freshworks-1-billion-arr-dennis-woodside-ai-what-companies-stop-doing/",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "BENCH",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "t": "Fox-Roku deal poised to clear Justice Department scrutiny under consent decree",
+   "s": "Fox's acquisition of Roku looks set to win antitrust approval, with the Justice Department expected to sign off under a consent decree.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/02/2026/fox-roku-deal-poised-to-clear-justice-department-scrutiny-under-consent-decree",
    "tp": "Companies & deals",
+   "m": [
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "Detroit carmakers are lobbying Washington to block Chinese-built vehicles, arguing China's excess production capacity threatens American auto jobs.",
+   "src": "Semafor",
+   "t": "US automakers push for ban on Chinese vehicle imports",
+   "tp": "Energy & trade",
+   "u": "https://www.semafor.com/article/11/02/2026/us-automakers-push-for-a-chinese-vehicle-import-ban"
+  },
+  {
+   "d": "2026-11-02",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Alphabet's second euro-denominated bond sale gauges how much more debt investors will absorb to fund Big Tech's AI spending.",
+   "src": "Semafor",
+   "t": "Alphabet launches eurobond, testing AI debt markets",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/11/02/2026/alphabet-launches-second-euro-bond-sale"
+  },
+  {
+   "d": "2026-11-02",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Brazilian stocks kept sliding after Lula's reelection, adding to a broader pullback of investor capital from Latin America.",
+   "src": "Semafor",
+   "t": "Brazil selloff extends dismal run for Latin American markets",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/11/02/2026/stocks-sink-across-latin-america-amidst-brazilian-election-fallout"
+  },
+  {
+   "d": "2026-11-02",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "An updated IPO filing shows Anthropic's third-quarter revenue reached $17 billion alongside nearly $900 billion in long-term purchase commitments.",
+   "src": "CNBC",
+   "t": "Anthropic reports $17B in Q3 revenue, purchase commitments of $895B in new S-1",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+  },
+  {
+   "d": "2026-11-02",
+   "m": [
+    "AI",
+    "VNDR",
+    "BENCH"
+   ],
+   "s": "Palantir's U.S. commercial sales overtook its government business for the first time as enterprise AI adoption accelerated.",
+   "src": "CNBC",
+   "t": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html"
+  },
+  {
+   "d": "2026-11-02",
+   "m": [
+    "TNE",
+    "MACRO"
+   ],
+   "s": "A New York Fed survey finds that many workers who go into an office still classify their roles as remote, muddying return-to-office data.",
+   "src": "CNBC",
+   "t": "Half of in-office workers describe their jobs as 'remote,' Fed survey finds",
+   "tp": "Labor",
+   "u": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html"
+  },
+  {
+   "d": "2026-11-02",
    "m": [
     "VNDR",
     "BENCH"
-   ]
+   ],
+   "s": "Apple beat revenue forecasts in John Ternus' first quarter as CEO, but rising memory prices are pressuring its margin outlook.",
+   "src": "Fortune",
+   "t": "Apple outpaces sales expectations as it continues to battle surging memory chip costs",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/11/02/apple-outpaces-sales-expectations-as-it-continues-to-battle-surging-memory-chip-costs/"
   },
   {
    "d": "2026-11-02",
-   "t": "Americans now spend nearly half of their budgets on food and housing alone, the biggest share in 15 years",
-   "s": "Food and shelter now consume the largest share of household spending since 2011, leaving less room for discretionary purchases.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/02/americans-half-budget-food-housing-share-15-years/",
-   "tp": "Economy",
    "m": [
     "MACRO",
     "SPEND"
-   ]
+   ],
+   "s": "Food and shelter now consume the largest share of household spending since 2011, leaving less room for discretionary purchases.",
+   "src": "Fortune",
+   "t": "Americans now spend nearly half of their budgets on food and housing alone, the biggest share in 15 years",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/11/02/americans-half-budget-food-housing-share-15-years/"
   },
   {
    "d": "2026-11-02",
-   "t": "Sweetgreen managers could earn more than $200,000 a year under a new pay plan",
-   "s": "Sweetgreen is betting that a richer compensation plan for store managers, with pay potentially topping $200,000, will lift restaurant sales.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/02/sweetgreen-manager-salary-200000-pay-plan/",
-   "tp": "Labor",
    "m": [
     "BENCH",
     "SPEND"
-   ]
+   ],
+   "s": "Sweetgreen is betting that a richer compensation plan for store managers, with pay potentially topping $200,000, will lift restaurant sales.",
+   "src": "Fortune",
+   "t": "Sweetgreen managers could earn more than $200,000 a year under a new pay plan",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/11/02/sweetgreen-manager-salary-200000-pay-plan/"
   },
   {
    "d": "2026-11-01",
@@ -233,29 +300,6 @@
   {
    "d": "2026-10-31",
    "m": [
-    "AI"
-   ],
-   "s": "A judge refused to dismiss the NAACP's Clean Air Act lawsuit over turbines powering the xAI data center in Memphis, now owned by SpaceX.",
-   "src": "CNBC",
-   "t": "SpaceX loses bid to toss NAACP suit over Memphis data center pollution",
-   "tp": "AI & tech",
-   "u": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
-  },
-  {
-   "d": "2026-10-31",
-   "m": [
-    "VNDR",
-    "SPEND"
-   ],
-   "s": "Carmakers are bringing 3D printing into tooling and parts production to cut costs and speed up development.",
-   "src": "CNBC",
-   "t": "Automakers like Rivian and Ford are using 3D printing to cut costs and boost speed",
-   "tp": "Supply chain",
-   "u": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html"
-  },
-  {
-   "d": "2026-10-31",
-   "m": [
     "AI",
     "MACRO"
    ],
@@ -264,41 +308,6 @@
    "t": "Fears over $828 billion AI capex spree help erase $1 trillion in market value",
    "tp": "Markets",
    "u": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/"
-  },
-  {
-   "d": "2026-10-31",
-   "m": [
-    "MACRO",
-    "TNE"
-   ],
-   "s": "Labor's share of national income has dropped to its lowest point since records began in 1947, while capital takes a growing slice.",
-   "src": "Fortune",
-   "t": "US workers' share of income falls to the lowest level on record",
-   "tp": "Labor",
-   "u": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/"
-  },
-  {
-   "d": "2026-10-31",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Chevron is expanding its Venezuelan operations quickly, while Exxon's leadership remains skeptical of the country's opening.",
-   "src": "Fortune",
-   "t": "Chevron speeds ahead in Venezuela while Exxon urges caution",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/10/31/chevron-speeds-venezuela-exxon-urges-caution-little-pinch-of-salt/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "BENCH",
-    "AI"
-   ],
-   "s": "Microsoft is extending a voluntary exit offer to roughly 60,000 workers, a move that points to a leaner headcount as the company leans harder on AI infrastructure.",
-   "src": "Fortune",
-   "t": "Microsoft offers voluntary buyouts to 60,000 employees",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/10/30/microsoft-voluntary-exit-offer-buyout-60000-employees/"
   },
   {
    "d": "2026-10-30",
@@ -378,18 +387,6 @@
    "t": "Satlyt takes another step toward turning satellites into space data centers",
    "tp": "AI & tech",
    "u": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Anthropic's S-1 leaves investors weighing how durable its revenue growth is against the enormous cost of the compute it needs.",
-   "src": "CNBC",
-   "t": "The big questions remaining after Anthropic's blockbuster IPO prospectus",
-   "tp": "AI & tech",
-   "u": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html"
   },
   {
    "d": "2026-10-30",
@@ -936,42 +933,46 @@
    "t": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
    "tp": "Energy & trade",
    "u": "https://finance.yahoo.com/energy/articles/exxonmobil-chevron-top-q3-estimates-124049676.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Italian consumer prices jumped to a 5.4% annual rate this month, driven largely by rising energy costs.",
-   "src": "Euronews",
-   "t": "Italy inflation surges to 5.4% in October as energy costs bite",
-   "tp": "Economy",
-   "u": "https://finance.yahoo.com/economy/articles/italy-inflation-surges-5-4-122951833.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "SPEND",
-    "BENCH"
-   ],
-   "s": "AstraZeneca's profit rose 23% on strong oncology sales, and the drugmaker paired the results with a large cost-savings program.",
-   "src": "Euronews",
-   "t": "AstraZeneca profit jumps 23% on cancer drugs as it unveils major savings plan",
-   "tp": "Companies & deals",
-   "u": "https://finance.yahoo.com/healthcare/articles/astrazeneca-profit-jumps-23-cancer-121741364.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Intel and Sandisk gave conflicting readings of the memory-chip market in their latest results, underscoring uncertainty over how long AI-driven demand and pricing strength will last.",
-   "src": "Yahoo Finance",
-   "t": "Intel and Sandisk have very different views about what's going on in memory chips",
-   "tp": "AI & tech",
-   "u": "https://finance.yahoo.com/technology/article/intel-and-sandisk-have-very-different-views-about-whats-going-on-in-memory-chips-114638641.html"
   }
  ],
- "updatedAt": "2026-11-02T18:10"
+ "excl": [
+  {
+   "d": "2026-11-03",
+   "t": "Nightmare on Wall Street",
+   "s": "Heavy AI spending has pushed Alphabet, Amazon and Meta into negative free cash flow; Ramp data shows Google trailing in business agentic AI usage and Delaware leading states in AI adoption at about 73%.",
+   "src": "Ramp Leading Indicators",
+   "u": "https://ramp.com/leading-indicators/nightmare-on-wall-street",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  }
+ ]
 }
