@@ -1,12 +1,86 @@
 {
- "updatedAt": "2026-11-03T18:10",
- "items": [
+ "excl": [
   {
    "d": "2026-11-03",
-   "t": "Tech companies rummage for cash to fund the AI buildout",
-   "s": "Big Tech firms are tapping bond markets, cutting buybacks and seeking new financing as AI infrastructure spending outpaces the cash their businesses throw off.",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Heavy AI spending has pushed Alphabet, Amazon and Meta into negative free cash flow; Ramp data shows Google trailing in business agentic AI usage and Delaware leading states in AI adoption at about 73%.",
+   "src": "Ramp Leading Indicators",
+   "t": "Nightmare on Wall Street",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/nightmare-on-wall-street"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  }
+ ],
+ "items": [
+  {
+   "d": "2026-11-04",
+   "t": "What was really behind Wednesday's monster rally? Trump quickly making peace",
+   "s": "Stocks staged a huge post-midterm rally as Trump signaled he would work with the incoming Democratic Congress, easing fears of prolonged political turmoil.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "t": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+   "s": "CVS Health will separate its retail pharmacy unit from its Aetna insurance arm, and investors sent the stock down about 10% on the news.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "t": "Qualcomm stock drops 5% on disappointing earnings forecast",
+   "s": "Qualcomm shares slid roughly 5% after the chipmaker's outlook for the coming quarter fell short of Wall Street's hopes.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "t": "US voters roundly reject data centers in ballot measures",
+   "s": "Voters in more than 30 localities across nine states approved bans, moratoriums and other limits on data centers, a setback for the AI infrastructure buildout.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/03/2026/tech-companies-rummage-for-cash-to-fund-the-ai-buildout",
+   "u": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -14,11 +88,58 @@
    ]
   },
   {
+   "d": "2026-11-04",
+   "t": "Wall Street seeks shelter in Treasuries as midterms threaten to throw Washington into a fiscal gridlock",
+   "s": "Investors are buying Treasuries on worries that a divided government after the midterms could stall budget and fiscal decisions.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/04/wall-street-treasuries-yields-demand-budget-fiscal-gridlock/",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "t": "'Seismic' blue wave triggers the sinking of oil prices, energy stocks, and the chances of power permitting reform",
+   "s": "The Democratic sweep pushed oil prices and energy shares lower and dimmed prospects for legislation to speed permitting of power projects.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/04/seismic-blue-wave-sinking-oil-prices-energy-stocks-power-permitting-reform/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "t": "America's grid upgrade hinges on a 400-ton machine designed in the 1800s—and just one U.S. mill makes the steel for it",
+   "s": "A shortage of large power transformers, which depend on specialty electrical steel made at a single U.S. mill, is bottlenecking the grid buildout.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/04/power-transformer-shortage-grid-400-ton-electrical-steel-one-us-mill/",
+   "tp": "Supply chain",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
    "d": "2026-11-03",
-   "t": "Corporate America prepares for post-midterm Democratic backlash",
-   "s": "Companies are bracing for tougher oversight and regulatory scrutiny if Democrats gain ground in Congress in Tuesday's midterm elections.",
+   "t": "AMD beats estimates on near-doubling of data center revenues",
+   "s": "Strong demand for AI chips nearly doubled AMD's data center revenue and pushed third-quarter results past analyst forecasts.",
    "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/03/2026/corporate-america-prepares-for-post-midterm-democratic-backlash",
+   "u": "https://www.semafor.com/article/11/03/2026/amd-beats-estimates-on-near-doubling-of-data-center-revenues",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "t": "Banks to review El Niño exposure in client loans",
+   "s": "Lenders are assessing how vulnerable their loan books are to a strong El Niño after money managers warned the weather pattern could hit borrowers.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/03/2026/banks-to-review-el-nio-exposure-in-client-loans",
    "tp": "Economy",
    "m": [
     "MACRO"
@@ -26,85 +147,108 @@
   },
   {
    "d": "2026-11-03",
-   "t": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
-   "s": "Meta is going to the bond market for as much as $25 billion to help pay for its fast-rising AI capital expenditures.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "MACRO"
-   ]
+   ],
+   "s": "Big Tech firms are tapping bond markets, cutting buybacks and seeking new financing as AI infrastructure spending outpaces the cash their businesses throw off.",
+   "src": "Semafor",
+   "t": "Tech companies rummage for cash to fund the AI buildout",
+   "tp": "AI & tech",
+   "u": "https://www.semafor.com/article/11/03/2026/tech-companies-rummage-for-cash-to-fund-the-ai-buildout"
   },
   {
    "d": "2026-11-03",
-   "t": "Disney plans several thousand layoffs, seeks to reduce some costs by 20%",
-   "s": "Disney is preparing to cut several thousand jobs as part of a push to trim some operating costs by about a fifth.",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Companies are bracing for tougher oversight and regulatory scrutiny if Democrats gain ground in Congress in Tuesday's midterm elections.",
+   "src": "Semafor",
+   "t": "Corporate America prepares for post-midterm Democratic backlash",
+   "tp": "Economy",
+   "u": "https://www.semafor.com/article/11/03/2026/corporate-america-prepares-for-post-midterm-democratic-backlash"
+  },
+  {
+   "d": "2026-11-03",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Meta is going to the bond market for as much as $25 billion to help pay for its fast-rising AI capital expenditures.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-   "tp": "Labor",
+   "t": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
+  },
+  {
+   "d": "2026-11-03",
    "m": [
     "SPEND",
     "BENCH"
-   ]
+   ],
+   "s": "Disney is preparing to cut several thousand jobs as part of a push to trim some operating costs by about a fifth.",
+   "src": "CNBC",
+   "t": "Disney plans several thousand layoffs, seeks to reduce some costs by 20%",
+   "tp": "Labor",
+   "u": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
   },
   {
    "d": "2026-11-03",
-   "t": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-   "s": "JetBlue is raising checked-bag fees again, its third increase in a year, as higher jet fuel prices squeeze airline margins.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
-   "tp": "Energy & trade",
    "m": [
     "TNE"
-   ]
+   ],
+   "s": "JetBlue is raising checked-bag fees again, its third increase in a year, as higher jet fuel prices squeeze airline margins.",
+   "src": "CNBC",
+   "t": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+   "tp": "Energy & trade",
+   "u": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html"
   },
   {
    "d": "2026-11-03",
-   "t": "The Strait of Hormuz closure has cost Europe an extra $142 billion in energy costs",
-   "s": "Europe has paid an estimated $142 billion more for energy since the Strait of Hormuz closed, adding to pressure on the region's economy.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/03/europe-strait-hormuz-closure-costs-energy-142-billion/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Europe has paid an estimated $142 billion more for energy since the Strait of Hormuz closed, adding to pressure on the region's economy.",
+   "src": "Fortune",
+   "t": "The Strait of Hormuz closure has cost Europe an extra $142 billion in energy costs",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/11/03/europe-strait-hormuz-closure-costs-energy-142-billion/"
   },
   {
    "d": "2026-11-03",
-   "t": "Ryanair CEO warns European fares could rise up to 20% due to the Iran war",
-   "s": "Ryanair's chief says fuel costs tied to the Iran conflict could push European airfares as much as 20% higher, ending the era of ultra-cheap flights.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/03/europe-cheap-flights-face-fuel-cost-reckoning-ryanair-ceo-fares-rising-iran-war/",
-   "tp": "Energy & trade",
    "m": [
     "TNE",
     "MACRO"
-   ]
+   ],
+   "s": "Ryanair's chief says fuel costs tied to the Iran conflict could push European airfares as much as 20% higher, ending the era of ultra-cheap flights.",
+   "src": "Fortune",
+   "t": "Ryanair CEO warns European fares could rise up to 20% due to the Iran war",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/11/03/europe-cheap-flights-face-fuel-cost-reckoning-ryanair-ceo-fares-rising-iran-war/"
   },
   {
    "d": "2026-11-03",
-   "t": "Freshworks CEO on reaching $1 billion ARR with 30% fewer employees",
-   "s": "Freshworks hit $1 billion in annual recurring revenue with a far smaller workforce, and its CEO explains what the company stopped doing as it leaned on AI.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/03/freshworks-1-billion-arr-dennis-woodside-ai-what-companies-stop-doing/",
-   "tp": "Labor",
    "m": [
     "AI",
     "BENCH",
     "VNDR"
-   ]
+   ],
+   "s": "Freshworks hit $1 billion in annual recurring revenue with a far smaller workforce, and its CEO explains what the company stopped doing as it leaned on AI.",
+   "src": "Fortune",
+   "t": "Freshworks CEO on reaching $1 billion ARR with 30% fewer employees",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/11/03/freshworks-1-billion-arr-dennis-woodside-ai-what-companies-stop-doing/"
   },
   {
    "d": "2026-11-02",
-   "t": "Fox-Roku deal poised to clear Justice Department scrutiny under consent decree",
-   "s": "Fox's acquisition of Roku looks set to win antitrust approval, with the Justice Department expected to sign off under a consent decree.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/02/2026/fox-roku-deal-poised-to-clear-justice-department-scrutiny-under-consent-decree",
-   "tp": "Companies & deals",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "Fox's acquisition of Roku looks set to win antitrust approval, with the Justice Department expected to sign off under a consent decree.",
+   "src": "Semafor",
+   "t": "Fox-Roku deal poised to clear Justice Department scrutiny under consent decree",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/11/02/2026/fox-roku-deal-poised-to-clear-justice-department-scrutiny-under-consent-decree"
   },
   {
    "d": "2026-11-02",
@@ -228,31 +372,6 @@
   {
    "d": "2026-11-01",
    "m": [
-    "MACRO",
-    "BENCH",
-    "SPEND"
-   ],
-   "s": "Employer health-benefit spending has outpaced pay growth, shaving a few tenths of a point off wage gains while workers shoulder a bigger share of premiums and out-of-pocket costs.",
-   "src": "Fortune",
-   "t": "Soaring health insurance costs are quietly preventing wages from rising higher",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/11/01/health-insurance-costs-wage-gains-premiums-obamacare-aca-plans-open-enrollment/"
-  },
-  {
-   "d": "2026-11-01",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Brazil is courting hyperscalers with equipment tax cuts and cheap, mostly renewable electricity as US communities push back on new data center projects.",
-   "src": "Fortune",
-   "t": "As Americans turn against data centers, Brazil offers tax breaks and cheap power to attract them",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/11/01/data-centers-brazil-lula-redata-amazon-google-microsoft-openai/"
-  },
-  {
-   "d": "2026-11-01",
-   "m": [
     "AI",
     "BENCH"
    ],
@@ -261,53 +380,6 @@
    "t": "Companies promised AI gains — here's how the payoff showed up in earnings",
    "tp": "AI & tech",
    "u": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html"
-  },
-  {
-   "d": "2026-11-01",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Meta's ad revenue grew 26% last quarter on AI-powered ad tools, more than double Google search's 12%, as chatbots pull users away from traditional search.",
-   "src": "CNBC",
-   "t": "Why AI is boosting Meta's ad business while hurting Google search",
-   "tp": "AI & tech",
-   "u": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html"
-  },
-  {
-   "d": "2026-11-01",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Binance restarted bitcoin, Ethereum and BNB Chain withdrawals and says it will absorb the losses from the record theft, which the FBI has attributed to North Korea.",
-   "src": "CNBC",
-   "t": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-   "tp": "Companies & deals",
-   "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
-  },
-  {
-   "d": "2026-10-31",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "OpenAI has cut the target for its newest funding round from as much as $30 billion to $20 billion as investor appetite for AI cools.",
-   "src": "CNBC",
-   "t": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-   "tp": "AI & tech",
-   "u": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"
-  },
-  {
-   "d": "2026-10-31",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "Investors punished Big Tech after earnings showed AI capital spending heading toward $828 billion, wiping about $1 trillion off market caps.",
-   "src": "Fortune",
-   "t": "Fears over $828 billion AI capex spree help erase $1 trillion in market value",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/"
   },
   {
    "d": "2026-10-30",
@@ -854,17 +926,6 @@
   {
    "d": "2026-10-30",
    "m": [
-    "MACRO"
-   ],
-   "s": "Betting platforms that pitched themselves as better forecasters than polls misjudged several recent election outcomes, raising questions about their value as signals.",
-   "src": "Semafor",
-   "t": "Prediction markets flop on recent elections",
-   "tp": "Markets",
-   "u": "https://www.semafor.com/article/10/30/2026/prediction-markets-flop-on-recent-elections"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
     "MACRO",
     "AI"
    ],
@@ -909,70 +970,7 @@
    "t": "Schneider to shift eastern rail business to Norfolk Southern from CSX",
    "tp": "Supply chain",
    "u": "https://finance.yahoo.com/economy/policy/articles/schneider-shift-eastern-rail-business-124028597.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Intel shares cratered after its quarterly results, at one point tracking toward the chipmaker's steepest one-day drop in more than five decades.",
-   "src": "Yahoo Finance",
-   "t": "Intel plunges as much as 26%, briefly on pace for its worst day since 1974",
-   "tp": "Markets",
-   "u": "https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-day-since-1974-122551272.html"
-  },
-  {
-   "d": "2026-10-30",
-   "m": [
-    "MACRO",
-    "BENCH"
-   ],
-   "s": "The two largest US oil producers beat third-quarter forecasts, helped by elevated crude prices and robust production volumes.",
-   "src": "AP",
-   "t": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
-   "tp": "Energy & trade",
-   "u": "https://finance.yahoo.com/energy/articles/exxonmobil-chevron-top-q3-estimates-124049676.html"
   }
  ],
- "excl": [
-  {
-   "d": "2026-11-03",
-   "t": "Nightmare on Wall Street",
-   "s": "Heavy AI spending has pushed Alphabet, Amazon and Meta into negative free cash flow; Ramp data shows Google trailing in business agentic AI usage and Delaware leading states in AI adoption at about 73%.",
-   "src": "Ramp Leading Indicators",
-   "u": "https://ramp.com/leading-indicators/nightmare-on-wall-street",
-   "tp": "Markets",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ]
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  }
- ]
+ "updatedAt": "2026-11-04T18:04"
 }
