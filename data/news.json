@@ -41,110 +41,217 @@
  ],
  "items": [
   {
-   "d": "2026-11-05",
-   "t": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
-   "s": "AI cloud provider IREN said a customer asked to push back capacity worth about $4 billion in annual revenue, adding to worries that the data center buildout is slowing.",
+   "d": "2026-11-06",
+   "t": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+   "s": "October payrolls nearly tripled forecasts and unemployment dipped to 4.1%, though long-term joblessness rose to its highest since 2021.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
-   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+   "tp": "Labor",
    "m": [
-    "AI",
-    "VNDR"
-   ]
-  },
-  {
-   "d": "2026-11-05",
-   "t": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz's Trian",
-   "s": "Wendy's board turned down a roughly $1.4 billion buyout offer from its largest shareholder, Nelson Peltz's Trian Fund Management.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-   "tp": "Companies & deals",
-   "m": [
+    "MACRO",
     "BENCH"
    ]
   },
   {
-   "d": "2026-11-05",
-   "t": "Holiday shoppers want travel, but their budgets favor physical gifts, Visa says",
-   "s": "Visa's holiday outlook finds consumers say they want experiences like trips, but their spending plans still lean toward goods under the tree.",
+   "d": "2026-11-06",
+   "t": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+   "s": "Microsoft is consolidating its relationships with third-party AI cloud providers as the data-center buildout comes under pressure.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
-   "tp": "Economy",
+   "u": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+   "s": "Small merchants say surging shipping rates are squeezing margins heading into the holiday shopping season.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+   "tp": "Supply chain",
+   "m": [
+    "SPEND",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "t": "OpenAI pledges to pay its own power costs and post financial guarantees after voters push back on data centers",
+   "s": "After midterm voters backed local data-center restrictions, OpenAI promised to cover its own electricity costs and post guarantees to win community support.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/06/midterm-elections-ai-data-center-build-out-social-license/",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "t": "JPMorgan's M&A chief expects a softer 2027, with possible upside from private equity exits",
+   "s": "JPMorgan's dealmaking head sees M&A activity cooling next year, with private-equity exits and refinancing deadlines as a potential offset.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/06/jpmorgan-charlie-bouckaert-private-equity-2027-mergers-acquisitions-refinancing-deadlines/",
+   "tp": "Companies & deals",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Wall Street's push to trade AI compute hits Washington roadblock",
+   "s": "Exchanges want GPU compute to trade like a commodity, but national-security concerns in Washington could complicate the plan.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/06/2026/wall-streets-push-to-trade-ai-compute-hits-washington-roadblock",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "t": "A series of cyber attacks rattles France",
+   "s": "A French bank reported €100 million stolen in a wave of cyberattacks that also struck a blood bank and supermarket refrigeration systems.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/06/2026/a-series-of-cyber-attacks-rattles-france",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "t": "Chris Kempczinski's new value menu for McDonald's",
+   "s": "McDonald's CEO is betting on risk-taking, accountability and chicken to restart U.S. sales growth.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/06/2026/chris-kempczinskis-new-value-menu-for-mcdonalds",
+   "tp": "Companies & deals",
+   "m": [
+    "BENCH",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "t": "The Iran war has cost U.S. households nearly $2,000 each, and new strikes could raise that",
+   "s": "Higher energy prices tied to the Iran conflict have added close to $2,000 in costs per household, and fresh strikes threaten a pricier winter.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/05/us-iran-strikes-oil-prices-winter/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "TNE"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "AI cloud provider IREN said a customer asked to push back capacity worth about $4 billion in annual revenue, adding to worries that the data center buildout is slowing.",
+   "src": "CNBC",
+   "t": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html"
+  },
+  {
+   "d": "2026-11-05",
+   "m": [
+    "BENCH"
+   ],
+   "s": "Wendy's board turned down a roughly $1.4 billion buyout offer from its largest shareholder, Nelson Peltz's Trian Fund Management.",
+   "src": "CNBC",
+   "t": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz's Trian",
+   "tp": "Companies & deals",
+   "u": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html"
+  },
+  {
+   "d": "2026-11-05",
    "m": [
     "MACRO",
     "TNE",
     "SPEND"
-   ]
+   ],
+   "s": "Visa's holiday outlook finds consumers say they want experiences like trips, but their spending plans still lean toward goods under the tree.",
+   "src": "CNBC",
+   "t": "Holiday shoppers want travel, but their budgets favor physical gifts, Visa says",
+   "tp": "Economy",
+   "u": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html"
   },
   {
    "d": "2026-11-05",
-   "t": "Tech stocks post their steepest selloff since Covid as investors see a premature end to the AI datacenter boom",
-   "s": "A rout in chip and AI names delivered tech's worst drop since the pandemic as investors question whether data center spending has peaked.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/05/tech-stocks-are-suffering-the-biggest-selloff-since-covid-as-investors-see-premature-end-to-ai-datacenter-boom/",
-   "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "A rout in chip and AI names delivered tech's worst drop since the pandemic as investors question whether data center spending has peaked.",
+   "src": "Fortune",
+   "t": "Tech stocks post their steepest selloff since Covid as investors see a premature end to the AI datacenter boom",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/11/05/tech-stocks-are-suffering-the-biggest-selloff-since-covid-as-investors-see-premature-end-to-ai-datacenter-boom/"
   },
   {
    "d": "2026-11-05",
-   "t": "Canva's CEO rethinks the company amid AI pressure, including layoffs",
-   "s": "Canva co-founder Melanie Perkins is overhauling the design company and cutting staff as generative AI reshapes its market.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/05/canva-layoffs-melanie-perkins-ai-company-overhaul/",
-   "tp": "Labor",
    "m": [
     "AI",
     "VNDR"
-   ]
+   ],
+   "s": "Canva co-founder Melanie Perkins is overhauling the design company and cutting staff as generative AI reshapes its market.",
+   "src": "Fortune",
+   "t": "Canva's CEO rethinks the company amid AI pressure, including layoffs",
+   "tp": "Labor",
+   "u": "https://fortune.com/2026/11/05/canva-layoffs-melanie-perkins-ai-company-overhaul/"
   },
   {
    "d": "2026-11-05",
-   "t": "AI shopping agents made errors in nearly half of tests buying TVs and laptops",
-   "s": "A study putting AI shopping agents through real purchase tasks found mistakes in close to half of attempts, a sign agentic commerce is not yet reliable.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/05/ai-agents-shopping-ranking-best-agent/",
-   "tp": "AI & tech",
    "m": [
     "AI",
     "SPEND"
-   ]
+   ],
+   "s": "A study putting AI shopping agents through real purchase tasks found mistakes in close to half of attempts, a sign agentic commerce is not yet reliable.",
+   "src": "Fortune",
+   "t": "AI shopping agents made errors in nearly half of tests buying TVs and laptops",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/11/05/ai-agents-shopping-ranking-best-agent/"
   },
   {
    "d": "2026-11-05",
-   "t": "Walmsley takes HP's top job as the CEO revolving door turns",
-   "s": "HP has named Walmsley as its new chief executive, the latest in a busy stretch of corporate leadership changes.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/05/2026/walmsley-takes-hps-top-job-as-the-ceo-revolving-door-turns",
-   "tp": "Companies & deals",
    "m": [
     "VNDR"
-   ]
+   ],
+   "s": "HP has named Walmsley as its new chief executive, the latest in a busy stretch of corporate leadership changes.",
+   "src": "Semafor",
+   "t": "Walmsley takes HP's top job as the CEO revolving door turns",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/11/05/2026/walmsley-takes-hps-top-job-as-the-ceo-revolving-door-turns"
   },
   {
    "d": "2026-11-05",
-   "t": "US tech selloff erases post-midterm gains",
-   "s": "A sharp drop in US tech stocks wiped out the rally that followed the midterm elections.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/05/2026/us-tech-selloff-erases-post-midterm-gains",
-   "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "A sharp drop in US tech stocks wiped out the rally that followed the midterm elections.",
+   "src": "Semafor",
+   "t": "US tech selloff erases post-midterm gains",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/11/05/2026/us-tech-selloff-erases-post-midterm-gains"
   },
   {
    "d": "2026-11-04",
-   "t": "Prediction markets win big on election night",
-   "s": "Election-outcome betting platforms emerged as big winners from the US midterms, drawing heavy activity and attention.",
-   "src": "Semafor",
-   "u": "https://www.semafor.com/article/11/04/2026/prediction-markets-win-big-on-election-night",
-   "tp": "Markets",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Election-outcome betting platforms emerged as big winners from the US midterms, drawing heavy activity and attention.",
+   "src": "Semafor",
+   "t": "Prediction markets win big on election night",
+   "tp": "Markets",
+   "u": "https://www.semafor.com/article/11/04/2026/prediction-markets-win-big-on-election-night"
   },
   {
    "d": "2026-11-04",
@@ -266,17 +373,6 @@
   {
    "d": "2026-11-03",
    "m": [
-    "MACRO"
-   ],
-   "s": "Companies are bracing for tougher oversight and regulatory scrutiny if Democrats gain ground in Congress in Tuesday's midterm elections.",
-   "src": "Semafor",
-   "t": "Corporate America prepares for post-midterm Democratic backlash",
-   "tp": "Economy",
-   "u": "https://www.semafor.com/article/11/03/2026/corporate-america-prepares-for-post-midterm-democratic-backlash"
-  },
-  {
-   "d": "2026-11-03",
-   "m": [
     "AI",
     "MACRO"
    ],
@@ -289,29 +385,6 @@
   {
    "d": "2026-11-03",
    "m": [
-    "SPEND",
-    "BENCH"
-   ],
-   "s": "Disney is preparing to cut several thousand jobs as part of a push to trim some operating costs by about a fifth.",
-   "src": "CNBC",
-   "t": "Disney plans several thousand layoffs, seeks to reduce some costs by 20%",
-   "tp": "Labor",
-   "u": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
-  },
-  {
-   "d": "2026-11-03",
-   "m": [
-    "TNE"
-   ],
-   "s": "JetBlue is raising checked-bag fees again, its third increase in a year, as higher jet fuel prices squeeze airline margins.",
-   "src": "CNBC",
-   "t": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-   "tp": "Energy & trade",
-   "u": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html"
-  },
-  {
-   "d": "2026-11-03",
-   "m": [
     "MACRO"
    ],
    "s": "Europe has paid an estimated $142 billion more for energy since the Strait of Hormuz closed, adding to pressure on the region's economy.",
@@ -319,78 +392,6 @@
    "t": "The Strait of Hormuz closure has cost Europe an extra $142 billion in energy costs",
    "tp": "Energy & trade",
    "u": "https://fortune.com/2026/11/03/europe-strait-hormuz-closure-costs-energy-142-billion/"
-  },
-  {
-   "d": "2026-11-03",
-   "m": [
-    "TNE",
-    "MACRO"
-   ],
-   "s": "Ryanair's chief says fuel costs tied to the Iran conflict could push European airfares as much as 20% higher, ending the era of ultra-cheap flights.",
-   "src": "Fortune",
-   "t": "Ryanair CEO warns European fares could rise up to 20% due to the Iran war",
-   "tp": "Energy & trade",
-   "u": "https://fortune.com/2026/11/03/europe-cheap-flights-face-fuel-cost-reckoning-ryanair-ceo-fares-rising-iran-war/"
-  },
-  {
-   "d": "2026-11-03",
-   "m": [
-    "AI",
-    "BENCH",
-    "VNDR"
-   ],
-   "s": "Freshworks hit $1 billion in annual recurring revenue with a far smaller workforce, and its CEO explains what the company stopped doing as it leaned on AI.",
-   "src": "Fortune",
-   "t": "Freshworks CEO on reaching $1 billion ARR with 30% fewer employees",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/11/03/freshworks-1-billion-arr-dennis-woodside-ai-what-companies-stop-doing/"
-  },
-  {
-   "d": "2026-11-02",
-   "m": [
-    "VNDR"
-   ],
-   "s": "Fox's acquisition of Roku looks set to win antitrust approval, with the Justice Department expected to sign off under a consent decree.",
-   "src": "Semafor",
-   "t": "Fox-Roku deal poised to clear Justice Department scrutiny under consent decree",
-   "tp": "Companies & deals",
-   "u": "https://www.semafor.com/article/11/02/2026/fox-roku-deal-poised-to-clear-justice-department-scrutiny-under-consent-decree"
-  },
-  {
-   "d": "2026-11-02",
-   "m": [
-    "MACRO",
-    "VNDR"
-   ],
-   "s": "Detroit carmakers are lobbying Washington to block Chinese-built vehicles, arguing China's excess production capacity threatens American auto jobs.",
-   "src": "Semafor",
-   "t": "US automakers push for ban on Chinese vehicle imports",
-   "tp": "Energy & trade",
-   "u": "https://www.semafor.com/article/11/02/2026/us-automakers-push-for-a-chinese-vehicle-import-ban"
-  },
-  {
-   "d": "2026-11-02",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "An updated IPO filing shows Anthropic's third-quarter revenue reached $17 billion alongside nearly $900 billion in long-term purchase commitments.",
-   "src": "CNBC",
-   "t": "Anthropic reports $17B in Q3 revenue, purchase commitments of $895B in new S-1",
-   "tp": "AI & tech",
-   "u": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
-  },
-  {
-   "d": "2026-11-02",
-   "m": [
-    "VNDR",
-    "BENCH"
-   ],
-   "s": "Apple beat revenue forecasts in John Ternus' first quarter as CEO, but rising memory prices are pressuring its margin outlook.",
-   "src": "Fortune",
-   "t": "Apple outpaces sales expectations as it continues to battle surging memory chip costs",
-   "tp": "Companies & deals",
-   "u": "https://fortune.com/2026/11/02/apple-outpaces-sales-expectations-as-it-continues-to-battle-surging-memory-chip-costs/"
   },
   {
    "d": "2026-10-30",
@@ -971,5 +972,5 @@
    "u": "https://finance.yahoo.com/economy/policy/articles/schneider-shift-eastern-rail-business-124028597.html"
   }
  ],
- "updatedAt": "2026-11-05T18:10"
+ "updatedAt": "2026-11-06T18:04"
 }
