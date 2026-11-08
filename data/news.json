@@ -1,12 +1,111 @@
 {
- "updatedAt": "2026-11-07T18:10",
+ "excl": [
+  {
+   "d": "2026-11-03",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Heavy AI spending has pushed Alphabet, Amazon and Meta into negative free cash flow; Ramp data shows Google trailing in business agentic AI usage and Delaware leading states in AI adoption at about 73%.",
+   "src": "Ramp Leading Indicators",
+   "t": "Nightmare on Wall Street",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/nightmare-on-wall-street"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  },
+  {
+   "d": "2026-10-20",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
+   "src": "Ramp Leading Indicators",
+   "t": "Tesla's big test",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/teslas-big-test"
+  }
+ ],
  "items": [
   {
-   "d": "2026-11-07",
-   "t": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-   "s": "Anthropic's planned listing arrives just as voters signaled opposition to data center expansion, complicating the pitch to public investors.",
+   "d": "2026-11-08",
+   "t": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+   "s": "Nvidia's board has opened a probe into Huang's ties to a person accused of spying for China, and lawmakers are taking a closer look as well.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+   "u": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-08",
+   "t": "AI is speeding up recruitment — and putting agency fees under pressure",
+   "s": "Employers are using AI to fill roles faster, which is cutting into what staffing and recruiting firms can charge.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
+   "tp": "Labor",
+   "m": [
+    "AI",
+    "SPEND",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Pentagon's war stockpile plan hits a critical minerals wall",
+   "s": "Building U.S. reserves of tungsten, rare earths and other critical minerals at Cold War scale is proving difficult given limited supply outside China.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/08/pentagon-fortress-critical-minerals-stockpile-tungsten-rare-earth/",
+   "tp": "Supply chain",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-08",
+   "t": "The market selloff exposed Wall Street's true fears about U.S. debt, top economist warns",
+   "s": "An economist argues last week's AI-led stock rout also revealed growing investor demand for a risk premium on Treasury debt.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium/",
+   "tp": "Markets",
+   "m": [
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-08",
+   "t": "Holiday airfares hit a 10-year high, and Black Friday deals may only match last year's prices",
+   "s": "Holiday flight prices are at their highest in a decade, so sale fares may just bring travelers back to 2025 levels.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/08/black-friday-travel-deals-holiday-airfare-hopper-delta/",
+   "tp": "Economy",
+   "m": [
+    "TNE",
+    "BENCH"
+   ]
+  },
+  {
+   "d": "2026-11-07",
+   "t": "Meta top exec Dave Wehner leaves to join AI startup Fireworks as CFO",
+   "s": "Meta's longtime finance executive is departing to become chief financial officer of AI inference startup Fireworks.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
    "tp": "AI & tech",
    "m": [
     "AI",
@@ -15,39 +114,51 @@
   },
   {
    "d": "2026-11-07",
-   "t": "America's new small businesses with no employees are off to hot start in AI era",
-   "s": "Solo-owner business formation is running strong, with founders leaning on AI tools to do work that once required staff.",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Anthropic's planned listing arrives just as voters signaled opposition to data center expansion, complicating the pitch to public investors.",
    "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
-   "tp": "Labor",
+   "t": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html"
+  },
+  {
+   "d": "2026-11-07",
    "m": [
     "AI",
     "MACRO",
     "BENCH"
-   ]
+   ],
+   "s": "Solo-owner business formation is running strong, with founders leaning on AI tools to do work that once required staff.",
+   "src": "CNBC",
+   "t": "America's new small businesses with no employees are off to hot start in AI era",
+   "tp": "Labor",
+   "u": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html"
   },
   {
    "d": "2026-11-07",
-   "t": "Wall Street banks expect little regulatory change as Democrats return to power",
-   "s": "Bank executives are preparing for more political scrutiny after the midterms but few foresee major rule changes soon.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/07/wall-street-banks-regulation-midterm-elections-elizabeth-warren/",
-   "tp": "Companies & deals",
    "m": [
     "MACRO"
-   ]
+   ],
+   "s": "Bank executives are preparing for more political scrutiny after the midterms but few foresee major rule changes soon.",
+   "src": "Fortune",
+   "t": "Wall Street banks expect little regulatory change as Democrats return to power",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/11/07/wall-street-banks-regulation-midterm-elections-elizabeth-warren/"
   },
   {
    "d": "2026-11-07",
-   "t": "Arkansas' Smackover formation could cut U.S. reliance on Chinese lithium",
-   "s": "Oil companies are already developing the lithium-rich Smackover brine deposits, which could reshape the domestic battery supply chain.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/07/geologic-freak-smackover-americas-lithium-dependence-china-big-oil/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "VNDR"
-   ]
+   ],
+   "s": "Oil companies are already developing the lithium-rich Smackover brine deposits, which could reshape the domestic battery supply chain.",
+   "src": "Fortune",
+   "t": "Arkansas' Smackover formation could cut U.S. reliance on Chinese lithium",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/11/07/geologic-freak-smackover-americas-lithium-dependence-china-big-oil/"
   },
   {
    "d": "2026-11-06",
@@ -146,40 +257,40 @@
   },
   {
    "d": "2026-11-06",
-   "t": "Automakers face a tougher 2027 as costs rise and global production stalls",
-   "s": "Carmakers are heading into next year with rising input costs and flat global output, squeezing margins.",
-   "src": "CNBC",
-   "u": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
-   "tp": "Supply chain",
    "m": [
     "MACRO",
     "SPEND"
-   ]
+   ],
+   "s": "Carmakers are heading into next year with rising input costs and flat global output, squeezing margins.",
+   "src": "CNBC",
+   "t": "Automakers face a tougher 2027 as costs rise and global production stalls",
+   "tp": "Supply chain",
+   "u": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html"
   },
   {
    "d": "2026-11-06",
-   "t": "Gas prices hit a record for an Election Day as the Iran war drags on",
-   "s": "Gasoline is up nearly 40% since the Iran war began, making this the most expensive Election Day at the pump on record.",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/06/gas-prices-midterm-election-iran-war-incumbents/",
-   "tp": "Energy & trade",
    "m": [
     "MACRO",
     "TNE",
     "SPEND"
-   ]
+   ],
+   "s": "Gasoline is up nearly 40% since the Iran war began, making this the most expensive Election Day at the pump on record.",
+   "src": "Fortune",
+   "t": "Gas prices hit a record for an Election Day as the Iran war drags on",
+   "tp": "Energy & trade",
+   "u": "https://fortune.com/2026/11/06/gas-prices-midterm-election-iran-war-incumbents/"
   },
   {
    "d": "2026-11-06",
-   "t": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
-   "s": "Nasdaq and S&P 500 bounced Friday led by Nvidia, but both remained on pace for their worst week since June after the post-midterm AI rout.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-tech-selloff-pushed-151116491.html",
-   "tp": "Markets",
    "m": [
     "MACRO",
     "AI"
-   ]
+   ],
+   "s": "Nasdaq and S&P 500 bounced Friday led by Nvidia, but both remained on pace for their worst week since June after the post-midterm AI rout.",
+   "src": "Yahoo Finance",
+   "t": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-tech-selloff-pushed-151116491.html"
   },
   {
    "d": "2026-11-05",
@@ -208,30 +319,6 @@
   {
    "d": "2026-11-05",
    "m": [
-    "BENCH"
-   ],
-   "s": "Wendy's board turned down a roughly $1.4 billion buyout offer from its largest shareholder, Nelson Peltz's Trian Fund Management.",
-   "src": "CNBC",
-   "t": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz's Trian",
-   "tp": "Companies & deals",
-   "u": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html"
-  },
-  {
-   "d": "2026-11-05",
-   "m": [
-    "MACRO",
-    "TNE",
-    "SPEND"
-   ],
-   "s": "Visa's holiday outlook finds consumers say they want experiences like trips, but their spending plans still lean toward goods under the tree.",
-   "src": "CNBC",
-   "t": "Holiday shoppers want travel, but their budgets favor physical gifts, Visa says",
-   "tp": "Economy",
-   "u": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html"
-  },
-  {
-   "d": "2026-11-05",
-   "m": [
     "MACRO",
     "AI"
    ],
@@ -240,30 +327,6 @@
    "t": "Tech stocks post their steepest selloff since Covid as investors see a premature end to the AI datacenter boom",
    "tp": "Markets",
    "u": "https://fortune.com/2026/11/05/tech-stocks-are-suffering-the-biggest-selloff-since-covid-as-investors-see-premature-end-to-ai-datacenter-boom/"
-  },
-  {
-   "d": "2026-11-05",
-   "m": [
-    "AI",
-    "VNDR"
-   ],
-   "s": "Canva co-founder Melanie Perkins is overhauling the design company and cutting staff as generative AI reshapes its market.",
-   "src": "Fortune",
-   "t": "Canva's CEO rethinks the company amid AI pressure, including layoffs",
-   "tp": "Labor",
-   "u": "https://fortune.com/2026/11/05/canva-layoffs-melanie-perkins-ai-company-overhaul/"
-  },
-  {
-   "d": "2026-11-05",
-   "m": [
-    "AI",
-    "SPEND"
-   ],
-   "s": "A study putting AI shopping agents through real purchase tasks found mistakes in close to half of attempts, a sign agentic commerce is not yet reliable.",
-   "src": "Fortune",
-   "t": "AI shopping agents made errors in nearly half of tests buying TVs and laptops",
-   "tp": "AI & tech",
-   "u": "https://fortune.com/2026/11/05/ai-agents-shopping-ranking-best-agent/"
   },
   {
    "d": "2026-11-05",
@@ -302,17 +365,6 @@
   {
    "d": "2026-11-04",
    "m": [
-    "MACRO"
-   ],
-   "s": "Stocks staged a huge post-midterm rally as Trump signaled he would work with the incoming Democratic Congress, easing fears of prolonged political turmoil.",
-   "src": "CNBC",
-   "t": "What was really behind Wednesday's monster rally? Trump quickly making peace",
-   "tp": "Markets",
-   "u": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html"
-  },
-  {
-   "d": "2026-11-04",
-   "m": [
     "AI",
     "MACRO"
    ],
@@ -321,17 +373,6 @@
    "t": "US voters roundly reject data centers in ballot measures",
    "tp": "AI & tech",
    "u": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures"
-  },
-  {
-   "d": "2026-11-04",
-   "m": [
-    "MACRO"
-   ],
-   "s": "Investors are buying Treasuries on worries that a divided government after the midterms could stall budget and fiscal decisions.",
-   "src": "Fortune",
-   "t": "Wall Street seeks shelter in Treasuries as midterms threaten to throw Washington into a fiscal gridlock",
-   "tp": "Markets",
-   "u": "https://fortune.com/2026/11/04/wall-street-treasuries-yields-demand-budget-fiscal-gridlock/"
   },
   {
    "d": "2026-11-03",
@@ -369,44 +410,5 @@
    "u": "https://www.semafor.com/article/11/03/2026/tech-companies-rummage-for-cash-to-fund-the-ai-buildout"
   }
  ],
- "excl": [
-  {
-   "d": "2026-11-03",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Heavy AI spending has pushed Alphabet, Amazon and Meta into negative free cash flow; Ramp data shows Google trailing in business agentic AI usage and Delaware leading states in AI adoption at about 73%.",
-   "src": "Ramp Leading Indicators",
-   "t": "Nightmare on Wall Street",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/nightmare-on-wall-street"
-  },
-  {
-   "d": "2026-10-27",
-   "m": [
-    "AI",
-    "VNDR",
-    "MACRO"
-   ],
-   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-   "src": "Ramp Leading Indicators",
-   "t": "The AI earnings scaries",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-  },
-  {
-   "d": "2026-10-20",
-   "m": [
-    "AI",
-    "MACRO"
-   ],
-   "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-   "src": "Ramp Leading Indicators",
-   "t": "Tesla's big test",
-   "tp": "Markets",
-   "u": "https://ramp.com/leading-indicators/teslas-big-test"
-  }
- ]
+ "updatedAt": "2026-11-08T18:03"
 }
