@@ -1,412 +1,415 @@
 {
-  "excl": [
-    {
-      "d": "2026-11-03",
-      "m": [
-        "AI",
-        "VNDR",
-        "MACRO"
-      ],
-      "s": "Heavy AI spending has pushed Alphabet, Amazon and Meta into negative free cash flow; Ramp data shows Google trailing in business agentic AI usage and Delaware leading states in AI adoption at about 73%.",
-      "src": "Ramp Leading Indicators",
-      "t": "Nightmare on Wall Street",
-      "tp": "Markets",
-      "u": "https://ramp.com/leading-indicators/nightmare-on-wall-street"
-    },
-    {
-      "d": "2026-10-27",
-      "m": [
-        "AI",
-        "VNDR",
-        "MACRO"
-      ],
-      "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
-      "src": "Ramp Leading Indicators",
-      "t": "The AI earnings scaries",
-      "tp": "Markets",
-      "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
-    },
-    {
-      "d": "2026-10-20",
-      "m": [
-        "AI",
-        "MACRO"
-      ],
-      "s": "New Ramp data shows AI spend growth slowed sharply over the past two months; Ramp's economist points to falling prices for frontier models.",
-      "src": "Ramp Leading Indicators",
-      "t": "Tesla's big test",
-      "tp": "Markets",
-      "u": "https://ramp.com/leading-indicators/teslas-big-test"
-    }
-  ],
-  "items": [
-    {
-      "d": "2026-11-09",
-      "t": "With a weak board and no successor, Nvidia confronts a governance crisis",
-      "s": "Huang's admitted affair with a suspected Chinese intelligence asset knocked roughly 5% and over $200 billion off Nvidia's value, exposing a long-tenured board and no clear No. 2 or successor.",
-      "src": "Semafor",
-      "u": "https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis",
-      "tp": "Companies & deals",
-      "m": [
-        "AI",
-        "VNDR"
-      ]
-    },
-    {
-      "d": "2026-11-09",
-      "t": "AI chip financing hits a wall",
-      "s": "Lenders are dumping data-center and GPU loans at steep discounts on fears the debt outlives the hardware, with ING shopping $500 million of loans and Ares saying it will avoid GPU financing.",
-      "src": "Semafor",
-      "u": "https://www.semafor.com/article/11/09/2026/ai-chip-financing-hits-a-wall",
-      "tp": "AI & tech",
-      "m": [
-        "AI",
-        "MACRO"
-      ]
-    },
-    {
-      "d": "2026-11-09",
-      "t": "New White House chief of staff Miller shuts door on big business",
-      "s": "Stephen Miller's replacement of Susie Wiles ends the access CEOs relied on to soften administration policy, setting up more direct clashes with business.",
-      "src": "Semafor",
-      "u": "https://www.semafor.com/article/11/09/2026/new-white-house-chief-of-staff-miller-shuts-door-on-big-business",
-      "tp": "Economy",
-      "m": [
-        "MACRO"
-      ]
-    },
-    {
-      "d": "2026-11-09",
-      "t": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-      "s": "PepsiCo is eliminating roughly 1,000 positions as its North American unit continues to underperform.",
-      "src": "CNBC",
-      "u": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-      "tp": "Labor",
-      "m": [
-        "BENCH",
-        "MACRO"
-      ]
-    },
-    {
-      "d": "2026-11-09",
-      "t": "Boeing to cut 5% of commercial airplane unit as product ramp-up delayed",
-      "s": "Boeing plans to trim about 5% of its commercial airplanes workforce after delays in ramping up production of its jets.",
-      "src": "CNBC",
-      "u": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-      "tp": "Labor",
-      "m": [
-        "BENCH",
-        "MACRO"
-      ]
-    },
-    {
-      "d": "2026-11-09",
-      "t": "CoreWeave confronts 'doom cycle' as neocloud credit risk overshadows growth",
-      "s": "Concerns about debt and credit risk at AI neocloud providers are overshadowing CoreWeave's revenue growth.",
-      "src": "CNBC",
-      "u": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
-      "tp": "AI & tech",
-      "m": [
-        "AI",
-        "VNDR"
-      ]
-    },
-    {
-      "d": "2026-11-09",
-      "t": "The U.S. will hit its debt limit sooner than expected",
-      "s": "Projections show the federal government reaching its borrowing cap earlier than forecast, with the default deadline potentially landing while Congress is on recess.",
-      "src": "Fortune",
-      "u": "https://fortune.com/2026/11/09/us-debt-limit-outlook-xdate-deadline-default-congress-summer-recess/",
-      "tp": "Economy",
-      "m": [
-        "MACRO"
-      ]
-    },
-    {
-      "d": "2026-11-09",
-      "t": "Anthropic debuts Claude Fable and Mythos 5.2 models, undercutting OpenAI's GPT-6 Astra on price",
-      "s": "Ahead of its IPO, Anthropic released updated frontier models priced well below OpenAI's comparable offering.",
-      "src": "Fortune",
-      "u": "https://fortune.com/2026/11/09/anthropic-debuts-updated-claude-fable-and-mythos-models-undercutting-price-of-openais-gpt-6-astra-by-up-to-80/",
-      "tp": "AI & tech",
-      "m": [
-        "AI",
-        "VNDR",
-        "SPEND"
-      ]
-    },
-    {
-      "d": "2026-11-09",
-      "t": "So long, Cybertruck",
-      "s": "Tesla is winding down Cybertruck production and refunding many buyers' deposits as it shifts focus to its autonomous Cybercab.",
-      "src": "Fortune",
-      "u": "https://fortune.com/2026/11/09/tesla-winds-down-cybertruck-production-autonomous-cybercab-musk/",
-      "tp": "Companies & deals",
-      "m": [
-        "VNDR"
-      ]
-    },
-    {
-      "d": "2026-11-08",
-      "m": [
-        "AI",
-        "VNDR"
-      ],
-      "s": "Nvidia's board has opened a probe into Huang's ties to a person accused of spying for China, and lawmakers are taking a closer look as well.",
-      "src": "CNBC",
-      "t": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-      "tp": "Companies & deals",
-      "u": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
-    },
-    {
-      "d": "2026-11-08",
-      "m": [
-        "AI",
-        "SPEND",
-        "VNDR"
-      ],
-      "s": "Employers are using AI to fill roles faster, which is cutting into what staffing and recruiting firms can charge.",
-      "src": "CNBC",
-      "t": "AI is speeding up recruitment — and putting agency fees under pressure",
-      "tp": "Labor",
-      "u": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html"
-    },
-    {
-      "d": "2026-11-08",
-      "m": [
-        "MACRO",
-        "VNDR"
-      ],
-      "s": "Building U.S. reserves of tungsten, rare earths and other critical minerals at Cold War scale is proving difficult given limited supply outside China.",
-      "src": "Fortune",
-      "t": "Pentagon's war stockpile plan hits a critical minerals wall",
-      "tp": "Supply chain",
-      "u": "https://fortune.com/2026/11/08/pentagon-fortress-critical-minerals-stockpile-tungsten-rare-earth/"
-    },
-    {
-      "d": "2026-11-08",
-      "m": [
-        "MACRO"
-      ],
-      "s": "An economist argues last week's AI-led stock rout also revealed growing investor demand for a risk premium on Treasury debt.",
-      "src": "Fortune",
-      "t": "The market selloff exposed Wall Street's true fears about U.S. debt, top economist warns",
-      "tp": "Markets",
-      "u": "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium/"
-    },
-    {
-      "d": "2026-11-08",
-      "m": [
-        "TNE",
-        "BENCH"
-      ],
-      "s": "Holiday flight prices are at their highest in a decade, so sale fares may just bring travelers back to 2025 levels.",
-      "src": "Fortune",
-      "t": "Holiday airfares hit a 10-year high, and Black Friday deals may only match last year's prices",
-      "tp": "Economy",
-      "u": "https://fortune.com/2026/11/08/black-friday-travel-deals-holiday-airfare-hopper-delta/"
-    },
-    {
-      "d": "2026-11-07",
-      "m": [
-        "AI",
-        "VNDR"
-      ],
-      "s": "Meta's longtime finance executive is departing to become chief financial officer of AI inference startup Fireworks.",
-      "src": "CNBC",
-      "t": "Meta top exec Dave Wehner leaves to join AI startup Fireworks as CFO",
-      "tp": "AI & tech",
-      "u": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html"
-    },
-    {
-      "d": "2026-11-07",
-      "m": [
-        "AI",
-        "VNDR"
-      ],
-      "s": "Anthropic's planned listing arrives just as voters signaled opposition to data center expansion, complicating the pitch to public investors.",
-      "src": "CNBC",
-      "t": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-      "tp": "AI & tech",
-      "u": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html"
-    },
-    {
-      "d": "2026-11-07",
-      "m": [
-        "AI",
-        "MACRO",
-        "BENCH"
-      ],
-      "s": "Solo-owner business formation is running strong, with founders leaning on AI tools to do work that once required staff.",
-      "src": "CNBC",
-      "t": "America's new small businesses with no employees are off to hot start in AI era",
-      "tp": "Labor",
-      "u": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html"
-    },
-    {
-      "d": "2026-11-07",
-      "m": [
-        "MACRO"
-      ],
-      "s": "Bank executives are preparing for more political scrutiny after the midterms but few foresee major rule changes soon.",
-      "src": "Fortune",
-      "t": "Wall Street banks expect little regulatory change as Democrats return to power",
-      "tp": "Companies & deals",
-      "u": "https://fortune.com/2026/11/07/wall-street-banks-regulation-midterm-elections-elizabeth-warren/"
-    },
-    {
-      "d": "2026-11-07",
-      "m": [
-        "MACRO",
-        "VNDR"
-      ],
-      "s": "Oil companies are already developing the lithium-rich Smackover brine deposits, which could reshape the domestic battery supply chain.",
-      "src": "Fortune",
-      "t": "Arkansas' Smackover formation could cut U.S. reliance on Chinese lithium",
-      "tp": "Energy & trade",
-      "u": "https://fortune.com/2026/11/07/geologic-freak-smackover-americas-lithium-dependence-china-big-oil/"
-    },
-    {
-      "d": "2026-11-06",
-      "m": [
-        "MACRO",
-        "BENCH"
-      ],
-      "s": "October payrolls nearly tripled forecasts and unemployment dipped to 4.1%, though long-term joblessness rose to its highest since 2021.",
-      "src": "CNBC",
-      "t": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-      "tp": "Labor",
-      "u": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
-    },
-    {
-      "d": "2026-11-06",
-      "m": [
-        "AI",
-        "VNDR"
-      ],
-      "s": "Microsoft is consolidating its relationships with third-party AI cloud providers as the data-center buildout comes under pressure.",
-      "src": "CNBC",
-      "t": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-      "tp": "AI & tech",
-      "u": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html"
-    },
-    {
-      "d": "2026-11-06",
-      "m": [
-        "AI",
-        "MACRO"
-      ],
-      "s": "After midterm voters backed local data-center restrictions, OpenAI promised to cover its own electricity costs and post guarantees to win community support.",
-      "src": "Fortune",
-      "t": "OpenAI pledges to pay its own power costs and post financial guarantees after voters push back on data centers",
-      "tp": "AI & tech",
-      "u": "https://fortune.com/2026/11/06/midterm-elections-ai-data-center-build-out-social-license/"
-    },
-    {
-      "d": "2026-11-06",
-      "m": [
-        "MACRO"
-      ],
-      "s": "JPMorgan's dealmaking head sees M&A activity cooling next year, with private-equity exits and refinancing deadlines as a potential offset.",
-      "src": "Fortune",
-      "t": "JPMorgan's M&A chief expects a softer 2027, with possible upside from private equity exits",
-      "tp": "Companies & deals",
-      "u": "https://fortune.com/2026/11/06/jpmorgan-charlie-bouckaert-private-equity-2027-mergers-acquisitions-refinancing-deadlines/"
-    },
-    {
-      "d": "2026-11-06",
-      "m": [
-        "AI",
-        "VNDR"
-      ],
-      "s": "Exchanges want GPU compute to trade like a commodity, but national-security concerns in Washington could complicate the plan.",
-      "src": "Semafor",
-      "t": "Wall Street's push to trade AI compute hits Washington roadblock",
-      "tp": "AI & tech",
-      "u": "https://www.semafor.com/article/11/06/2026/wall-streets-push-to-trade-ai-compute-hits-washington-roadblock"
-    },
-    {
-      "d": "2026-11-06",
-      "m": [
-        "VNDR",
-        "SPEND"
-      ],
-      "s": "A French bank reported €100 million stolen in a wave of cyberattacks that also struck a blood bank and supermarket refrigeration systems.",
-      "src": "Semafor",
-      "t": "A series of cyber attacks rattles France",
-      "tp": "Companies & deals",
-      "u": "https://www.semafor.com/article/11/06/2026/a-series-of-cyber-attacks-rattles-france"
-    },
-    {
-      "d": "2026-11-06",
-      "m": [
-        "BENCH",
-        "SPEND"
-      ],
-      "s": "McDonald's CEO is betting on risk-taking, accountability and chicken to restart U.S. sales growth.",
-      "src": "Semafor",
-      "t": "Chris Kempczinski's new value menu for McDonald's",
-      "tp": "Companies & deals",
-      "u": "https://www.semafor.com/article/11/06/2026/chris-kempczinskis-new-value-menu-for-mcdonalds"
-    },
-    {
-      "d": "2026-11-06",
-      "m": [
-        "MACRO",
-        "AI"
-      ],
-      "s": "Nasdaq and S&P 500 bounced Friday led by Nvidia, but both remained on pace for their worst week since June after the post-midterm AI rout.",
-      "src": "Yahoo Finance",
-      "t": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
-      "tp": "Markets",
-      "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-tech-selloff-pushed-151116491.html"
-    },
-    {
-      "d": "2026-11-05",
-      "m": [
-        "VNDR"
-      ],
-      "s": "HP has named Walmsley as its new chief executive, the latest in a busy stretch of corporate leadership changes.",
-      "src": "Semafor",
-      "t": "Walmsley takes HP's top job as the CEO revolving door turns",
-      "tp": "Companies & deals",
-      "u": "https://www.semafor.com/article/11/05/2026/walmsley-takes-hps-top-job-as-the-ceo-revolving-door-turns"
-    },
-    {
-      "d": "2026-11-05",
-      "m": [
-        "MACRO",
-        "AI"
-      ],
-      "s": "A sharp drop in US tech stocks wiped out the rally that followed the midterm elections.",
-      "src": "Semafor",
-      "t": "US tech selloff erases post-midterm gains",
-      "tp": "Markets",
-      "u": "https://www.semafor.com/article/11/05/2026/us-tech-selloff-erases-post-midterm-gains"
-    },
-    {
-      "d": "2026-11-04",
-      "m": [
-        "MACRO"
-      ],
-      "s": "Election-outcome betting platforms emerged as big winners from the US midterms, drawing heavy activity and attention.",
-      "src": "Semafor",
-      "t": "Prediction markets win big on election night",
-      "tp": "Markets",
-      "u": "https://www.semafor.com/article/11/04/2026/prediction-markets-win-big-on-election-night"
-    },
-    {
-      "d": "2026-11-04",
-      "m": [
-        "AI",
-        "MACRO"
-      ],
-      "s": "Voters in more than 30 localities across nine states approved bans, moratoriums and other limits on data centers, a setback for the AI infrastructure buildout.",
-      "src": "Semafor",
-      "t": "US voters roundly reject data centers in ballot measures",
-      "tp": "AI & tech",
-      "u": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures"
-    }
-  ],
-  "updatedAt": "2026-11-09T18:03"
+ "excl": [
+  {
+   "d": "2026-11-10",
+   "t": "The \"key man risk\"",
+   "s": "Nvidia's filings don't flag reliance on Jensen Huang as a risk, unlike peers such as Tesla and Meta, a gap exposed by the spy-affair scandal; Ramp data shows AI dictation apps Wispr Flow and Granola among its fastest-growing software vendors.",
+   "src": "Ramp Leading Indicators",
+   "u": "https://ramp.com/leading-indicators/the-key-man-risk",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Heavy AI spending has pushed Alphabet, Amazon and Meta into negative free cash flow; Ramp data shows Google trailing in business agentic AI usage and Delaware leading states in AI adoption at about 73%.",
+   "src": "Ramp Leading Indicators",
+   "t": "Nightmare on Wall Street",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/nightmare-on-wall-street"
+  },
+  {
+   "d": "2026-10-27",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ],
+   "s": "Big Tech earnings and Anthropic's mid-November IPO will test investor appetite for AI; Ramp data shows a record 8% of firms switched AI providers in September.",
+   "src": "Ramp Leading Indicators",
+   "t": "The AI earnings scaries",
+   "tp": "Markets",
+   "u": "https://ramp.com/leading-indicators/the-ai-earnings-scaries"
+  }
+ ],
+ "items": [
+  {
+   "d": "2026-11-10",
+   "t": "US inflation slows less than expected in October",
+   "s": "October consumer prices ran hotter than forecast as food costs rose and a diesel squeeze lifted freight costs, sparking a Treasury selloff and talk of a December Fed hike.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/10/2026/us-inflation-slows-less-than-expected-in-october",
+   "tp": "Economy",
+   "m": [
+    "MACRO",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Wall Street bonuses set to grow after banner year for IPOs and AI",
+   "s": "Bank bonus pools are on track to rise this year, driven by a surge in IPO underwriting and AI-related dealmaking.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/10/2026/wall-street-bonuses-set-to-grow-after-banner-year-for-ipos-and-ai",
+   "tp": "Labor",
+   "m": [
+    "BENCH",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Agentic commerce is slow to catch on",
+   "s": "Shoppers have been slow to let AI agents make purchases for them, tempering early hype about autonomous buying.",
+   "src": "Semafor",
+   "u": "https://www.semafor.com/article/11/10/2026/agentic-commerce-is-slow-to-catch-on",
+   "tp": "AI & tech",
+   "m": [
+    "AI",
+    "SPEND"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "t": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+   "s": "The neocloud's third-quarter revenue topped estimates and it raised its outlook, easing some worries about its debt-heavy AI buildout.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19",
+   "s": "Anthropic is moving ahead with its listing despite the AI selloff, setting a price range ahead of a planned debut next week, sources say.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+   "tp": "Markets",
+   "m": [
+    "AI",
+    "VNDR",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "t": "SoftBank swings to $7 billion loss after U.S. data center power hit",
+   "s": "SoftBank posted a quarterly loss as power-related problems at U.S. data center projects and the tech selloff weighed on results.",
+   "src": "CNBC",
+   "u": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+   "tp": "Companies & deals",
+   "m": [
+    "AI",
+    "MACRO"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Anthropic inks $3.4 billion deal for gas-powered data centers",
+   "s": "Anthropic signed what it calls the largest deal of its kind for natural gas-powered data centers, aiming to secure its own compute power ahead of its IPO.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/10/anthropic-3-4-billion-deal-gas-data-centers-ai-ipo/",
+   "tp": "Energy & trade",
+   "m": [
+    "AI",
+    "VNDR"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Venture Global aims to become the world's largest gas exporter and power data centers",
+   "s": "The LNG exporter expects to lead global gas exports within a year and is pitching itself as a power supplier for hyperscaler data centers.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/10/venture-global-worlds-largest-gas-exporter-power-data-centers-hyperscalers/",
+   "tp": "Energy & trade",
+   "m": [
+    "MACRO",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "t": "Lumen CFO expects up to $1.5 billion from legacy copper amid AI pivot",
+   "s": "Lumen's finance chief expects up to $1.5 billion from selling off legacy copper assets as the telecom refocuses on AI networking.",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/10/lumen-cfo-expects-1-5-billion-legacy-copper-pivot-ai-connectivity/",
+   "tp": "Companies & deals",
+   "m": [
+    "VNDR",
+    "AI"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Huang's admitted affair with a suspected Chinese intelligence asset knocked roughly 5% and over $200 billion off Nvidia's value, exposing a long-tenured board and no clear No. 2 or successor.",
+   "src": "Semafor",
+   "t": "With a weak board and no successor, Nvidia confronts a governance crisis",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis"
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "AI",
+    "MACRO"
+   ],
+   "s": "Lenders are dumping data-center and GPU loans at steep discounts on fears the debt outlives the hardware, with ING shopping $500 million of loans and Ares saying it will avoid GPU financing.",
+   "src": "Semafor",
+   "t": "AI chip financing hits a wall",
+   "tp": "AI & tech",
+   "u": "https://www.semafor.com/article/11/09/2026/ai-chip-financing-hits-a-wall"
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Stephen Miller's replacement of Susie Wiles ends the access CEOs relied on to soften administration policy, setting up more direct clashes with business.",
+   "src": "Semafor",
+   "t": "New White House chief of staff Miller shuts door on big business",
+   "tp": "Economy",
+   "u": "https://www.semafor.com/article/11/09/2026/new-white-house-chief-of-staff-miller-shuts-door-on-big-business"
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "BENCH",
+    "MACRO"
+   ],
+   "s": "PepsiCo is eliminating roughly 1,000 positions as its North American unit continues to underperform.",
+   "src": "CNBC",
+   "t": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+   "tp": "Labor",
+   "u": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html"
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "BENCH",
+    "MACRO"
+   ],
+   "s": "Boeing plans to trim about 5% of its commercial airplanes workforce after delays in ramping up production of its jets.",
+   "src": "CNBC",
+   "t": "Boeing to cut 5% of commercial airplane unit as product ramp-up delayed",
+   "tp": "Labor",
+   "u": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html"
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Concerns about debt and credit risk at AI neocloud providers are overshadowing CoreWeave's revenue growth.",
+   "src": "CNBC",
+   "t": "CoreWeave confronts 'doom cycle' as neocloud credit risk overshadows growth",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html"
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Projections show the federal government reaching its borrowing cap earlier than forecast, with the default deadline potentially landing while Congress is on recess.",
+   "src": "Fortune",
+   "t": "The U.S. will hit its debt limit sooner than expected",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/11/09/us-debt-limit-outlook-xdate-deadline-default-congress-summer-recess/"
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "AI",
+    "VNDR",
+    "SPEND"
+   ],
+   "s": "Ahead of its IPO, Anthropic released updated frontier models priced well below OpenAI's comparable offering.",
+   "src": "Fortune",
+   "t": "Anthropic debuts Claude Fable and Mythos 5.2 models, undercutting OpenAI's GPT-6 Astra on price",
+   "tp": "AI & tech",
+   "u": "https://fortune.com/2026/11/09/anthropic-debuts-updated-claude-fable-and-mythos-models-undercutting-price-of-openais-gpt-6-astra-by-up-to-80/"
+  },
+  {
+   "d": "2026-11-09",
+   "m": [
+    "VNDR"
+   ],
+   "s": "Tesla is winding down Cybertruck production and refunding many buyers' deposits as it shifts focus to its autonomous Cybercab.",
+   "src": "Fortune",
+   "t": "So long, Cybertruck",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/11/09/tesla-winds-down-cybertruck-production-autonomous-cybercab-musk/"
+  },
+  {
+   "d": "2026-11-08",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Nvidia's board has opened a probe into Huang's ties to a person accused of spying for China, and lawmakers are taking a closer look as well.",
+   "src": "CNBC",
+   "t": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+   "tp": "Companies & deals",
+   "u": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+  },
+  {
+   "d": "2026-11-08",
+   "m": [
+    "AI",
+    "SPEND",
+    "VNDR"
+   ],
+   "s": "Employers are using AI to fill roles faster, which is cutting into what staffing and recruiting firms can charge.",
+   "src": "CNBC",
+   "t": "AI is speeding up recruitment — and putting agency fees under pressure",
+   "tp": "Labor",
+   "u": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html"
+  },
+  {
+   "d": "2026-11-08",
+   "m": [
+    "MACRO",
+    "VNDR"
+   ],
+   "s": "Building U.S. reserves of tungsten, rare earths and other critical minerals at Cold War scale is proving difficult given limited supply outside China.",
+   "src": "Fortune",
+   "t": "Pentagon's war stockpile plan hits a critical minerals wall",
+   "tp": "Supply chain",
+   "u": "https://fortune.com/2026/11/08/pentagon-fortress-critical-minerals-stockpile-tungsten-rare-earth/"
+  },
+  {
+   "d": "2026-11-08",
+   "m": [
+    "MACRO"
+   ],
+   "s": "An economist argues last week's AI-led stock rout also revealed growing investor demand for a risk premium on Treasury debt.",
+   "src": "Fortune",
+   "t": "The market selloff exposed Wall Street's true fears about U.S. debt, top economist warns",
+   "tp": "Markets",
+   "u": "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium/"
+  },
+  {
+   "d": "2026-11-08",
+   "m": [
+    "TNE",
+    "BENCH"
+   ],
+   "s": "Holiday flight prices are at their highest in a decade, so sale fares may just bring travelers back to 2025 levels.",
+   "src": "Fortune",
+   "t": "Holiday airfares hit a 10-year high, and Black Friday deals may only match last year's prices",
+   "tp": "Economy",
+   "u": "https://fortune.com/2026/11/08/black-friday-travel-deals-holiday-airfare-hopper-delta/"
+  },
+  {
+   "d": "2026-11-07",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Meta's longtime finance executive is departing to become chief financial officer of AI inference startup Fireworks.",
+   "src": "CNBC",
+   "t": "Meta top exec Dave Wehner leaves to join AI startup Fireworks as CFO",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html"
+  },
+  {
+   "d": "2026-11-07",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Anthropic's planned listing arrives just as voters signaled opposition to data center expansion, complicating the pitch to public investors.",
+   "src": "CNBC",
+   "t": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+   "tp": "AI & tech",
+   "u": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html"
+  },
+  {
+   "d": "2026-11-07",
+   "m": [
+    "MACRO"
+   ],
+   "s": "Bank executives are preparing for more political scrutiny after the midterms but few foresee major rule changes soon.",
+   "src": "Fortune",
+   "t": "Wall Street banks expect little regulatory change as Democrats return to power",
+   "tp": "Companies & deals",
+   "u": "https://fortune.com/2026/11/07/wall-street-banks-regulation-midterm-elections-elizabeth-warren/"
+  },
+  {
+   "d": "2026-11-06",
+   "m": [
+    "AI",
+    "VNDR"
+   ],
+   "s": "Exchanges want GPU compute to trade like a commodity, but national-security concerns in Washington could complicate the plan.",
+   "src": "Semafor",
+   "t": "Wall Street's push to trade AI compute hits Washington roadblock",
+   "tp": "AI & tech",
+   "u": "https://www.semafor.com/article/11/06/2026/wall-streets-push-to-trade-ai-compute-hits-washington-roadblock"
+  },
+  {
+   "d": "2026-11-06",
+   "m": [
+    "VNDR",
+    "SPEND"
+   ],
+   "s": "A French bank reported €100 million stolen in a wave of cyberattacks that also struck a blood bank and supermarket refrigeration systems.",
+   "src": "Semafor",
+   "t": "A series of cyber attacks rattles France",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/11/06/2026/a-series-of-cyber-attacks-rattles-france"
+  },
+  {
+   "d": "2026-11-06",
+   "m": [
+    "BENCH",
+    "SPEND"
+   ],
+   "s": "McDonald's CEO is betting on risk-taking, accountability and chicken to restart U.S. sales growth.",
+   "src": "Semafor",
+   "t": "Chris Kempczinski's new value menu for McDonald's",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/11/06/2026/chris-kempczinskis-new-value-menu-for-mcdonalds"
+  },
+  {
+   "d": "2026-11-06",
+   "m": [
+    "MACRO",
+    "AI"
+   ],
+   "s": "Nasdaq and S&P 500 bounced Friday led by Nvidia, but both remained on pace for their worst week since June after the post-midterm AI rout.",
+   "src": "Yahoo Finance",
+   "t": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
+   "tp": "Markets",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-tech-selloff-pushed-151116491.html"
+  },
+  {
+   "d": "2026-11-05",
+   "m": [
+    "VNDR"
+   ],
+   "s": "HP has named Walmsley as its new chief executive, the latest in a busy stretch of corporate leadership changes.",
+   "src": "Semafor",
+   "t": "Walmsley takes HP's top job as the CEO revolving door turns",
+   "tp": "Companies & deals",
+   "u": "https://www.semafor.com/article/11/05/2026/walmsley-takes-hps-top-job-as-the-ceo-revolving-door-turns"
+  }
+ ],
+ "updatedAt": "2026-11-10T18:03"
 }
